@@ -1,0 +1,58 @@
+{
+    "L1": [
+        {
+            "areaCode": "00",
+            "areaName": "花蓮縣選舉區",
+            "cands": [
+                {
+                    "area": "花蓮縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10015\/10015000000001.jpg",
+                    "gender": "男",
+                    "name": "許願神",
+                    "birth": "0430612",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "花蓮縣"
+                },
+                {
+                    "area": "花蓮縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10015\/10015000000002.jpg",
+                    "gender": "女",
+                    "name": "張美慧",
+                    "birth": "0591203",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "臺中市"
+                },
+                {
+                    "area": "花蓮縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10015\/10015000000003.jpg",
+                    "gender": "男",
+                    "name": "傅崐萁",
+                    "birth": "0510508",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "臺中市"
+                },
+                {
+                    "area": "花蓮縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10015\/10015000000004.jpg",
+                    "gender": "女",
+                    "name": "周玉梅",
+                    "birth": "0650306",
+                    "type": "L1",
+                    "party": "制度救世島",
+                    "candNo": 4,
+                    "home": "花蓮縣"
+                }
+            ]
+        }
+    ]
+}

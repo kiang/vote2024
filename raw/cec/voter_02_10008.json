@@ -1,0 +1,3632 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "玉峰里",
+                            "tboxNo": "0001",
+                            "tboxName": "草屯國小(禮堂)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮玉峰里玉屏路210號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "玉峰里",
+                            "tboxNo": "0002",
+                            "tboxName": "玉峰里活動中心(草屯國小環保教室)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮玉峰里玉屏路210號",
+                            "neighbor": "11-18"
+                        }
+                    ],
+                    "liName": "玉峰里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明正里",
+                            "tboxNo": "0003",
+                            "tboxName": "元榮堂(李姓祖厝)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮明正里平等街192巷2號",
+                            "neighbor": "1-10,24,30"
+                        },
+                        {
+                            "ScopeLiName": "明正里",
+                            "tboxNo": "0004",
+                            "tboxName": "草屯國小(知動教室)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮玉峰里玉屏路210號",
+                            "neighbor": "11-17,25,26,29"
+                        },
+                        {
+                            "ScopeLiName": "明正里",
+                            "tboxNo": "0005",
+                            "tboxName": "明正里集會所(宥騰百貨五金行側邊)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮明正里芬草路一段116號",
+                            "neighbor": "18-23,27,28,31"
+                        }
+                    ],
+                    "liName": "明正里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "炎峰里",
+                            "tboxNo": "0007",
+                            "tboxName": "草屯國中(音樂教室2)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮炎峰里虎山路808號",
+                            "neighbor": "5-11,19-22"
+                        }
+                    ],
+                    "liName": "炎峰里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "敦和里",
+                            "tboxNo": "0012",
+                            "tboxName": "敦和里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮敦和里仁愛街156號",
+                            "neighbor": "1-3,5-8,10,12,25,26"
+                        },
+                        {
+                            "ScopeLiName": "敦和里",
+                            "tboxNo": "0013",
+                            "tboxName": "敦和國小(活動中心 北側)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮敦和里敦和路72-6號",
+                            "neighbor": "15-18,21,28,29"
+                        },
+                        {
+                            "ScopeLiName": "敦和里",
+                            "tboxNo": "0016",
+                            "tboxName": "敦和國小(綜合教室)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮敦和里敦和路72-6號",
+                            "neighbor": "4,13,14,22,33-35,38"
+                        }
+                    ],
+                    "liName": "敦和里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山腳里",
+                            "tboxNo": "0018",
+                            "tboxName": "虎山國小(一年乙班)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮山腳里新生路76號",
+                            "neighbor": "1,2,3,32-34"
+                        },
+                        {
+                            "ScopeLiName": "山腳里",
+                            "tboxNo": "0020",
+                            "tboxName": "虎山國小(會議室 東側)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮山腳里新生路76號",
+                            "neighbor": "9-14,28-31"
+                        },
+                        {
+                            "ScopeLiName": "山腳里",
+                            "tboxNo": "0021",
+                            "tboxName": "虎山國小(會議室 西側)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮山腳里新生路76號",
+                            "neighbor": "16,17,21,22,37,38"
+                        },
+                        {
+                            "ScopeLiName": "山腳里",
+                            "tboxNo": "0022",
+                            "tboxName": "山腳里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮山腳里虎山路299號",
+                            "neighbor": "15,18-20,36"
+                        }
+                    ],
+                    "liName": "山腳里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新厝里",
+                            "tboxNo": "0023",
+                            "tboxName": "新厝公廳",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新厝里虎山路588巷4弄3號",
+                            "neighbor": "1,2,8-14"
+                        },
+                        {
+                            "ScopeLiName": "新厝里",
+                            "tboxNo": "0024",
+                            "tboxName": "新厝里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新厝里新富一街1號",
+                            "neighbor": "3-7,19,21-23"
+                        }
+                    ],
+                    "liName": "新厝里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上林里",
+                            "tboxNo": "0026",
+                            "tboxName": "上林里老人活動中心",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮上林里草溪路599巷2弄8號",
+                            "neighbor": "1-12"
+                        }
+                    ],
+                    "liName": "上林里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "碧峰里",
+                            "tboxNo": "0029",
+                            "tboxName": "碧峰里集會所(東)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮碧峰里碧峰路135巷6號",
+                            "neighbor": "1,15-19"
+                        },
+                        {
+                            "ScopeLiName": "碧峰里",
+                            "tboxNo": "0030",
+                            "tboxName": "碧峰里集會所(西)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮碧峰里碧峰路135巷6號",
+                            "neighbor": "7-12,14"
+                        },
+                        {
+                            "ScopeLiName": "碧峰里",
+                            "tboxNo": "0031",
+                            "tboxName": "龍德廟",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮碧峰里碧山路1158號",
+                            "neighbor": "20-24"
+                        },
+                        {
+                            "ScopeLiName": "碧峰里",
+                            "tboxNo": "0032",
+                            "tboxName": "林氏家廟",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮碧峰里碧峰路39號",
+                            "neighbor": "2-6,13,25"
+                        }
+                    ],
+                    "liName": "碧峰里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "碧洲里",
+                            "tboxNo": "0033",
+                            "tboxName": "碧洲里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮碧洲里碧峰路669巷21號",
+                            "neighbor": "1-8,14"
+                        },
+                        {
+                            "ScopeLiName": "碧洲里",
+                            "tboxNo": "0034",
+                            "tboxName": "碧洲里活動中心(保安宮後)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮碧洲里草溪路18-1號",
+                            "neighbor": "9-13,15,16"
+                        }
+                    ],
+                    "liName": "碧洲里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0035",
+                            "tboxName": "復興里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮復興里復興路432-1號",
+                            "neighbor": "1-10,24"
+                        },
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0037",
+                            "tboxName": "草屯鎮立幼兒園(白兔班)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮復興里復興路475號",
+                            "neighbor": "22,23,25-29"
+                        }
+                    ],
+                    "liName": "復興里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "御史里",
+                            "tboxNo": "0038",
+                            "tboxName": "御史里集會所(舊)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮御史里東山路27號",
+                            "neighbor": "3-8,20,21,30,33,36"
+                        },
+                        {
+                            "ScopeLiName": "御史里",
+                            "tboxNo": "0039",
+                            "tboxName": "御史里集會所-北(登輝路、御富路口)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮御史里登輝路163號",
+                            "neighbor": "1,2,9-12"
+                        },
+                        {
+                            "ScopeLiName": "御史里",
+                            "tboxNo": "0040",
+                            "tboxName": "御史里集會所-南(登輝路、御富路口)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮御史里登輝路163號",
+                            "neighbor": "17,26,31,32,34,35"
+                        },
+                        {
+                            "ScopeLiName": "御史里",
+                            "tboxNo": "0041",
+                            "tboxName": "七將軍廟",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮御史里中正路中正巷110號",
+                            "neighbor": "13,16,19,27,28"
+                        },
+                        {
+                            "ScopeLiName": "御史里",
+                            "tboxNo": "0042",
+                            "tboxName": "北勢里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮御史里玉屏路129-1號",
+                            "neighbor": "14,15,18,22-25,29"
+                        }
+                    ],
+                    "liName": "御史里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新豐里",
+                            "tboxNo": "0043",
+                            "tboxName": "新豐里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新豐里稻香路56號",
+                            "neighbor": "11-14,16,17,23"
+                        },
+                        {
+                            "ScopeLiName": "新豐里",
+                            "tboxNo": "0044",
+                            "tboxName": "僑光國小",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新豐里稻香路20-2號",
+                            "neighbor": "7-10,22"
+                        },
+                        {
+                            "ScopeLiName": "新豐里",
+                            "tboxNo": "0045",
+                            "tboxName": "聖玄宮",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新豐里稻香路40-10號",
+                            "neighbor": "3-6,21"
+                        },
+                        {
+                            "ScopeLiName": "新豐里",
+                            "tboxNo": "0046",
+                            "tboxName": "新豐社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新豐里番子田路100 號",
+                            "neighbor": "1,2,15,18-20"
+                        }
+                    ],
+                    "liName": "新豐里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新庄里",
+                            "tboxNo": "0047",
+                            "tboxName": "新庄里集會所(新)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新庄里芬草路二段342號",
+                            "neighbor": "1-4,11,12,23"
+                        },
+                        {
+                            "ScopeLiName": "新庄里",
+                            "tboxNo": "0048",
+                            "tboxName": "新庄里社區活動中心(新興宮下方)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新庄里芬草路二段348號",
+                            "neighbor": "5-10,13,15,17,18"
+                        },
+                        {
+                            "ScopeLiName": "新庄里",
+                            "tboxNo": "0049",
+                            "tboxName": "新庄國小",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮新庄里新庄三路32號",
+                            "neighbor": "14,16,19-22"
+                        }
+                    ],
+                    "liName": "新庄里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "加老里",
+                            "tboxNo": "0051",
+                            "tboxName": "加老里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮加老里加老路268號",
+                            "neighbor": "4-13"
+                        }
+                    ],
+                    "liName": "加老里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石川里",
+                            "tboxNo": "0052",
+                            "tboxName": "石川里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮石川里石川路37-37號",
+                            "neighbor": "3-7"
+                        }
+                    ],
+                    "liName": "石川里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北投里",
+                            "tboxNo": "0054",
+                            "tboxName": "北投里集會所(舊)北投路",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮北投里北投路192號",
+                            "neighbor": "9-13"
+                        },
+                        {
+                            "ScopeLiName": "北投里",
+                            "tboxNo": "0055",
+                            "tboxName": "北投里集會所(新)史館路",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮北投里史館路北勢巷54號",
+                            "neighbor": "1,2,14-17"
+                        }
+                    ],
+                    "liName": "北投里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富寮里",
+                            "tboxNo": "0057",
+                            "tboxName": "明聖宮",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮富寮里富頂路一段267號",
+                            "neighbor": "10-13,25,33"
+                        },
+                        {
+                            "ScopeLiName": "富寮里",
+                            "tboxNo": "0058",
+                            "tboxName": "富寮里活動中心",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮富寮里富頂路一段103號",
+                            "neighbor": "1,4,7-9,14,34"
+                        },
+                        {
+                            "ScopeLiName": "富寮里",
+                            "tboxNo": "0059",
+                            "tboxName": "富功國小(一年甲班教室)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮富寮里中正路567號",
+                            "neighbor": "2,5,28,30"
+                        },
+                        {
+                            "ScopeLiName": "富寮里",
+                            "tboxNo": "0060",
+                            "tboxName": "富功國小(一年乙班教室)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮富寮里中正路567號",
+                            "neighbor": "3,6,20-22,31"
+                        }
+                    ],
+                    "liName": "富寮里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北勢里",
+                            "tboxNo": "0063",
+                            "tboxName": "北勢湳永安宮文教大樓(東)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮御史里玉屏路129號",
+                            "neighbor": "1-5,7"
+                        },
+                        {
+                            "ScopeLiName": "北勢里",
+                            "tboxNo": "0064",
+                            "tboxName": "北勢湳永安宮文教大樓(西)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮御史里玉屏路129號",
+                            "neighbor": "6,8-12"
+                        },
+                        {
+                            "ScopeLiName": "北勢里",
+                            "tboxNo": "0065",
+                            "tboxName": "北勢里龍泉宮",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮北勢里玉屏路24-2號",
+                            "neighbor": "13-18"
+                        }
+                    ],
+                    "liName": "北勢里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中原里",
+                            "tboxNo": "0066",
+                            "tboxName": "中原里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮中原里中和路57號",
+                            "neighbor": "2-10"
+                        },
+                        {
+                            "ScopeLiName": "中原里",
+                            "tboxNo": "0067",
+                            "tboxName": "中原國小",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮中原里坪腳巷20號",
+                            "neighbor": "1,11-15"
+                        }
+                    ],
+                    "liName": "中原里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南埔里",
+                            "tboxNo": "0068",
+                            "tboxName": "南埔里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮南埔里中正路305號",
+                            "neighbor": "1,2,4-6,21"
+                        },
+                        {
+                            "ScopeLiName": "南埔里",
+                            "tboxNo": "0069",
+                            "tboxName": "南埔社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮南埔里青宅巷56號",
+                            "neighbor": "8-11,19,22,23"
+                        },
+                        {
+                            "ScopeLiName": "南埔里",
+                            "tboxNo": "0070",
+                            "tboxName": "陳府將軍廟文教活動中心(西)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮南埔里中正路344-46號",
+                            "neighbor": "14-18,24"
+                        },
+                        {
+                            "ScopeLiName": "南埔里",
+                            "tboxNo": "0071",
+                            "tboxName": "陳府將軍廟文教活動中心(東)",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮南埔里中正路344-46號",
+                            "neighbor": "3,7,12,13,20"
+                        }
+                    ],
+                    "liName": "南埔里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "坪頂里",
+                            "tboxNo": "0072",
+                            "tboxName": "坪頂里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮坪頂里南坪路40-1號",
+                            "neighbor": "1-14"
+                        }
+                    ],
+                    "liName": "坪頂里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "土城里",
+                            "tboxNo": "0074",
+                            "tboxName": "土城永安宮",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮土城里中正路177-2號",
+                            "neighbor": "3-10,16"
+                        }
+                    ],
+                    "liName": "土城里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平林里",
+                            "tboxNo": "0075",
+                            "tboxName": "平林國小",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮平林里健行路65巷90號",
+                            "neighbor": "1-13"
+                        }
+                    ],
+                    "liName": "平林里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "雙冬里",
+                            "tboxNo": "0076",
+                            "tboxName": "雙冬里集會所",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮雙冬里中正路63-10號",
+                            "neighbor": "1-11,21,26-28,35,36"
+                        },
+                        {
+                            "ScopeLiName": "雙冬里",
+                            "tboxNo": "0077",
+                            "tboxName": "雙冬國小",
+                            "geocode": null,
+                            "addr": "南投縣草屯鎮雙冬里中正路34號",
+                            "neighbor": "12-20,22-25,29-34"
+                        }
+                    ],
+                    "liName": "雙冬里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國姓村",
+                            "tboxNo": "0078",
+                            "tboxName": "國姓社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉國姓村民族街40號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "國姓村",
+                            "tboxNo": "0079",
+                            "tboxName": "國姓鄉客家暨觀光所",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉國姓村國姓路433-1號",
+                            "neighbor": "6-15"
+                        }
+                    ],
+                    "liName": "國姓村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石門村",
+                            "tboxNo": "0080",
+                            "tboxName": "石門社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉石門村國姓路202號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "石門村",
+                            "tboxNo": "0081",
+                            "tboxName": "國姓國中",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉石門村國姓路237號",
+                            "neighbor": "8-14"
+                        }
+                    ],
+                    "liName": "石門村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大旗村",
+                            "tboxNo": "0082",
+                            "tboxName": "大旗社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉大旗村大長路688號",
+                            "neighbor": "大旗村"
+                        }
+                    ],
+                    "liName": "大旗村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長流村",
+                            "tboxNo": "0083",
+                            "tboxName": "長流社區活動中心(舊)",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉長流村大長路500之24號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "長流村",
+                            "tboxNo": "0084",
+                            "tboxName": "長流村集會所活動中心(新)",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉長流村大長路500之26號",
+                            "neighbor": "4-11"
+                        }
+                    ],
+                    "liName": "長流村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長豐村",
+                            "tboxNo": "0085",
+                            "tboxName": "長豐社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉長豐村東三巷36之1號",
+                            "neighbor": "長豐村"
+                        }
+                    ],
+                    "liName": "長豐村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長福村",
+                            "tboxNo": "0086",
+                            "tboxName": "長福社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉長福村大長路144之1號",
+                            "neighbor": "長福村"
+                        }
+                    ],
+                    "liName": "長福村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北港村",
+                            "tboxNo": "0087",
+                            "tboxName": "北港村集會所",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉北港村國姓路31之12號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "北港村",
+                            "tboxNo": "0088",
+                            "tboxName": "北梅國中",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉北港村國姓路62號",
+                            "neighbor": "8-13"
+                        }
+                    ],
+                    "liName": "北港村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福龜村",
+                            "tboxNo": "0089",
+                            "tboxName": "福龜社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉福龜村富久巷21之3號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "福龜村",
+                            "tboxNo": "0090",
+                            "tboxName": "長壽社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉福龜村長壽巷47之5號",
+                            "neighbor": "11-18"
+                        }
+                    ],
+                    "liName": "福龜村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "乾溝村",
+                            "tboxNo": "0091",
+                            "tboxName": "乾峰社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉乾溝村西東巷1之1號",
+                            "neighbor": "乾溝村"
+                        }
+                    ],
+                    "liName": "乾溝村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柑林村",
+                            "tboxNo": "0092",
+                            "tboxName": "柑林社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉柑林村中正路二段224號",
+                            "neighbor": "柑林村"
+                        }
+                    ],
+                    "liName": "柑林村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大石村",
+                            "tboxNo": "0093",
+                            "tboxName": "大石社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉大石村中正路三段235之3號",
+                            "neighbor": "大石村"
+                        }
+                    ],
+                    "liName": "大石村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北山村",
+                            "tboxNo": "0094",
+                            "tboxName": "北山社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉北山村中正路四段112號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "北山村",
+                            "tboxNo": "0095",
+                            "tboxName": "茅埔社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉北山村中正路四段19之1號",
+                            "neighbor": "7-10"
+                        }
+                    ],
+                    "liName": "北山村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南港村",
+                            "tboxNo": "0096",
+                            "tboxName": "南港社區活動中心暨集會所",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉南港村南港路112之11號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "南港村",
+                            "tboxNo": "0097",
+                            "tboxName": "港源社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣國姓鄉南港村南港路11-5號",
+                            "neighbor": "11-15"
+                        }
+                    ],
+                    "liName": "南港村"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東門里",
+                            "tboxNo": "0098",
+                            "tboxName": "宏仁國中",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮東門里公園路20號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "東門里",
+                            "tboxNo": "0099",
+                            "tboxName": "宏仁國中",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮東門里公園路20號",
+                            "neighbor": "9-10,15,20-22"
+                        },
+                        {
+                            "ScopeLiName": "東門里",
+                            "tboxNo": "0100",
+                            "tboxName": "東門里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮東門里四維路26號",
+                            "neighbor": "11-14,16-19"
+                        }
+                    ],
+                    "liName": "東門里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "杷城里",
+                            "tboxNo": "0101",
+                            "tboxName": "杷城社區新活動中心(右側)",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮杷城里民有二街69號",
+                            "neighbor": "1-9,13"
+                        },
+                        {
+                            "ScopeLiName": "杷城里",
+                            "tboxNo": "0102",
+                            "tboxName": "杷城社區新活動中心(左側）",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮杷城里民有二街69號",
+                            "neighbor": "10-12,14-18"
+                        }
+                    ],
+                    "liName": "杷城里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "枇杷里",
+                            "tboxNo": "0103",
+                            "tboxName": "枇杷里新集會所(西側)",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮枇杷里和二街1號",
+                            "neighbor": "22,25-30"
+                        },
+                        {
+                            "ScopeLiName": "枇杷里",
+                            "tboxNo": "0104",
+                            "tboxName": "枇杷社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮枇杷里中心路44號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "枇杷里",
+                            "tboxNo": "0105",
+                            "tboxName": "慈恩社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮枇杷里九成街46號",
+                            "neighbor": "9,10,12-19"
+                        },
+                        {
+                            "ScopeLiName": "枇杷里",
+                            "tboxNo": "0106",
+                            "tboxName": "枇杷里新集會所(東側)",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮枇杷里和二街1號",
+                            "neighbor": "31-35,37-38"
+                        },
+                        {
+                            "ScopeLiName": "枇杷里",
+                            "tboxNo": "0107",
+                            "tboxName": "枇杷里集會所(舊)",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮枇杷里正氣巷1號",
+                            "neighbor": "20-21,39-44"
+                        },
+                        {
+                            "ScopeLiName": "枇杷里",
+                            "tboxNo": "0108",
+                            "tboxName": "奉天宮",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮枇杷里枇杷路38-1號",
+                            "neighbor": "7,8,11,23,24,36"
+                        }
+                    ],
+                    "liName": "枇杷里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水頭里",
+                            "tboxNo": "0109",
+                            "tboxName": "十一份集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮水頭里中正路121號",
+                            "neighbor": "6-9"
+                        },
+                        {
+                            "ScopeLiName": "水頭里",
+                            "tboxNo": "0110",
+                            "tboxName": "良善堂",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮水頭里中正路121號",
+                            "neighbor": "10,11,14-17"
+                        },
+                        {
+                            "ScopeLiName": "水頭里",
+                            "tboxNo": "0111",
+                            "tboxName": "幸福小城社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮水頭里南環路145號",
+                            "neighbor": "12,13"
+                        },
+                        {
+                            "ScopeLiName": "水頭里",
+                            "tboxNo": "0112",
+                            "tboxName": "水頭路金龍宮",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮水頭里水頭路18號",
+                            "neighbor": "1-5"
+                        }
+                    ],
+                    "liName": "水頭里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "麒麟里",
+                            "tboxNo": "0113",
+                            "tboxName": "麒麟國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮麒麟里武界路7號",
+                            "neighbor": "麒麟里"
+                        }
+                    ],
+                    "liName": "麒麟里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "珠格里",
+                            "tboxNo": "0114",
+                            "tboxName": "珠格里醒覺堂",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮珠格里珠生路59-1號",
+                            "neighbor": "珠格里"
+                        }
+                    ],
+                    "liName": "珠格里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪南里",
+                            "tboxNo": "0115",
+                            "tboxName": "溪南里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮珠格里珠生路59-1號",
+                            "neighbor": "溪南里"
+                        }
+                    ],
+                    "liName": "溪南里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西門里",
+                            "tboxNo": "0116",
+                            "tboxName": "埔里國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮西門里西康路127號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "西門里",
+                            "tboxNo": "0117",
+                            "tboxName": "埔里國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮西門里西康路127號",
+                            "neighbor": "13-22"
+                        },
+                        {
+                            "ScopeLiName": "西門里",
+                            "tboxNo": "0118",
+                            "tboxName": "埔里國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮西門里西康路127號",
+                            "neighbor": "23-30"
+                        }
+                    ],
+                    "liName": "西門里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南門里",
+                            "tboxNo": "0119",
+                            "tboxName": "南門里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮南門里南昌街115巷2號",
+                            "neighbor": "南門里"
+                        }
+                    ],
+                    "liName": "南門里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北門里",
+                            "tboxNo": "0120",
+                            "tboxName": "埔里國中",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北門里西安路一段193號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "北門里",
+                            "tboxNo": "0121",
+                            "tboxName": "埔里國中",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北門里西安路一段193號",
+                            "neighbor": "13-23"
+                        }
+                    ],
+                    "liName": "北門里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北安里",
+                            "tboxNo": "0122",
+                            "tboxName": "埔里鎮立圖書館",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北安里六合路178號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "北安里",
+                            "tboxNo": "0123",
+                            "tboxName": "北安里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北安里北安路56號",
+                            "neighbor": "10-19"
+                        },
+                        {
+                            "ScopeLiName": "北安里",
+                            "tboxNo": "0124",
+                            "tboxName": "埔里鎮藝文中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北安里中華路239號",
+                            "neighbor": "20-30"
+                        }
+                    ],
+                    "liName": "北安里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北梅里",
+                            "tboxNo": "0125",
+                            "tboxName": "南投縣綜合性身心障礙福利復健服務中心〈左側〉",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北安里八德路17號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "北梅里",
+                            "tboxNo": "0126",
+                            "tboxName": "南投縣綜合性身心障礙福利復健服務中心〈右側〉",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北安里八德路17號",
+                            "neighbor": "15-22"
+                        },
+                        {
+                            "ScopeLiName": "北梅里",
+                            "tboxNo": "0127",
+                            "tboxName": "南投縣綜合性身心障礙福利復健中心(簡報室)",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮北安里八德路17號",
+                            "neighbor": "7-14"
+                        }
+                    ],
+                    "liName": "北梅里"
+                },
+                {
+                    "liCode": "033",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泰安里",
+                            "tboxNo": "0128",
+                            "tboxName": "泰安里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮泰安里民族二街58號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "泰安里",
+                            "tboxNo": "0129",
+                            "tboxName": "泰安里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮泰安里民族二街58號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "泰安里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大湳里",
+                            "tboxNo": "0130",
+                            "tboxName": "中峰國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大湳里中山路一段228號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "大湳里",
+                            "tboxNo": "0131",
+                            "tboxName": "中峰國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大湳里中山路一段228號",
+                            "neighbor": "8-12"
+                        }
+                    ],
+                    "liName": "大湳里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蜈蚣里",
+                            "tboxNo": "0132",
+                            "tboxName": "蜈蚣里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮蜈蚣里蜈蚣路36號",
+                            "neighbor": "1-4,20-21"
+                        },
+                        {
+                            "ScopeLiName": "蜈蚣里",
+                            "tboxNo": "0133",
+                            "tboxName": "蜈蚣里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮蜈蚣里蜈蚣路36號",
+                            "neighbor": "5-7,14-19"
+                        },
+                        {
+                            "ScopeLiName": "蜈蚣里",
+                            "tboxNo": "0134",
+                            "tboxName": "九芎林活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮蜈蚣里九芎路13號",
+                            "neighbor": "8-13"
+                        }
+                    ],
+                    "liName": "蜈蚣里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "同聲里",
+                            "tboxNo": "0135",
+                            "tboxName": "同聲里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮同聲里光華街115號",
+                            "neighbor": "1,2,5-8"
+                        },
+                        {
+                            "ScopeLiName": "同聲里",
+                            "tboxNo": "0136",
+                            "tboxName": "同聲里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮同聲里光華街115號",
+                            "neighbor": "3,4,9-12"
+                        }
+                    ],
+                    "liName": "同聲里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "清新里",
+                            "tboxNo": "0137",
+                            "tboxName": "育英國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮清新里育英街20號",
+                            "neighbor": "1,2,4,6-7,11,17,19,25,30-31"
+                        },
+                        {
+                            "ScopeLiName": "清新里",
+                            "tboxNo": "0138",
+                            "tboxName": "育英國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮清新里育英街20號",
+                            "neighbor": "3,5,8-10,12-16,18,20"
+                        },
+                        {
+                            "ScopeLiName": "清新里",
+                            "tboxNo": "0139",
+                            "tboxName": "育英國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮清新里育英街20號",
+                            "neighbor": "21-24,26-29"
+                        }
+                    ],
+                    "liName": "清新里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "薰化里",
+                            "tboxNo": "0140",
+                            "tboxName": "恆吉宮媽祖廟",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮清新里南興街367號",
+                            "neighbor": "薰化里"
+                        }
+                    ],
+                    "liName": "薰化里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大城里",
+                            "tboxNo": "0141",
+                            "tboxName": "大成國中",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大城里大城路169號",
+                            "neighbor": "1,3,24-25,43-44"
+                        },
+                        {
+                            "ScopeLiName": "大城里",
+                            "tboxNo": "0142",
+                            "tboxName": "大成國中",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大城里大城路169號",
+                            "neighbor": "2,4,6,19-20,23"
+                        },
+                        {
+                            "ScopeLiName": "大城里",
+                            "tboxNo": "0143",
+                            "tboxName": "大城社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大城里大城路18號",
+                            "neighbor": "7-12"
+                        },
+                        {
+                            "ScopeLiName": "大城里",
+                            "tboxNo": "0144",
+                            "tboxName": "恆吉社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大城里大城路259號",
+                            "neighbor": "13-17,21-22"
+                        },
+                        {
+                            "ScopeLiName": "大城里",
+                            "tboxNo": "0145",
+                            "tboxName": "大成國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大城里中山路三段565號",
+                            "neighbor": "18,26-27,30-35"
+                        },
+                        {
+                            "ScopeLiName": "大城里",
+                            "tboxNo": "0146",
+                            "tboxName": "大成國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮大城里中山路三段565號",
+                            "neighbor": "5,28-29,36-42"
+                        }
+                    ],
+                    "liName": "大城里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "籃城里",
+                            "tboxNo": "0147",
+                            "tboxName": "籃城社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮籃城里籃城路21號",
+                            "neighbor": "籃城里"
+                        }
+                    ],
+                    "liName": "籃城里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "桃米里",
+                            "tboxNo": "0148",
+                            "tboxName": "桃米里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮桃米里桃米巷48-1號",
+                            "neighbor": "桃米里"
+                        }
+                    ],
+                    "liName": "桃米里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南村里",
+                            "tboxNo": "0150",
+                            "tboxName": "南村里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮南村里中山路四段373號",
+                            "neighbor": "南村里"
+                        }
+                    ],
+                    "liName": "南村里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "愛蘭里",
+                            "tboxNo": "0151",
+                            "tboxName": "愛蘭國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮愛蘭里鐵山路7號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "愛蘭里",
+                            "tboxNo": "0152",
+                            "tboxName": "愛蘭國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮愛蘭里鐵山路7號",
+                            "neighbor": "6-11"
+                        }
+                    ],
+                    "liName": "愛蘭里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鐵山里",
+                            "tboxNo": "0153",
+                            "tboxName": "鐵山社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮鐵山里鐵山一巷5-1號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "鐵山里",
+                            "tboxNo": "0154",
+                            "tboxName": "西鎮堂",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮鐵山里鐵山一巷5-2號",
+                            "neighbor": "8-11"
+                        }
+                    ],
+                    "liName": "鐵山里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "房里里",
+                            "tboxNo": "0155",
+                            "tboxName": "房里社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮房里里双吉路8號",
+                            "neighbor": "4-10"
+                        },
+                        {
+                            "ScopeLiName": "房里里",
+                            "tboxNo": "0156",
+                            "tboxName": "房里里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮房里里房里路7-1號",
+                            "neighbor": "1-3"
+                        }
+                    ],
+                    "liName": "房里里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "向善里",
+                            "tboxNo": "0157",
+                            "tboxName": "向善里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮向善里向善路75號",
+                            "neighbor": "向善里"
+                        }
+                    ],
+                    "liName": "向善里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "一新里",
+                            "tboxNo": "0158",
+                            "tboxName": "一新社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮一新里永興路29號",
+                            "neighbor": "一新里"
+                        }
+                    ],
+                    "liName": "一新里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "合成里",
+                            "tboxNo": "0159",
+                            "tboxName": "合成社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮合成里西安路三段221號",
+                            "neighbor": "2.5-12"
+                        }
+                    ],
+                    "liName": "合成里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣成里",
+                            "tboxNo": "0161",
+                            "tboxName": "廣成社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮廣成里西安路三段88-1號",
+                            "neighbor": "廣成里"
+                        }
+                    ],
+                    "liName": "廣成里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "史港里",
+                            "tboxNo": "0162",
+                            "tboxName": "史港國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮史港里獅子路9號",
+                            "neighbor": "史港里"
+                        }
+                    ],
+                    "liName": "史港里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興里",
+                            "tboxNo": "0163",
+                            "tboxName": "福興里集會所",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮福興里福興路260號",
+                            "neighbor": "福興里"
+                        }
+                    ],
+                    "liName": "福興里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "牛眠里",
+                            "tboxNo": "0164",
+                            "tboxName": "守城社區新活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮牛眠里守城路9之5號",
+                            "neighbor": "1-9.22"
+                        },
+                        {
+                            "ScopeLiName": "牛眠里",
+                            "tboxNo": "0165",
+                            "tboxName": "牛眠社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮牛眠里西安路二段171號",
+                            "neighbor": "11-17,23,25"
+                        },
+                        {
+                            "ScopeLiName": "牛眠里",
+                            "tboxNo": "0166",
+                            "tboxName": "忠孝國小",
+                            "geocode": null,
+                            "addr": "南投縣埔里鎮牛眠里守城路28號",
+                            "neighbor": "10,18-21,24,26"
+                        }
+                    ],
+                    "liName": "牛眠里"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南豐村",
+                            "tboxNo": "0167",
+                            "tboxName": "南豐活動中心會議室",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉南豐村松原巷35附1號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "南豐村",
+                            "tboxNo": "0168",
+                            "tboxName": "楓林口活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉南豐村楓林路54附1號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "南豐村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大同村",
+                            "tboxNo": "0169",
+                            "tboxName": "仁愛國小",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉大同村山農巷5號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "大同村",
+                            "tboxNo": "0170",
+                            "tboxName": "清境國小",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉大同村定遠新村24號",
+                            "neighbor": "14-18"
+                        },
+                        {
+                            "ScopeLiName": "大同村",
+                            "tboxNo": "0171",
+                            "tboxName": "松崗活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉大同村博望巷17附1號",
+                            "neighbor": "19-20"
+                        }
+                    ],
+                    "liName": "大同村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榮興村",
+                            "tboxNo": "0172",
+                            "tboxName": "碧綠溪農場會議室",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉榮興村碧綠巷27號",
+                            "neighbor": "榮興村"
+                        }
+                    ],
+                    "liName": "榮興村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "春陽村",
+                            "tboxNo": "0173",
+                            "tboxName": "春陽國小",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉春陽村永樂巷58號",
+                            "neighbor": "春陽村"
+                        }
+                    ],
+                    "liName": "春陽村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "精英村",
+                            "tboxNo": "0174",
+                            "tboxName": "廬山國小",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉精英村中華巷19號",
+                            "neighbor": "精英村"
+                        }
+                    ],
+                    "liName": "精英村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "都達村",
+                            "tboxNo": "0175",
+                            "tboxName": "都達村辦公處",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉都達村法觀路17附1號",
+                            "neighbor": "都達村"
+                        }
+                    ],
+                    "liName": "都達村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "德鹿谷村",
+                            "tboxNo": "0176",
+                            "tboxName": "德鹿谷國小",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉德鹿谷村莎都部落1巷23號",
+                            "neighbor": "德鹿谷村"
+                        }
+                    ],
+                    "liName": "德鹿谷村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "合作村(停用)",
+                            "tboxNo": "0176",
+                            "tboxName": "德鹿谷國小",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉德鹿谷村莎都部落1巷23號",
+                            "neighbor": "合作村(停用)"
+                        }
+                    ],
+                    "liName": "合作村(停用)"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "發祥村",
+                            "tboxNo": "0177",
+                            "tboxName": "發祥活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉發祥村光復巷22號2樓",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "發祥村",
+                            "tboxNo": "0178",
+                            "tboxName": "紅葉國小",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉發祥村仁盛路70號",
+                            "neighbor": "8-12"
+                        }
+                    ],
+                    "liName": "發祥村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "力行村",
+                            "tboxNo": "0179",
+                            "tboxName": "力行基督長老教會",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉力行村新望洋7號",
+                            "neighbor": "力行村"
+                        }
+                    ],
+                    "liName": "力行村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "翠華村",
+                            "tboxNo": "0180",
+                            "tboxName": "翠巒活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉翠華村翠巒路23號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "翠華村",
+                            "tboxNo": "0181",
+                            "tboxName": "華崗活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉翠華村華崗48號",
+                            "neighbor": "6-16"
+                        }
+                    ],
+                    "liName": "翠華村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "親愛村",
+                            "tboxNo": "0182",
+                            "tboxName": "親愛活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉親愛村高平路4-1號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "親愛村",
+                            "tboxNo": "0183",
+                            "tboxName": "松林活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉親愛村親和巷33附2號",
+                            "neighbor": "13-17"
+                        },
+                        {
+                            "ScopeLiName": "親愛村",
+                            "tboxNo": "0184",
+                            "tboxName": "萬大發電廠中興堂",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉親愛村大安路90-1號",
+                            "neighbor": "18-21"
+                        }
+                    ],
+                    "liName": "親愛村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬豐村",
+                            "tboxNo": "0185",
+                            "tboxName": "萬豐村辦公處",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉萬豐村清華巷76號",
+                            "neighbor": "萬豐村"
+                        }
+                    ],
+                    "liName": "萬豐村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "法治村",
+                            "tboxNo": "0186",
+                            "tboxName": "法治活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉法治村界山巷12-1號",
+                            "neighbor": "法治村"
+                        }
+                    ],
+                    "liName": "法治村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0187",
+                            "tboxName": "中正活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉中正村光明路58號",
+                            "neighbor": "中正村"
+                        }
+                    ],
+                    "liName": "中正村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "互助村",
+                            "tboxNo": "0188",
+                            "tboxName": "中原活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉互助村原名路169號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "互助村",
+                            "tboxNo": "0189",
+                            "tboxName": "清流活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉互助村明月巷80-1號",
+                            "neighbor": "15-22"
+                        }
+                    ],
+                    "liName": "互助村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新生村",
+                            "tboxNo": "0190",
+                            "tboxName": "新生社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣仁愛鄉新生村山林巷155附2號",
+                            "neighbor": "新生村"
+                        }
+                    ],
+                    "liName": "新生村"
+                }
+            ],
+            "deptCode": "130"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崁頂村",
+                            "tboxNo": "0193",
+                            "tboxName": "崁頂村集會所",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉崁頂村中集路40-1號",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "崁頂村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "八仙村",
+                            "tboxNo": "0194",
+                            "tboxName": "八仙社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉八仙村永樂路36-1號",
+                            "neighbor": "4"
+                        },
+                        {
+                            "ScopeLiName": "八仙村",
+                            "tboxNo": "0195",
+                            "tboxName": "仙樂社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉八仙村永樂路60號",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "八仙村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和興村",
+                            "tboxNo": "0198",
+                            "tboxName": "和興村活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉和興村永樂路143-2號",
+                            "neighbor": "1,11,5"
+                        }
+                    ],
+                    "liName": "和興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永平村",
+                            "tboxNo": "0201",
+                            "tboxName": "永平社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉永平村永平路333-5號",
+                            "neighbor": "21"
+                        }
+                    ],
+                    "liName": "永平村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中寮村",
+                            "tboxNo": "0202",
+                            "tboxName": "中寮社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉中寮村鄉林巷23號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "中寮村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永福村",
+                            "tboxNo": "0204",
+                            "tboxName": "永康國小教室",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉永福村仙峰巷44號",
+                            "neighbor": "11"
+                        },
+                        {
+                            "ScopeLiName": "永福村",
+                            "tboxNo": "0205",
+                            "tboxName": "永福社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉永福村永平路400號",
+                            "neighbor": "7,8,10"
+                        }
+                    ],
+                    "liName": "永福村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義和村",
+                            "tboxNo": "0206",
+                            "tboxName": "義和社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉義和村永平路447-12號",
+                            "neighbor": "3,4"
+                        },
+                        {
+                            "ScopeLiName": "義和村",
+                            "tboxNo": "0207",
+                            "tboxName": "義和村集會所",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉義和村永平路513-12號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "義和村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍安村",
+                            "tboxNo": "0210",
+                            "tboxName": "龍安社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉龍安村龍南路94-5號",
+                            "neighbor": "6,10,16"
+                        }
+                    ],
+                    "liName": "龍安村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍岩村",
+                            "tboxNo": "0212",
+                            "tboxName": "龍岩村集會所",
+                            "geocode": null,
+                            "addr": "南投縣中寮鄉龍岩村龍南路154號",
+                            "neighbor": "1,4"
+                        }
+                    ],
+                    "liName": "龍岩村"
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "魚池村",
+                            "tboxNo": "0215",
+                            "tboxName": "魚池鄉身心障礙休閒會館",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉魚池村魚池街354巷8號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "魚池村",
+                            "tboxNo": "0216",
+                            "tboxName": "魚池國小活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉魚池村瓊文巷41號",
+                            "neighbor": "13-21"
+                        }
+                    ],
+                    "liName": "魚池村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東池村",
+                            "tboxNo": "0217",
+                            "tboxName": "魚池鄉衛生所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉東池村魚池街194號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "東池村",
+                            "tboxNo": "0218",
+                            "tboxName": "麒麟宮代化堂",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉魚池村新店巷35號",
+                            "neighbor": "8-17"
+                        }
+                    ],
+                    "liName": "東池村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大林村",
+                            "tboxNo": "0219",
+                            "tboxName": "大林村社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉大林村嵩山巷27號〈啟化堂〉",
+                            "neighbor": "7-14"
+                        },
+                        {
+                            "ScopeLiName": "大林村",
+                            "tboxNo": "0220",
+                            "tboxName": "大林村司馬按集會所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉大林村永川巷4-2號〈福順宮〉",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "大林村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東光村",
+                            "tboxNo": "0221",
+                            "tboxName": "東光村社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉東光村慶隆巷31-7號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "東光村",
+                            "tboxNo": "0222",
+                            "tboxName": "東光國民小學6年級教室",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉東光村慶隆巷36號",
+                            "neighbor": "6-13"
+                        }
+                    ],
+                    "liName": "東光村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "共和村",
+                            "tboxNo": "0223",
+                            "tboxName": "共和村長寮社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉共和村長興巷6號",
+                            "neighbor": "12,13"
+                        },
+                        {
+                            "ScopeLiName": "共和村",
+                            "tboxNo": "0224",
+                            "tboxName": "共和村集會所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉共和村五馬巷60之4號",
+                            "neighbor": "4-11"
+                        },
+                        {
+                            "ScopeLiName": "共和村",
+                            "tboxNo": "0225",
+                            "tboxName": "共和村內加道公廟",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉共和村中興巷7之1號〈加德宮〉",
+                            "neighbor": "1-3"
+                        }
+                    ],
+                    "liName": "共和村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新城村",
+                            "tboxNo": "0224",
+                            "tboxName": "共和村集會所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉共和村五馬巷60之4號",
+                            "neighbor": "17"
+                        },
+                        {
+                            "ScopeLiName": "新城村",
+                            "tboxNo": "0226",
+                            "tboxName": "新城村集會所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉新城村通文巷8之12號",
+                            "neighbor": "1,2,7-12,17,1,2,7-12"
+                        },
+                        {
+                            "ScopeLiName": "新城村",
+                            "tboxNo": "0227",
+                            "tboxName": "新城村養靈社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉新城村修正巷13之1號",
+                            "neighbor": "3-6"
+                        },
+                        {
+                            "ScopeLiName": "新城村",
+                            "tboxNo": "0228",
+                            "tboxName": "新城村鹿篙公廟",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉新城村香茶巷6號〈受吉宮〉",
+                            "neighbor": "13-16"
+                        }
+                    ],
+                    "liName": "新城村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大雁村",
+                            "tboxNo": "0229",
+                            "tboxName": "大雁村仙楂脚活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉大雁村山楂脚巷8之1號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "大雁村",
+                            "tboxNo": "0230",
+                            "tboxName": "大雁村集會所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉大雁村大雁巷2之1號",
+                            "neighbor": "4-9"
+                        }
+                    ],
+                    "liName": "大雁村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五城村",
+                            "tboxNo": "0231",
+                            "tboxName": "五城村社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉五城村五城巷24之2號",
+                            "neighbor": "1-9,13"
+                        },
+                        {
+                            "ScopeLiName": "五城村",
+                            "tboxNo": "0232",
+                            "tboxName": "五城村蓮華池林業試驗所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉五城村華龍巷43號",
+                            "neighbor": "10-12"
+                        }
+                    ],
+                    "liName": "五城村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中明村",
+                            "tboxNo": "0233",
+                            "tboxName": "中明村受福宮廣場",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉中明村文化巷6號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "中明村",
+                            "tboxNo": "0234",
+                            "tboxName": "中明村社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉中明村文正巷5之10號",
+                            "neighbor": "8-12"
+                        }
+                    ],
+                    "liName": "中明村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水社村",
+                            "tboxNo": "0235",
+                            "tboxName": "明潭國小",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉水社村中山路190號",
+                            "neighbor": "水社村"
+                        }
+                    ],
+                    "liName": "水社村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "日月村",
+                            "tboxNo": "0236",
+                            "tboxName": "日月村集會所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉日月村豐年街3號",
+                            "neighbor": "日月村"
+                        }
+                    ],
+                    "liName": "日月村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頭社村",
+                            "tboxNo": "0237",
+                            "tboxName": "頭社國小",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉頭社村平和巷105號",
+                            "neighbor": "12-19"
+                        },
+                        {
+                            "ScopeLiName": "頭社村",
+                            "tboxNo": "0238",
+                            "tboxName": "頭社村集會所",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉頭社村平和巷40之2號〈三聖宮〉",
+                            "neighbor": "1-11"
+                        }
+                    ],
+                    "liName": "頭社村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "武登村",
+                            "tboxNo": "0239",
+                            "tboxName": "武登村松鶴老人會館",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉武登村集里路6之2號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "武登村",
+                            "tboxNo": "0240",
+                            "tboxName": "南投縣原聲國際學院國中小部實驗教育機構(武登村)",
+                            "geocode": null,
+                            "addr": "南投縣魚池鄉武登村銃櫃巷18號〈原光明國小〉",
+                            "neighbor": "13-18"
+                        }
+                    ],
+                    "liName": "武登村"
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南雅村",
+                            "tboxNo": "0325",
+                            "tboxName": "南雅村集會所2樓",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉南雅村市場巷20-2號",
+                            "neighbor": "南雅村"
+                        }
+                    ],
+                    "liName": "南雅村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0326",
+                            "tboxName": "文武廟代化堂前廣場",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉中正村小崎巷13號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0327",
+                            "tboxName": "文武廟代化堂辦公室",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉中正村小崎巷13號",
+                            "neighbor": "8-9,16-18"
+                        },
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0328",
+                            "tboxName": "老人文康活動中心地下1樓",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉中正村庄仔巷２４－１號地下１樓",
+                            "neighbor": "10-14"
+                        },
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0329",
+                            "tboxName": "老人文康活動中心1樓",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉中正村庄仔巷２４－１號１樓",
+                            "neighbor": "15,19-22"
+                        }
+                    ],
+                    "liName": "中正村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山村",
+                            "tboxNo": "0330",
+                            "tboxName": "名間國民小學",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉中山村彰南路220號",
+                            "neighbor": "1-5,16-17"
+                        },
+                        {
+                            "ScopeLiName": "中山村",
+                            "tboxNo": "0331",
+                            "tboxName": "中山社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉中山村名松路1段83號",
+                            "neighbor": "6-15,18"
+                        }
+                    ],
+                    "liName": "中山村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "濁水村",
+                            "tboxNo": "0332",
+                            "tboxName": "濁水村集會所",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉濁水村福興巷14號",
+                            "neighbor": "1-11"
+                        }
+                    ],
+                    "liName": "濁水村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新民村",
+                            "tboxNo": "0334",
+                            "tboxName": "新民村集會所",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉新民村外埔巷11-28號",
+                            "neighbor": "新民村"
+                        }
+                    ],
+                    "liName": "新民村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新街村",
+                            "tboxNo": "0336",
+                            "tboxName": "新街村集會所",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉新街村彰南路472號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "新街村",
+                            "tboxNo": "0337",
+                            "tboxName": "朝聖宮",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉新街村彰南路481號",
+                            "neighbor": "7-13"
+                        },
+                        {
+                            "ScopeLiName": "新街村",
+                            "tboxNo": "0338",
+                            "tboxName": "新街國民小學",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉新街村彰南路375號",
+                            "neighbor": "14-20"
+                        },
+                        {
+                            "ScopeLiName": "新街村",
+                            "tboxNo": "0339",
+                            "tboxName": "玄龍宮",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉新街村彰南路350之88號",
+                            "neighbor": "21-26"
+                        }
+                    ],
+                    "liName": "新街村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東湖村",
+                            "tboxNo": "0341",
+                            "tboxName": "僑興國民小學",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉東湖村彰南路259號",
+                            "neighbor": "16-26"
+                        }
+                    ],
+                    "liName": "東湖村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁和村",
+                            "tboxNo": "0342",
+                            "tboxName": "仁和村集會所",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉仁和村山腳巷11-6號",
+                            "neighbor": "仁和村"
+                        }
+                    ],
+                    "liName": "仁和村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬丹村",
+                            "tboxNo": "0343",
+                            "tboxName": "萬丹社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉萬丹村新丹巷３8-2號",
+                            "neighbor": "萬丹村"
+                        }
+                    ],
+                    "liName": "萬丹村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廍下村",
+                            "tboxNo": "0348",
+                            "tboxName": "廍下社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉廍下村大岩巷30-8號",
+                            "neighbor": "廍下村"
+                        }
+                    ],
+                    "liName": "廍下村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "赤水村",
+                            "tboxNo": "0349",
+                            "tboxName": "赤水社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉赤水村南田路258-10號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "赤水村",
+                            "tboxNo": "0350",
+                            "tboxName": "錦梓社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉赤水村皮仔寮巷21號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "赤水村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹圍村",
+                            "tboxNo": "0351",
+                            "tboxName": "竹圍社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉竹圍村竹圍巷39號",
+                            "neighbor": "竹圍村"
+                        }
+                    ],
+                    "liName": "竹圍村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松柏村",
+                            "tboxNo": "0356",
+                            "tboxName": "松柏村集會所",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉松柏村名松路2段216號",
+                            "neighbor": "松柏村"
+                        }
+                    ],
+                    "liName": "松柏村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔中村",
+                            "tboxNo": "0358",
+                            "tboxName": "埔中社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉埔中村埔中巷11-12號",
+                            "neighbor": "埔中村"
+                        }
+                    ],
+                    "liName": "埔中村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新厝村",
+                            "tboxNo": "0359",
+                            "tboxName": "新厝村集會所",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉新厝村新厝路74號",
+                            "neighbor": "新厝村"
+                        }
+                    ],
+                    "liName": "新厝村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新光村",
+                            "tboxNo": "0361",
+                            "tboxName": "三光社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣名間鄉新光村名山路二段282號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "新光村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹山里",
+                            "tboxNo": "0376",
+                            "tboxName": "竹山鎮第一公有零售市場",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮竹山里橫街90號",
+                            "neighbor": "1-7,18-22,24"
+                        }
+                    ],
+                    "liName": "竹山里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0379",
+                            "tboxName": "竹山國中（活動中心左側）",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮中山里竹山路217號",
+                            "neighbor": "1-16"
+                        },
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0380",
+                            "tboxName": "前山國小",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮中山里自強路100號",
+                            "neighbor": "17-25"
+                        },
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0381",
+                            "tboxName": "前山國小",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮中山里自強路100號",
+                            "neighbor": "26-31,36"
+                        },
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0382",
+                            "tboxName": "硘磘重劃區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮中山里新生路346號",
+                            "neighbor": "32-35,37-41"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "雲林里",
+                            "tboxNo": "0383",
+                            "tboxName": "雲林國小(左側)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮雲林里大明路666號",
+                            "neighbor": "1-16"
+                        },
+                        {
+                            "ScopeLiName": "雲林里",
+                            "tboxNo": "0384",
+                            "tboxName": "雲林國小(右側)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮雲林里大明路666號",
+                            "neighbor": "17-30"
+                        },
+                        {
+                            "ScopeLiName": "雲林里",
+                            "tboxNo": "0385",
+                            "tboxName": "雲林國小(活動中心)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮雲林里大明路666號",
+                            "neighbor": "31-36"
+                        }
+                    ],
+                    "liName": "雲林里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹圍里",
+                            "tboxNo": "0386",
+                            "tboxName": "竹圍里集會所(克明宮後面)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮竹圍里下橫街248號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "竹圍里",
+                            "tboxNo": "0387",
+                            "tboxName": "竹山高中（右側）",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮竹圍里下橫街253號",
+                            "neighbor": "13-19"
+                        }
+                    ],
+                    "liName": "竹圍里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "桂林里",
+                            "tboxNo": "0388",
+                            "tboxName": "桂林里集會所",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮桂林里中山路7-80號",
+                            "neighbor": "3-11,26-28"
+                        },
+                        {
+                            "ScopeLiName": "桂林里",
+                            "tboxNo": "0389",
+                            "tboxName": "中正社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮桂林里中正巷22號",
+                            "neighbor": "12-14,19-22,29-30"
+                        },
+                        {
+                            "ScopeLiName": "桂林里",
+                            "tboxNo": "0390",
+                            "tboxName": "竹山國中（會議室）",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮中山里竹山路217號",
+                            "neighbor": "1-2,15-18,23-25"
+                        }
+                    ],
+                    "liName": "桂林里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下坪里",
+                            "tboxNo": "0392",
+                            "tboxName": "竹山高中（左側）",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮竹圍里下橫街253號",
+                            "neighbor": "1-2,7-10"
+                        }
+                    ],
+                    "liName": "下坪里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中和里",
+                            "tboxNo": "0393",
+                            "tboxName": "中和里集會所",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮中和里中和路96-15號",
+                            "neighbor": "中和里"
+                        }
+                    ],
+                    "liName": "中和里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "秀林里",
+                            "tboxNo": "0396",
+                            "tboxName": "秀林里集會所",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮秀林里頂林路369-6號",
+                            "neighbor": "6-16"
+                        }
+                    ],
+                    "liName": "秀林里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大鞍里",
+                            "tboxNo": "0397",
+                            "tboxName": "大鞍里奉聖宮(帝爺廟)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮大鞍里竹寮巷19-15號",
+                            "neighbor": "大鞍里"
+                        }
+                    ],
+                    "liName": "大鞍里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延和里",
+                            "tboxNo": "0398",
+                            "tboxName": "延和國中(會議室)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延和里鹿山路40號",
+                            "neighbor": "19-22,24"
+                        },
+                        {
+                            "ScopeLiName": "延和里",
+                            "tboxNo": "0399",
+                            "tboxName": "延和里集會所",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延和里大和街42號",
+                            "neighbor": "2-5,7-8,11"
+                        },
+                        {
+                            "ScopeLiName": "延和里",
+                            "tboxNo": "0400",
+                            "tboxName": "竹山國小(齊賢館)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延和里向學街32號",
+                            "neighbor": "13-18"
+                        },
+                        {
+                            "ScopeLiName": "延和里",
+                            "tboxNo": "0401",
+                            "tboxName": "竹山國小(行政大樓)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延和里向學街32號",
+                            "neighbor": "1,6,9-10,12,23"
+                        }
+                    ],
+                    "liName": "延和里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延祥里",
+                            "tboxNo": "0402",
+                            "tboxName": "延祥社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延祥里鹿山路284巷13號",
+                            "neighbor": "6-8,10,17-20"
+                        },
+                        {
+                            "ScopeLiName": "延祥里",
+                            "tboxNo": "0403",
+                            "tboxName": "劉姓祖廟(左側會議室)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延祥里延祥路8號",
+                            "neighbor": "1,3-5,13-16"
+                        },
+                        {
+                            "ScopeLiName": "延祥里",
+                            "tboxNo": "0404",
+                            "tboxName": "劉姓祖廟",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延祥里延祥路8號",
+                            "neighbor": "2,9,11-12,21-24"
+                        }
+                    ],
+                    "liName": "延祥里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延正里",
+                            "tboxNo": "0405",
+                            "tboxName": "延正里新社區活動中心(李勇廟旁)",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延正里公正巷30-6號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "延正里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0407",
+                            "tboxName": "延平國小",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延平里集山路2段1161號",
+                            "neighbor": "1-8,25-26"
+                        },
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0408",
+                            "tboxName": "延平社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延平里集山路2段1101號",
+                            "neighbor": "9-18,27-28"
+                        },
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0409",
+                            "tboxName": "籐湖社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延平里籐湖巷5-2號",
+                            "neighbor": "19-24"
+                        }
+                    ],
+                    "liName": "延平里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延山里",
+                            "tboxNo": "0410",
+                            "tboxName": "延山新社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮延山里延山路36-6號",
+                            "neighbor": "延山里"
+                        }
+                    ],
+                    "liName": "延山里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山崇里",
+                            "tboxNo": "0411",
+                            "tboxName": "山崇社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮山崇里山崇巷25-2號",
+                            "neighbor": "1-7,11-12,15-18"
+                        },
+                        {
+                            "ScopeLiName": "山崇里",
+                            "tboxNo": "0412",
+                            "tboxName": "水底寮舊集會所",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮山崇里溫水巷24號",
+                            "neighbor": "8-10,13-14"
+                        }
+                    ],
+                    "liName": "山崇里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "社寮里",
+                            "tboxNo": "0413",
+                            "tboxName": "社寮社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮社寮里大公街75號",
+                            "neighbor": "社寮里"
+                        }
+                    ],
+                    "liName": "社寮里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中央里",
+                            "tboxNo": "0414",
+                            "tboxName": "中央社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮中央里集山路一段1236巷6號",
+                            "neighbor": "中央里"
+                        }
+                    ],
+                    "liName": "中央里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富州里",
+                            "tboxNo": "0415",
+                            "tboxName": "富州社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮富州里集山路一段422號",
+                            "neighbor": "富州里"
+                        }
+                    ],
+                    "liName": "富州里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "硘磘里",
+                            "tboxNo": "0417",
+                            "tboxName": "硘磘里集會所",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮硘磘里鯉南路99-1號",
+                            "neighbor": "4,8-11"
+                        },
+                        {
+                            "ScopeLiName": "硘磘里",
+                            "tboxNo": "0418",
+                            "tboxName": "廖連應宗祠",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮硘磘里鯉南路48號",
+                            "neighbor": "1-3,5-7"
+                        }
+                    ],
+                    "liName": "硘磘里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "德興里",
+                            "tboxNo": "0420",
+                            "tboxName": "德興里集會所",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮德興里德興巷21-1號",
+                            "neighbor": "6-10"
+                        }
+                    ],
+                    "liName": "德興里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興里",
+                            "tboxNo": "0421",
+                            "tboxName": "福田社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮福興里鯉南路136之1號 過溪國小旁 ",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "福興里",
+                            "tboxNo": "0422",
+                            "tboxName": "福興社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮福興里鯉南路185號旁 廣安宮旁 ",
+                            "neighbor": "4-8"
+                        }
+                    ],
+                    "liName": "福興里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "坪頂里",
+                            "tboxNo": "0425",
+                            "tboxName": "坪頂社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮坪頂里坪頂路36號",
+                            "neighbor": "坪頂里"
+                        }
+                    ],
+                    "liName": "坪頂里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "桶頭里",
+                            "tboxNo": "0428",
+                            "tboxName": "內寮社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣竹山鎮桶頭里鯉南路385-16號",
+                            "neighbor": "8-14"
+                        }
+                    ],
+                    "liName": "桶頭里"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿谷村",
+                            "tboxNo": "0429",
+                            "tboxName": "鹿谷社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉鹿谷村興農巷56號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "鹿谷村",
+                            "tboxNo": "0430",
+                            "tboxName": "鹿谷國民小學〈閱讀書軒〉",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉鹿谷村中正路二段174號",
+                            "neighbor": "10-16"
+                        }
+                    ],
+                    "liName": "鹿谷村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "彰雅村",
+                            "tboxNo": "0431",
+                            "tboxName": "彰雅社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉彰雅村和興巷21號",
+                            "neighbor": "1-6,10"
+                        },
+                        {
+                            "ScopeLiName": "彰雅村",
+                            "tboxNo": "0432",
+                            "tboxName": "彰雅村凍頂集會所",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉彰雅村凍頂巷10-12號",
+                            "neighbor": "7-9"
+                        }
+                    ],
+                    "liName": "彰雅村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣興村",
+                            "tboxNo": "0433",
+                            "tboxName": "廣興社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉廣興村光復路200號",
+                            "neighbor": "1-11,19-20"
+                        },
+                        {
+                            "ScopeLiName": "廣興村",
+                            "tboxNo": "0434",
+                            "tboxName": "鹿谷鄉立圖書館",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉廣興村興產路96-4號",
+                            "neighbor": "12-18,21"
+                        }
+                    ],
+                    "liName": "廣興村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永隆村",
+                            "tboxNo": "0435",
+                            "tboxName": "鹿谷鄉茶席文化館",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉永隆村仁義路41-13號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "永隆村",
+                            "tboxNo": "0436",
+                            "tboxName": "永隆社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉永隆村仁義路41-12號",
+                            "neighbor": "6-13"
+                        }
+                    ],
+                    "liName": "永隆村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳凰村",
+                            "tboxNo": "0437",
+                            "tboxName": "鳳凰國民小學（會議室）",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉鳳凰村仁義路35-1號",
+                            "neighbor": "2-8"
+                        },
+                        {
+                            "ScopeLiName": "鳳凰村",
+                            "tboxNo": "0438",
+                            "tboxName": "鳳凰國民小學（美勞教室）",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉鳳凰村仁義路35-1號",
+                            "neighbor": "1,9-14"
+                        }
+                    ],
+                    "liName": "鳳凰村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內湖村",
+                            "tboxNo": "0439",
+                            "tboxName": "內湖社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉內湖村興產路71-5號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "內湖村",
+                            "tboxNo": "0440",
+                            "tboxName": "龍山廟辦公室",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉內湖村興產路22-14號",
+                            "neighbor": "8-12"
+                        }
+                    ],
+                    "liName": "內湖村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和雅村",
+                            "tboxNo": "0441",
+                            "tboxName": "和雅社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉和雅村愛鄉路47-10號",
+                            "neighbor": "和雅村"
+                        }
+                    ],
+                    "liName": "和雅村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹林村",
+                            "tboxNo": "0442",
+                            "tboxName": "竹林村集會所",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉竹林村光復路106-2號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "竹林村",
+                            "tboxNo": "0443",
+                            "tboxName": "文昌國民小學〈學生活動中心〉",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉竹林村光復路96號",
+                            "neighbor": "8-18"
+                        }
+                    ],
+                    "liName": "竹林村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹豐村",
+                            "tboxNo": "0444",
+                            "tboxName": "竹豐社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉竹豐村光復路92-12號",
+                            "neighbor": "竹豐村"
+                        }
+                    ],
+                    "liName": "竹豐村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "初鄉村",
+                            "tboxNo": "0445",
+                            "tboxName": "初鄉社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉初鄉村仁愛路259-8號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "初鄉村",
+                            "tboxNo": "0446",
+                            "tboxName": "初鄉國民小學（後棟美勞教室）",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉初鄉村仁愛路259號",
+                            "neighbor": "8-17"
+                        }
+                    ],
+                    "liName": "初鄉村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "秀峰村",
+                            "tboxNo": "0447",
+                            "tboxName": "秀峰社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉秀峰村仁愛路153-5號",
+                            "neighbor": "秀峰村"
+                        }
+                    ],
+                    "liName": "秀峰村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "清水村",
+                            "tboxNo": "0448",
+                            "tboxName": "清水社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉清水村仁愛路103號",
+                            "neighbor": "清水村"
+                        }
+                    ],
+                    "liName": "清水村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞田村",
+                            "tboxNo": "0449",
+                            "tboxName": "瑞田社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣鹿谷鄉瑞田村仁愛路69-3號",
+                            "neighbor": "瑞田村"
+                        }
+                    ],
+                    "liName": "瑞田村"
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明德村",
+                            "tboxNo": "0472",
+                            "tboxName": "明德社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉明德村新開巷60-1號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "明德村",
+                            "tboxNo": "0473",
+                            "tboxName": "信義國小",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉明德村玉山路24號",
+                            "neighbor": "1-6,4-6"
+                        },
+                        {
+                            "ScopeLiName": "明德村",
+                            "tboxNo": "0474",
+                            "tboxName": "忠信社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉明德村中平巷38號",
+                            "neighbor": "7-14"
+                        }
+                    ],
+                    "liName": "明德村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "愛國村",
+                            "tboxNo": "0475",
+                            "tboxName": "愛國社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉愛國村愛國巷114-1號",
+                            "neighbor": "愛國村"
+                        }
+                    ],
+                    "liName": "愛國村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "自強村",
+                            "tboxNo": "0476",
+                            "tboxName": "自強社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉自強村綠美巷25-3號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "自強村",
+                            "tboxNo": "0477",
+                            "tboxName": "豐斗避難所",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉自強村陽和巷100號",
+                            "neighbor": "6-11"
+                        }
+                    ],
+                    "liName": "自強村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐丘村",
+                            "tboxNo": "0478",
+                            "tboxName": "豐丘社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉豐丘村高平巷7-1號",
+                            "neighbor": "豐丘村"
+                        }
+                    ],
+                    "liName": "豐丘村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新鄉村",
+                            "tboxNo": "0479",
+                            "tboxName": "新鄉社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉新鄉村新鄉路71號",
+                            "neighbor": "新鄉村"
+                        }
+                    ],
+                    "liName": "新鄉村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "羅娜村",
+                            "tboxNo": "0480",
+                            "tboxName": "羅娜天主堂",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉羅娜村信筆巷142-3號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "羅娜村",
+                            "tboxNo": "0481",
+                            "tboxName": "信義鄉原住民文化館",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉羅娜村信筆巷139號",
+                            "neighbor": "4-6"
+                        }
+                    ],
+                    "liName": "羅娜村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "望美村",
+                            "tboxNo": "0482",
+                            "tboxName": "久美社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉望美村美信巷55-1號",
+                            "neighbor": "望美村"
+                        }
+                    ],
+                    "liName": "望美村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "卡里布安村",
+                            "tboxNo": "0483",
+                            "tboxName": "望鄉社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉望美村望和巷10號",
+                            "neighbor": "卡里布安村"
+                        }
+                    ],
+                    "liName": "卡里布安村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "同富村",
+                            "tboxNo": "0484",
+                            "tboxName": "同富國小",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉同富村同和巷4號",
+                            "neighbor": "1-6,13-15"
+                        }
+                    ],
+                    "liName": "同富村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "神木村",
+                            "tboxNo": "0486",
+                            "tboxName": "神木社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉神木村神木巷7號",
+                            "neighbor": "1-7,12"
+                        },
+                        {
+                            "ScopeLiName": "神木村",
+                            "tboxNo": "0487",
+                            "tboxName": "神木國小",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉神木村神木巷61號",
+                            "neighbor": "8-11"
+                        }
+                    ],
+                    "liName": "神木村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東埔村",
+                            "tboxNo": "0488",
+                            "tboxName": "東埔國小",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉東埔村開高巷63號",
+                            "neighbor": "東埔村"
+                        }
+                    ],
+                    "liName": "東埔村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "人和村",
+                            "tboxNo": "0489",
+                            "tboxName": "人和國小",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉人和村民生巷3號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "人和村",
+                            "tboxNo": "0490",
+                            "tboxName": "波石社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉人和村波石巷125號",
+                            "neighbor": "7-10"
+                        }
+                    ],
+                    "liName": "人和村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "地利村",
+                            "tboxNo": "0491",
+                            "tboxName": "地利村辦公處",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉地利村開信巷1-2號",
+                            "neighbor": "地利村"
+                        }
+                    ],
+                    "liName": "地利村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "雙龍村",
+                            "tboxNo": "0492",
+                            "tboxName": "雙龍社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉雙龍村光復巷32號",
+                            "neighbor": "雙龍村"
+                        }
+                    ],
+                    "liName": "雙龍村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "潭南村",
+                            "tboxNo": "0493",
+                            "tboxName": "潭南社區活動中心",
+                            "geocode": null,
+                            "addr": "南投縣信義鄉潭南村和平巷36-2號",
+                            "neighbor": "潭南村"
+                        }
+                    ],
+                    "liName": "潭南村"
+                }
+            ],
+            "deptCode": "120"
+        }
+    ]
+}

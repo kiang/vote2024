@@ -1,0 +1,82 @@
+{
+    "L1": [
+        {
+            "areaCode": "00",
+            "areaName": "臺東縣選舉區",
+            "cands": [
+                {
+                    "area": "臺東縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10014\/10014000000001.jpg",
+                    "gender": "男",
+                    "name": "賴坤成",
+                    "birth": "0530603",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "臺東縣"
+                },
+                {
+                    "area": "臺東縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10014\/10014000000002.jpg",
+                    "gender": "女",
+                    "name": "黃婉茹",
+                    "birth": "0701117",
+                    "type": "L1",
+                    "party": "小民參政歐巴桑聯盟",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "臺東縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10014\/10014000000003.jpg",
+                    "gender": "男",
+                    "name": "許瑞貴",
+                    "birth": "0441207",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 3,
+                    "home": "臺東縣"
+                },
+                {
+                    "area": "臺東縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10014\/10014000000004.jpg",
+                    "gender": "男",
+                    "name": "陳長宏",
+                    "birth": "0540825",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 4,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "臺東縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10014\/10014000000005.jpg",
+                    "gender": "男",
+                    "name": "黃建賓",
+                    "birth": "0671225",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 5,
+                    "home": "臺東縣"
+                },
+                {
+                    "area": "臺東縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10014\/10014000000006.jpg",
+                    "gender": "男",
+                    "name": "劉櫂豪",
+                    "birth": "0560202",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 6,
+                    "home": "臺東縣"
+                }
+            ]
+        }
+    ]
+}

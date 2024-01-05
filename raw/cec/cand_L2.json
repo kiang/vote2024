@@ -1,0 +1,112 @@
+{
+    "L2": [
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/10014000000001.jpg",
+            "gender": "女",
+            "name": "高美珠",
+            "birth": "0590108",
+            "type": "平地原住民",
+            "party": "無",
+            "candNo": 1,
+            "home": "臺東縣"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/63000000000002.jpg",
+            "gender": "女",
+            "name": "陳瑩",
+            "birth": "0611115",
+            "type": "平地原住民",
+            "party": "民主進步黨",
+            "candNo": 2,
+            "home": "臺東縣"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/63000000000003.jpg",
+            "gender": "男",
+            "name": "陳國榮",
+            "birth": "0510601",
+            "type": "平地原住民",
+            "party": "台灣維新",
+            "candNo": 3,
+            "home": "臺東縣"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/63000000000004.jpg",
+            "gender": "男",
+            "name": "陳政宗",
+            "birth": "0620226",
+            "type": "平地原住民",
+            "party": "無",
+            "candNo": 4,
+            "home": "臺東縣"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/65000000000005.jpg",
+            "gender": "男",
+            "name": "忠仁．達祿斯",
+            "birth": "0500127",
+            "type": "平地原住民",
+            "party": "無",
+            "candNo": 5,
+            "home": "臺東縣"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/65000000000006.jpg",
+            "gender": "男",
+            "name": "吳建智咖啡哥",
+            "birth": "0710512",
+            "type": "平地原住民",
+            "party": "無",
+            "candNo": 6,
+            "home": "宜蘭縣"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/66000000000007.jpg",
+            "gender": "男",
+            "name": "黃仁",
+            "birth": "0510413",
+            "type": "平地原住民",
+            "party": "中國國民黨",
+            "candNo": 7,
+            "home": "臺東縣"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/63000000000008.jpg",
+            "gender": "男",
+            "name": "米甘幹．理佛克",
+            "birth": "0460617",
+            "type": "平地原住民",
+            "party": "新黨",
+            "candNo": 8,
+            "home": "福建省"
+        },
+        {
+            "area": "全國",
+            "politics": "",
+            "img": "\/json\/portrait\/cand\/L2\/00000\/10015000000009.jpg",
+            "gender": "男",
+            "name": "鄭天財 Sra‧Kacaw",
+            "birth": "0451216",
+            "type": "平地原住民",
+            "party": "中國國民黨",
+            "candNo": 9,
+            "home": "花蓮縣"
+        }
+    ]
+}

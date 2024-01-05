@@ -1,0 +1,1106 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "042",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿寮里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "鹿寮里"
+                        }
+                    ],
+                    "liName": "鹿寮里"
+                },
+                {
+                    "liCode": "059",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "華南里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "華南里"
+                        }
+                    ],
+                    "liName": "華南里"
+                },
+                {
+                    "liCode": "060",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東興里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "東興里"
+                        }
+                    ],
+                    "liName": "東興里"
+                },
+                {
+                    "liCode": "061",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "中山里"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "062",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中央里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "中央里"
+                        }
+                    ],
+                    "liName": "中央里"
+                },
+                {
+                    "liCode": "063",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林森里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "林森里"
+                        }
+                    ],
+                    "liName": "林森里"
+                },
+                {
+                    "liCode": "064",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北門里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "北門里"
+                        }
+                    ],
+                    "liName": "北門里"
+                },
+                {
+                    "liCode": "065",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蘭潭里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "蘭潭里"
+                        }
+                    ],
+                    "liName": "蘭潭里"
+                },
+                {
+                    "liCode": "066",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文雅里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "文雅里"
+                        }
+                    ],
+                    "liName": "文雅里"
+                },
+                {
+                    "liCode": "067",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安業里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "安業里"
+                        }
+                    ],
+                    "liName": "安業里"
+                },
+                {
+                    "liCode": "068",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義教里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "義教里"
+                        }
+                    ],
+                    "liName": "義教里"
+                },
+                {
+                    "liCode": "058",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "朝陽里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "朝陽里"
+                        }
+                    ],
+                    "liName": "朝陽里"
+                },
+                {
+                    "liCode": "057",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民族里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "民族里"
+                        }
+                    ],
+                    "liName": "民族里"
+                },
+                {
+                    "liCode": "056",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "過溝里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "過溝里"
+                        }
+                    ],
+                    "liName": "過溝里"
+                },
+                {
+                    "liCode": "055",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興仁里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "興仁里"
+                        }
+                    ],
+                    "liName": "興仁里"
+                },
+                {
+                    "liCode": "054",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興村里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "興村里"
+                        }
+                    ],
+                    "liName": "興村里"
+                },
+                {
+                    "liCode": "053",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興安里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "興安里"
+                        }
+                    ],
+                    "liName": "興安里"
+                },
+                {
+                    "liCode": "052",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安寮里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "安寮里"
+                        }
+                    ],
+                    "liName": "安寮里"
+                },
+                {
+                    "liCode": "051",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂寮里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "頂寮里"
+                        }
+                    ],
+                    "liName": "頂寮里"
+                },
+                {
+                    "liCode": "050",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "芳安里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "芳安里"
+                        }
+                    ],
+                    "liName": "芳安里"
+                },
+                {
+                    "liCode": "049",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "芳草里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "芳草里"
+                        }
+                    ],
+                    "liName": "芳草里"
+                },
+                {
+                    "liCode": "048",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐年里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "豐年里"
+                        }
+                    ],
+                    "liName": "豐年里"
+                },
+                {
+                    "liCode": "047",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興南里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "興南里"
+                        }
+                    ],
+                    "liName": "興南里"
+                },
+                {
+                    "liCode": "046",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "宣信里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "宣信里"
+                        }
+                    ],
+                    "liName": "宣信里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新開里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "新開里"
+                        }
+                    ],
+                    "liName": "新開里"
+                },
+                {
+                    "liCode": "044",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "短竹里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "短竹里"
+                        }
+                    ],
+                    "liName": "短竹里"
+                },
+                {
+                    "liCode": "043",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長竹里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "長竹里"
+                        }
+                    ],
+                    "liName": "長竹里"
+                },
+                {
+                    "liCode": "041",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "盧厝里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "盧厝里"
+                        }
+                    ],
+                    "liName": "盧厝里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太平里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "太平里"
+                        }
+                    ],
+                    "liName": "太平里"
+                },
+                {
+                    "liCode": "038",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東川里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "東川里"
+                        }
+                    ],
+                    "liName": "東川里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "王田里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "王田里"
+                        }
+                    ],
+                    "liName": "王田里"
+                },
+                {
+                    "liCode": "036",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後庄里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "後庄里"
+                        }
+                    ],
+                    "liName": "後庄里"
+                },
+                {
+                    "liCode": "035",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新店里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "新店里"
+                        }
+                    ],
+                    "liName": "新店里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "圳頭里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "圳頭里"
+                        }
+                    ],
+                    "liName": "圳頭里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂庄里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "頂庄里"
+                        }
+                    ],
+                    "liName": "頂庄里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中庄里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "中庄里"
+                        }
+                    ],
+                    "liName": "中庄里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁義里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "仁義里"
+                        }
+                    ],
+                    "liName": "仁義里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後湖里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "後湖里"
+                        }
+                    ],
+                    "liName": "後湖里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "荖藤里",
+                            "tboxNo": "0093",
+                            "tboxName": "民族國小(一年4班教室)",
+                            "addr": "嘉義市東區民族里民族路235號",
+                            "neighbor": "荖藤里"
+                        }
+                    ],
+                    "liName": "荖藤里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "048",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福民里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "福民里"
+                        }
+                    ],
+                    "liName": "福民里"
+                },
+                {
+                    "liCode": "047",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "車店里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "車店里"
+                        }
+                    ],
+                    "liName": "車店里"
+                },
+                {
+                    "liCode": "049",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖內里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "湖內里"
+                        }
+                    ],
+                    "liName": "湖內里"
+                },
+                {
+                    "liCode": "046",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "垂楊里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "垂楊里"
+                        }
+                    ],
+                    "liName": "垂楊里"
+                },
+                {
+                    "liCode": "050",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "美源里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "美源里"
+                        }
+                    ],
+                    "liName": "美源里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "培元里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "培元里"
+                        }
+                    ],
+                    "liName": "培元里"
+                },
+                {
+                    "liCode": "051",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "育英里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "育英里"
+                        }
+                    ],
+                    "liName": "育英里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "書院里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "書院里"
+                        }
+                    ],
+                    "liName": "書院里"
+                },
+                {
+                    "liCode": "052",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "致遠里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "致遠里"
+                        }
+                    ],
+                    "liName": "致遠里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新西里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "新西里"
+                        }
+                    ],
+                    "liName": "新西里"
+                },
+                {
+                    "liCode": "053",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光路里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "光路里"
+                        }
+                    ],
+                    "liName": "光路里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "劉厝里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "劉厝里"
+                        }
+                    ],
+                    "liName": "劉厝里"
+                },
+                {
+                    "liCode": "054",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "翠岱里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "翠岱里"
+                        }
+                    ],
+                    "liName": "翠岱里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頭港里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "頭港里"
+                        }
+                    ],
+                    "liName": "頭港里"
+                },
+                {
+                    "liCode": "055",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "自強里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "自強里"
+                        }
+                    ],
+                    "liName": "自強里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港坪里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "港坪里"
+                        }
+                    ],
+                    "liName": "港坪里"
+                },
+                {
+                    "liCode": "056",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永和里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "永和里"
+                        }
+                    ],
+                    "liName": "永和里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "磚磘里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "磚磘里"
+                        }
+                    ],
+                    "liName": "磚磘里"
+                },
+                {
+                    "liCode": "057",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新富里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "新富里"
+                        }
+                    ],
+                    "liName": "新富里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西平里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "西平里"
+                        }
+                    ],
+                    "liName": "西平里"
+                },
+                {
+                    "liCode": "058",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "文化里"
+                        }
+                    ],
+                    "liName": "文化里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福全里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "福全里"
+                        }
+                    ],
+                    "liName": "福全里"
+                },
+                {
+                    "liCode": "059",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西榮里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "西榮里"
+                        }
+                    ],
+                    "liName": "西榮里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大溪里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "大溪里"
+                        }
+                    ],
+                    "liName": "大溪里"
+                },
+                {
+                    "liCode": "060",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國華里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "國華里"
+                        }
+                    ],
+                    "liName": "國華里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹村里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "竹村里"
+                        }
+                    ],
+                    "liName": "竹村里"
+                },
+                {
+                    "liCode": "061",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "番社里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "番社里"
+                        }
+                    ],
+                    "liName": "番社里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下埤里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "下埤里"
+                        }
+                    ],
+                    "liName": "下埤里"
+                },
+                {
+                    "liCode": "062",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "導明里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "導明里"
+                        }
+                    ],
+                    "liName": "導明里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北湖里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "北湖里"
+                        }
+                    ],
+                    "liName": "北湖里"
+                },
+                {
+                    "liCode": "063",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "慶安里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "慶安里"
+                        }
+                    ],
+                    "liName": "慶安里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "保安里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "保安里"
+                        }
+                    ],
+                    "liName": "保安里"
+                },
+                {
+                    "liCode": "064",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後驛里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "後驛里"
+                        }
+                    ],
+                    "liName": "後驛里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新厝里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "新厝里"
+                        }
+                    ],
+                    "liName": "新厝里"
+                },
+                {
+                    "liCode": "065",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福安里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "福安里"
+                        }
+                    ],
+                    "liName": "福安里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹圍里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "竹圍里"
+                        }
+                    ],
+                    "liName": "竹圍里"
+                },
+                {
+                    "liCode": "066",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "獅子里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "獅子里"
+                        }
+                    ],
+                    "liName": "獅子里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "重興里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "重興里"
+                        }
+                    ],
+                    "liName": "重興里"
+                },
+                {
+                    "liCode": "067",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "紅瓦里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "紅瓦里"
+                        }
+                    ],
+                    "liName": "紅瓦里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北榮里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "北榮里"
+                        }
+                    ],
+                    "liName": "北榮里"
+                },
+                {
+                    "liCode": "068",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "保福里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "保福里"
+                        }
+                    ],
+                    "liName": "保福里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖邊里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "湖邊里"
+                        }
+                    ],
+                    "liName": "湖邊里"
+                },
+                {
+                    "liCode": "069",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "保生里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "保生里"
+                        }
+                    ],
+                    "liName": "保生里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "香湖里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "香湖里"
+                        }
+                    ],
+                    "liName": "香湖里"
+                },
+                {
+                    "liCode": "070",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北新里",
+                            "tboxNo": "0198",
+                            "tboxName": "博愛國小(一年1班教室)",
+                            "addr": "嘉義市西區湖邊里友愛路822號",
+                            "neighbor": "北新里"
+                        }
+                    ],
+                    "liName": "北新里"
+                }
+            ],
+            "deptCode": "020"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "新竹縣第1選舉區",
+            "cands": [
+                {
+                    "area": "新竹縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000011.jpg",
+                    "gender": "男",
+                    "name": "劉復嵐",
+                    "birth": "0630509",
+                    "type": "L1",
+                    "party": "台灣維新",
+                    "candNo": 1,
+                    "home": "新竹縣"
+                },
+                {
+                    "area": "新竹縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000012.jpg",
+                    "gender": "女",
+                    "name": "徐欣瑩",
+                    "birth": "0610423",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "新竹市"
+                },
+                {
+                    "area": "新竹縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000013.jpg",
+                    "gender": "女",
+                    "name": "劉台穠",
+                    "birth": "0700624",
+                    "type": "L1",
+                    "party": "小民參政歐巴桑聯盟",
+                    "candNo": 3,
+                    "home": "新竹市"
+                },
+                {
+                    "area": "新竹縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000014.jpg",
+                    "gender": "女",
+                    "name": "余筱菁",
+                    "birth": "0691202",
+                    "type": "L1",
+                    "party": "台灣綠黨",
+                    "candNo": 4,
+                    "home": "新竹市"
+                },
+                {
+                    "area": "新竹縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000015.jpg",
+                    "gender": "女",
+                    "name": "詹紀緹",
+                    "birth": "0790207",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 5,
+                    "home": "桃園市"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "新竹縣第2選舉區",
+            "cands": [
+                {
+                    "area": "新竹縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000021.jpg",
+                    "gender": "女",
+                    "name": "王婉諭",
+                    "birth": "0680426",
+                    "type": "L1",
+                    "party": "時代力量",
+                    "candNo": 1,
+                    "home": "苗栗縣"
+                },
+                {
+                    "area": "新竹縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000022.jpg",
+                    "gender": "男",
+                    "name": "曾聖凱",
+                    "birth": "0731026",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新竹縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10004\/10004000000023.jpg",
+                    "gender": "男",
+                    "name": "林思銘",
+                    "birth": "0550316",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "新竹縣"
+                }
+            ]
+        }
+    ]
+}

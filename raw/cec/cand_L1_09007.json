@@ -1,0 +1,46 @@
+{
+    "L1": [
+        {
+            "areaCode": "00",
+            "areaName": "連江縣選舉區",
+            "cands": [
+                {
+                    "area": "連江縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/09007\/09007000000001.jpg",
+                    "gender": "男",
+                    "name": "李問",
+                    "birth": "0780304",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "新竹市"
+                },
+                {
+                    "area": "連江縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/09007\/09007000000002.jpg",
+                    "gender": "男",
+                    "name": "曹爾凱",
+                    "birth": "0661106",
+                    "type": "L1",
+                    "party": "台灣民眾黨",
+                    "candNo": 2,
+                    "home": "連江縣"
+                },
+                {
+                    "area": "連江縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/09007\/09007000000003.jpg",
+                    "gender": "男",
+                    "name": "陳雪生",
+                    "birth": "0410101",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "連江縣"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5079 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大同村",
+                            "tboxNo": "0002",
+                            "tboxName": "大同國小",
+                            "addr": "彰化縣伸港鄉大同村彰新路7段724號",
+                            "neighbor": "12-21"
+                        }
+                    ],
+                    "liName": "大同村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "海尾村",
+                            "tboxNo": "0003",
+                            "tboxName": "海尾社區活動中心",
+                            "addr": "彰化縣伸港鄉海尾村海尾路3-2號",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "海尾村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "全興村",
+                            "tboxNo": "0005",
+                            "tboxName": "全興社區活動中心",
+                            "addr": "彰化縣伸港鄉全興村東全路11號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "全興村",
+                            "tboxNo": "0006",
+                            "tboxName": "興和宮",
+                            "addr": "彰化縣伸港鄉全興村東全路13號",
+                            "neighbor": "11,16"
+                        }
+                    ],
+                    "liName": "全興村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪底村",
+                            "tboxNo": "0008",
+                            "tboxName": "泰平宮",
+                            "addr": "彰化縣伸港鄉溪底村溪底路98號",
+                            "neighbor": "10-11,14"
+                        }
+                    ],
+                    "liName": "溪底村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "定興村",
+                            "tboxNo": "0010",
+                            "tboxName": "興安宮",
+                            "addr": "彰化縣伸港鄉定興村定興路63-1號",
+                            "neighbor": "13-19"
+                        }
+                    ],
+                    "liName": "定興村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "什股村",
+                            "tboxNo": "0012",
+                            "tboxName": "玉興宮",
+                            "addr": "彰化縣伸港鄉什股村什股路160巷50-1號",
+                            "neighbor": "10-13"
+                        }
+                    ],
+                    "liName": "什股村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泉厝村",
+                            "tboxNo": "0015",
+                            "tboxName": "泉厝社區活動中心",
+                            "addr": "彰化縣伸港鄉泉厝村泉厝路44-3號",
+                            "neighbor": "3,6,11,13"
+                        }
+                    ],
+                    "liName": "泉厝村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "曾家村",
+                            "tboxNo": "0017",
+                            "tboxName": "曾家社區活動中心",
+                            "addr": "彰化縣伸港鄉曾家村曾家路65-1號",
+                            "neighbor": "1,15-16"
+                        }
+                    ],
+                    "liName": "曾家村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新港村",
+                            "tboxNo": "0019",
+                            "tboxName": "新港國小",
+                            "addr": "彰化縣伸港鄉新港村和平路60號",
+                            "neighbor": "3,5"
+                        },
+                        {
+                            "ScopeLiName": "新港村",
+                            "tboxNo": "0020",
+                            "tboxName": "新港國小",
+                            "addr": "彰化縣伸港鄉新港村和平路60號",
+                            "neighbor": "11,17"
+                        }
+                    ],
+                    "liName": "新港村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "七嘉村",
+                            "tboxNo": "0026",
+                            "tboxName": "伸東國小",
+                            "addr": "彰化縣伸港鄉七嘉村中華路565號",
+                            "neighbor": "3,9,10"
+                        }
+                    ],
+                    "liName": "七嘉村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "汴頭村",
+                            "tboxNo": "0028",
+                            "tboxName": "慶安宮",
+                            "addr": "彰化縣伸港鄉汴頭村汴頭路187號",
+                            "neighbor": "3,7"
+                        },
+                        {
+                            "ScopeLiName": "汴頭村",
+                            "tboxNo": "0029",
+                            "tboxName": "汴頭社區活動中心",
+                            "addr": "彰化縣伸港鄉汴頭村汴頭路187-9號",
+                            "neighbor": "10,12"
+                        }
+                    ],
+                    "liName": "汴頭村"
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "線西村",
+                            "tboxNo": "0030",
+                            "tboxName": "線西鄉立幼兒園",
+                            "addr": "彰化縣線西鄉線西村中央路2段386巷128號",
+                            "neighbor": "1-10,20,22"
+                        }
+                    ],
+                    "liName": "線西村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂庄村",
+                            "tboxNo": "0030",
+                            "tboxName": "線西鄉立幼兒園",
+                            "addr": "彰化縣線西鄉線西村中央路2段386巷128號",
+                            "neighbor": "7,16"
+                        }
+                    ],
+                    "liName": "頂庄村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寓埔村",
+                            "tboxNo": "0033",
+                            "tboxName": "線西國中",
+                            "addr": "彰化縣線西鄉寓埔村中央路2段145號",
+                            "neighbor": "1-11"
+                        }
+                    ],
+                    "liName": "寓埔村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下犁村",
+                            "tboxNo": "0037",
+                            "tboxName": "慶興宮",
+                            "addr": "彰化縣線西鄉下犁村下犁路82-1號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "下犁村",
+                            "tboxNo": "0038",
+                            "tboxName": "下犁社區活動中心",
+                            "addr": "彰化縣線西鄉下犁村下犁路139-1號",
+                            "neighbor": "11-17"
+                        }
+                    ],
+                    "liName": "下犁村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂犁村",
+                            "tboxNo": "0038",
+                            "tboxName": "下犁社區活動中心",
+                            "addr": "彰化縣線西鄉下犁村下犁路139-1號",
+                            "neighbor": "19"
+                        },
+                        {
+                            "ScopeLiName": "頂犁村",
+                            "tboxNo": "0039",
+                            "tboxName": "曉陽國小(一)",
+                            "addr": "彰化縣線西鄉頂犁村頂犁路158-1號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "頂犁村",
+                            "tboxNo": "0040",
+                            "tboxName": "曉陽國小(二)",
+                            "addr": "彰化縣線西鄉頂犁村頂犁路158-1號",
+                            "neighbor": "15-23"
+                        }
+                    ],
+                    "liName": "頂犁村"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹營里",
+                            "tboxNo": "0043",
+                            "tboxName": "和東國小(二)",
+                            "addr": "彰化縣和美鎮和東里彰美路五段210號",
+                            "neighbor": "12,15,20,10-15"
+                        },
+                        {
+                            "ScopeLiName": "竹營里",
+                            "tboxNo": "0044",
+                            "tboxName": "和東國小(三)",
+                            "addr": "彰化縣和美鎮和東里彰美路五段210號",
+                            "neighbor": "22,16-21,33"
+                        },
+                        {
+                            "ScopeLiName": "竹營里",
+                            "tboxNo": "0045",
+                            "tboxName": "和東國小(四)",
+                            "addr": "彰化縣和美鎮和東里彰美路五段210號",
+                            "neighbor": "22-26"
+                        }
+                    ],
+                    "liName": "竹營里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和東里",
+                            "tboxNo": "0050",
+                            "tboxName": "和東國小(九)",
+                            "addr": "彰化縣和美鎮和東里彰美路五段210號",
+                            "neighbor": "26"
+                        }
+                    ],
+                    "liName": "和東里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和北里",
+                            "tboxNo": "0052",
+                            "tboxName": "和美國小(二)",
+                            "addr": "彰化縣和美鎮和西里和平街19號",
+                            "neighbor": "2"
+                        },
+                        {
+                            "ScopeLiName": "和北里",
+                            "tboxNo": "0053",
+                            "tboxName": "和美國小(三)",
+                            "addr": "彰化縣和美鎮和西里和平街19號",
+                            "neighbor": "13"
+                        }
+                    ],
+                    "liName": "和北里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和西里",
+                            "tboxNo": "0055",
+                            "tboxName": "和美高中(二)",
+                            "addr": "彰化縣和美鎮和西里西園路31號",
+                            "neighbor": "17,20"
+                        }
+                    ],
+                    "liName": "和西里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "四張里",
+                            "tboxNo": "0057",
+                            "tboxName": "法玄宮廟",
+                            "addr": "彰化縣和美鎮四張里鎮西路212號",
+                            "neighbor": "1,2"
+                        },
+                        {
+                            "ScopeLiName": "四張里",
+                            "tboxNo": "0058",
+                            "tboxName": "四張社區活動中心",
+                            "addr": "彰化縣和美鎮四張里鎮西路74號",
+                            "neighbor": "6,12"
+                        }
+                    ],
+                    "liName": "四張里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頭前里",
+                            "tboxNo": "0059",
+                            "tboxName": "頭前社區活動中心",
+                            "addr": "彰化縣和美鎮頭前里和頭路595號",
+                            "neighbor": "1,5"
+                        },
+                        {
+                            "ScopeLiName": "頭前里",
+                            "tboxNo": "0060",
+                            "tboxName": "頭前社區活動中心",
+                            "addr": "彰化縣和美鎮頭前里和頭路595號",
+                            "neighbor": "9,10"
+                        }
+                    ],
+                    "liName": "頭前里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "面前里",
+                            "tboxNo": "0061",
+                            "tboxName": "面前里里民活動中心",
+                            "addr": "彰化縣和美鎮面前里和光路360巷臨36號",
+                            "neighbor": "1,11"
+                        },
+                        {
+                            "ScopeLiName": "面前里",
+                            "tboxNo": "0062",
+                            "tboxName": "面前社區活動中心",
+                            "addr": "彰化縣和美鎮面前里雅安路265號",
+                            "neighbor": "6,7,10"
+                        }
+                    ],
+                    "liName": "面前里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮平里",
+                            "tboxNo": "0063",
+                            "tboxName": "鎮平里活動中心",
+                            "addr": "彰化縣和美鎮鎮平里南平路11號",
+                            "neighbor": "1-4,6-9,18"
+                        },
+                        {
+                            "ScopeLiName": "鎮平里",
+                            "tboxNo": "0064",
+                            "tboxName": "鎮平里活動中心",
+                            "addr": "彰化縣和美鎮鎮平里南平路11號",
+                            "neighbor": "11,13-17"
+                        }
+                    ],
+                    "liName": "鎮平里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "源埤里",
+                            "tboxNo": "0067",
+                            "tboxName": "大榮國小(一)",
+                            "addr": "彰化縣和美鎮鎮平里嘉佃路296號",
+                            "neighbor": "1,2,7,13"
+                        },
+                        {
+                            "ScopeLiName": "源埤里",
+                            "tboxNo": "0068",
+                            "tboxName": "大榮國小(二)",
+                            "addr": "彰化縣和美鎮鎮平里嘉佃路296號",
+                            "neighbor": "9"
+                        }
+                    ],
+                    "liName": "源埤里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南佃里",
+                            "tboxNo": "0070",
+                            "tboxName": "南佃里集會所",
+                            "addr": "彰化縣和美鎮南佃里嘉佃路157號",
+                            "neighbor": "13-15"
+                        }
+                    ],
+                    "liName": "南佃里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "雅溝里",
+                            "tboxNo": "0071",
+                            "tboxName": "雅溝里活動中心",
+                            "addr": "彰化縣和美鎮雅溝里南軒路359巷7號",
+                            "neighbor": "5-7,10"
+                        }
+                    ],
+                    "liName": "雅溝里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山犁里",
+                            "tboxNo": "0074",
+                            "tboxName": "和仁國小(三)",
+                            "addr": "彰化縣和美鎮山犁里仁愛路279號",
+                            "neighbor": "15,19"
+                        },
+                        {
+                            "ScopeLiName": "山犁里",
+                            "tboxNo": "0075",
+                            "tboxName": "和仁國小(四)",
+                            "addr": "彰化縣和美鎮山犁里仁愛路279號",
+                            "neighbor": "20,22,26"
+                        }
+                    ],
+                    "liName": "山犁里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0077",
+                            "tboxName": "國立和美實驗學校(二)",
+                            "addr": "彰化縣和美鎮仁愛里鹿和路六段115號",
+                            "neighbor": "11,12,17"
+                        }
+                    ],
+                    "liName": "仁愛里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "嘉犁里",
+                            "tboxNo": "0078",
+                            "tboxName": "嘉犁社區活動中心",
+                            "addr": "彰化縣和美鎮嘉犁里東坡路臨22號",
+                            "neighbor": "4"
+                        },
+                        {
+                            "ScopeLiName": "嘉犁里",
+                            "tboxNo": "0079",
+                            "tboxName": "長壽俱樂部",
+                            "addr": "彰化縣和美鎮嘉犁里東坡路臨22號旁",
+                            "neighbor": "10,12,13"
+                        }
+                    ],
+                    "liName": "嘉犁里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "詔安里",
+                            "tboxNo": "0080",
+                            "tboxName": "詔安社區活動中心",
+                            "addr": "彰化縣和美鎮詔安里彰和路二段172號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "詔安里",
+                            "tboxNo": "0081",
+                            "tboxName": "濟明寺",
+                            "addr": "彰化縣和美鎮詔安里彰和路二段176號",
+                            "neighbor": "11,14,16,18,19"
+                        }
+                    ],
+                    "liName": "詔安里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鐵山里",
+                            "tboxNo": "0082",
+                            "tboxName": "鐵山里活動中心",
+                            "addr": "彰化縣和美鎮鐵山里鎮東路臨196號",
+                            "neighbor": "1,2,8,11,12"
+                        },
+                        {
+                            "ScopeLiName": "鐵山里",
+                            "tboxNo": "0083",
+                            "tboxName": "鐵山保生宮會館",
+                            "addr": "彰化縣和美鎮鐵山里鎮東路210號",
+                            "neighbor": "4,13,14,18,20,4,13-21"
+                        }
+                    ],
+                    "liName": "鐵山里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柑井里",
+                            "tboxNo": "0084",
+                            "tboxName": "和群國中(一)",
+                            "addr": "彰化縣和美鎮柑井里美寮路一段390號",
+                            "neighbor": "2"
+                        },
+                        {
+                            "ScopeLiName": "柑井里",
+                            "tboxNo": "0085",
+                            "tboxName": "和群國中(二)",
+                            "addr": "彰化縣和美鎮柑井里美寮路一段390號",
+                            "neighbor": "14-16"
+                        },
+                        {
+                            "ScopeLiName": "柑井里",
+                            "tboxNo": "0086",
+                            "tboxName": "和群國中(三)",
+                            "addr": "彰化縣和美鎮柑井里美寮路一段390號",
+                            "neighbor": "22"
+                        }
+                    ],
+                    "liName": "柑井里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹園里",
+                            "tboxNo": "0087",
+                            "tboxName": "竹園里活動中心",
+                            "addr": "彰化縣和美鎮竹園里彰新路四段115號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "竹園里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新庄里",
+                            "tboxNo": "0088",
+                            "tboxName": "新庄里活動中心(新)",
+                            "addr": "彰化縣和美鎮新庄里東發路100巷36-1號",
+                            "neighbor": "2"
+                        },
+                        {
+                            "ScopeLiName": "新庄里",
+                            "tboxNo": "0089",
+                            "tboxName": "新庄里活動中心(舊)",
+                            "addr": "彰化縣和美鎮新庄里東發路161巷底",
+                            "neighbor": "4"
+                        }
+                    ],
+                    "liName": "新庄里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "犁盛里",
+                            "tboxNo": "0090",
+                            "tboxName": "新庄國小(一)",
+                            "addr": "彰化縣和美鎮犁盛里彰新路二段500號",
+                            "neighbor": "3,20"
+                        },
+                        {
+                            "ScopeLiName": "犁盛里",
+                            "tboxNo": "0091",
+                            "tboxName": "犁盛社區活動中心",
+                            "addr": "彰化縣和美鎮犁盛里東平路221巷11號",
+                            "neighbor": "14,21,22"
+                        }
+                    ],
+                    "liName": "犁盛里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中圍里",
+                            "tboxNo": "0093",
+                            "tboxName": "中寮大庄社區關懷協會",
+                            "addr": "彰化縣和美鎮中圍里桂東路159巷18號",
+                            "neighbor": "5"
+                        },
+                        {
+                            "ScopeLiName": "中圍里",
+                            "tboxNo": "0094",
+                            "tboxName": "中圍社區活動中心",
+                            "addr": "彰化縣和美鎮中圍里竹社路125號",
+                            "neighbor": "14,18,20,23,24"
+                        },
+                        {
+                            "ScopeLiName": "中圍里",
+                            "tboxNo": "0095",
+                            "tboxName": "中圍社區長青會館(福德宮老人會館)",
+                            "addr": "彰化縣和美鎮中圍里彰新路三段636巷145號",
+                            "neighbor": "25-29"
+                        }
+                    ],
+                    "liName": "中圍里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "糖友里",
+                            "tboxNo": "0096",
+                            "tboxName": "英倫幼兒園(一)",
+                            "addr": "彰化縣和美鎮糖友里糖友二街1號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "糖友里",
+                            "tboxNo": "0097",
+                            "tboxName": "英倫幼兒園(二)",
+                            "addr": "彰化縣和美鎮糖友里糖友二街1號",
+                            "neighbor": "7-14"
+                        },
+                        {
+                            "ScopeLiName": "糖友里",
+                            "tboxNo": "0098",
+                            "tboxName": "新庄國小(二)",
+                            "addr": "彰化縣和美鎮犁盛里彰新路二段500號",
+                            "neighbor": "15-20"
+                        }
+                    ],
+                    "liName": "糖友里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "還社里",
+                            "tboxNo": "0100",
+                            "tboxName": "還社社區關懷據點",
+                            "addr": "彰化縣和美鎮還社里孝義路366巷6號",
+                            "neighbor": "4,6"
+                        }
+                    ],
+                    "liName": "還社里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "塗厝里",
+                            "tboxNo": "0101",
+                            "tboxName": "塗厝社區活動中心",
+                            "addr": "彰化縣和美鎮塗厝里和厝路二段485號",
+                            "neighbor": "8"
+                        },
+                        {
+                            "ScopeLiName": "塗厝里",
+                            "tboxNo": "0102",
+                            "tboxName": "培英國小",
+                            "addr": "彰化縣和美鎮塗厝里彰新路五段310號",
+                            "neighbor": "14"
+                        }
+                    ],
+                    "liName": "塗厝里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "地潭里",
+                            "tboxNo": "0103",
+                            "tboxName": "地潭里活動中心",
+                            "addr": "彰化縣和美鎮地潭里晉北路450號",
+                            "neighbor": "1,12"
+                        }
+                    ],
+                    "liName": "地潭里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖內里",
+                            "tboxNo": "0104",
+                            "tboxName": "湖內里活動中心",
+                            "addr": "彰化縣和美鎮湖內里湖竹路5號",
+                            "neighbor": "4,15"
+                        }
+                    ],
+                    "liName": "湖內里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "嘉寶里",
+                            "tboxNo": "0105",
+                            "tboxName": "嘉寶社區活動中心",
+                            "addr": "彰化縣和美鎮嘉寶里福北路219號",
+                            "neighbor": "2,7"
+                        },
+                        {
+                            "ScopeLiName": "嘉寶里",
+                            "tboxNo": "0106",
+                            "tboxName": "天福宮",
+                            "addr": "彰化縣和美鎮嘉寶里福北路221號",
+                            "neighbor": "17"
+                        }
+                    ],
+                    "liName": "嘉寶里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "月眉里",
+                            "tboxNo": "0108",
+                            "tboxName": "月眉社區活動中心(二)",
+                            "addr": "彰化縣和美鎮月眉里和厝路一段276號",
+                            "neighbor": "7,14"
+                        },
+                        {
+                            "ScopeLiName": "月眉里",
+                            "tboxNo": "0109",
+                            "tboxName": "月眉社區老人文康中心",
+                            "addr": "彰化縣和美鎮月眉里和厝路一段276號",
+                            "neighbor": "13,21"
+                        }
+                    ],
+                    "liName": "月眉里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "好修里",
+                            "tboxNo": "0111",
+                            "tboxName": "調興宮",
+                            "addr": "彰化縣和美鎮好修里西興路134號",
+                            "neighbor": "7,15"
+                        }
+                    ],
+                    "liName": "好修里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大有里",
+                            "tboxNo": "0114",
+                            "tboxName": "洛津國小",
+                            "addr": "彰化縣鹿港鎮洛津里公園三路５１號",
+                            "neighbor": "13"
+                        }
+                    ],
+                    "liName": "大有里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "洛津里",
+                            "tboxNo": "0114",
+                            "tboxName": "洛津國小",
+                            "addr": "彰化縣鹿港鎮洛津里公園三路５１號",
+                            "neighbor": "洛津里"
+                        }
+                    ],
+                    "liName": "洛津里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "順興里",
+                            "tboxNo": "0115",
+                            "tboxName": "鹿港鎮老人安養文康中心",
+                            "addr": "彰化縣鹿港鎮順興里忠孝路403號",
+                            "neighbor": "5,9"
+                        }
+                    ],
+                    "liName": "順興里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔崙里",
+                            "tboxNo": "0116",
+                            "tboxName": "鹿港鎮體育場",
+                            "addr": "彰化縣鹿港鎮埔崙里中正路531號",
+                            "neighbor": "1,2,4"
+                        },
+                        {
+                            "ScopeLiName": "埔崙里",
+                            "tboxNo": "0117",
+                            "tboxName": "鹿港鎮體育場",
+                            "addr": "彰化縣鹿港鎮埔崙里中正路531號",
+                            "neighbor": "9,12,13"
+                        },
+                        {
+                            "ScopeLiName": "埔崙里",
+                            "tboxNo": "0119",
+                            "tboxName": "鹿江國際中小學(自由路)",
+                            "addr": "彰化縣鹿港鎮埔崙里自由路300號 自由路校門 ",
+                            "neighbor": "19,21"
+                        },
+                        {
+                            "ScopeLiName": "埔崙里",
+                            "tboxNo": "0120",
+                            "tboxName": "鎮天宮",
+                            "addr": "彰化縣鹿港鎮埔崙里八德路26號",
+                            "neighbor": "14-17,20,23,24,26,27"
+                        }
+                    ],
+                    "liName": "埔崙里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東石里",
+                            "tboxNo": "0123",
+                            "tboxName": "鹿港高中",
+                            "addr": "彰化縣鹿港鎮東石里中山路661號",
+                            "neighbor": "1,4"
+                        },
+                        {
+                            "ScopeLiName": "東石里",
+                            "tboxNo": "0124",
+                            "tboxName": "鹿港高中",
+                            "addr": "彰化縣鹿港鎮東石里中山路661號",
+                            "neighbor": "17"
+                        }
+                    ],
+                    "liName": "東石里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永安里",
+                            "tboxNo": "0129",
+                            "tboxName": "鹿港國中",
+                            "addr": "彰化縣福興鄉橋頭村復興路78號",
+                            "neighbor": "8,12,14,6,7,11,13-18"
+                        }
+                    ],
+                    "liName": "永安里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍山里",
+                            "tboxNo": "0136",
+                            "tboxName": "鹿港國小",
+                            "addr": "彰化縣鹿港鎮菜園里三民路192號",
+                            "neighbor": "2,14"
+                        }
+                    ],
+                    "liName": "龍山里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "菜園里",
+                            "tboxNo": "0137",
+                            "tboxName": "鹿港國小",
+                            "addr": "彰化縣鹿港鎮菜園里三民路192號",
+                            "neighbor": "6,11,13,20,23"
+                        }
+                    ],
+                    "liName": "菜園里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "詔安里",
+                            "tboxNo": "0140",
+                            "tboxName": "竹安宮",
+                            "addr": "彰化縣鹿港鎮詔安里竹圍巷臨52之1號",
+                            "neighbor": "5,11"
+                        }
+                    ],
+                    "liName": "詔安里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "海埔里",
+                            "tboxNo": "0144",
+                            "tboxName": "海埔里里民集會所",
+                            "addr": "彰化縣鹿港鎮海埔里鹿草路二段197號",
+                            "neighbor": "13"
+                        }
+                    ],
+                    "liName": "海埔里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "草中里",
+                            "tboxNo": "0149",
+                            "tboxName": "慶安宮",
+                            "addr": "彰化縣鹿港鎮草中里慶安街臨65號",
+                            "neighbor": "4,14,25"
+                        },
+                        {
+                            "ScopeLiName": "草中里",
+                            "tboxNo": "0150",
+                            "tboxName": "草中社區活動中心",
+                            "addr": "彰化縣鹿港鎮草中里草中巷2之16號",
+                            "neighbor": "19,20,24"
+                        }
+                    ],
+                    "liName": "草中里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頭南里",
+                            "tboxNo": "0151",
+                            "tboxName": "鹿鳴國中",
+                            "addr": "彰化縣鹿港鎮頭南里頂草路3段167號",
+                            "neighbor": "5,6,8,9"
+                        }
+                    ],
+                    "liName": "頭南里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山崙里",
+                            "tboxNo": "0154",
+                            "tboxName": "山崙里集會所活動中心",
+                            "addr": "彰化縣鹿港鎮山崙里崙尾巷26之9號 福崙宮旁 ",
+                            "neighbor": "14"
+                        },
+                        {
+                            "ScopeLiName": "山崙里",
+                            "tboxNo": "0155",
+                            "tboxName": "崙尾福德正神",
+                            "addr": "彰化縣鹿港鎮山崙里崙尾巷98-20號",
+                            "neighbor": "17,18,20,21"
+                        }
+                    ],
+                    "liName": "山崙里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂番里",
+                            "tboxNo": "0157",
+                            "tboxName": "頂番國小",
+                            "addr": "彰化縣鹿港鎮頂番里頂草路1段100號",
+                            "neighbor": "1,2,21"
+                        },
+                        {
+                            "ScopeLiName": "頂番里",
+                            "tboxNo": "0159",
+                            "tboxName": "頂番社區活動中心",
+                            "addr": "彰化縣鹿港鎮頂番里彰頂路326巷138號",
+                            "neighbor": "14,15"
+                        }
+                    ],
+                    "liName": "頂番里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頭崙里",
+                            "tboxNo": "0160",
+                            "tboxName": "萬興宮委員辦公室",
+                            "addr": "彰化縣鹿港鎮頭崙里頂草路2段150號（原頭崙里集會所）",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "頭崙里",
+                            "tboxNo": "0162",
+                            "tboxName": "頭崙里社區長壽俱樂部",
+                            "addr": "彰化縣鹿港鎮頭崙里埔尾巷31號",
+                            "neighbor": "12-17"
+                        }
+                    ],
+                    "liName": "頭崙里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溝墘里",
+                            "tboxNo": "0166",
+                            "tboxName": "溝墘福德正神",
+                            "addr": "彰化縣鹿港鎮溝墘里溝墘巷332號旁",
+                            "neighbor": "15,16,22"
+                        }
+                    ],
+                    "liName": "溝墘里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廖厝里",
+                            "tboxNo": "0167",
+                            "tboxName": "慈靈宮",
+                            "addr": "彰化縣鹿港鎮廖厝里廖厝巷8號",
+                            "neighbor": "2,3,5,8"
+                        }
+                    ],
+                    "liName": "廖厝里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東崎里",
+                            "tboxNo": "0170",
+                            "tboxName": "東興國小",
+                            "addr": "彰化縣鹿港鎮東崎里東崎7巷52號",
+                            "neighbor": "2,3,6"
+                        },
+                        {
+                            "ScopeLiName": "東崎里",
+                            "tboxNo": "0171",
+                            "tboxName": "東興國小",
+                            "addr": "彰化縣鹿港鎮東崎里東崎7巷52號",
+                            "neighbor": "10,13"
+                        },
+                        {
+                            "ScopeLiName": "東崎里",
+                            "tboxNo": "0173",
+                            "tboxName": "富麗大鎮活動中心",
+                            "addr": "彰化縣鹿港鎮東崎里鹿東路2段667號",
+                            "neighbor": "22,23,25,26"
+                        }
+                    ],
+                    "liName": "東崎里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿東里",
+                            "tboxNo": "0174",
+                            "tboxName": "鹿東國小",
+                            "addr": "彰化縣鹿港鎮頂厝里長安路125號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "鹿東里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂厝里",
+                            "tboxNo": "0176",
+                            "tboxName": "鹿東國小",
+                            "addr": "彰化縣鹿港鎮頂厝里長安路125號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "頂厝里",
+                            "tboxNo": "0177",
+                            "tboxName": "鹿東國小",
+                            "addr": "彰化縣鹿港鎮頂厝里長安路125號",
+                            "neighbor": "8-13"
+                        },
+                        {
+                            "ScopeLiName": "頂厝里",
+                            "tboxNo": "0178",
+                            "tboxName": "鹿東國小",
+                            "addr": "彰化縣鹿港鎮頂厝里長安路125號",
+                            "neighbor": "14-18"
+                        }
+                    ],
+                    "liName": "頂厝里"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三汴村",
+                            "tboxNo": "0181",
+                            "tboxName": "三汴村集會活動中心",
+                            "addr": "彰化縣福興鄉三汴村彰水路346巷47號",
+                            "neighbor": "3,6"
+                        }
+                    ],
+                    "liName": "三汴村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬豐村",
+                            "tboxNo": "0182",
+                            "tboxName": "閭山天法堂會議室",
+                            "addr": "彰化縣福興鄉萬豐村萬豐巷14-36號",
+                            "neighbor": "3,4,5,8"
+                        }
+                    ],
+                    "liName": "萬豐村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "元中村",
+                            "tboxNo": "0183",
+                            "tboxName": "福興鄉立幼兒園東區分班(一)",
+                            "addr": "彰化縣福興鄉外埔村復興路15-15號",
+                            "neighbor": "2,4"
+                        },
+                        {
+                            "ScopeLiName": "元中村",
+                            "tboxNo": "0187",
+                            "tboxName": "大崙社區活動中心",
+                            "addr": "彰化縣福興鄉大崙村大崙街31-5號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "元中村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "外中村",
+                            "tboxNo": "0184",
+                            "tboxName": "外中社區活動中心",
+                            "addr": "彰化縣福興鄉外中村外中街234號隔壁",
+                            "neighbor": "2,5,9"
+                        }
+                    ],
+                    "liName": "外中村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "外埔村",
+                            "tboxNo": "0185",
+                            "tboxName": "福興鄉立幼兒園東區分班(二)",
+                            "addr": "彰化縣福興鄉外埔村復興路15-15號",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "外埔村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大崙村",
+                            "tboxNo": "0187",
+                            "tboxName": "大崙社區活動中心",
+                            "addr": "彰化縣福興鄉大崙村大崙街31-5號",
+                            "neighbor": "1,3,6"
+                        }
+                    ],
+                    "liName": "大崙村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "番婆村",
+                            "tboxNo": "0188",
+                            "tboxName": "日新國小",
+                            "addr": "彰化縣福興鄉番婆村彰鹿路6段546號",
+                            "neighbor": "3,4,5"
+                        },
+                        {
+                            "ScopeLiName": "番婆村",
+                            "tboxNo": "0189",
+                            "tboxName": "番婆社區活動中心",
+                            "addr": "彰化縣福興鄉番婆村番婆街臨16之1號",
+                            "neighbor": "7,9"
+                        }
+                    ],
+                    "liName": "番婆村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "橋頭村",
+                            "tboxNo": "0190",
+                            "tboxName": "鹿港國中(一)",
+                            "addr": "彰化縣福興鄉橋頭村復興路78號",
+                            "neighbor": "1,3,5"
+                        }
+                    ],
+                    "liName": "橋頭村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "社尾村",
+                            "tboxNo": "0192",
+                            "tboxName": "社尾社區活動中心",
+                            "addr": "彰化縣福興鄉社尾村浮景巷9之12號",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "社尾村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "番社村",
+                            "tboxNo": "0193",
+                            "tboxName": "永豐國小",
+                            "addr": "彰化縣福興鄉番社村番社街80號",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "番社村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西勢村",
+                            "tboxNo": "0194",
+                            "tboxName": "西勢國小(ㄧ)",
+                            "addr": "彰化縣福興鄉西勢村員鹿路2段412號",
+                            "neighbor": "1,8"
+                        },
+                        {
+                            "ScopeLiName": "西勢村",
+                            "tboxNo": "0195",
+                            "tboxName": "西勢國小(二)",
+                            "addr": "彰化縣福興鄉西勢村員鹿路2段412號",
+                            "neighbor": "4"
+                        }
+                    ],
+                    "liName": "西勢村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "秀厝村",
+                            "tboxNo": "0199",
+                            "tboxName": "秀厝社區活動中心",
+                            "addr": "彰化縣福興鄉秀厝村秀厝二街147號",
+                            "neighbor": "11,14"
+                        }
+                    ],
+                    "liName": "秀厝村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0200",
+                            "tboxName": "福興社區活動中心",
+                            "addr": "彰化縣福興鄉福興村福興路50號隔壁",
+                            "neighbor": "1,4"
+                        },
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0201",
+                            "tboxName": "福興鄉立幼兒園(一)",
+                            "addr": "彰化縣福興鄉福興村福興路51巷12號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "福興村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福南村",
+                            "tboxNo": "0203",
+                            "tboxName": "福興鄉立幼兒園(三)",
+                            "addr": "彰化縣福興鄉福興村福興路51巷12號",
+                            "neighbor": "2,6"
+                        }
+                    ],
+                    "liName": "福南村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮平村",
+                            "tboxNo": "0205",
+                            "tboxName": "文昌國小",
+                            "addr": "彰化縣福興鄉鎮平村鎮平街1號",
+                            "neighbor": "3,8"
+                        }
+                    ],
+                    "liName": "鎮平村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "二港村",
+                            "tboxNo": "0207",
+                            "tboxName": "二港社區活動中心",
+                            "addr": "彰化縣福興鄉二港村福正路21巷13之33號",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "二港村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福寶村",
+                            "tboxNo": "0208",
+                            "tboxName": "福寶社區中心",
+                            "addr": "彰化縣福興鄉福寶村新生路24之10號",
+                            "neighbor": "1"
+                        }
+                    ],
+                    "liName": "福寶村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廈粘村",
+                            "tboxNo": "0212",
+                            "tboxName": "廈粘社區活動中心",
+                            "addr": "彰化縣福興鄉廈粘村廈粘街71號",
+                            "neighbor": "11,13"
+                        }
+                    ],
+                    "liName": "廈粘村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂粘村",
+                            "tboxNo": "0212",
+                            "tboxName": "廈粘社區活動中心",
+                            "addr": "彰化縣福興鄉廈粘村廈粘街71號",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "頂粘村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "麥厝村",
+                            "tboxNo": "0213",
+                            "tboxName": "九天寺廟餐廳〈一〉",
+                            "addr": "彰化縣福興鄉麥厝村麥厝街55-2號",
+                            "neighbor": "4,9"
+                        },
+                        {
+                            "ScopeLiName": "麥厝村",
+                            "tboxNo": "0214",
+                            "tboxName": "九天寺廟餐廳〈二〉",
+                            "addr": "彰化縣福興鄉麥厝村麥厝街55-2號",
+                            "neighbor": "12-23"
+                        }
+                    ],
+                    "liName": "麥厝村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "秀水村",
+                            "tboxNo": "0215",
+                            "tboxName": "港墘社區活動中心",
+                            "addr": "彰化縣秀水鄉秀水村開南巷87號",
+                            "neighbor": "15,17"
+                        },
+                        {
+                            "ScopeLiName": "秀水村",
+                            "tboxNo": "0216",
+                            "tboxName": "華龍國小",
+                            "addr": "彰化縣秀水鄉秀水村花秀路51號",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "秀水村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安溪村",
+                            "tboxNo": "0217",
+                            "tboxName": "安溪社區活動中心",
+                            "addr": "彰化縣秀水鄉安溪村安溪街98號",
+                            "neighbor": "003,007"
+                        },
+                        {
+                            "ScopeLiName": "安溪村",
+                            "tboxNo": "0218",
+                            "tboxName": "玄德廟",
+                            "addr": "彰化縣秀水鄉安溪村彰水路一段692巷臨32號",
+                            "neighbor": "8,10-14,16,17"
+                        }
+                    ],
+                    "liName": "安溪村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "莊雅村",
+                            "tboxNo": "0219",
+                            "tboxName": "老人文康中心",
+                            "addr": "彰化縣秀水鄉莊雅村中山路99號",
+                            "neighbor": "18"
+                        },
+                        {
+                            "ScopeLiName": "莊雅村",
+                            "tboxNo": "0220",
+                            "tboxName": "秀水國小(一)",
+                            "addr": "彰化縣秀水鄉安東村中山路257號",
+                            "neighbor": "03,14,18"
+                        },
+                        {
+                            "ScopeLiName": "莊雅村",
+                            "tboxNo": "0221",
+                            "tboxName": "莊雅社區活動中心",
+                            "addr": "彰化縣秀水鄉莊雅村秀中街82巷67弄3號",
+                            "neighbor": "14"
+                        }
+                    ],
+                    "liName": "莊雅村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金興村",
+                            "tboxNo": "0224",
+                            "tboxName": "金興增建社區活動中心",
+                            "addr": "彰化縣秀水鄉金興村新興街123號",
+                            "neighbor": "011"
+                        },
+                        {
+                            "ScopeLiName": "金興村",
+                            "tboxNo": "0225",
+                            "tboxName": "金興舊社區活動中心",
+                            "addr": "彰化縣秀水鄉金興村正興路126巷臨9號",
+                            "neighbor": "004,009"
+                        }
+                    ],
+                    "liName": "金興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安東村",
+                            "tboxNo": "0226",
+                            "tboxName": "秀水國小(二)",
+                            "addr": "彰化縣秀水鄉安東村中山路257號",
+                            "neighbor": "1,2,8,9"
+                        },
+                        {
+                            "ScopeLiName": "安東村",
+                            "tboxNo": "0227",
+                            "tboxName": "秀水國小(三)",
+                            "addr": "彰化縣秀水鄉安東村安東村中山路257號",
+                            "neighbor": "30-31"
+                        },
+                        {
+                            "ScopeLiName": "安東村",
+                            "tboxNo": "0229",
+                            "tboxName": "安東社區活動中心",
+                            "addr": "彰化縣秀水鄉安東村安東村枋林巷60號",
+                            "neighbor": "017,022"
+                        }
+                    ],
+                    "liName": "安東村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鶴鳴村",
+                            "tboxNo": "0230",
+                            "tboxName": "秀水鄉立體育館",
+                            "addr": "彰化縣秀水鄉安東村瓦磘街17號",
+                            "neighbor": "2"
+                        },
+                        {
+                            "ScopeLiName": "鶴鳴村",
+                            "tboxNo": "0231",
+                            "tboxName": "鶴鳴社區活動中心",
+                            "addr": "彰化縣秀水鄉鶴鳴村鶴鳴村明山街臨182號",
+                            "neighbor": "005,010,012"
+                        },
+                        {
+                            "ScopeLiName": "鶴鳴村",
+                            "tboxNo": "0232",
+                            "tboxName": "頭前增建社區活動中心",
+                            "addr": "彰化縣秀水鄉鶴鳴村永興巷臨61號",
+                            "neighbor": "016"
+                        }
+                    ],
+                    "liName": "鶴鳴村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "馬興村",
+                            "tboxNo": "0234",
+                            "tboxName": "馬興國小東側教室(一)",
+                            "addr": "彰化縣秀水鄉馬興村培英巷1號",
+                            "neighbor": "8"
+                        },
+                        {
+                            "ScopeLiName": "馬興村",
+                            "tboxNo": "0235",
+                            "tboxName": "馬興國小東側教室(二)",
+                            "addr": "彰化縣秀水鄉馬興村培英巷1號",
+                            "neighbor": "10-11"
+                        },
+                        {
+                            "ScopeLiName": "馬興村",
+                            "tboxNo": "0236",
+                            "tboxName": "馬興村集會所",
+                            "addr": "彰化縣秀水鄉馬興村雅興街260巷8-1號",
+                            "neighbor": "13,15"
+                        }
+                    ],
+                    "liName": "馬興村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福安村",
+                            "tboxNo": "0239",
+                            "tboxName": "福安增建社區活動中心(後厝)",
+                            "addr": "彰化縣秀水鄉福安村長美巷40號附近",
+                            "neighbor": "001"
+                        },
+                        {
+                            "ScopeLiName": "福安村",
+                            "tboxNo": "0240",
+                            "tboxName": "秀水高工教室",
+                            "addr": "彰化縣秀水鄉福安村中山路364號",
+                            "neighbor": "11"
+                        },
+                        {
+                            "ScopeLiName": "福安村",
+                            "tboxNo": "0241",
+                            "tboxName": "福安社區活動中心(清龍岩樓下)",
+                            "addr": "彰化縣秀水鄉福安村民意街64號",
+                            "neighbor": "14"
+                        },
+                        {
+                            "ScopeLiName": "福安村",
+                            "tboxNo": "0243",
+                            "tboxName": "秀水鄉立幼兒園",
+                            "addr": "彰化縣秀水鄉福安村復新街7號",
+                            "neighbor": "22"
+                        }
+                    ],
+                    "liName": "福安村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔崙村",
+                            "tboxNo": "0244",
+                            "tboxName": "埔崙社區活動中心",
+                            "addr": "彰化縣秀水鄉埔崙村蘇周巷臨162號",
+                            "neighbor": "001,004"
+                        },
+                        {
+                            "ScopeLiName": "埔崙村",
+                            "tboxNo": "0245",
+                            "tboxName": "明正國小",
+                            "addr": "彰化縣秀水鄉埔崙村彰水路二段341號",
+                            "neighbor": "012,015"
+                        }
+                    ],
+                    "liName": "埔崙村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "曾厝村",
+                            "tboxNo": "0247",
+                            "tboxName": "林四福堂",
+                            "addr": "彰化縣秀水鄉曾厝村西平巷15號",
+                            "neighbor": "009,012"
+                        }
+                    ],
+                    "liName": "曾厝村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金陵村",
+                            "tboxNo": "0248",
+                            "tboxName": "金陵集會所",
+                            "addr": "彰化縣秀水鄉金陵村竹圍巷3號",
+                            "neighbor": "6"
+                        },
+                        {
+                            "ScopeLiName": "金陵村",
+                            "tboxNo": "0249",
+                            "tboxName": "玉陵宮",
+                            "addr": "彰化縣秀水鄉金陵村番花路450巷46號",
+                            "neighbor": "7,13,15"
+                        }
+                    ],
+                    "liName": "金陵村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下崙村",
+                            "tboxNo": "0250",
+                            "tboxName": "天慈宮東側",
+                            "addr": "彰化縣秀水鄉下崙村民生街206號",
+                            "neighbor": "4"
+                        },
+                        {
+                            "ScopeLiName": "下崙村",
+                            "tboxNo": "0252",
+                            "tboxName": "惠來社區活動中心",
+                            "addr": "彰化縣秀水鄉下崙村三聖巷15號",
+                            "neighbor": "018"
+                        }
+                    ],
+                    "liName": "下崙村"
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "桃源里",
+                            "tboxNo": "0253",
+                            "tboxName": "泰源宮",
+                            "addr": "彰化縣彰化市桃源里公園路2段192號",
+                            "neighbor": "5,7"
+                        },
+                        {
+                            "ScopeLiName": "桃源里",
+                            "tboxNo": "0254",
+                            "tboxName": "坑仔內老人會館(一)",
+                            "addr": "彰化縣彰化市桃源里公園路2段192號",
+                            "neighbor": "13"
+                        }
+                    ],
+                    "liName": "桃源里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東興里",
+                            "tboxNo": "0256",
+                            "tboxName": "華陽聯合社區活動中心",
+                            "addr": "彰化縣彰化市華北里旭光路69號4樓",
+                            "neighbor": "1-8,15,24"
+                        },
+                        {
+                            "ScopeLiName": "東興里",
+                            "tboxNo": "0257",
+                            "tboxName": "基督教彰化浸信會",
+                            "addr": "彰化縣彰化市東興里公園路一段10號",
+                            "neighbor": "9,11-14,16-22"
+                        }
+                    ],
+                    "liName": "東興里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "華陽里",
+                            "tboxNo": "0260",
+                            "tboxName": "國立彰化高商(一)",
+                            "addr": "彰化縣彰化市華陽里南郭路1段326號",
+                            "neighbor": "11"
+                        },
+                        {
+                            "ScopeLiName": "華陽里",
+                            "tboxNo": "0261",
+                            "tboxName": "國立彰化高商(二)",
+                            "addr": "彰化縣彰化市華陽里南郭路1段326號",
+                            "neighbor": "17-26"
+                        }
+                    ],
+                    "liName": "華陽里"
+                },
+                {
+                    "liCode": "048",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建寶里",
+                            "tboxNo": "0264",
+                            "tboxName": "南郭國小(一)",
+                            "addr": "彰化縣彰化市介壽里中興路98號",
+                            "neighbor": "2,7"
+                        },
+                        {
+                            "ScopeLiName": "建寶里",
+                            "tboxNo": "0265",
+                            "tboxName": "南郭國小(二)",
+                            "addr": "彰化縣彰化市介壽里中興路98號",
+                            "neighbor": "18,22"
+                        }
+                    ],
+                    "liName": "建寶里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光南里",
+                            "tboxNo": "0267",
+                            "tboxName": "南郭國小(四)",
+                            "addr": "彰化縣彰化市介壽里中興路98號",
+                            "neighbor": "8-16"
+                        }
+                    ],
+                    "liName": "光南里"
+                },
+                {
+                    "liCode": "046",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "介壽里",
+                            "tboxNo": "0268",
+                            "tboxName": "介壽里活動中心",
+                            "addr": "彰化縣彰化市介壽里介壽新村21號",
+                            "neighbor": "4"
+                        },
+                        {
+                            "ScopeLiName": "介壽里",
+                            "tboxNo": "0269",
+                            "tboxName": "南郭國小(五)",
+                            "addr": "彰化縣彰化市介壽里中興路98號",
+                            "neighbor": "15,20"
+                        }
+                    ],
+                    "liName": "介壽里"
+                },
+                {
+                    "liCode": "047",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0270",
+                            "tboxName": "延平社區活動中心(一)",
+                            "addr": "彰化縣彰化市延平里文心街55號",
+                            "neighbor": "1-2,37-38"
+                        },
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0271",
+                            "tboxName": "延平社區活動中心(二)",
+                            "addr": "彰化縣彰化市延平里文心街55號",
+                            "neighbor": "3-4,9,18-19,39"
+                        },
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0275",
+                            "tboxName": "蘭大衛紀念教會(二)",
+                            "addr": "彰化縣彰化市延平里埔陽街60號",
+                            "neighbor": "30,40-43,47,40,41,42"
+                        }
+                    ],
+                    "liName": "延平里"
+                },
+                {
+                    "liCode": "041",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延和里",
+                            "tboxNo": "0278",
+                            "tboxName": "慈恩寺後方活動中心",
+                            "addr": "彰化縣彰化市延和里埔內街22號",
+                            "neighbor": "1,12-16"
+                        },
+                        {
+                            "ScopeLiName": "延和里",
+                            "tboxNo": "0279",
+                            "tboxName": "延和社區活動中心媽媽教室",
+                            "addr": "彰化縣彰化市延和里埔西街111號",
+                            "neighbor": "2-4,7,17,18"
+                        },
+                        {
+                            "ScopeLiName": "延和里",
+                            "tboxNo": "0281",
+                            "tboxName": "延和社區活動中心大廳(二)",
+                            "addr": "彰化縣彰化市延和里埔西街111號",
+                            "neighbor": "8,9,11,21"
+                        }
+                    ],
+                    "liName": "延和里"
+                },
+                {
+                    "liCode": "042",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南興里",
+                            "tboxNo": "0282",
+                            "tboxName": "南興國小(一)",
+                            "addr": "彰化縣彰化市南興里中山路1段213號",
+                            "neighbor": "1-5,35"
+                        },
+                        {
+                            "ScopeLiName": "南興里",
+                            "tboxNo": "0283",
+                            "tboxName": "南興國小(二)",
+                            "addr": "彰化縣彰化市南興里中山路1段213號",
+                            "neighbor": "6,19,20"
+                        },
+                        {
+                            "ScopeLiName": "南興里",
+                            "tboxNo": "0284",
+                            "tboxName": "南興社區活動中心",
+                            "addr": "彰化縣彰化市南興里中山路1段189巷49號",
+                            "neighbor": "11-13,23-25"
+                        },
+                        {
+                            "ScopeLiName": "南興里",
+                            "tboxNo": "0286",
+                            "tboxName": "南興國小(四)",
+                            "addr": "彰化縣彰化市南興里中山路1段213號",
+                            "neighbor": "9-10,21-22,33-34"
+                        }
+                    ],
+                    "liName": "南興里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南瑶里",
+                            "tboxNo": "0288",
+                            "tboxName": "南瑤宮(臨時行宮前)",
+                            "addr": "彰化縣彰化市南瑶里南瑤路43號",
+                            "neighbor": "1,2,16,18,19,29"
+                        },
+                        {
+                            "ScopeLiName": "南瑶里",
+                            "tboxNo": "0289",
+                            "tboxName": "南瑤宮(北西側)",
+                            "addr": "彰化縣彰化市南瑶里南瑤路43號",
+                            "neighbor": "8-9,17,35"
+                        }
+                    ],
+                    "liName": "南瑶里"
+                },
+                {
+                    "liCode": "049",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福安里",
+                            "tboxNo": "0297",
+                            "tboxName": "鎮南宮太歲殿",
+                            "addr": "彰化縣彰化市福安里南瑤路372號",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "福安里"
+                },
+                {
+                    "liCode": "043",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0298",
+                            "tboxName": "西安社區活動中心",
+                            "addr": "彰化縣彰化市西安里民族路369號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "西安里"
+                },
+                {
+                    "liCode": "044",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "彰安里",
+                            "tboxNo": "0302",
+                            "tboxName": "彰安國中(四)",
+                            "addr": "彰化縣彰化市彰安里中正路2段530號",
+                            "neighbor": "11-17"
+                        }
+                    ],
+                    "liName": "彰安里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠權里",
+                            "tboxNo": "0317",
+                            "tboxName": "忠孝國小(六)",
+                            "addr": "彰化縣彰化市西勢里忠誠路61號",
+                            "neighbor": "16"
+                        }
+                    ],
+                    "liName": "忠權里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五權里",
+                            "tboxNo": "0319",
+                            "tboxName": "忠孝國小(七)",
+                            "addr": "彰化縣彰化市西勢里忠誠路61號",
+                            "neighbor": "5,12"
+                        },
+                        {
+                            "ScopeLiName": "五權里",
+                            "tboxNo": "0320",
+                            "tboxName": "忠孝國小(八)",
+                            "addr": "彰化縣彰化市西勢里忠誠路61號",
+                            "neighbor": "13,15"
+                        },
+                        {
+                            "ScopeLiName": "五權里",
+                            "tboxNo": "0321",
+                            "tboxName": "忠孝國小(九)",
+                            "addr": "彰化縣彰化市西勢里忠誠路61號",
+                            "neighbor": "4,8"
+                        },
+                        {
+                            "ScopeLiName": "五權里",
+                            "tboxNo": "0322",
+                            "tboxName": "忠孝國小(十)",
+                            "addr": "彰化縣彰化市西勢里忠誠路61號",
+                            "neighbor": "17,18"
+                        }
+                    ],
+                    "liName": "五權里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平和里",
+                            "tboxNo": "0325",
+                            "tboxName": "精誠中學(三)",
+                            "addr": "彰化縣彰化市平和里林森路200號",
+                            "neighbor": "15"
+                        },
+                        {
+                            "ScopeLiName": "平和里",
+                            "tboxNo": "0326",
+                            "tboxName": "精誠中學(四)",
+                            "addr": "彰化縣彰化市平和里林森路200號",
+                            "neighbor": "19"
+                        }
+                    ],
+                    "liName": "平和里"
+                },
+                {
+                    "liCode": "072",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙平里",
+                            "tboxNo": "0329",
+                            "tboxName": "平和國小建和分校(一)",
+                            "addr": "彰化縣彰化市崙平里建中街60號2樓",
+                            "neighbor": "10"
+                        },
+                        {
+                            "ScopeLiName": "崙平里",
+                            "tboxNo": "0330",
+                            "tboxName": "平和國小建和分校(二)",
+                            "addr": "彰化縣彰化市崙平里建中街60號2樓",
+                            "neighbor": "14-17,19"
+                        }
+                    ],
+                    "liName": "崙平里"
+                },
+                {
+                    "liCode": "073",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "向陽里",
+                            "tboxNo": "0333",
+                            "tboxName": "信義國中小學(二)",
+                            "addr": "彰化縣彰化市向陽里向陽街168號",
+                            "neighbor": "5-7"
+                        }
+                    ],
+                    "liName": "向陽里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南安里",
+                            "tboxNo": "0342",
+                            "tboxName": "南安社區活動中心",
+                            "addr": "彰化縣彰化市南安里彰鹿路120巷147弄18號",
+                            "neighbor": "2,7,10"
+                        }
+                    ],
+                    "liName": "南安里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東芳里",
+                            "tboxNo": "0346",
+                            "tboxName": "東芳國小(二)",
+                            "addr": "彰化縣彰化市東芳里彰馬路45號",
+                            "neighbor": "18,15,17"
+                        }
+                    ],
+                    "liName": "東芳里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "磚磘里",
+                            "tboxNo": "0347",
+                            "tboxName": "竹篙崙百姓公廟",
+                            "addr": "彰化縣彰化市磚磘里芳草路2號 芳草街、彰草路交叉路口 ",
+                            "neighbor": "1-3,14-15"
+                        }
+                    ],
+                    "liName": "磚磘里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中正里",
+                            "tboxNo": "0356",
+                            "tboxName": "南山寺(二)",
+                            "addr": "彰化縣彰化市中正里中山路2段651號",
+                            "neighbor": "20,21"
+                        }
+                    ],
+                    "liName": "中正里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0357",
+                            "tboxName": "中山國小(一)",
+                            "addr": "彰化縣彰化市中山里中山路2段678號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0360",
+                            "tboxName": "新興華社區活動中心(一)",
+                            "addr": "彰化縣彰化市新興里彰新路1段117號",
+                            "neighbor": "1-2,10-12,16-18"
+                        },
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0361",
+                            "tboxName": "新興華社區活動中心(二)",
+                            "addr": "彰化縣彰化市新興里彰新路1段１１７號",
+                            "neighbor": "3-9"
+                        },
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0362",
+                            "tboxName": "台電電力修護處中部分處",
+                            "addr": "彰化縣彰化市新興里金馬路2段643號",
+                            "neighbor": "13-15,27-28"
+                        },
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0363",
+                            "tboxName": "新興華社區活動中心(三)",
+                            "addr": "彰化縣彰化市新興里彰新路1段117號",
+                            "neighbor": "19-24"
+                        },
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0364",
+                            "tboxName": "新興華社區活動中心(四)",
+                            "addr": "彰化縣彰化市新興里彰新路1段117號",
+                            "neighbor": "25-26,29-33"
+                        }
+                    ],
+                    "liName": "新興里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興北里",
+                            "tboxNo": "0367",
+                            "tboxName": "民生國小(一)(民生路)",
+                            "addr": "彰化縣彰化市民生里民生路338號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "興北里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民生里",
+                            "tboxNo": "0371",
+                            "tboxName": "民生國小(五)(陽明街)",
+                            "addr": "彰化縣彰化市民生里民生路338號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "民生里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0372",
+                            "tboxName": "民生國小(六)(陽明街)",
+                            "addr": "彰化縣彰化市民生里民生路338號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "文化里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "陽明里",
+                            "tboxNo": "0375",
+                            "tboxName": "陽明國中(二)",
+                            "addr": "彰化縣彰化市陽明里長順街76號",
+                            "neighbor": "20"
+                        }
+                    ],
+                    "liName": "陽明里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬安里",
+                            "tboxNo": "0379",
+                            "tboxName": "陽明國中(四)",
+                            "addr": "彰化縣彰化市陽明里長順街76號",
+                            "neighbor": "28"
+                        }
+                    ],
+                    "liName": "萬安里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下廍里",
+                            "tboxNo": "0380",
+                            "tboxName": "彰泰國中(一)",
+                            "addr": "彰化縣彰化市下廍里自強路357號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "下廍里",
+                            "tboxNo": "0381",
+                            "tboxName": "彰泰國中(二)",
+                            "addr": "彰化縣彰化市下廍里自強路357號",
+                            "neighbor": "6-12"
+                        },
+                        {
+                            "ScopeLiName": "下廍里",
+                            "tboxNo": "0382",
+                            "tboxName": "彰泰國中(三)",
+                            "addr": "彰化縣彰化市下廍里自強路357號",
+                            "neighbor": "13-16,23"
+                        },
+                        {
+                            "ScopeLiName": "下廍里",
+                            "tboxNo": "0383",
+                            "tboxName": "彰泰國中(四)",
+                            "addr": "彰化縣彰化市下廍里自強路357號",
+                            "neighbor": "17-22"
+                        },
+                        {
+                            "ScopeLiName": "下廍里",
+                            "tboxNo": "0384",
+                            "tboxName": "彰泰國中(五)",
+                            "addr": "彰化縣彰化市下廍里自強路357號",
+                            "neighbor": "24-28"
+                        }
+                    ],
+                    "liName": "下廍里"
+                },
+                {
+                    "liCode": "060",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "茄苳里",
+                            "tboxNo": "0386",
+                            "tboxName": "茄南社區活動中心(一)",
+                            "addr": "彰化縣彰化市茄南里金馬路2段260號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "茄苳里"
+                },
+                {
+                    "liCode": "061",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "茄南里",
+                            "tboxNo": "0388",
+                            "tboxName": "茄南社區活動中心(三)",
+                            "addr": "彰化縣彰化市茄南里金馬路2段260號2樓",
+                            "neighbor": "14"
+                        }
+                    ],
+                    "liName": "茄南里"
+                },
+                {
+                    "liCode": "059",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寶廍里",
+                            "tboxNo": "0389",
+                            "tboxName": "寶廍社區活動中心",
+                            "addr": "彰化縣彰化市寶廍里寶廍路139號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "寶廍里"
+                },
+                {
+                    "liCode": "063",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古夷里",
+                            "tboxNo": "0390",
+                            "tboxName": "泰興宮",
+                            "addr": "彰化縣彰化市古夷里泰和路3段385號",
+                            "neighbor": "3,5"
+                        }
+                    ],
+                    "liName": "古夷里"
+                },
+                {
+                    "liCode": "062",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "阿夷里",
+                            "tboxNo": "0393",
+                            "tboxName": "泰和國小(一)",
+                            "addr": "彰化縣彰化市阿夷里泰和路2段145巷1號",
+                            "neighbor": "1,19,21,27"
+                        },
+                        {
+                            "ScopeLiName": "阿夷里",
+                            "tboxNo": "0394",
+                            "tboxName": "泰和國小(二)",
+                            "addr": "彰化縣彰化市阿夷里泰和路2段145巷1號",
+                            "neighbor": "24"
+                        },
+                        {
+                            "ScopeLiName": "阿夷里",
+                            "tboxNo": "0395",
+                            "tboxName": "泰和國小(三)",
+                            "addr": "彰化縣彰化市阿夷里泰和路2段145巷1號",
+                            "neighbor": "17"
+                        },
+                        {
+                            "ScopeLiName": "阿夷里",
+                            "tboxNo": "0397",
+                            "tboxName": "泰和國小(五)",
+                            "addr": "彰化縣彰化市阿夷里泰和路2段145巷1號",
+                            "neighbor": "18,22"
+                        }
+                    ],
+                    "liName": "阿夷里"
+                },
+                {
+                    "liCode": "065",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和調里",
+                            "tboxNo": "0401",
+                            "tboxName": "彰師大附工(二)",
+                            "addr": "彰化縣彰化市和調里工校街1號",
+                            "neighbor": "8"
+                        },
+                        {
+                            "ScopeLiName": "和調里",
+                            "tboxNo": "0402",
+                            "tboxName": "彰師大附工(三)",
+                            "addr": "彰化縣彰化市和調里工校街1號",
+                            "neighbor": "20"
+                        }
+                    ],
+                    "liName": "和調里"
+                },
+                {
+                    "liCode": "064",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0405",
+                            "tboxName": "朝天堂",
+                            "addr": "彰化縣彰化市復興里竹和路77號",
+                            "neighbor": "15,17"
+                        }
+                    ],
+                    "liName": "復興里"
+                },
+                {
+                    "liCode": "056",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中庄里",
+                            "tboxNo": "0407",
+                            "tboxName": "清雲寺",
+                            "addr": "彰化縣彰化市中庄里中山路3段410巷13號",
+                            "neighbor": "1,14"
+                        },
+                        {
+                            "ScopeLiName": "中庄里",
+                            "tboxNo": "0408",
+                            "tboxName": "福壽廟",
+                            "addr": "彰化縣彰化市中庄里中山路3段410巷21之2號旁",
+                            "neighbor": "2-6,15,16"
+                        }
+                    ],
+                    "liName": "中庄里"
+                },
+                {
+                    "liCode": "051",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹中里",
+                            "tboxNo": "0410",
+                            "tboxName": "台灣基督長老教會梅鑒霧紀念教會",
+                            "addr": "彰化縣彰化市竹中里彰南路2段55巷7號",
+                            "neighbor": "3"
+                        },
+                        {
+                            "ScopeLiName": "竹中里",
+                            "tboxNo": "0433",
+                            "tboxName": "大竹國小(一)",
+                            "addr": "彰化縣彰化市大竹里彰南路2段164巷41號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "竹中里"
+                },
+                {
+                    "liCode": "053",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "香山里",
+                            "tboxNo": "0411",
+                            "tboxName": "彰德國中(一)",
+                            "addr": "彰化縣彰化市香山里彰南路2段512巷97號",
+                            "neighbor": "6"
+                        },
+                        {
+                            "ScopeLiName": "香山里",
+                            "tboxNo": "0413",
+                            "tboxName": "彰德國中(三)",
+                            "addr": "彰化縣彰化市香山里彰南路2段512巷97號",
+                            "neighbor": "16"
+                        }
+                    ],
+                    "liName": "香山里"
+                },
+                {
+                    "liCode": "054",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "牛埔里",
+                            "tboxNo": "0415",
+                            "tboxName": "牛埔社區活動中心",
+                            "addr": "彰化縣彰化市牛埔里彰南路3段232號",
+                            "neighbor": "6,21"
+                        },
+                        {
+                            "ScopeLiName": "牛埔里",
+                            "tboxNo": "0416",
+                            "tboxName": "外快官老人會",
+                            "addr": "彰化縣彰化市牛埔里一德南路31巷29之1號",
+                            "neighbor": "9"
+                        }
+                    ],
+                    "liName": "牛埔里"
+                },
+                {
+                    "liCode": "071",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "台鳳里",
+                            "tboxNo": "0417",
+                            "tboxName": "廣鳳宮後活動中心",
+                            "addr": "彰化縣彰化市台鳳里互助一街臨42號",
+                            "neighbor": "1,3,4,8"
+                        },
+                        {
+                            "ScopeLiName": "台鳳里",
+                            "tboxNo": "0418",
+                            "tboxName": "廣鳳宮前廣場(倉庫側)",
+                            "addr": "彰化縣彰化市台鳳里互助一街臨42號",
+                            "neighbor": "5,6,7"
+                        },
+                        {
+                            "ScopeLiName": "台鳳里",
+                            "tboxNo": "0419",
+                            "tboxName": "廣鳳宮",
+                            "addr": "彰化縣彰化市台鳳里互助一街臨42號",
+                            "neighbor": "2,12"
+                        },
+                        {
+                            "ScopeLiName": "台鳳里",
+                            "tboxNo": "0420",
+                            "tboxName": "廣鳳宮文教中心",
+                            "addr": "彰化縣彰化市台鳳里互助一街臨42號",
+                            "neighbor": "11,14,15,16"
+                        }
+                    ],
+                    "liName": "台鳳里"
+                },
+                {
+                    "liCode": "058",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國聖里",
+                            "tboxNo": "0422",
+                            "tboxName": "國聖社區活動中心",
+                            "addr": "彰化縣彰化市國聖里國聖路175巷139號",
+                            "neighbor": "8,9"
+                        }
+                    ],
+                    "liName": "國聖里"
+                },
+                {
+                    "liCode": "055",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福山里",
+                            "tboxNo": "0424",
+                            "tboxName": "六川電梯工業股份有限公司",
+                            "addr": "彰化縣彰化市福山里彰南路1段300巷21號",
+                            "neighbor": "3"
+                        },
+                        {
+                            "ScopeLiName": "福山里",
+                            "tboxNo": "0425",
+                            "tboxName": "福壽堂",
+                            "addr": "彰化縣彰化市福山里彰南路1段300巷36號",
+                            "neighbor": "9"
+                        },
+                        {
+                            "ScopeLiName": "福山里",
+                            "tboxNo": "0426",
+                            "tboxName": "玉皇宮一樓(一)",
+                            "addr": "彰化縣彰化市福山里福山街168號",
+                            "neighbor": "16"
+                        },
+                        {
+                            "ScopeLiName": "福山里",
+                            "tboxNo": "0427",
+                            "tboxName": "玉皇宮一樓(二)",
+                            "addr": "彰化縣彰化市福山里福山街168號",
+                            "neighbor": "20,21"
+                        },
+                        {
+                            "ScopeLiName": "福山里",
+                            "tboxNo": "0428",
+                            "tboxName": "玉皇宮二樓",
+                            "addr": "彰化縣彰化市福山里福山街168號2樓",
+                            "neighbor": "25-28,33"
+                        }
+                    ],
+                    "liName": "福山里"
+                },
+                {
+                    "liCode": "052",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安溪里",
+                            "tboxNo": "0430",
+                            "tboxName": "安溪社區活動中心(一)",
+                            "addr": "彰化縣彰化市安溪里安溪路81巷5號",
+                            "neighbor": "14"
+                        },
+                        {
+                            "ScopeLiName": "安溪里",
+                            "tboxNo": "0431",
+                            "tboxName": "安溪社區活動中心(二)",
+                            "addr": "彰化縣彰化市安溪里安溪路81巷5號",
+                            "neighbor": "11,12"
+                        }
+                    ],
+                    "liName": "安溪里"
+                },
+                {
+                    "liCode": "057",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三村里",
+                            "tboxNo": "0432",
+                            "tboxName": "三村社區活動中心",
+                            "addr": "彰化縣彰化市三村里三村路836巷57號",
+                            "neighbor": "3,6,7,8"
+                        }
+                    ],
+                    "liName": "三村里"
+                },
+                {
+                    "liCode": "050",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大竹里",
+                            "tboxNo": "0434",
+                            "tboxName": "大竹國小(二)",
+                            "addr": "彰化縣彰化市大竹里彰南路2段164巷41號",
+                            "neighbor": "7,9-12"
+                        },
+                        {
+                            "ScopeLiName": "大竹里",
+                            "tboxNo": "0435",
+                            "tboxName": "大竹國小(三)",
+                            "addr": "彰化縣彰化市大竹里彰南路2段164巷41號",
+                            "neighbor": "13-17"
+                        }
+                    ],
+                    "liName": "大竹里"
+                },
+                {
+                    "liCode": "070",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "快官里",
+                            "tboxNo": "0437",
+                            "tboxName": "大快官藝文館(一)",
+                            "addr": "彰化縣彰化市快官里彰南路5段8號",
+                            "neighbor": "3,7"
+                        }
+                    ],
+                    "liName": "快官里"
+                },
+                {
+                    "liCode": "067",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福田里",
+                            "tboxNo": "0439",
+                            "tboxName": "福田社區活動中心",
+                            "addr": "彰化縣彰化市福田里福田一路51巷122號旁",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "福田里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "花壇村",
+                            "tboxNo": "0442",
+                            "tboxName": "花壇村〈新〉福延宮",
+                            "addr": "彰化縣花壇鄉花壇村平和街80號",
+                            "neighbor": "9-20"
+                        }
+                    ],
+                    "liName": "花壇村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "劉厝村",
+                            "tboxNo": "0449",
+                            "tboxName": "文祥國小教室",
+                            "addr": "彰化縣花壇鄉劉厝村明雅街131號",
+                            "neighbor": "劉厝村"
+                        }
+                    ],
+                    "liName": "劉厝村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中口村",
+                            "tboxNo": "0454",
+                            "tboxName": "僑愛國小教室",
+                            "addr": "彰化縣花壇鄉中口村中山路2段471號",
+                            "neighbor": "中口村"
+                        }
+                    ],
+                    "liName": "中口村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "岩竹村",
+                            "tboxNo": "0462",
+                            "tboxName": "岩竹村活動中心",
+                            "addr": "彰化縣花壇鄉岩竹村虎山街137號",
+                            "neighbor": "岩竹村"
+                        }
+                    ],
+                    "liName": "岩竹村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "橋頭村",
+                            "tboxNo": "0467",
+                            "tboxName": "橋頭村〈新〉活動中心",
+                            "addr": "彰化縣花壇鄉橋頭村花橋街117-1號",
+                            "neighbor": "1-6,9-13"
+                        },
+                        {
+                            "ScopeLiName": "橋頭村",
+                            "tboxNo": "0468",
+                            "tboxName": "聖惠宮",
+                            "addr": "彰化縣花壇鄉橋頭村花橋街119號",
+                            "neighbor": "14-16,20,21"
+                        },
+                        {
+                            "ScopeLiName": "橋頭村",
+                            "tboxNo": "0469",
+                            "tboxName": "橋頭村靈安宮(長昇社區內)",
+                            "addr": "彰化縣花壇鄉橋頭村17鄰長昇街98之1號",
+                            "neighbor": "7,8,17-19"
+                        }
+                    ],
+                    "liName": "橋頭村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "灣雅村",
+                            "tboxNo": "0470",
+                            "tboxName": "灣雅村活動中心",
+                            "addr": "彰化縣花壇鄉灣雅村彰員路1段852號",
+                            "neighbor": "灣雅村"
+                        }
+                    ],
+                    "liName": "灣雅村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "灣東村",
+                            "tboxNo": "0471",
+                            "tboxName": "灣東村集會所",
+                            "addr": "彰化縣花壇鄉灣東村隴西二巷62號對面",
+                            "neighbor": "灣東村"
+                        }
+                    ],
+                    "liName": "灣東村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三春村",
+                            "tboxNo": "0472",
+                            "tboxName": "三春村活動中心",
+                            "addr": "彰化縣花壇鄉三春村溪埔路2號",
+                            "neighbor": "1-4,6-8"
+                        },
+                        {
+                            "ScopeLiName": "三春村",
+                            "tboxNo": "0473",
+                            "tboxName": "三春國小",
+                            "addr": "彰化縣花壇鄉三春村三芬路47號",
+                            "neighbor": "5,9-13"
+                        }
+                    ],
+                    "liName": "三春村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永春村",
+                            "tboxNo": "0474",
+                            "tboxName": "三家春福德宮",
+                            "addr": "彰化縣花壇鄉永春村福德巷198號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "永春村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長春村",
+                            "tboxNo": "0476",
+                            "tboxName": "長春村活動中心(一)",
+                            "addr": "彰化縣花壇鄉長春村彰員路1段172巷45號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "長春村",
+                            "tboxNo": "0477",
+                            "tboxName": "長春村活動中心(二)",
+                            "addr": "彰化縣花壇鄉長春村彰員路1段172巷45號",
+                            "neighbor": "6-11"
+                        }
+                    ],
+                    "liName": "長春村"
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "芳苑村",
+                            "tboxNo": "0500",
+                            "tboxName": "芳苑社區活動中心",
+                            "addr": "彰化縣芳苑鄉芳苑村斗苑路芳苑段 芳苑國小芳漢路230號右側 ",
+                            "neighbor": "芳苑村"
+                        }
+                    ],
+                    "liName": "芳苑村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "信義村",
+                            "tboxNo": "0503",
+                            "tboxName": "信義村大將軍廟",
+                            "addr": "彰化縣芳苑鄉信義村芳新路芳苑段95號",
+                            "neighbor": "信義村"
+                        }
+                    ],
+                    "liName": "信義村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後寮村",
+                            "tboxNo": "0504",
+                            "tboxName": "後寮國小",
+                            "addr": "彰化縣芳苑鄉後寮村芳寮路30號",
+                            "neighbor": "後寮村"
+                        }
+                    ],
+                    "liName": "後寮村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三合村",
+                            "tboxNo": "0505",
+                            "tboxName": "三合社區活動中心",
+                            "addr": "彰化縣芳苑鄉三合村斗苑路三合段238巷86號",
+                            "neighbor": "三合村"
+                        },
+                        {
+                            "ScopeLiName": "三合村",
+                            "tboxNo": "0506",
+                            "tboxName": "芳苑鄉立示範幼兒園",
+                            "addr": "彰化縣芳苑鄉三合村工區一路45巷83弄17號",
+                            "neighbor": "三合村"
+                        }
+                    ],
+                    "liName": "三合村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新街村",
+                            "tboxNo": "0509",
+                            "tboxName": "玄武宮膳宿堂",
+                            "addr": "彰化縣芳苑鄉新街村新上路１號",
+                            "neighbor": "新街村"
+                        }
+                    ],
+                    "liName": "新街村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "路上村",
+                            "tboxNo": "0510",
+                            "tboxName": "路上國小",
+                            "addr": "彰化縣芳苑鄉路上村新上路12號",
+                            "neighbor": "路上村"
+                        }
+                    ],
+                    "liName": "路上村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "路平村",
+                            "tboxNo": "0511",
+                            "tboxName": "路平社區活動中心",
+                            "addr": "彰化縣芳苑鄉路平村上林路338號左側",
+                            "neighbor": "路平村"
+                        }
+                    ],
+                    "liName": "路平村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三成村",
+                            "tboxNo": "0512",
+                            "tboxName": "新謝祖厝",
+                            "addr": "彰化縣芳苑鄉三成村小西路5之1號",
+                            "neighbor": "三成村"
+                        }
+                    ],
+                    "liName": "三成村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂廍村",
+                            "tboxNo": "0514",
+                            "tboxName": "頂廍社區活動中心",
+                            "addr": "彰化縣芳苑鄉頂廍村上林路頂廍段403號",
+                            "neighbor": "頂廍村"
+                        }
+                    ],
+                    "liName": "頂廍村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "王功村",
+                            "tboxNo": "0515",
+                            "tboxName": "王功國小(一)",
+                            "addr": "彰化縣芳苑鄉王功村功湖路王功段481號",
+                            "neighbor": "王功村"
+                        },
+                        {
+                            "ScopeLiName": "王功村",
+                            "tboxNo": "0516",
+                            "tboxName": "王功國小(二)",
+                            "addr": "彰化縣芳苑鄉王功村功湖路王功段481號",
+                            "neighbor": "王功村"
+                        }
+                    ],
+                    "liName": "王功村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "博愛村",
+                            "tboxNo": "0517",
+                            "tboxName": "博愛社區活動中心",
+                            "addr": "彰化縣芳苑鄉博愛村北頭巷８號",
+                            "neighbor": "博愛村"
+                        }
+                    ],
+                    "liName": "博愛村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新寶村",
+                            "tboxNo": "0522",
+                            "tboxName": "新寶國小",
+                            "addr": "彰化縣芳苑鄉新寶村芳漢路新寶段129巷100號",
+                            "neighbor": "新寶村"
+                        },
+                        {
+                            "ScopeLiName": "新寶村",
+                            "tboxNo": "0523",
+                            "tboxName": "新寶社區活動中心",
+                            "addr": "彰化縣芳苑鄉新寶村芳漢路新寶段247號",
+                            "neighbor": "新寶村"
+                        }
+                    ],
+                    "liName": "新寶村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "草湖村",
+                            "tboxNo": "0525",
+                            "tboxName": "草湖國中",
+                            "addr": "彰化縣芳苑鄉草湖村功湖路草湖段140號",
+                            "neighbor": "草湖村"
+                        }
+                    ],
+                    "liName": "草湖村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建平村",
+                            "tboxNo": "0527",
+                            "tboxName": "建平社區活動中心(社區關懷據點)",
+                            "addr": "彰化縣芳苑鄉建平村新興巷２１號旁",
+                            "neighbor": "建平村"
+                        }
+                    ],
+                    "liName": "建平村"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新生村",
+                            "tboxNo": "0532",
+                            "tboxName": "建新國小",
+                            "addr": "彰化縣芳苑鄉新生村草漢路草2段86號",
+                            "neighbor": "5-11,15"
+                        }
+                    ],
+                    "liName": "新生村"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "漢寶村",
+                            "tboxNo": "0533",
+                            "tboxName": "順安宮",
+                            "addr": "彰化縣芳苑鄉漢寶村漢崙路236號旁",
+                            "neighbor": "漢寶村"
+                        },
+                        {
+                            "ScopeLiName": "漢寶村",
+                            "tboxNo": "0534",
+                            "tboxName": "漢寶社區活動中心",
+                            "addr": "彰化縣芳苑鄉漢寶村成功一路15號",
+                            "neighbor": "漢寶村"
+                        },
+                        {
+                            "ScopeLiName": "漢寶村",
+                            "tboxNo": "0535",
+                            "tboxName": "漢寶國小",
+                            "addr": "彰化縣芳苑鄉漢寶村草漢路漢寶段541號",
+                            "neighbor": "漢寶村"
+                        }
+                    ],
+                    "liName": "漢寶村"
+                }
+            ],
+            "deptCode": "230"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐田里",
+                            "tboxNo": "0537",
+                            "tboxName": "二林鎮立圖書館(一)",
+                            "addr": "彰化縣二林鎮豐田里斗苑路四段626號",
+                            "neighbor": "5-10"
+                        },
+                        {
+                            "ScopeLiName": "豐田里",
+                            "tboxNo": "0538",
+                            "tboxName": "二林鎮立圖書館(二)",
+                            "addr": "彰化縣二林鎮豐田里斗苑路四段626號",
+                            "neighbor": "11-12,14-16"
+                        }
+                    ],
+                    "liName": "豐田里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南光里",
+                            "tboxNo": "0543",
+                            "tboxName": "中正國小(三)",
+                            "addr": "彰化縣二林鎮南光里建興街80號",
+                            "neighbor": "21-27"
+                        }
+                    ],
+                    "liName": "南光里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北平里",
+                            "tboxNo": "0546",
+                            "tboxName": "伍天宮",
+                            "addr": "彰化縣二林鎮北平里北安街42號",
+                            "neighbor": "13-20"
+                        },
+                        {
+                            "ScopeLiName": "北平里",
+                            "tboxNo": "0547",
+                            "tboxName": " 二林鎮老人文康活動中心(二)",
+                            "addr": "彰化縣二林鎮北平里明德街249號",
+                            "neighbor": "21-25"
+                        }
+                    ],
+                    "liName": "北平里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中西里",
+                            "tboxNo": "0548",
+                            "tboxName": "代安宮(左側儲藏室)",
+                            "addr": "彰化縣二林鎮中西里舊2路1之2號",
+                            "neighbor": "1-3,8"
+                        },
+                        {
+                            "ScopeLiName": "中西里",
+                            "tboxNo": "0549",
+                            "tboxName": "中西里社區活動中心",
+                            "addr": "彰化縣二林鎮中西里中三路1號",
+                            "neighbor": "中西里"
+                        }
+                    ],
+                    "liName": "中西里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣興里",
+                            "tboxNo": "0550",
+                            "tboxName": "廣興里社區活動中心",
+                            "addr": "彰化縣二林鎮廣興里廣興巷2-1號",
+                            "neighbor": "廣興里"
+                        }
+                    ],
+                    "liName": "廣興里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "外竹里",
+                            "tboxNo": "0552",
+                            "tboxName": "外竹里社區活動中心",
+                            "addr": "彰化縣二林鎮外竹里中南巷41-1號 旁 ",
+                            "neighbor": "外竹里"
+                        }
+                    ],
+                    "liName": "外竹里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興華里",
+                            "tboxNo": "0553",
+                            "tboxName": "雷王宮",
+                            "addr": "彰化縣二林鎮興華里中農路20號",
+                            "neighbor": "興華里"
+                        }
+                    ],
+                    "liName": "興華里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後厝里",
+                            "tboxNo": "0556",
+                            "tboxName": "廣福宮",
+                            "addr": "彰化縣二林鎮後厝里新榮巷1號之2",
+                            "neighbor": "1-6,14"
+                        },
+                        {
+                            "ScopeLiName": "後厝里",
+                            "tboxNo": "0558",
+                            "tboxName": "福德宮(二)",
+                            "addr": "彰化縣二林鎮後厝里五權街78巷9號旁 麥當勞後方 ",
+                            "neighbor": "9,16-20"
+                        }
+                    ],
+                    "liName": "後厝里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂厝里",
+                            "tboxNo": "0559",
+                            "tboxName": "頂厝里民眾活動中心",
+                            "addr": "彰化縣二林鎮頂厝里文明巷3號",
+                            "neighbor": "頂厝里"
+                        }
+                    ],
+                    "liName": "頂厝里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "振興里",
+                            "tboxNo": "0562",
+                            "tboxName": "保安宮",
+                            "addr": "彰化縣二林鎮萬興里中央北街40號",
+                            "neighbor": "振興里"
+                        }
+                    ],
+                    "liName": "振興里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永興里",
+                            "tboxNo": "0565",
+                            "tboxName": "萬興國小(三)",
+                            "addr": "彰化縣二林鎮永興里中央南街2號",
+                            "neighbor": "5-11"
+                        }
+                    ],
+                    "liName": "永興里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西庄里",
+                            "tboxNo": "0566",
+                            "tboxName": "慈靈宮",
+                            "addr": "彰化縣二林鎮西庄里同安巷80號之1",
+                            "neighbor": "西庄里"
+                        }
+                    ],
+                    "liName": "西庄里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅芳里",
+                            "tboxNo": "0567",
+                            "tboxName": "梅芳里社區活動中心",
+                            "addr": "彰化縣二林鎮梅芳里太平路四段臨69號",
+                            "neighbor": "梅芳里"
+                        }
+                    ],
+                    "liName": "梅芳里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "華崙里",
+                            "tboxNo": "0568",
+                            "tboxName": "中興國小(一)",
+                            "addr": "彰化縣二林鎮華崙里光復路73號",
+                            "neighbor": "1-6,18"
+                        },
+                        {
+                            "ScopeLiName": "華崙里",
+                            "tboxNo": "0570",
+                            "tboxName": "鎮港宮",
+                            "addr": "彰化縣二林鎮華崙里文明路30-3號",
+                            "neighbor": "7-15,19"
+                        }
+                    ],
+                    "liName": "華崙里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "原斗里",
+                            "tboxNo": "0574",
+                            "tboxName": "原斗國小活動中心",
+                            "addr": "彰化縣二林鎮原斗里斗苑路一段865號",
+                            "neighbor": "原斗里"
+                        }
+                    ],
+                    "liName": "原斗里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東華里",
+                            "tboxNo": "0576",
+                            "tboxName": "東華里社區活動中心",
+                            "addr": "彰化縣二林鎮東華里路中巷30號",
+                            "neighbor": "東華里"
+                        }
+                    ],
+                    "liName": "東華里"
+                }
+            ],
+            "deptCode": "200"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔鹽村",
+                            "tboxNo": "0579",
+                            "tboxName": "糯米坊",
+                            "addr": "彰化縣埔鹽鄉埔鹽村中正路120號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "埔鹽村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔南村",
+                            "tboxNo": "0580",
+                            "tboxName": "老人文康中心",
+                            "addr": "彰化縣埔鹽鄉埔南村彰水路1段340巷32號",
+                            "neighbor": "1,2,7,8,13-15"
+                        }
+                    ],
+                    "liName": "埔南村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廍子村",
+                            "tboxNo": "0582",
+                            "tboxName": "廍子社區活動中心",
+                            "addr": "彰化縣埔鹽鄉廍子村光明路一段101號",
+                            "neighbor": "廍子村"
+                        }
+                    ],
+                    "liName": "廍子村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "出水村",
+                            "tboxNo": "0583",
+                            "tboxName": "龍水宮",
+                            "addr": "彰化縣埔鹽鄉出水村埔港路39號",
+                            "neighbor": "出水村"
+                        }
+                    ],
+                    "liName": "出水村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瓦磘村",
+                            "tboxNo": "0590",
+                            "tboxName": "老人文康中心",
+                            "addr": "彰化縣埔鹽鄉瓦磘村光明路2段66號",
+                            "neighbor": "全村,1-14"
+                        }
+                    ],
+                    "liName": "瓦磘村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "好修村",
+                            "tboxNo": "0592",
+                            "tboxName": "好修國小(二)",
+                            "addr": "彰化縣埔鹽鄉好修村員鹿路2段149號",
+                            "neighbor": "1-10,11-16"
+                        }
+                    ],
+                    "liName": "好修村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興村",
+                            "tboxNo": "0596",
+                            "tboxName": "仁興宮",
+                            "addr": "彰化縣埔鹽鄉新興村仁興路39號",
+                            "neighbor": "新興村"
+                        }
+                    ],
+                    "liName": "新興村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "天盛村",
+                            "tboxNo": "0601",
+                            "tboxName": "天盛社區活動中心",
+                            "addr": "彰化縣埔鹽鄉天盛村成功路3段286號",
+                            "neighbor": "天盛村"
+                        }
+                    ],
+                    "liName": "天盛村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太平村",
+                            "tboxNo": "0602",
+                            "tboxName": "太平社區活動中心",
+                            "addr": "彰化縣埔鹽鄉太平村番金路58號",
+                            "neighbor": "1-9,16,17"
+                        }
+                    ],
+                    "liName": "太平村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新水村",
+                            "tboxNo": "0604",
+                            "tboxName": "四聖宮廂房",
+                            "addr": "彰化縣埔鹽鄉新水村大新路臨5之18號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "新水村",
+                            "tboxNo": "0605",
+                            "tboxName": "四聖宮",
+                            "addr": "彰化縣埔鹽鄉新水村大新路臨5之18號",
+                            "neighbor": "6-11"
+                        }
+                    ],
+                    "liName": "新水村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三省村",
+                            "tboxNo": "0607",
+                            "tboxName": "三省社區活動中心",
+                            "addr": "彰化縣埔鹽鄉三省村好金路二巷5號之1",
+                            "neighbor": "全村,7-12"
+                        }
+                    ],
+                    "liName": "三省村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南新村",
+                            "tboxNo": "0608",
+                            "tboxName": "南新社區活動中心",
+                            "addr": "彰化縣埔鹽鄉南新村南新村好金路55號之9旁",
+                            "neighbor": "南新村"
+                        }
+                    ],
+                    "liName": "南新村"
+                }
+            ],
+            "deptCode": "140"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖東里",
+                            "tboxNo": "0615",
+                            "tboxName": "湖東國小(二)",
+                            "addr": "彰化縣溪湖鎮湖東里大溪路2段423號",
+                            "neighbor": "20,21"
+                        },
+                        {
+                            "ScopeLiName": "湖東里",
+                            "tboxNo": "0617",
+                            "tboxName": "湖東國小(四)",
+                            "addr": "彰化縣溪湖鎮湖東里大溪路2段423號",
+                            "neighbor": "27,29,40,22-30,31-40"
+                        }
+                    ],
+                    "liName": "湖東里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中竹里",
+                            "tboxNo": "0622",
+                            "tboxName": "中竹社區活動中心",
+                            "addr": "彰化縣溪湖鎮中竹里竹福路181號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "中竹里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東寮里",
+                            "tboxNo": "0624",
+                            "tboxName": "溪湖國中(二)",
+                            "addr": "彰化縣溪湖鎮東寮里彰水路4段60號",
+                            "neighbor": "12,16"
+                        }
+                    ],
+                    "liName": "東寮里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西勢里",
+                            "tboxNo": "0650",
+                            "tboxName": "西勢里西安宮",
+                            "addr": "彰化縣溪湖鎮西勢里西安路117巷臨2號",
+                            "neighbor": "19,13-19"
+                        }
+                    ],
+                    "liName": "西勢里"
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義民村",
+                            "tboxNo": "0655",
+                            "tboxName": "埔心社區活動中心",
+                            "addr": "彰化縣埔心鄉埔心村武英北路417號",
+                            "neighbor": "8"
+                        },
+                        {
+                            "ScopeLiName": "義民村",
+                            "tboxNo": "0657",
+                            "tboxName": "埔心國小(二)",
+                            "addr": "彰化縣埔心鄉義民村員鹿路2段254號",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "義民村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔心村",
+                            "tboxNo": "0655",
+                            "tboxName": "埔心社區活動中心",
+                            "addr": "彰化縣埔心鄉埔心村武英北路417號",
+                            "neighbor": "1,9"
+                        }
+                    ],
+                    "liName": "埔心村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "二重村",
+                            "tboxNo": "0655",
+                            "tboxName": "埔心社區活動中心",
+                            "addr": "彰化縣埔心鄉埔心村武英北路417號",
+                            "neighbor": "7,14"
+                        }
+                    ],
+                    "liName": "二重村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東門村",
+                            "tboxNo": "0657",
+                            "tboxName": "埔心國小(二)",
+                            "addr": "彰化縣埔心鄉義民村員鹿路2段254號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "東門村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "油車村",
+                            "tboxNo": "0658",
+                            "tboxName": "油車社區活動中心",
+                            "addr": "彰化縣埔心鄉油車村瑤鳳路2段347號",
+                            "neighbor": "油車村"
+                        }
+                    ],
+                    "liName": "油車村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瓦北村",
+                            "tboxNo": "0660",
+                            "tboxName": "瓦北社區活動中心",
+                            "addr": "彰化縣埔心鄉瓦北村瑤鳳路1段51號",
+                            "neighbor": "8,12,4"
+                        }
+                    ],
+                    "liName": "瓦北村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瓦中村",
+                            "tboxNo": "0661",
+                            "tboxName": "明聖宮",
+                            "addr": "彰化縣埔心鄉瓦中村明聖路4段172號",
+                            "neighbor": "1,13"
+                        }
+                    ],
+                    "liName": "瓦中村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瓦南村",
+                            "tboxNo": "0663",
+                            "tboxName": "瓦南社區活動中心",
+                            "addr": "彰化縣埔心鄉瓦南村明聖路3段128巷3號",
+                            "neighbor": "1,2,3"
+                        },
+                        {
+                            "ScopeLiName": "瓦南村",
+                            "tboxNo": "0668",
+                            "tboxName": "太平國小(二)",
+                            "addr": "彰化縣埔心鄉太平村太平路289號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "瓦南村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "經口村",
+                            "tboxNo": "0665",
+                            "tboxName": "鎮國宮",
+                            "addr": "彰化縣埔心鄉經口村鎮國路71巷18號",
+                            "neighbor": "1-4,14-17"
+                        },
+                        {
+                            "ScopeLiName": "經口村",
+                            "tboxNo": "0668",
+                            "tboxName": "太平國小(二)",
+                            "addr": "彰化縣埔心鄉太平村太平路289號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "經口村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太平村",
+                            "tboxNo": "0668",
+                            "tboxName": "太平國小(二)",
+                            "addr": "彰化縣埔心鄉太平村太平路289號",
+                            "neighbor": "11,15"
+                        }
+                    ],
+                    "liName": "太平村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南舘村",
+                            "tboxNo": "0673",
+                            "tboxName": "舊舘國小(三)",
+                            "addr": "彰化縣埔心鄉南舘村員鹿路4段201號",
+                            "neighbor": "2,3,4,5"
+                        }
+                    ],
+                    "liName": "南舘村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "芎蕉村",
+                            "tboxNo": "0675",
+                            "tboxName": "芎蕉社區活動中心",
+                            "addr": "彰化縣埔心鄉芎蕉村仁安路65巷103號",
+                            "neighbor": "5,7"
+                        }
+                    ],
+                    "liName": "芎蕉村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "羅厝村",
+                            "tboxNo": "0677",
+                            "tboxName": "羅厝國小(一)",
+                            "addr": "彰化縣埔心鄉羅厝村文昌東路100號",
+                            "neighbor": "1,3"
+                        },
+                        {
+                            "ScopeLiName": "羅厝村",
+                            "tboxNo": "0678",
+                            "tboxName": "羅厝國小(二)",
+                            "addr": "彰化縣埔心鄉羅厝村文昌東路100號",
+                            "neighbor": "13,14,16,5"
+                        }
+                    ],
+                    "liName": "羅厝村"
+                }
+            ],
+            "deptCode": "150"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "潭墘村",
+                            "tboxNo": "0684",
+                            "tboxName": "潭墘國小",
+                            "addr": "彰化縣大城鄉潭墘村潭城路1號",
+                            "neighbor": "4"
+                        }
+                    ],
+                    "liName": "潭墘村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大城村",
+                            "tboxNo": "0685",
+                            "tboxName": "大城國小（一）",
+                            "addr": "彰化縣大城鄉大城村中平路176號",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "大城村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公館村",
+                            "tboxNo": "0691",
+                            "tboxName": "公館社區活動中心",
+                            "addr": "彰化縣大城鄉公館村東西路43號",
+                            "neighbor": "2"
+                        }
+                    ],
+                    "liName": "公館村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "菜寮村",
+                            "tboxNo": "0695",
+                            "tboxName": "菜寮社區活動中心",
+                            "addr": "彰化縣大城鄉菜寮村東平路6號",
+                            "neighbor": "1,2,6"
+                        }
+                    ],
+                    "liName": "菜寮村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東港村",
+                            "tboxNo": "0697",
+                            "tboxName": "西港社區活動中心",
+                            "addr": "彰化縣大城鄉西港村永鎮路35號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "東港村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西港村",
+                            "tboxNo": "0697",
+                            "tboxName": "西港社區活動中心",
+                            "addr": "彰化縣大城鄉西港村永鎮路35號",
+                            "neighbor": "7,10"
+                        }
+                    ],
+                    "liName": "西港村"
+                }
+            ],
+            "deptCode": "240"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和豊村",
+                            "tboxNo": "0717",
+                            "tboxName": "四武宮",
+                            "addr": "彰化縣埤頭鄉和豊村埔尾路51號",
+                            "neighbor": "20"
+                        }
+                    ],
+                    "liName": "和豊村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埤頭村",
+                            "tboxNo": "0721",
+                            "tboxName": "埤頭國民小學",
+                            "addr": "彰化縣埤頭鄉埤頭村中南路145號",
+                            "neighbor": "10,13"
+                        }
+                    ],
+                    "liName": "埤頭村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豊崙村",
+                            "tboxNo": "0722",
+                            "tboxName": "豐崙國民小學",
+                            "addr": "彰化縣埤頭鄉豊崙村校前路50號",
+                            "neighbor": "8,1-13"
+                        },
+                        {
+                            "ScopeLiName": "豊崙村",
+                            "tboxNo": "0723",
+                            "tboxName": "豐崙國民小學",
+                            "addr": "彰化縣埤頭鄉豊崙村校前路50號",
+                            "neighbor": "19,20"
+                        }
+                    ],
+                    "liName": "豊崙村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永豐村",
+                            "tboxNo": "0725",
+                            "tboxName": "永豐社區活動中心",
+                            "addr": "彰化縣埤頭鄉永豐村東西路421號",
+                            "neighbor": "1,3,6"
+                        }
+                    ],
+                    "liName": "永豐村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "合興村",
+                            "tboxNo": "0727",
+                            "tboxName": "埤頭鄉立圖書館",
+                            "addr": "彰化縣埤頭鄉合興村文鄉路135號",
+                            "neighbor": "10"
+                        },
+                        {
+                            "ScopeLiName": "合興村",
+                            "tboxNo": "0729",
+                            "tboxName": "合興國民小學",
+                            "addr": "彰化縣埤頭鄉合興村文鄉路161號",
+                            "neighbor": "20,21"
+                        }
+                    ],
+                    "liName": "合興村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "陸嘉村",
+                            "tboxNo": "0737",
+                            "tboxName": "陸嘉社區活動中心",
+                            "addr": "彰化縣埤頭鄉陸嘉村中華路434號",
+                            "neighbor": "4,5"
+                        }
+                    ],
+                    "liName": "陸嘉村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中和村",
+                            "tboxNo": "0740",
+                            "tboxName": "中和國民小學",
+                            "addr": "彰化縣埤頭鄉中和村溪林路284號",
+                            "neighbor": "1,9"
+                        }
+                    ],
+                    "liName": "中和村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "庄內村",
+                            "tboxNo": "0740",
+                            "tboxName": "中和國民小學",
+                            "addr": "彰化縣埤頭鄉中和村溪林路284號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "庄內村"
+                }
+            ],
+            "deptCode": "220"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大道里",
+                            "tboxNo": "0746",
+                            "tboxName": "北斗國中",
+                            "addr": "彰化縣北斗鎮大道里文苑路一段136號",
+                            "neighbor": "1-3,12-13"
+                        }
+                    ],
+                    "liName": "大道里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東光里",
+                            "tboxNo": "0763",
+                            "tboxName": "螺青國小(一)",
+                            "addr": "彰化縣北斗鎮東光里斗中路７１２號",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "東光里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新生里",
+                            "tboxNo": "0769",
+                            "tboxName": "玄德紫微宮",
+                            "addr": "彰化縣北斗鎮新生里興農路二段323巷55號",
+                            "neighbor": "1-3,11-12"
+                        }
+                    ],
+                    "liName": "新生里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大新里",
+                            "tboxNo": "0771",
+                            "tboxName": "大新國小(一)",
+                            "addr": "彰化縣北斗鎮大新里大新路５５６號",
+                            "neighbor": "1-2,4-6"
+                        },
+                        {
+                            "ScopeLiName": "大新里",
+                            "tboxNo": "0772",
+                            "tboxName": "大新國小(二)",
+                            "addr": "彰化縣北斗鎮大新里大新路556號",
+                            "neighbor": "3,7-9"
+                        }
+                    ],
+                    "liName": "大新里"
+                }
+            ],
+            "deptCode": "190"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪厝村",
+                            "tboxNo": "0773",
+                            "tboxName": "溪厝社區活動中心",
+                            "addr": "彰化縣溪州鄉溪厝村中和路79號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "溪厝村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瓦厝村",
+                            "tboxNo": "0776",
+                            "tboxName": "后天宮(車庫)",
+                            "addr": "彰化縣溪州鄉瓦厝村東光路20號",
+                            "neighbor": "14"
+                        }
+                    ],
+                    "liName": "瓦厝村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪州村",
+                            "tboxNo": "0778",
+                            "tboxName": "南州國小",
+                            "addr": "彰化縣溪州鄉溪州村公園路95號",
+                            "neighbor": "18"
+                        }
+                    ],
+                    "liName": "溪州村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尾厝村",
+                            "tboxNo": "0780",
+                            "tboxName": "溪州國小",
+                            "addr": "彰化縣溪州鄉尾厝村中山路三段451號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "尾厝村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東州村",
+                            "tboxNo": "0781",
+                            "tboxName": "東州社區活動中心",
+                            "addr": "彰化縣溪州鄉東州村保安路16號",
+                            "neighbor": "1,7"
+                        },
+                        {
+                            "ScopeLiName": "東州村",
+                            "tboxNo": "0782",
+                            "tboxName": "育善寺",
+                            "addr": "彰化縣溪州鄉東州村永安路226號",
+                            "neighbor": "9,10"
+                        }
+                    ],
+                    "liName": "東州村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "舊眉村",
+                            "tboxNo": "0783",
+                            "tboxName": "武元宮",
+                            "addr": "彰化縣溪州鄉舊眉村溪斗路99號",
+                            "neighbor": "12"
+                        },
+                        {
+                            "ScopeLiName": "舊眉村",
+                            "tboxNo": "0784",
+                            "tboxName": "舊眉社區活動中心",
+                            "addr": "彰化縣溪州鄉舊眉村登山路四段27號",
+                            "neighbor": "6,11"
+                        }
+                    ],
+                    "liName": "舊眉村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "圳寮村",
+                            "tboxNo": "0785",
+                            "tboxName": "圳寮國小(一)",
+                            "addr": "彰化縣溪州鄉圳寮村下樹巷29號",
+                            "neighbor": "3"
+                        },
+                        {
+                            "ScopeLiName": "圳寮村",
+                            "tboxNo": "0786",
+                            "tboxName": "圳寮國小(二)",
+                            "addr": "彰化縣溪州鄉圳寮村下樹巷29號",
+                            "neighbor": "10-11"
+                        }
+                    ],
+                    "liName": "圳寮村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西畔村",
+                            "tboxNo": "0787",
+                            "tboxName": "三聖宮",
+                            "addr": "彰化縣溪州鄉西畔村溪下路250號之2",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "西畔村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柑園村",
+                            "tboxNo": "0789",
+                            "tboxName": "柑園村集會所活動中心",
+                            "addr": "彰化縣溪州鄉柑園村面前巷50號",
+                            "neighbor": "5-7"
+                        }
+                    ],
+                    "liName": "柑園村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成功村",
+                            "tboxNo": "0790",
+                            "tboxName": "溪陽國中",
+                            "addr": "彰化縣溪州鄉成功村下柑路1號",
+                            "neighbor": "5,7"
+                        }
+                    ],
+                    "liName": "成功村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大庄村",
+                            "tboxNo": "0792",
+                            "tboxName": "大庄社區活動中心",
+                            "addr": "彰化縣溪州鄉大庄村中橫巷1號",
+                            "neighbor": "1,11-12"
+                        }
+                    ],
+                    "liName": "大庄村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榮光村",
+                            "tboxNo": "0794",
+                            "tboxName": "榮光社區活動中心",
+                            "addr": "彰化縣溪州鄉榮光村政民路27之2號",
+                            "neighbor": "7,14"
+                        }
+                    ],
+                    "liName": "榮光村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "潮洋村",
+                            "tboxNo": "0795",
+                            "tboxName": "潮洋國小",
+                            "addr": "彰化縣溪州鄉潮洋村陸軍路一段146號",
+                            "neighbor": "5,8"
+                        }
+                    ],
+                    "liName": "潮洋村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "張厝村",
+                            "tboxNo": "0796",
+                            "tboxName": "張厝社區活動中心",
+                            "addr": "彰化縣溪州鄉張厝村民生路一段295巷12號",
+                            "neighbor": "1,8"
+                        }
+                    ],
+                    "liName": "張厝村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三條村",
+                            "tboxNo": "0798",
+                            "tboxName": "三條國小",
+                            "addr": "彰化縣溪州鄉三條村中央路二段31號",
+                            "neighbor": "1,6"
+                        }
+                    ],
+                    "liName": "三條村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三圳村",
+                            "tboxNo": "0799",
+                            "tboxName": "三千宮活動中心",
+                            "addr": "彰化縣溪州鄉三圳村莊內巷42號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "三圳村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水尾村",
+                            "tboxNo": "0801",
+                            "tboxName": "水尾村村民活動中心",
+                            "addr": "彰化縣溪州鄉水尾村民權一巷5號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "水尾村"
+                }
+            ],
+            "deptCode": "260"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大村村",
+                            "tboxNo": "0804",
+                            "tboxName": "大村社區活動中心",
+                            "addr": "彰化縣大村鄉大村村茄苳路1段203號",
+                            "neighbor": "16,18"
+                        }
+                    ],
+                    "liName": "大村村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "茄苳村",
+                            "tboxNo": "0805",
+                            "tboxName": "茄苳社區活動中心",
+                            "addr": "彰化縣大村鄉茄苳村茄苳路2段141巷31號",
+                            "neighbor": "1"
+                        }
+                    ],
+                    "liName": "茄苳村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "田洋村",
+                            "tboxNo": "0807",
+                            "tboxName": "田洋社區活動中心",
+                            "addr": "彰化縣大村鄉田洋村田洋巷11號",
+                            "neighbor": "1,8,9"
+                        }
+                    ],
+                    "liName": "田洋村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "貢旗村",
+                            "tboxNo": "0808",
+                            "tboxName": "無極九天宮北極殿",
+                            "addr": "彰化縣大村鄉貢旗村大溪路16-12號",
+                            "neighbor": "3,1"
+                        },
+                        {
+                            "ScopeLiName": "貢旗村",
+                            "tboxNo": "0809",
+                            "tboxName": "貢旗社區活動中心",
+                            "addr": "彰化縣大村鄉貢旗村大崙路2號之1",
+                            "neighbor": "5-11"
+                        }
+                    ],
+                    "liName": "貢旗村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大橋村",
+                            "tboxNo": "0813",
+                            "tboxName": "大橋社區活動中心",
+                            "addr": "彰化縣大村鄉大橋村中山路3段193巷69號",
+                            "neighbor": "12,15,16,17"
+                        }
+                    ],
+                    "liName": "大橋村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "加錫村",
+                            "tboxNo": "0814",
+                            "tboxName": "加錫村及貢旗村集會所活動中心",
+                            "addr": "彰化縣大村鄉加錫村加錫二巷3之8號",
+                            "neighbor": "10-12"
+                        }
+                    ],
+                    "liName": "加錫村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大崙村",
+                            "tboxNo": "0817",
+                            "tboxName": "普崙寺1樓南側",
+                            "addr": "彰化縣大村鄉大崙村大崙路12之16號",
+                            "neighbor": "14,17"
+                        }
+                    ],
+                    "liName": "大崙村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "擺塘村",
+                            "tboxNo": "0819",
+                            "tboxName": "福天宮廂房",
+                            "addr": "彰化縣大村鄉擺塘村擺塘巷9號",
+                            "neighbor": "2,9,7"
+                        },
+                        {
+                            "ScopeLiName": "擺塘村",
+                            "tboxNo": "0820",
+                            "tboxName": "擺塘社區活動中心",
+                            "addr": "彰化縣大村鄉擺塘村擺塘橫巷1號之1",
+                            "neighbor": "16,10,14"
+                        }
+                    ],
+                    "liName": "擺塘村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "過溝村",
+                            "tboxNo": "0823",
+                            "tboxName": "過溝村集會所活動中心",
+                            "addr": "彰化縣大村鄉過溝村鎮安二巷5號",
+                            "neighbor": "21,19,20"
+                        }
+                    ],
+                    "liName": "過溝村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "村上村",
+                            "tboxNo": "0824",
+                            "tboxName": "村上國小學生活動中心",
+                            "addr": "彰化縣大村鄉村上村中山路2段242號",
+                            "neighbor": "5,7"
+                        }
+                    ],
+                    "liName": "村上村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0831",
+                            "tboxName": "村東國小(一)",
+                            "addr": "彰化縣大村鄉福興村山腳路102之1號",
+                            "neighbor": "5"
+                        },
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0832",
+                            "tboxName": "村東國小(二)",
+                            "addr": "彰化縣大村鄉福興村山腳路102之1號",
+                            "neighbor": "8,9"
+                        }
+                    ],
+                    "liName": "福興村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平和村",
+                            "tboxNo": "0833",
+                            "tboxName": "平和社區活動中心",
+                            "addr": "彰化縣大村鄉平和村聖瑤東路77號",
+                            "neighbor": "2,3"
+                        },
+                        {
+                            "ScopeLiName": "平和村",
+                            "tboxNo": "0834",
+                            "tboxName": "平和村產業工坊",
+                            "addr": "彰化縣大村鄉平和村山腳路144巷24號附近",
+                            "neighbor": "10,16,11"
+                        }
+                    ],
+                    "liName": "平和村"
+                }
+            ],
+            "deptCode": "130"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "出水里",
+                            "tboxNo": "0843",
+                            "tboxName": "出水社區活動中心",
+                            "addr": "彰化縣員林市出水里出水巷18-1號",
+                            "neighbor": "4"
+                        }
+                    ],
+                    "liName": "出水里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南興里",
+                            "tboxNo": "0930",
+                            "tboxName": "員林國中(三)",
+                            "addr": "彰化縣員林市南興里南潭路2號",
+                            "neighbor": "14-20"
+                        }
+                    ],
+                    "liName": "南興里"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東寧村",
+                            "tboxNo": "0938",
+                            "tboxName": "永興國小(二)",
+                            "addr": "彰化縣永靖鄉東寧村永興路2段32號",
+                            "neighbor": "12-16"
+                        }
+                    ],
+                    "liName": "東寧村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光雲村",
+                            "tboxNo": "0939",
+                            "tboxName": "光雲社區活動中心",
+                            "addr": "彰化縣永靖鄉光雲村意善巷79號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "光雲村",
+                            "tboxNo": "0940",
+                            "tboxName": "意善堂",
+                            "addr": "彰化縣永靖鄉光雲村意善巷78號",
+                            "neighbor": "9-15"
+                        }
+                    ],
+                    "liName": "光雲村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五汴村",
+                            "tboxNo": "0941",
+                            "tboxName": "五汴社區老人俱樂部",
+                            "addr": "彰化縣永靖鄉五汴村五汴巷1號 右側 ",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "五汴村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永東村",
+                            "tboxNo": "0946",
+                            "tboxName": "永靖國小(一)",
+                            "addr": "彰化縣永靖鄉永東村中山路2段65號",
+                            "neighbor": "永東村"
+                        }
+                    ],
+                    "liName": "永東村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永西村",
+                            "tboxNo": "0947",
+                            "tboxName": "永靖國小(二)",
+                            "addr": "彰化縣永靖鄉永東村中山路2段65號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "永西村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永南村",
+                            "tboxNo": "0949",
+                            "tboxName": "永福村日間照顧中心",
+                            "addr": "彰化縣永靖鄉永南村開明路86號",
+                            "neighbor": "1,12-15,17"
+                        }
+                    ],
+                    "liName": "永南村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永北村",
+                            "tboxNo": "0951",
+                            "tboxName": "不醉宮",
+                            "addr": "彰化縣永靖鄉永北村水尾路182號",
+                            "neighbor": "1-8,10,14"
+                        },
+                        {
+                            "ScopeLiName": "永北村",
+                            "tboxNo": "0952",
+                            "tboxName": "甘霖宮",
+                            "addr": "彰化縣永靖鄉永北村永福路1段8號",
+                            "neighbor": "9,11-13,15-17"
+                        }
+                    ],
+                    "liName": "永北村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港西村",
+                            "tboxNo": "0953",
+                            "tboxName": "港西社區活動中心",
+                            "addr": "彰化縣永靖鄉永南村福德巷36-1號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "港西村",
+                            "tboxNo": "0954",
+                            "tboxName": "福德國小教室",
+                            "addr": "彰化縣永靖鄉永南村福德巷36號",
+                            "neighbor": "12-20"
+                        }
+                    ],
+                    "liName": "港西村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五福村",
+                            "tboxNo": "0955",
+                            "tboxName": "五福宮(一)",
+                            "addr": "彰化縣永靖鄉五福村五福巷97號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "五福村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湳港村",
+                            "tboxNo": "0957",
+                            "tboxName": "甘澍宮",
+                            "addr": "彰化縣永靖鄉湳港村永社路205號",
+                            "neighbor": "湳港村"
+                        }
+                    ],
+                    "liName": "湳港村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑚璉村",
+                            "tboxNo": "0959",
+                            "tboxName": "永靖國中(一)",
+                            "addr": "彰化縣永靖鄉瑚璉村錫壽路123號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "瑚璉村",
+                            "tboxNo": "0960",
+                            "tboxName": "永靖國中(二)",
+                            "addr": "彰化縣永靖鄉瑚璉村錫壽路123號",
+                            "neighbor": "11-18"
+                        }
+                    ],
+                    "liName": "瑚璉村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "敦厚村",
+                            "tboxNo": "0962",
+                            "tboxName": "獨鰲村及敦厚村聯合集會所活動中心",
+                            "addr": "彰化縣永靖鄉敦厚村獨鰲路2段9號",
+                            "neighbor": "敦厚村"
+                        }
+                    ],
+                    "liName": "敦厚村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙美村",
+                            "tboxNo": "0963",
+                            "tboxName": "崙美社區活動中心",
+                            "addr": "彰化縣永靖鄉崙美村獨鰲路2段270巷8-1號",
+                            "neighbor": "崙美村"
+                        }
+                    ],
+                    "liName": "崙美村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "四芳村",
+                            "tboxNo": "0967",
+                            "tboxName": "四芳村集會所活動中心",
+                            "addr": "彰化縣永靖鄉四芳村四湳路55-1號",
+                            "neighbor": "四芳村"
+                        }
+                    ],
+                    "liName": "四芳村"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹子村",
+                            "tboxNo": "0969",
+                            "tboxName": "竹子社區活動中心(新)",
+                            "addr": "彰化縣永靖鄉竹子村竹西路28巷112號",
+                            "neighbor": "竹子村"
+                        }
+                    ],
+                    "liName": "竹子村"
+                }
+            ],
+            "deptCode": "160"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "社頭村",
+                            "tboxNo": "0972",
+                            "tboxName": "社頭國小北側(三)",
+                            "addr": "彰化縣社頭鄉社頭村社斗路1段258號",
+                            "neighbor": "17"
+                        }
+                    ],
+                    "liName": "社頭村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣興村",
+                            "tboxNo": "0973",
+                            "tboxName": "社頭國中(一)",
+                            "addr": "彰化縣社頭鄉廣興村中興路1號",
+                            "neighbor": "1,4"
+                        },
+                        {
+                            "ScopeLiName": "廣興村",
+                            "tboxNo": "0975",
+                            "tboxName": "社頭國中(三)",
+                            "addr": "彰化縣社頭鄉廣興村中興路1號",
+                            "neighbor": "13,15"
+                        }
+                    ],
+                    "liName": "廣興村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松竹村",
+                            "tboxNo": "0979",
+                            "tboxName": "舊社國小(三)",
+                            "addr": "彰化縣社頭鄉松竹村社石路956號",
+                            "neighbor": "7,9,10"
+                        }
+                    ],
+                    "liName": "松竹村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東興村",
+                            "tboxNo": "0979",
+                            "tboxName": "舊社國小(三)",
+                            "addr": "彰化縣社頭鄉松竹村社石路956號",
+                            "neighbor": "9"
+                        }
+                    ],
+                    "liName": "東興村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣福村",
+                            "tboxNo": "0982",
+                            "tboxName": "舊社國小(六)",
+                            "addr": "彰化縣社頭鄉松竹村社石路956號",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "廣福村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新厝村",
+                            "tboxNo": "0983",
+                            "tboxName": "橋頭國小(一)",
+                            "addr": "彰化縣社頭鄉橋頭村員集路3段528號",
+                            "neighbor": "6"
+                        },
+                        {
+                            "ScopeLiName": "新厝村",
+                            "tboxNo": "0985",
+                            "tboxName": "乾坤宮南側(一)",
+                            "addr": "彰化縣社頭鄉新厝村潘厝巷19號",
+                            "neighbor": "1"
+                        }
+                    ],
+                    "liName": "新厝村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "張厝村",
+                            "tboxNo": "0987",
+                            "tboxName": "張厝村集會所",
+                            "addr": "彰化縣社頭鄉張厝村大圳巷9-6號",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "張厝村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湳底村",
+                            "tboxNo": "0988",
+                            "tboxName": "湳底社區活動中心",
+                            "addr": "彰化縣社頭鄉湳底村湳底一巷475號",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "湳底村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁雅村",
+                            "tboxNo": "0992",
+                            "tboxName": "社頭國小南側(三)",
+                            "addr": "彰化縣社頭鄉社頭村社斗路1段258號",
+                            "neighbor": "9-12"
+                        }
+                    ],
+                    "liName": "仁雅村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "里仁村",
+                            "tboxNo": "0993",
+                            "tboxName": "里仁社區活動中心",
+                            "addr": "彰化縣社頭鄉里仁村邱厝巷5-1號",
+                            "neighbor": "3,7,11"
+                        }
+                    ],
+                    "liName": "里仁村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "美雅村",
+                            "tboxNo": "0994",
+                            "tboxName": "美雅社區活動中心",
+                            "addr": "彰化縣社頭鄉美雅村民生路371號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "美雅村"
+                }
+            ],
+            "deptCode": "170"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍潭里",
+                            "tboxNo": "1045",
+                            "tboxName": "龍潭社區活動中心",
+                            "addr": "彰化縣田中鎮龍潭里大社路一段216巷100弄20號",
+                            "neighbor": "1-12"
+                        }
+                    ],
+                    "liName": "龍潭里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅州里",
+                            "tboxNo": "1055",
+                            "tboxName": "梅州社區活動中心",
+                            "addr": "彰化縣田中鎮梅州里斗中路一段443巷121-2號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "梅州里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大崙里",
+                            "tboxNo": "1058",
+                            "tboxName": "大崙社區活動中心",
+                            "addr": "彰化縣田中鎮大崙里大安路二段318號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "大崙里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大社里",
+                            "tboxNo": "1068",
+                            "tboxName": "大社社區活動中心",
+                            "addr": "彰化縣田中鎮大社里大社路二段645號旁",
+                            "neighbor": "1-10"
+                        }
+                    ],
+                    "liName": "大社里"
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五伯村",
+                            "tboxNo": "1074",
+                            "tboxName": "五伯社區活動中心",
+                            "addr": "彰化縣二水鄉五伯村過圳路222號",
+                            "neighbor": "五伯村"
+                        }
+                    ],
+                    "liName": "五伯村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "聖化村",
+                            "tboxNo": "1077",
+                            "tboxName": "聖化社區活動中心",
+                            "addr": "彰化縣二水鄉聖化村溪邊巷78號",
+                            "neighbor": "聖化村"
+                        }
+                    ],
+                    "liName": "聖化村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上豊村",
+                            "tboxNo": "1078",
+                            "tboxName": "二水社區發展協會",
+                            "addr": "彰化縣二水鄉二水村正德巷5號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "上豊村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "過圳村",
+                            "tboxNo": "1078",
+                            "tboxName": "二水社區發展協會",
+                            "addr": "彰化縣二水鄉二水村正德巷5號",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "過圳村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "惠民村",
+                            "tboxNo": "1079",
+                            "tboxName": "惠民社區活動中心",
+                            "addr": "彰化縣二水鄉惠民村山腳路1段48-1號",
+                            "neighbor": "惠民村"
+                        }
+                    ],
+                    "liName": "惠民村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "修仁村",
+                            "tboxNo": "1082",
+                            "tboxName": "修仁社區活動中心",
+                            "addr": "彰化縣二水鄉修仁村修仁路27-3號",
+                            "neighbor": "修仁村"
+                        },
+                        {
+                            "ScopeLiName": "修仁村",
+                            "tboxNo": "1084",
+                            "tboxName": "源泉社區活動中心",
+                            "addr": "彰化縣二水鄉源泉村月眉巷1-2號",
+                            "neighbor": "1"
+                        }
+                    ],
+                    "liName": "修仁村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "源泉村",
+                            "tboxNo": "1083",
+                            "tboxName": "合興社區活動中心",
+                            "addr": "彰化縣二水鄉合興村英義路12巷46號",
+                            "neighbor": "源泉村"
+                        },
+                        {
+                            "ScopeLiName": "源泉村",
+                            "tboxNo": "1084",
+                            "tboxName": "源泉社區活動中心",
+                            "addr": "彰化縣二水鄉源泉村月眉巷1-2號",
+                            "neighbor": "源泉村"
+                        }
+                    ],
+                    "liName": "源泉村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "倡和村",
+                            "tboxNo": "1085",
+                            "tboxName": "倡和社區活動中心",
+                            "addr": "彰化縣二水鄉倡和村倡和路41-1號",
+                            "neighbor": "倡和村"
+                        }
+                    ],
+                    "liName": "倡和村"
+                }
+            ],
+            "deptCode": "180"
+        }
+    ]
+}

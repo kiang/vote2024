@@ -1,0 +1,3220 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "台西村",
+                            "tboxNo": "0038",
+                            "tboxName": "臺西國小活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉台西村民權路9號",
+                            "neighbor": "1-21"
+                        }
+                    ],
+                    "liName": "台西村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "海南村",
+                            "tboxNo": "0039",
+                            "tboxName": "南天府會議室",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉海南村文化路287之7號",
+                            "neighbor": "1-13"
+                        }
+                    ],
+                    "liName": "海南村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "海北村",
+                            "tboxNo": "0040",
+                            "tboxName": "臺西國小海洋藝術館",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉台西村民權路9號",
+                            "neighbor": "1-17"
+                        }
+                    ],
+                    "liName": "海北村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "海口村",
+                            "tboxNo": "0041",
+                            "tboxName": "舊臺西鄉公所",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉台西村中山路293號",
+                            "neighbor": "1-16"
+                        },
+                        {
+                            "ScopeLiName": "海口村",
+                            "tboxNo": "0042",
+                            "tboxName": "慈海宮",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉海口村中山路399巷35之1號",
+                            "neighbor": "17-29"
+                        }
+                    ],
+                    "liName": "海口村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山寮村",
+                            "tboxNo": "0043",
+                            "tboxName": "濟陽府",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉山寮村山寮1之1號",
+                            "neighbor": "1-15"
+                        }
+                    ],
+                    "liName": "山寮村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "牛厝村",
+                            "tboxNo": "0046",
+                            "tboxName": "牛厝村集會所",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉牛厝村成功178之3號",
+                            "neighbor": "1-21"
+                        },
+                        {
+                            "ScopeLiName": "牛厝村",
+                            "tboxNo": "0047",
+                            "tboxName": "泉州國小教室",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉牛厝村舊泉州20號",
+                            "neighbor": "22-34"
+                        }
+                    ],
+                    "liName": "牛厝村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泉州村",
+                            "tboxNo": "0048",
+                            "tboxName": "泉安府",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉泉州村泉州72之1號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "泉州村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五榔村",
+                            "tboxNo": "0049",
+                            "tboxName": "五榔農民活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉五榔村五榔24之2號",
+                            "neighbor": "1-10"
+                        }
+                    ],
+                    "liName": "五榔村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光華村",
+                            "tboxNo": "0050",
+                            "tboxName": "華陽府",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉光華村光華100之1號",
+                            "neighbor": "1-12"
+                        }
+                    ],
+                    "liName": "光華村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五港村",
+                            "tboxNo": "0051",
+                            "tboxName": "五港活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉五港村海豐路二段285號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "五港村",
+                            "tboxNo": "0052",
+                            "tboxName": "瓦厝活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉五港村瓦厝24號旁",
+                            "neighbor": "13-23"
+                        }
+                    ],
+                    "liName": "五港村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富琦村",
+                            "tboxNo": "0053",
+                            "tboxName": "崙豐國小教室",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉永豐村崙豐路42號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "富琦村",
+                            "tboxNo": "0054",
+                            "tboxName": "普令厝果菜集貨場",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉富琦村三和28號之6",
+                            "neighbor": "14-24"
+                        }
+                    ],
+                    "liName": "富琦村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和豐村",
+                            "tboxNo": "0057",
+                            "tboxName": "萬安宮休息所",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉和豐村信義路74號",
+                            "neighbor": "1-5,29-31"
+                        },
+                        {
+                            "ScopeLiName": "和豐村",
+                            "tboxNo": "0058",
+                            "tboxName": "明德寺",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉和豐村忠孝路99號",
+                            "neighbor": "6-20,28"
+                        },
+                        {
+                            "ScopeLiName": "和豐村",
+                            "tboxNo": "0059",
+                            "tboxName": "新興水利工作站",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉和豐村新興38號",
+                            "neighbor": "21-27,32-37"
+                        }
+                    ],
+                    "liName": "和豐村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蚊港村",
+                            "tboxNo": "0060",
+                            "tboxName": "蚊港漁民活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉蚊港村蚊港130號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "蚊港村",
+                            "tboxNo": "0061",
+                            "tboxName": "旭安府",
+                            "geocode": null,
+                            "addr": "雲林縣臺西鄉蚊港村三姓85之2號",
+                            "neighbor": "14-22"
+                        }
+                    ],
+                    "liName": "蚊港村"
+                }
+            ],
+            "deptCode": "160"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東南村",
+                            "tboxNo": "0066",
+                            "tboxName": "賜安宮文化中心",
+                            "geocode": null,
+                            "addr": "雲林縣東勢鄉東南村四安路25號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "東南村",
+                            "tboxNo": "0067",
+                            "tboxName": "老人文康活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣東勢鄉東南村東勢西路48-1號",
+                            "neighbor": "14-20"
+                        }
+                    ],
+                    "liName": "東南村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安南村",
+                            "tboxNo": "0072",
+                            "tboxName": "安南村活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣東勢鄉安南村安南路2之2號",
+                            "neighbor": "安南村"
+                        }
+                    ],
+                    "liName": "安南村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "四美村",
+                            "tboxNo": "0075",
+                            "tboxName": "四美村活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣東勢鄉四美村四美路65-5號",
+                            "neighbor": "1-12"
+                        }
+                    ],
+                    "liName": "四美村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新坤村",
+                            "tboxNo": "0077",
+                            "tboxName": "新坤村活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣東勢鄉新坤村新吉路5-5號",
+                            "neighbor": "新坤村"
+                        }
+                    ],
+                    "liName": "新坤村"
+                }
+            ],
+            "deptCode": "140"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東仁里",
+                            "tboxNo": "0122",
+                            "tboxName": "東仁國中(302教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮東仁里東明路85號",
+                            "neighbor": "8-11,13,22-27,30.31"
+                        }
+                    ],
+                    "liName": "東仁里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0124",
+                            "tboxName": "虎尾鎮農會供銷部(食農體驗推廣教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮新興里光復路197號",
+                            "neighbor": "1-19"
+                        },
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0125",
+                            "tboxName": "虎尾鎮農會供銷部(總幹事室前廊道)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮新興里光復路197號",
+                            "neighbor": "20-26"
+                        }
+                    ],
+                    "liName": "新興里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公安里",
+                            "tboxNo": "0126",
+                            "tboxName": "虎尾鎮老人會",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮公安里新興路173號",
+                            "neighbor": "14-20"
+                        },
+                        {
+                            "ScopeLiName": "公安里",
+                            "tboxNo": "0127",
+                            "tboxName": "早安會(老人會旁)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮公安里新興路173號",
+                            "neighbor": "21-33"
+                        },
+                        {
+                            "ScopeLiName": "公安里",
+                            "tboxNo": "0128",
+                            "tboxName": "龍善寺",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮公安里新興路94號",
+                            "neighbor": "1-13"
+                        }
+                    ],
+                    "liName": "公安里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "德興里",
+                            "tboxNo": "0130",
+                            "tboxName": "虎尾天主堂",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮德興里北平路77號",
+                            "neighbor": "7,9,15-16,24-30"
+                        }
+                    ],
+                    "liName": "德興里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0132",
+                            "tboxName": "虎尾科技大學ATB0101",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮西安里文化路64號",
+                            "neighbor": "1-7,9-14"
+                        },
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0133",
+                            "tboxName": "虎尾科技大學ATB0102",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮西安里文化路64號",
+                            "neighbor": "8,16-24"
+                        },
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0134",
+                            "tboxName": "虎尾科技大學ATC0107電化教室",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮西安里文化路64號",
+                            "neighbor": "15,25-31"
+                        }
+                    ],
+                    "liName": "西安里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "立仁里",
+                            "tboxNo": "0135",
+                            "tboxName": "立仁國小(餐廳)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮立仁里立仁街40號",
+                            "neighbor": "11-20"
+                        },
+                        {
+                            "ScopeLiName": "立仁里",
+                            "tboxNo": "0137",
+                            "tboxName": "立仁國小(一丙教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮立仁里立仁街40號",
+                            "neighbor": "21-31"
+                        }
+                    ],
+                    "liName": "立仁里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安慶里",
+                            "tboxNo": "0138",
+                            "tboxName": "安慶國小(B102教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮安慶里民主路36號",
+                            "neighbor": "安慶里"
+                        }
+                    ],
+                    "liName": "安慶里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平和里",
+                            "tboxNo": "0139",
+                            "tboxName": "虎尾鎮多功能活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮平和里大成街123號",
+                            "neighbor": "14-19,22-24,28"
+                        },
+                        {
+                            "ScopeLiName": "平和里",
+                            "tboxNo": "0140",
+                            "tboxName": "平和國小(社會教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮平和里光復路22號",
+                            "neighbor": "1-3,5-6"
+                        },
+                        {
+                            "ScopeLiName": "平和里",
+                            "tboxNo": "0141",
+                            "tboxName": "平和國小(自然教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮平和里光復路22號",
+                            "neighbor": "7-11,29"
+                        }
+                    ],
+                    "liName": "平和里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興南里",
+                            "tboxNo": "0143",
+                            "tboxName": "雲林監獄旁羽球場",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮興南里仁愛新村1號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "興南里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新吉里",
+                            "tboxNo": "0145",
+                            "tboxName": "新吉社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮新吉里新吉61之1號",
+                            "neighbor": "5-6,8-10"
+                        },
+                        {
+                            "ScopeLiName": "新吉里",
+                            "tboxNo": "0146",
+                            "tboxName": "新吉社區活動中心旁長壽俱樂部會館",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮新吉里新吉61之1號旁",
+                            "neighbor": "1-4,7,15"
+                        },
+                        {
+                            "ScopeLiName": "新吉里",
+                            "tboxNo": "0147",
+                            "tboxName": "新翰宮",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮新吉里竹圍仔145號",
+                            "neighbor": "11-14"
+                        }
+                    ],
+                    "liName": "新吉里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "穎川里",
+                            "tboxNo": "0148",
+                            "tboxName": "穎川社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮穎川里頂南195之1號",
+                            "neighbor": "2-12"
+                        },
+                        {
+                            "ScopeLiName": "穎川里",
+                            "tboxNo": "0149",
+                            "tboxName": "私立揚子高級中學活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮穎川里林森路二段541號",
+                            "neighbor": "1,13-15"
+                        }
+                    ],
+                    "liName": "穎川里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0150",
+                            "tboxName": "下湳社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮延平里下南14之2號",
+                            "neighbor": "延平里"
+                        }
+                    ],
+                    "liName": "延平里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建國里",
+                            "tboxNo": "0151",
+                            "tboxName": "建國一村丁棟",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮建國里建國一村83之15號",
+                            "neighbor": "建國里"
+                        }
+                    ],
+                    "liName": "建國里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埒內里",
+                            "tboxNo": "0152",
+                            "tboxName": "埒內社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮埒內里埒內143之5號",
+                            "neighbor": "5-11,19"
+                        },
+                        {
+                            "ScopeLiName": "埒內里",
+                            "tboxNo": "0153",
+                            "tboxName": "拱雲宮",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮埒內里埒內174號",
+                            "neighbor": "1-4,12-18,20"
+                        }
+                    ],
+                    "liName": "埒內里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "堀頭里",
+                            "tboxNo": "0154",
+                            "tboxName": "堀頭社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮堀頭里堀頭52號旁",
+                            "neighbor": "堀頭里"
+                        }
+                    ],
+                    "liName": "堀頭里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安溪里",
+                            "tboxNo": "0155",
+                            "tboxName": "安溪里活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮安溪里安溪6號",
+                            "neighbor": "5-10"
+                        }
+                    ],
+                    "liName": "安溪里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興中里",
+                            "tboxNo": "0157",
+                            "tboxName": "興中社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮興中里興中83號",
+                            "neighbor": "1,4,6,8-14"
+                        },
+                        {
+                            "ScopeLiName": "興中里",
+                            "tboxNo": "0158",
+                            "tboxName": "清雲宮",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮興中里興中220號",
+                            "neighbor": "2-3,5,7,15"
+                        }
+                    ],
+                    "liName": "興中里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廉使里",
+                            "tboxNo": "0159",
+                            "tboxName": "新廉使社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮廉使里廉使1020號",
+                            "neighbor": "1-7,9,10"
+                        },
+                        {
+                            "ScopeLiName": "廉使里",
+                            "tboxNo": "0160",
+                            "tboxName": "舊廉使社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮廉使里廉使1020號旁",
+                            "neighbor": "13,16,18-26"
+                        },
+                        {
+                            "ScopeLiName": "廉使里",
+                            "tboxNo": "0161",
+                            "tboxName": "廉使國小(一甲教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮廉使里文科路1410號",
+                            "neighbor": "8,11,12,14,15,17"
+                        }
+                    ],
+                    "liName": "廉使里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "惠來里",
+                            "tboxNo": "0162",
+                            "tboxName": "萬善堂",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮惠來里惠來201號",
+                            "neighbor": "1-5,16-19"
+                        },
+                        {
+                            "ScopeLiName": "惠來里",
+                            "tboxNo": "0163",
+                            "tboxName": "惠來社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮惠來里惠來113之1號",
+                            "neighbor": "6-15"
+                        }
+                    ],
+                    "liName": "惠來里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂溪里",
+                            "tboxNo": "0164",
+                            "tboxName": "頂溪社區多功能活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮頂溪里頂竹圍5之6號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "頂溪里",
+                            "tboxNo": "0165",
+                            "tboxName": "中溪國小(專科教室)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮頂溪里過溪63號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "頂溪里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中溪里",
+                            "tboxNo": "0166",
+                            "tboxName": "中溪社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮中溪里溪埔10之1號",
+                            "neighbor": "中溪里"
+                        }
+                    ],
+                    "liName": "中溪里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下溪里",
+                            "tboxNo": "0167",
+                            "tboxName": "下溪社區活動中心(三塊厝)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮下溪里下溪7之2號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "下溪里",
+                            "tboxNo": "0168",
+                            "tboxName": "下溪里大庄活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮下溪里大庄90號",
+                            "neighbor": "8-16"
+                        }
+                    ],
+                    "liName": "下溪里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東屯里",
+                            "tboxNo": "0169",
+                            "tboxName": "東屯社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮東屯里大屯162之2號",
+                            "neighbor": "東屯里"
+                        }
+                    ],
+                    "liName": "東屯里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西屯里",
+                            "tboxNo": "0170",
+                            "tboxName": "西屯社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮西屯里大屯162之1號",
+                            "neighbor": "西屯里"
+                        }
+                    ],
+                    "liName": "西屯里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "芳草里",
+                            "tboxNo": "0171",
+                            "tboxName": "芳草社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮芳草里芳草69之1號",
+                            "neighbor": "芳草里"
+                        }
+                    ],
+                    "liName": "芳草里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "墾地里",
+                            "tboxNo": "0172",
+                            "tboxName": "墾地社區長青食堂(舊活動中心)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮墾地里墾地51號",
+                            "neighbor": "1-9,11"
+                        },
+                        {
+                            "ScopeLiName": "墾地里",
+                            "tboxNo": "0173",
+                            "tboxName": "墾地社區活動中心(中科虎尾園區)",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮墾地里科雲南路51號",
+                            "neighbor": "10,12-32"
+                        }
+                    ],
+                    "liName": "墾地里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三合里",
+                            "tboxNo": "0175",
+                            "tboxName": "三合里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣虎尾鎮三合里舊部39之1號",
+                            "neighbor": "三合里"
+                        }
+                    ],
+                    "liName": "三合里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長南村",
+                            "tboxNo": "0202",
+                            "tboxName": "元長國小東面(二)教室",
+                            "geocode": null,
+                            "addr": "雲林縣元長鄉長南村元西路76號",
+                            "neighbor": "8-18"
+                        },
+                        {
+                            "ScopeLiName": "長南村",
+                            "tboxNo": "0203",
+                            "tboxName": "元長國小西面教室",
+                            "geocode": null,
+                            "addr": "雲林縣元長鄉長南村元西路76號",
+                            "neighbor": "19-31"
+                        }
+                    ],
+                    "liName": "長南村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山內村",
+                            "tboxNo": "0208",
+                            "tboxName": "山內村活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣元長鄉山內村南山8-2號",
+                            "neighbor": "山內村"
+                        }
+                    ],
+                    "liName": "山內村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "潭西村",
+                            "tboxNo": "0211",
+                            "tboxName": "潭西村集會所活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣元長鄉潭西村潭內31-6號",
+                            "neighbor": "潭西村"
+                        }
+                    ],
+                    "liName": "潭西村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍岩村",
+                            "tboxNo": "0218",
+                            "tboxName": "龍岩村活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣元長鄉龍岩村龍岩29號",
+                            "neighbor": "龍岩村"
+                        }
+                    ],
+                    "liName": "龍岩村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿北村",
+                            "tboxNo": "0220",
+                            "tboxName": "鹿北村活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣元長鄉鹿北村明鹿79-1號",
+                            "neighbor": "鹿北村"
+                        }
+                    ],
+                    "liName": "鹿北村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內寮村",
+                            "tboxNo": "0224",
+                            "tboxName": "內寮村集會所活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣元長鄉內寮村姚厝9-1號",
+                            "neighbor": "內寮村"
+                        }
+                    ],
+                    "liName": "內寮村"
+                }
+            ],
+            "deptCode": "170"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "口湖村",
+                            "tboxNo": "0227",
+                            "tboxName": "口湖國小",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉湖東村文明路103巷46號",
+                            "neighbor": "口湖村"
+                        }
+                    ],
+                    "liName": "口湖村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖東村",
+                            "tboxNo": "0228",
+                            "tboxName": "會水宮東邊廂房",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉湖東村烏麻園街30之1號",
+                            "neighbor": "湖東村"
+                        }
+                    ],
+                    "liName": "湖東村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂湖村",
+                            "tboxNo": "0229",
+                            "tboxName": "頂湖國小",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉頂湖村頂湖121號",
+                            "neighbor": "頂湖村"
+                        }
+                    ],
+                    "liName": "頂湖村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔南村",
+                            "tboxNo": "0230",
+                            "tboxName": "埔南社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉埔南村外埔126號",
+                            "neighbor": "埔南村"
+                        }
+                    ],
+                    "liName": "埔南村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔北村",
+                            "tboxNo": "0231",
+                            "tboxName": "埔北活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉埔北村林圍39之2號",
+                            "neighbor": "埔北村"
+                        }
+                    ],
+                    "liName": "埔北村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "謝厝村",
+                            "tboxNo": "0232",
+                            "tboxName": "謝厝社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉謝厝村謝厝11號 旁 ",
+                            "neighbor": "謝厝村"
+                        }
+                    ],
+                    "liName": "謝厝村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蚵寮村",
+                            "tboxNo": "0233",
+                            "tboxName": "崇文國小",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉蚵寮村崇文路二段285號",
+                            "neighbor": "蚵寮村"
+                        }
+                    ],
+                    "liName": "蚵寮村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下崙村",
+                            "tboxNo": "0234",
+                            "tboxName": "下崙福安宮香客大樓東側",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉下崙村漁港路15號 對面 ",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "下崙村",
+                            "tboxNo": "0235",
+                            "tboxName": "下崙福安宮香客大樓西側",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉下崙村漁港路15號 對面 ",
+                            "neighbor": "14-21"
+                        }
+                    ],
+                    "liName": "下崙村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙中村",
+                            "tboxNo": "0236",
+                            "tboxName": "口湖鄉第二老人文康活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉下崙村福安路91號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "崙中村",
+                            "tboxNo": "0237",
+                            "tboxName": "下崙福安宮南側廂房",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉崙中村福安路22號",
+                            "neighbor": "10-19"
+                        }
+                    ],
+                    "liName": "崙中村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙東村",
+                            "tboxNo": "0238",
+                            "tboxName": "崙東興安代天府",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉崙東村民生路79巷28號",
+                            "neighbor": "崙東村"
+                        }
+                    ],
+                    "liName": "崙東村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "青蚶村",
+                            "tboxNo": "0239",
+                            "tboxName": "青蚶社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉青蚶村青蚶59號 旁 ",
+                            "neighbor": "青蚶村"
+                        }
+                    ],
+                    "liName": "青蚶村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港東村",
+                            "tboxNo": "0240",
+                            "tboxName": "港東村漁民活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉港東村信義路39號",
+                            "neighbor": "港東村"
+                        }
+                    ],
+                    "liName": "港東村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港西村",
+                            "tboxNo": "0241",
+                            "tboxName": "港西避難所",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉港西村海豐路2之6號",
+                            "neighbor": "港西村"
+                        }
+                    ],
+                    "liName": "港西村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "台子村",
+                            "tboxNo": "0242",
+                            "tboxName": "台子蚶寮活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉台子村蚶寮22號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "台子村",
+                            "tboxNo": "0243",
+                            "tboxName": "台興國小(一)",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉台子村台興路130號",
+                            "neighbor": "6-10"
+                        },
+                        {
+                            "ScopeLiName": "台子村",
+                            "tboxNo": "0244",
+                            "tboxName": "台興國小(二)",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉台子村台興路130號",
+                            "neighbor": "11-18"
+                        }
+                    ],
+                    "liName": "台子村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成龍村",
+                            "tboxNo": "0245",
+                            "tboxName": "成龍安龍宮南側廂房",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉成龍村成龍89號",
+                            "neighbor": "成龍村"
+                        }
+                    ],
+                    "liName": "成龍村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梧南村",
+                            "tboxNo": "0246",
+                            "tboxName": "梧南順天宮廟下",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉梧南村瑞興街26之3號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "梧南村",
+                            "tboxNo": "0247",
+                            "tboxName": "梧南社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉梧南村文光路56之1號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "梧南村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梧北村",
+                            "tboxNo": "0248",
+                            "tboxName": "梧北活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉梧北村復興路175之6號",
+                            "neighbor": "梧北村"
+                        }
+                    ],
+                    "liName": "梧北村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水井村",
+                            "tboxNo": "0249",
+                            "tboxName": "水井村農民教育活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉水井村水井路152號",
+                            "neighbor": "水井村"
+                        }
+                    ],
+                    "liName": "水井村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後厝村",
+                            "tboxNo": "0250",
+                            "tboxName": "後厝社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉後厝村後厝109號",
+                            "neighbor": "後厝村"
+                        }
+                    ],
+                    "liName": "後厝村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖口村",
+                            "tboxNo": "0251",
+                            "tboxName": "湖口漁民活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉湖口村湖口127號",
+                            "neighbor": "湖口村"
+                        }
+                    ],
+                    "liName": "湖口村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "過港村",
+                            "tboxNo": "0252",
+                            "tboxName": "過港社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣口湖鄉過港村過港96號 北天宮旁 ",
+                            "neighbor": "過港村"
+                        }
+                    ],
+                    "liName": "過港村"
+                }
+            ],
+            "deptCode": "190"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水北村",
+                            "tboxNo": "0253",
+                            "tboxName": "水燦林國小",
+                            "geocode": null,
+                            "addr": "雲林縣水林鄉水北村水林路6號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "水北村",
+                            "tboxNo": "0254",
+                            "tboxName": "水燦林國小(水林校區)學生活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣水林鄉水北村文化路45號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "水北村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水南村",
+                            "tboxNo": "0256",
+                            "tboxName": "水南村老人休閒活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣水林鄉水南村埔尾59-1號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "水南村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "春埔村",
+                            "tboxNo": "0263",
+                            "tboxName": "春埔社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣水林鄉春埔村春埔59號",
+                            "neighbor": "1-17"
+                        }
+                    ],
+                    "liName": "春埔村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蘇秦村",
+                            "tboxNo": "0266",
+                            "tboxName": "蘇秦社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣水林鄉蘇秦村蘇秦路46號",
+                            "neighbor": "1-16"
+                        }
+                    ],
+                    "liName": "蘇秦村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蕃薯村",
+                            "tboxNo": "0269",
+                            "tboxName": "順天宮香客大樓",
+                            "geocode": null,
+                            "addr": "雲林縣水林鄉蕃薯村蕃薯厝102-1號",
+                            "neighbor": "1-12"
+                        }
+                    ],
+                    "liName": "蕃薯村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "土厝村",
+                            "tboxNo": "0277",
+                            "tboxName": "土厝社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣水林鄉土厝村下寮1號",
+                            "neighbor": "1-17"
+                        }
+                    ],
+                    "liName": "土厝村"
+                }
+            ],
+            "deptCode": "200"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南安里",
+                            "tboxNo": "0282",
+                            "tboxName": "南安里活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮南安里義民路12號（旁）",
+                            "neighbor": "南安里"
+                        }
+                    ],
+                    "liName": "南安里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義民里",
+                            "tboxNo": "0284",
+                            "tboxName": "義民廟",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮義民里旌義街20號",
+                            "neighbor": "義民里"
+                        }
+                    ],
+                    "liName": "義民里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁和里",
+                            "tboxNo": "0287",
+                            "tboxName": "朝天宮仁和大樓",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮仁和里仁和路27號",
+                            "neighbor": "仁和里"
+                        }
+                    ],
+                    "liName": "仁和里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大同里",
+                            "tboxNo": "0290",
+                            "tboxName": "北港鎮基督長老教會(側門）",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮大同里中正路94號",
+                            "neighbor": "1,2,5-11"
+                        },
+                        {
+                            "ScopeLiName": "大同里",
+                            "tboxNo": "0291",
+                            "tboxName": "北港鎮老人會活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮大同里文化路246號",
+                            "neighbor": "3,4,12-17"
+                        }
+                    ],
+                    "liName": "大同里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁安里",
+                            "tboxNo": "0292",
+                            "tboxName": "聖德宮",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮仁安里中正路135號",
+                            "neighbor": "仁安里"
+                        }
+                    ],
+                    "liName": "仁安里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "華勝里",
+                            "tboxNo": "0293",
+                            "tboxName": "農田水利會北港管理處",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮華勝里民有路１號",
+                            "neighbor": "2-11,25,26"
+                        },
+                        {
+                            "ScopeLiName": "華勝里",
+                            "tboxNo": "0294",
+                            "tboxName": "北港鎮立幼兒園",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮華勝里民治路40號",
+                            "neighbor": "1,12-17,27,32,40"
+                        },
+                        {
+                            "ScopeLiName": "華勝里",
+                            "tboxNo": "0295",
+                            "tboxName": "建國國中(明道館理化教室)",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮華勝里大同路468號",
+                            "neighbor": "18-24,30,31"
+                        }
+                    ],
+                    "liName": "華勝里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光復里",
+                            "tboxNo": "0297",
+                            "tboxName": "建國國中(明道館三年9班)",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮華勝里大同路468號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "光復里",
+                            "tboxNo": "0298",
+                            "tboxName": "建國國中（明道館二年10班）",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮華勝里大同路468號",
+                            "neighbor": "15-20"
+                        }
+                    ],
+                    "liName": "光復里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水埔里",
+                            "tboxNo": "0300",
+                            "tboxName": "水埔社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮水埔里水埔42之1號",
+                            "neighbor": "水埔里"
+                        }
+                    ],
+                    "liName": "水埔里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新街里",
+                            "tboxNo": "0301",
+                            "tboxName": "北辰國小（6年1班）",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮新街里成功路30號",
+                            "neighbor": "16,21-23,30-32"
+                        },
+                        {
+                            "ScopeLiName": "新街里",
+                            "tboxNo": "0306",
+                            "tboxName": "碧水寺",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮新街里新德路3號",
+                            "neighbor": "1-7,9,10"
+                        }
+                    ],
+                    "liName": "新街里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "番溝里",
+                            "tboxNo": "0315",
+                            "tboxName": "育英國小(餐廳)",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮番溝里番溝84號",
+                            "neighbor": "番溝里"
+                        }
+                    ],
+                    "liName": "番溝里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "好收里",
+                            "tboxNo": "0317",
+                            "tboxName": "好收社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮好收里好收52號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "好收里",
+                            "tboxNo": "0318",
+                            "tboxName": "口庄社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮好收里口庄74之6號",
+                            "neighbor": "11-17"
+                        }
+                    ],
+                    "liName": "好收里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樹腳里",
+                            "tboxNo": "0319",
+                            "tboxName": "樹腳社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮樹腳里大庄2號",
+                            "neighbor": "3-12"
+                        },
+                        {
+                            "ScopeLiName": "樹腳里",
+                            "tboxNo": "0321",
+                            "tboxName": "巨人中學（護理教室）",
+                            "geocode": null,
+                            "addr": "雲林縣北港鎮樹腳里大同路647號",
+                            "neighbor": "17-20"
+                        }
+                    ],
+                    "liName": "樹腳里"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西榮村",
+                            "tboxNo": "0323",
+                            "tboxName": "東明、南陽、西榮三村聯合活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉西榮村民權路386號",
+                            "neighbor": "1-14"
+                        }
+                    ],
+                    "liName": "西榮村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南陽村",
+                            "tboxNo": "0325",
+                            "tboxName": "崙背國小",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉南陽村大同路154號",
+                            "neighbor": "10-17,20,21"
+                        }
+                    ],
+                    "liName": "南陽村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙前村",
+                            "tboxNo": "0326",
+                            "tboxName": "崙前村順天宮",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉崙前村崙前70號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "崙前村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "羅厝村",
+                            "tboxNo": "0328",
+                            "tboxName": "羅厝村辦公處",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉羅厝村東興117號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "羅厝村",
+                            "tboxNo": "0329",
+                            "tboxName": "羅厝社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉羅厝村東興33之10號",
+                            "neighbor": "14-23"
+                        }
+                    ],
+                    "liName": "羅厝村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港尾村",
+                            "tboxNo": "0330",
+                            "tboxName": "港尾社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉港尾村新鎮30之1號",
+                            "neighbor": "1-15"
+                        }
+                    ],
+                    "liName": "港尾村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "阿勸村",
+                            "tboxNo": "0332",
+                            "tboxName": "塩園社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉阿勸村塩園118之10號",
+                            "neighbor": "6-15"
+                        }
+                    ],
+                    "liName": "阿勸村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大有村",
+                            "tboxNo": "0335",
+                            "tboxName": "大有村永安宮",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉大有村大有165號",
+                            "neighbor": "12-23"
+                        }
+                    ],
+                    "liName": "大有村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐榮村",
+                            "tboxNo": "0336",
+                            "tboxName": "豐榮國小",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉豐榮村豐榮21號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "豐榮村",
+                            "tboxNo": "0337",
+                            "tboxName": "頂店後社社區聯合活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉豐榮村豐榮122號",
+                            "neighbor": "12-24"
+                        }
+                    ],
+                    "liName": "豐榮村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "舊庄村",
+                            "tboxNo": "0340",
+                            "tboxName": "舊庄社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉舊庄村舊庄99號",
+                            "neighbor": "1-14"
+                        }
+                    ],
+                    "liName": "舊庄村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水尾村",
+                            "tboxNo": "0341",
+                            "tboxName": "水尾社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣崙背鄉水尾村頂街59號",
+                            "neighbor": "1-14"
+                        }
+                    ],
+                    "liName": "水尾村"
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙西村",
+                            "tboxNo": "0345",
+                            "tboxName": "二崙國民小學",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉崙東村中興路36號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "崙西村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "來惠村",
+                            "tboxNo": "0348",
+                            "tboxName": "來惠社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉來惠村惠來路54之1號",
+                            "neighbor": "11-24"
+                        }
+                    ],
+                    "liName": "來惠村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三和村",
+                            "tboxNo": "0349",
+                            "tboxName": "十八張犁社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉三和村三和路30-7號",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "三和村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "田尾村",
+                            "tboxNo": "0353",
+                            "tboxName": "田尾頂社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉田尾村田尾路92號",
+                            "neighbor": "10-18"
+                        }
+                    ],
+                    "liName": "田尾村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永定村",
+                            "tboxNo": "0355",
+                            "tboxName": "永定社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉永定村永定路411號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "永定村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大華村",
+                            "tboxNo": "0357",
+                            "tboxName": "大華南社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉大華村大華路30-3號",
+                            "neighbor": "大華村"
+                        }
+                    ],
+                    "liName": "大華村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義庄村",
+                            "tboxNo": "0358",
+                            "tboxName": "義庄社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉義庄村新庄路75號",
+                            "neighbor": "義庄村"
+                        }
+                    ],
+                    "liName": "義庄村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "楊賢村",
+                            "tboxNo": "0359",
+                            "tboxName": "楊賢東社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉楊賢村楊賢路26-7號",
+                            "neighbor": "1-7"
+                        }
+                    ],
+                    "liName": "楊賢村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "油車村",
+                            "tboxNo": "0364",
+                            "tboxName": "油車社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉油車村成功路124號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "油車村",
+                            "tboxNo": "0365",
+                            "tboxName": "協和社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉油車村山子門31-1號",
+                            "neighbor": "11-14"
+                        }
+                    ],
+                    "liName": "油車村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "庄西村",
+                            "tboxNo": "0367",
+                            "tboxName": "庄西社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉庄西村洲子17-8號",
+                            "neighbor": "庄西村"
+                        }
+                    ],
+                    "liName": "庄西村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興村",
+                            "tboxNo": "0369",
+                            "tboxName": "復興社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣二崙鄉復興村復興路21-1號",
+                            "neighbor": "復興村"
+                        }
+                    ],
+                    "liName": "復興村"
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林中村",
+                            "tboxNo": "0436",
+                            "tboxName": "林內鄉衛生所",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉林中村新興54號",
+                            "neighbor": "10-15"
+                        },
+                        {
+                            "ScopeLiName": "林中村",
+                            "tboxNo": "0437",
+                            "tboxName": "林內國小",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉林南村中正路111號",
+                            "neighbor": "16-24"
+                        },
+                        {
+                            "ScopeLiName": "林中村",
+                            "tboxNo": "0438",
+                            "tboxName": "林內鄉老人會",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉林中村中正路62巷1號",
+                            "neighbor": "25-33"
+                        }
+                    ],
+                    "liName": "林中村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林茂村",
+                            "tboxNo": "0443",
+                            "tboxName": "林茂社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉林茂村中興17之1號",
+                            "neighbor": "林茂村"
+                        }
+                    ],
+                    "liName": "林茂村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "九芎村",
+                            "tboxNo": "0444",
+                            "tboxName": "九芎社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉九芎村中央路160號",
+                            "neighbor": "1-15,27-30"
+                        },
+                        {
+                            "ScopeLiName": "九芎村",
+                            "tboxNo": "0445",
+                            "tboxName": "九芎國小",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉九芎村文化路10號",
+                            "neighbor": "16-26"
+                        }
+                    ],
+                    "liName": "九芎村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖本村",
+                            "tboxNo": "0446",
+                            "tboxName": "湖本社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉湖本村三權路28號",
+                            "neighbor": "湖本村"
+                        }
+                    ],
+                    "liName": "湖本村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "烏塗村",
+                            "tboxNo": "0447",
+                            "tboxName": "民生國小",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉烏塗村華興1號",
+                            "neighbor": "烏塗村"
+                        }
+                    ],
+                    "liName": "烏塗村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "烏麻村",
+                            "tboxNo": "0448",
+                            "tboxName": "烏麻社區活動中心(永昌)",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉烏麻村永昌62之1號",
+                            "neighbor": "烏麻村"
+                        }
+                    ],
+                    "liName": "烏麻村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "重興村",
+                            "tboxNo": "0450",
+                            "tboxName": "重興國小",
+                            "geocode": null,
+                            "addr": "雲林縣林內鄉重興村重興15號",
+                            "neighbor": "4-10,12-14"
+                        }
+                    ],
+                    "liName": "重興村"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "033",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮西里",
+                            "tboxNo": "0456",
+                            "tboxName": "鎮西國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市中和里西平路3號",
+                            "neighbor": "4,29"
+                        },
+                        {
+                            "ScopeLiName": "鎮西里",
+                            "tboxNo": "0457",
+                            "tboxName": "雲林國中",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮西里明德路599號",
+                            "neighbor": "9,10"
+                        },
+                        {
+                            "ScopeLiName": "鎮西里",
+                            "tboxNo": "0458",
+                            "tboxName": "鎮西里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮西里中堅西路701號",
+                            "neighbor": "13,21,22"
+                        },
+                        {
+                            "ScopeLiName": "鎮西里",
+                            "tboxNo": "0459",
+                            "tboxName": "雲林國中",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮西里明德路599號",
+                            "neighbor": "25"
+                        }
+                    ],
+                    "liName": "鎮西里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮東里",
+                            "tboxNo": "0460",
+                            "tboxName": "鎮東里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮東里育英北街６０號",
+                            "neighbor": "6,7,11"
+                        },
+                        {
+                            "ScopeLiName": "鎮東里",
+                            "tboxNo": "0461",
+                            "tboxName": "鎮東國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮東里文化路205號",
+                            "neighbor": "13"
+                        }
+                    ],
+                    "liName": "鎮東里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0462",
+                            "tboxName": "斗六國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市成功里鎮東路225號",
+                            "neighbor": "1,12"
+                        },
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0463",
+                            "tboxName": "斗六國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市成功里鎮東路225號",
+                            "neighbor": "14"
+                        }
+                    ],
+                    "liName": "文化里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三平里",
+                            "tboxNo": "0464",
+                            "tboxName": "三平里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市三平里洛陽路69號",
+                            "neighbor": "1,5,6"
+                        },
+                        {
+                            "ScopeLiName": "三平里",
+                            "tboxNo": "0465",
+                            "tboxName": "公誠國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市公誠里北平路95號",
+                            "neighbor": "9,12,17"
+                        },
+                        {
+                            "ScopeLiName": "三平里",
+                            "tboxNo": "0467",
+                            "tboxName": "公誠國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市公誠里北平路95號",
+                            "neighbor": "28,29"
+                        }
+                    ],
+                    "liName": "三平里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明德里",
+                            "tboxNo": "0469",
+                            "tboxName": "多功能活動中心一樓",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市明德里鎮北路712號1樓",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "明德里",
+                            "tboxNo": "0470",
+                            "tboxName": "天聖宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市明德里河堤南路二段201-50號",
+                            "neighbor": "5,7,8,11"
+                        }
+                    ],
+                    "liName": "明德里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮北里",
+                            "tboxNo": "0471",
+                            "tboxName": "鎮北里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮北里東興街198號",
+                            "neighbor": "2,7,11"
+                        },
+                        {
+                            "ScopeLiName": "鎮北里",
+                            "tboxNo": "0472",
+                            "tboxName": "斗六國中",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮東里育英北街69號",
+                            "neighbor": "22"
+                        },
+                        {
+                            "ScopeLiName": "鎮北里",
+                            "tboxNo": "0473",
+                            "tboxName": "清潔隊",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市鎮北里育英北街112巷106號",
+                            "neighbor": "20"
+                        }
+                    ],
+                    "liName": "鎮北里"
+                },
+                {
+                    "liCode": "036",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公誠里",
+                            "tboxNo": "0474",
+                            "tboxName": "公誠國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市公誠里北平路95號",
+                            "neighbor": "5,10"
+                        },
+                        {
+                            "ScopeLiName": "公誠里",
+                            "tboxNo": "0475",
+                            "tboxName": "公誠國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市公誠里北平路９５號",
+                            "neighbor": "12,17"
+                        }
+                    ],
+                    "liName": "公誠里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠孝里",
+                            "tboxNo": "0476",
+                            "tboxName": "忠孝里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市忠孝里中正路7號",
+                            "neighbor": "5,15,20"
+                        }
+                    ],
+                    "liName": "忠孝里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0477",
+                            "tboxName": "斗六家商",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市仁愛里成功路120號",
+                            "neighbor": "5,11,20"
+                        }
+                    ],
+                    "liName": "仁愛里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "八德里",
+                            "tboxNo": "0478",
+                            "tboxName": "八德社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市八德里興和路8號",
+                            "neighbor": "6"
+                        },
+                        {
+                            "ScopeLiName": "八德里",
+                            "tboxNo": "0479",
+                            "tboxName": "玄太宮餐廳",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市八德里興和路6-2號",
+                            "neighbor": "8,10"
+                        },
+                        {
+                            "ScopeLiName": "八德里",
+                            "tboxNo": "0480",
+                            "tboxName": "八德社區生活館",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市八德里文化路730巷2號",
+                            "neighbor": "14,16,19"
+                        }
+                    ],
+                    "liName": "八德里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公正里",
+                            "tboxNo": "0481",
+                            "tboxName": "雲林國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市公正里莊敬路111號",
+                            "neighbor": "4,5,7,12,13"
+                        }
+                    ],
+                    "liName": "公正里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "重光里",
+                            "tboxNo": "0484",
+                            "tboxName": "明聖宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市重光里重光路43號",
+                            "neighbor": "14,15"
+                        }
+                    ],
+                    "liName": "重光里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林頭里",
+                            "tboxNo": "0485",
+                            "tboxName": "南聖宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市林頭里南聖路301號",
+                            "neighbor": "2,6,7"
+                        },
+                        {
+                            "ScopeLiName": "林頭里",
+                            "tboxNo": "0486",
+                            "tboxName": "南聖宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市林頭里南聖路301號",
+                            "neighbor": "13,14,16,17"
+                        },
+                        {
+                            "ScopeLiName": "林頭里",
+                            "tboxNo": "0487",
+                            "tboxName": "林頭國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市林頭里榮譽路177號",
+                            "neighbor": "12,18,23,24,26"
+                        }
+                    ],
+                    "liName": "林頭里"
+                },
+                {
+                    "liCode": "038",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0488",
+                            "tboxName": "成功里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市成功里成功二街38號",
+                            "neighbor": "7-8"
+                        },
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0489",
+                            "tboxName": "受天宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市成功里莊敬路55號",
+                            "neighbor": "13,16"
+                        }
+                    ],
+                    "liName": "成功里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮南里",
+                            "tboxNo": "0491",
+                            "tboxName": "鎮南國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市社口里南揚街60號",
+                            "neighbor": "14,18"
+                        },
+                        {
+                            "ScopeLiName": "鎮南里",
+                            "tboxNo": "0492",
+                            "tboxName": "鎮南國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市社口里南揚街60號",
+                            "neighbor": "21,22,24,25,26"
+                        }
+                    ],
+                    "liName": "鎮南里"
+                },
+                {
+                    "liCode": "035",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "社口里",
+                            "tboxNo": "0494",
+                            "tboxName": "玉玄宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市社口里鎮南路150號",
+                            "neighbor": "18,23,24"
+                        }
+                    ],
+                    "liName": "社口里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍潭里",
+                            "tboxNo": "0495",
+                            "tboxName": "龍潭社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市龍潭里龍潭南路21-3號",
+                            "neighbor": "4"
+                        }
+                    ],
+                    "liName": "龍潭里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙峯里",
+                            "tboxNo": "0498",
+                            "tboxName": "崙峯社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市崙峯里仁義路38號",
+                            "neighbor": "6,7,20,22"
+                        },
+                        {
+                            "ScopeLiName": "崙峯里",
+                            "tboxNo": "0499",
+                            "tboxName": "大年宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市崙峯里仁義路44號",
+                            "neighbor": "14,16,17"
+                        }
+                    ],
+                    "liName": "崙峯里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溝埧里",
+                            "tboxNo": "0500",
+                            "tboxName": "玄佑宮一樓會議室",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市溝埧里泰安路17號",
+                            "neighbor": "1,4"
+                        }
+                    ],
+                    "liName": "溝埧里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "江厝里",
+                            "tboxNo": "0501",
+                            "tboxName": "瓦厝集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市江厝里瓦厝路100號",
+                            "neighbor": "13,16"
+                        },
+                        {
+                            "ScopeLiName": "江厝里",
+                            "tboxNo": "0502",
+                            "tboxName": "金熙宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市江厝里江厝路６２號",
+                            "neighbor": "1-5,8"
+                        }
+                    ],
+                    "liName": "江厝里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "久安里",
+                            "tboxNo": "0504",
+                            "tboxName": "久安社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市久安里久安路299號",
+                            "neighbor": "1,3,13"
+                        },
+                        {
+                            "ScopeLiName": "久安里",
+                            "tboxNo": "0505",
+                            "tboxName": "深圳社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市久安里永興路44-1號",
+                            "neighbor": "14,20"
+                        }
+                    ],
+                    "liName": "久安里"
+                },
+                {
+                    "liCode": "040",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "正心里",
+                            "tboxNo": "0507",
+                            "tboxName": "正心中學大禮堂(2)",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市正心里正心路1號",
+                            "neighbor": "10-11"
+                        }
+                    ],
+                    "liName": "正心里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "虎溪里",
+                            "tboxNo": "0508",
+                            "tboxName": "虎溪社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市虎溪里虎溪路67-2號",
+                            "neighbor": "1,3,5,8"
+                        },
+                        {
+                            "ScopeLiName": "虎溪里",
+                            "tboxNo": "0510",
+                            "tboxName": "崙仔集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市虎溪里崙仔路4號",
+                            "neighbor": "18,21,22"
+                        }
+                    ],
+                    "liName": "虎溪里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "保庄里",
+                            "tboxNo": "0511",
+                            "tboxName": "保長國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市保庄里保長路155號",
+                            "neighbor": "33"
+                        },
+                        {
+                            "ScopeLiName": "保庄里",
+                            "tboxNo": "0512",
+                            "tboxName": "保清宮",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市保庄里建興路87-1號",
+                            "neighbor": "3,9,39,41,42"
+                        },
+                        {
+                            "ScopeLiName": "保庄里",
+                            "tboxNo": "0513",
+                            "tboxName": "保長國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市保庄里保長路155號",
+                            "neighbor": "12,15,17,18"
+                        },
+                        {
+                            "ScopeLiName": "保庄里",
+                            "tboxNo": "0514",
+                            "tboxName": "後庄社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市保庄里後庄13號",
+                            "neighbor": "16,21"
+                        }
+                    ],
+                    "liName": "保庄里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長平里",
+                            "tboxNo": "0515",
+                            "tboxName": "長平社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市長平里長平南路38號",
+                            "neighbor": "1,2,6,8,9"
+                        }
+                    ],
+                    "liName": "長平里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榴中里",
+                            "tboxNo": "0518",
+                            "tboxName": "榴中社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市榴中里中興路1號",
+                            "neighbor": "13,15,16"
+                        },
+                        {
+                            "ScopeLiName": "榴中里",
+                            "tboxNo": "0519",
+                            "tboxName": "石榴國中",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市榴中里光復路66號",
+                            "neighbor": "20,22,23"
+                        },
+                        {
+                            "ScopeLiName": "榴中里",
+                            "tboxNo": "0520",
+                            "tboxName": "石榴國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市榴南里南仁路51號",
+                            "neighbor": "1,17,18,24"
+                        }
+                    ],
+                    "liName": "榴中里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榴北里",
+                            "tboxNo": "0521",
+                            "tboxName": "榴北社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市榴北里南環路86號",
+                            "neighbor": "4,6"
+                        }
+                    ],
+                    "liName": "榴北里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榴南里",
+                            "tboxNo": "0522",
+                            "tboxName": "榴南社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市榴南里南仁路192-2號",
+                            "neighbor": "4,6"
+                        },
+                        {
+                            "ScopeLiName": "榴南里",
+                            "tboxNo": "0523",
+                            "tboxName": "工業區服務中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市榴南里斗工十路7號",
+                            "neighbor": "10,12,16,17"
+                        }
+                    ],
+                    "liName": "榴南里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅林里",
+                            "tboxNo": "0524",
+                            "tboxName": "梅林國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市梅林里梅林路256號",
+                            "neighbor": "1,19"
+                        },
+                        {
+                            "ScopeLiName": "梅林里",
+                            "tboxNo": "0525",
+                            "tboxName": "梅林社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市梅林里內林路59號",
+                            "neighbor": "15,17"
+                        }
+                    ],
+                    "liName": "梅林里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖山里",
+                            "tboxNo": "0526",
+                            "tboxName": "楓樹湖社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市湖山里楓湖路92號",
+                            "neighbor": "8,13"
+                        }
+                    ],
+                    "liName": "湖山里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長安里",
+                            "tboxNo": "0527",
+                            "tboxName": "施瓜寮社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市長安里長安路224號",
+                            "neighbor": "2,23,24"
+                        },
+                        {
+                            "ScopeLiName": "長安里",
+                            "tboxNo": "0528",
+                            "tboxName": "長安社區活動中心(1)",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市長安里萬年路416巷49號",
+                            "neighbor": "12,13,15"
+                        },
+                        {
+                            "ScopeLiName": "長安里",
+                            "tboxNo": "0529",
+                            "tboxName": "長安社區活動中心(2)",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市長安里萬年路416巷49號",
+                            "neighbor": "19,20"
+                        }
+                    ],
+                    "liName": "長安里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪洲里",
+                            "tboxNo": "0531",
+                            "tboxName": "漢記公園市社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市溪洲里中南路290巷11號（漢記公園市 ",
+                            "neighbor": "10,30"
+                        },
+                        {
+                            "ScopeLiName": "溪洲里",
+                            "tboxNo": "0532",
+                            "tboxName": "溪洲國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市溪洲里萬年路809號",
+                            "neighbor": "19"
+                        }
+                    ],
+                    "liName": "溪洲里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "十三里",
+                            "tboxNo": "0533",
+                            "tboxName": "十三里社區多功能活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗六市十三里十三南路66號",
+                            "neighbor": "5,8,11"
+                        }
+                    ],
+                    "liName": "十三里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東仁里",
+                            "tboxNo": "0555",
+                            "tboxName": "雲林縣農會",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮北銘里永安街57號",
+                            "neighbor": "東仁里"
+                        }
+                    ],
+                    "liName": "東仁里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西岐里",
+                            "tboxNo": "0556",
+                            "tboxName": "斗南國小(活動中心)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮西岐里文昌路150號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "西岐里",
+                            "tboxNo": "0557",
+                            "tboxName": "斗南國小(樂齡教室)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮西岐里文昌路150號",
+                            "neighbor": "10-20"
+                        }
+                    ],
+                    "liName": "西岐里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大同里",
+                            "tboxNo": "0558",
+                            "tboxName": "東明國中(3年1班)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮大同里雲林縣斗南鎮大同里中興路111號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "大同里",
+                            "tboxNo": "0559",
+                            "tboxName": "東明國中(3年5班)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮大同里雲林縣斗南鎮大同里中興路111號",
+                            "neighbor": "8-14,22"
+                        },
+                        {
+                            "ScopeLiName": "大同里",
+                            "tboxNo": "0560",
+                            "tboxName": "斗南鎮老人日托中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮大同里雲林縣斗南鎮大同里大安路46號",
+                            "neighbor": "15-21"
+                        }
+                    ],
+                    "liName": "大同里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南昌里",
+                            "tboxNo": "0561",
+                            "tboxName": "他里霧文化園區(雲林環境教育館)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮東仁里雲林縣斗南鎮東仁里南昌路25號",
+                            "neighbor": "23-30"
+                        },
+                        {
+                            "ScopeLiName": "南昌里",
+                            "tboxNo": "0562",
+                            "tboxName": "臺汽車站青銀共生基地(原公路局斗南站)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮南昌里雲林縣斗南鎮南昌里南昌路145號",
+                            "neighbor": "1-22"
+                        }
+                    ],
+                    "liName": "南昌里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北銘里",
+                            "tboxNo": "0563",
+                            "tboxName": "祥雲寺",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮北銘里雲林縣斗南鎮北銘里文昌路117號",
+                            "neighbor": "北銘里"
+                        }
+                    ],
+                    "liName": "北銘里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中天里",
+                            "tboxNo": "0564",
+                            "tboxName": "斗南鎮農會",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮中天里雲林縣斗南鎮中天里中山路116號",
+                            "neighbor": "中天里"
+                        }
+                    ],
+                    "liName": "中天里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林子里",
+                            "tboxNo": "0565",
+                            "tboxName": "林子里活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮林子里雲林縣斗南鎮林子里林子241號之１",
+                            "neighbor": "林子里"
+                        }
+                    ],
+                    "liName": "林子里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石龜里",
+                            "tboxNo": "0566",
+                            "tboxName": "石龜溪活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮石龜里雲林縣斗南鎮石龜里光天路50號",
+                            "neighbor": "石龜里"
+                        }
+                    ],
+                    "liName": "石龜里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石溪里",
+                            "tboxNo": "0567",
+                            "tboxName": "石龜國小學生活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮靖興里雲林縣斗南鎮靖興里南生路6號",
+                            "neighbor": "石溪里"
+                        }
+                    ],
+                    "liName": "石溪里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "靖興里",
+                            "tboxNo": "0568",
+                            "tboxName": "靖興社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮靖興里雲林縣斗南鎮靖興里靖光路43號",
+                            "neighbor": "靖興里"
+                        }
+                    ],
+                    "liName": "靖興里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新南里",
+                            "tboxNo": "0569",
+                            "tboxName": "新南社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮新南里雲林縣斗南鎮新南里南勢35號之１",
+                            "neighbor": "新南里"
+                        }
+                    ],
+                    "liName": "新南里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "阿丹里",
+                            "tboxNo": "0570",
+                            "tboxName": "阿丹社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮阿丹里雲林縣斗南鎮阿丹里阿丹51之4號",
+                            "neighbor": "阿丹里"
+                        }
+                    ],
+                    "liName": "阿丹里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "將軍里",
+                            "tboxNo": "0571",
+                            "tboxName": "將軍社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮將軍里雲林縣斗南鎮將軍里將軍75號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "將軍里",
+                            "tboxNo": "0572",
+                            "tboxName": "溫磘宮會議室餐廳",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮將軍里雲林縣斗南鎮將軍里將軍75號",
+                            "neighbor": "12-19"
+                        }
+                    ],
+                    "liName": "將軍里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "舊社里",
+                            "tboxNo": "0573",
+                            "tboxName": "興國宮活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮舊社里雲林縣斗南鎮舊社里興國路40號",
+                            "neighbor": "3-9,14,15,18-20"
+                        },
+                        {
+                            "ScopeLiName": "舊社里",
+                            "tboxNo": "0574",
+                            "tboxName": "農田水利署雲林管理處斗南工作站",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮舊社里雲林縣斗南鎮舊社里新生三路2029巷61號",
+                            "neighbor": "1-2,10-13,16,17,21"
+                        }
+                    ],
+                    "liName": "舊社里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明昌里",
+                            "tboxNo": "0575",
+                            "tboxName": "文武聖廟感修堂",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮明昌里雲林縣斗南鎮明昌里大成路43號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "明昌里",
+                            "tboxNo": "0576",
+                            "tboxName": "順安宮(明德大樓1樓活動中心)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮明昌里雲林縣斗南鎮明昌里長安路一段126之1號",
+                            "neighbor": "9-11,16-18,21-23"
+                        },
+                        {
+                            "ScopeLiName": "明昌里",
+                            "tboxNo": "0577",
+                            "tboxName": "福德宮文康休閒中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮明昌里雲林縣斗南鎮明昌里明昌路360號",
+                            "neighbor": "12-15,19,20"
+                        }
+                    ],
+                    "liName": "明昌里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "僑真里",
+                            "tboxNo": "0578",
+                            "tboxName": "二重溝活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮僑真里雲林縣斗南鎮僑真里二重溝92號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "僑真里",
+                            "tboxNo": "0579",
+                            "tboxName": "僑真國小",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮僑真里雲林縣斗南鎮僑真里延平路二段642號",
+                            "neighbor": "13-18"
+                        }
+                    ],
+                    "liName": "僑真里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大東里",
+                            "tboxNo": "0580",
+                            "tboxName": "大東里活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮大東里雲林縣斗南鎮大東里大東217號",
+                            "neighbor": "大東里"
+                        }
+                    ],
+                    "liName": "大東里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埤麻里",
+                            "tboxNo": "0581",
+                            "tboxName": "埤麻里活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮埤麻里雲林縣斗南鎮埤麻里新厝2之1號",
+                            "neighbor": "埤麻里"
+                        }
+                    ],
+                    "liName": "埤麻里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西伯里",
+                            "tboxNo": "0582",
+                            "tboxName": "西伯社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮西伯里雲林縣斗南鎮西伯里西伯158號",
+                            "neighbor": "西伯里"
+                        }
+                    ],
+                    "liName": "西伯里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新崙里",
+                            "tboxNo": "0583",
+                            "tboxName": "新崙農民活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮新崙里雲林縣斗南鎮新崙里新崙中路59號",
+                            "neighbor": "1-4,17-25"
+                        },
+                        {
+                            "ScopeLiName": "新崙里",
+                            "tboxNo": "0584",
+                            "tboxName": "新崙社區托兒所",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮新崙里雲林縣斗南鎮新崙里新崙西路31之1號",
+                            "neighbor": "5-16,26"
+                        }
+                    ],
+                    "liName": "新崙里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東明里",
+                            "tboxNo": "0585",
+                            "tboxName": "東明社區活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮東明里雲林縣斗南鎮東明里新庄22-2號",
+                            "neighbor": "東明里"
+                        }
+                    ],
+                    "liName": "東明里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新光里",
+                            "tboxNo": "0586",
+                            "tboxName": "新光里集會所",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮新光里雲林縣斗南鎮新光里光聖路62號",
+                            "neighbor": "1-12,14,15,24"
+                        },
+                        {
+                            "ScopeLiName": "新光里",
+                            "tboxNo": "0587",
+                            "tboxName": "文安國小(社會教室)",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮新光里雲林縣斗南鎮新光里延平路一段189號",
+                            "neighbor": "13,16-23,25,26"
+                        }
+                    ],
+                    "liName": "新光里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "田頭里",
+                            "tboxNo": "0588",
+                            "tboxName": "田頭里活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮田頭里雲林縣斗南鎮田頭里田興路3號",
+                            "neighbor": "1-9,15"
+                        },
+                        {
+                            "ScopeLiName": "田頭里",
+                            "tboxNo": "0589",
+                            "tboxName": "田頭里托兒所",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮田頭里雲林縣斗南鎮田頭里田頭中路67號",
+                            "neighbor": "10-14,16-19"
+                        }
+                    ],
+                    "liName": "田頭里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "小東里",
+                            "tboxNo": "0590",
+                            "tboxName": "小東里活動中心",
+                            "geocode": null,
+                            "addr": "雲林縣斗南鎮小東里雲林縣斗南鎮小東里小東南路21號",
+                            "neighbor": "小東里"
+                        }
+                    ],
+                    "liName": "小東里"
+                }
+            ],
+            "deptCode": "020"
+        }
+    ]
+}

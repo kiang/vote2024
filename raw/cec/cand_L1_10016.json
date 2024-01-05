@@ -1,0 +1,46 @@
+{
+    "L1": [
+        {
+            "areaCode": "00",
+            "areaName": "澎湖縣選舉區",
+            "cands": [
+                {
+                    "area": "澎湖縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10016\/10016000000001.jpg",
+                    "gender": "男",
+                    "name": "楊曜",
+                    "birth": "0551206",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10016\/10016000000002.jpg",
+                    "gender": "男",
+                    "name": "吳政杰",
+                    "birth": "0561129",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10016\/10016000000003.jpg",
+                    "gender": "女",
+                    "name": "陳慧娟",
+                    "birth": "0520104",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 3,
+                    "home": "澎湖縣"
+                }
+            ]
+        }
+    ]
+}

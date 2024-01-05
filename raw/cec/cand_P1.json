@@ -1,0 +1,97 @@
+{
+    "P1": [
+        {
+            "candNo": 1,
+            "cands": [
+                {
+                    "area": "全國",
+                    "candType": "P",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/P1\/00000\/1.jpg",
+                    "gender": "男",
+                    "name": "柯文哲",
+                    "birth": "0480806",
+                    "type": "總統副總統",
+                    "party": "台灣民眾黨",
+                    "candNo": 1,
+                    "home": "新竹市"
+                },
+                {
+                    "area": "全國",
+                    "candType": "V",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/P1\/00000\/1V.jpg",
+                    "gender": "女",
+                    "name": "吳欣盈",
+                    "birth": "0670518",
+                    "type": "總統副總統",
+                    "party": "台灣民眾黨",
+                    "candNo": 1,
+                    "home": "美國"
+                }
+            ]
+        },
+        {
+            "candNo": 2,
+            "cands": [
+                {
+                    "area": "全國",
+                    "candType": "P",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/P1\/00000\/2.jpg",
+                    "gender": "男",
+                    "name": "賴清德",
+                    "birth": "0481006",
+                    "type": "總統副總統",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "新北市"
+                },
+                {
+                    "area": "全國",
+                    "candType": "V",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/P1\/00000\/2V.jpg",
+                    "gender": "女",
+                    "name": "蕭美琴",
+                    "birth": "0600807",
+                    "type": "總統副總統",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "日本"
+                }
+            ]
+        },
+        {
+            "candNo": 3,
+            "cands": [
+                {
+                    "area": "全國",
+                    "candType": "P",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/P1\/00000\/3.jpg",
+                    "gender": "男",
+                    "name": "侯友宜",
+                    "birth": "0460607",
+                    "type": "總統副總統",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "嘉義縣"
+                },
+                {
+                    "area": "全國",
+                    "candType": "V",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/P1\/00000\/3V.jpg",
+                    "gender": "男",
+                    "name": "趙少康",
+                    "birth": "0391116",
+                    "type": "總統副總統",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "基隆市"
+                }
+            ]
+        }
+    ]
+}

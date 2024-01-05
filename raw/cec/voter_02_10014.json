@@ -1,0 +1,2751 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0001",
+                            "tboxName": "臺東大學附小教室（一）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市文化里博愛路345號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0002",
+                            "tboxName": "臺東女中中正堂（左）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市中華里四維路一段690號",
+                            "neighbor": "8-14"
+                        }
+                    ],
+                    "liName": "文化里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中華里",
+                            "tboxNo": "0003",
+                            "tboxName": "仁愛國小教室（一）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建國里四維路一段400號",
+                            "neighbor": "1-4,7-8,10-13"
+                        },
+                        {
+                            "ScopeLiName": "中華里",
+                            "tboxNo": "0004",
+                            "tboxName": "臺東女中中正堂（右）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市中華里四維路一段690號",
+                            "neighbor": "5-6,9,14-19"
+                        }
+                    ],
+                    "liName": "中華里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0005",
+                            "tboxName": "臺東大學附小教室（二）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市文化里博愛路345號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0006",
+                            "tboxName": "臺東生活美學館主展覽室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市中正里大同路254號",
+                            "neighbor": "10-18"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中正里",
+                            "tboxNo": "0007",
+                            "tboxName": "臺東生活美學館生活工坊",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市中正里大同路254號",
+                            "neighbor": "1-2,5,8,11-15,18-19"
+                        },
+                        {
+                            "ScopeLiName": "中正里",
+                            "tboxNo": "0008",
+                            "tboxName": "仁愛國小教室（二）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建國里四維路一段400號",
+                            "neighbor": "3-4,6-7,9-10,16-17,20-21"
+                        }
+                    ],
+                    "liName": "中正里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0009",
+                            "tboxName": "東禪寺",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市成功里和平街115號",
+                            "neighbor": "1-5,8-11"
+                        },
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0010",
+                            "tboxName": "海山寺",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市成功里中正路88號",
+                            "neighbor": "6-7,12-19"
+                        }
+                    ],
+                    "liName": "成功里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建國里",
+                            "tboxNo": "0011",
+                            "tboxName": "臺東市立幼兒園",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建國里寶桑路12號",
+                            "neighbor": "1-5,8-9,13-14"
+                        },
+                        {
+                            "ScopeLiName": "建國里",
+                            "tboxNo": "0012",
+                            "tboxName": "仁愛國小教室（三）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建國里四維路一段400號",
+                            "neighbor": "6-7,10-12,15-17"
+                        }
+                    ],
+                    "liName": "建國里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民族里",
+                            "tboxNo": "0013",
+                            "tboxName": "臺東高商教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市民族里正氣路440號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "民族里",
+                            "tboxNo": "0014",
+                            "tboxName": "臺東高商教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市民族里正氣路440號",
+                            "neighbor": "8-14"
+                        },
+                        {
+                            "ScopeLiName": "民族里",
+                            "tboxNo": "0015",
+                            "tboxName": "臺東高商教室(三)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市民族里正氣路440號",
+                            "neighbor": "15-22"
+                        }
+                    ],
+                    "liName": "民族里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "自強里",
+                            "tboxNo": "0016",
+                            "tboxName": "臺東高商教室(四)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市民族里正氣路440號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "自強里",
+                            "tboxNo": "0017",
+                            "tboxName": "臺東高商教室(五)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市民族里正氣路440號",
+                            "neighbor": "11-19"
+                        },
+                        {
+                            "ScopeLiName": "自強里",
+                            "tboxNo": "0018",
+                            "tboxName": "新生國中教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市馬蘭里新生路641巷64號",
+                            "neighbor": "20-28"
+                        }
+                    ],
+                    "liName": "自強里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中心里",
+                            "tboxNo": "0019",
+                            "tboxName": "臺東高商教室(六)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市民族里正氣路440號",
+                            "neighbor": "1,5,11-13,18"
+                        },
+                        {
+                            "ScopeLiName": "中心里",
+                            "tboxNo": "0020",
+                            "tboxName": "新生國中教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市馬蘭里新生路641巷64號",
+                            "neighbor": "2-4,6-10"
+                        },
+                        {
+                            "ScopeLiName": "中心里",
+                            "tboxNo": "0021",
+                            "tboxName": "新生國中教室(三)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市馬蘭里新生路641巷64號",
+                            "neighbor": "14-17,19-21"
+                        }
+                    ],
+                    "liName": "中心里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "馬蘭里",
+                            "tboxNo": "0022",
+                            "tboxName": "馬蘭國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市馬蘭里新社三街6號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "馬蘭里",
+                            "tboxNo": "0023",
+                            "tboxName": "馬蘭國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市馬蘭里新社三街6號",
+                            "neighbor": "10-20"
+                        }
+                    ],
+                    "liName": "馬蘭里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民生里",
+                            "tboxNo": "0024",
+                            "tboxName": "寶桑國小活動中心（左）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市寶桑里四維路二段23號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "民生里",
+                            "tboxNo": "0025",
+                            "tboxName": "寶桑國小活動中心（右）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市寶桑里四維路二段23號",
+                            "neighbor": "8-16"
+                        },
+                        {
+                            "ScopeLiName": "民生里",
+                            "tboxNo": "0026",
+                            "tboxName": "臺東縣立新生幼兒園（縣托）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新生里開封街490號",
+                            "neighbor": "17-26"
+                        }
+                    ],
+                    "liName": "民生里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寶桑里",
+                            "tboxNo": "0027",
+                            "tboxName": "寶桑四維多功能活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市寶桑里博愛路16號",
+                            "neighbor": "寶桑里"
+                        }
+                    ],
+                    "liName": "寶桑里"
+                },
+                {
+                    "liCode": "047",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁和里",
+                            "tboxNo": "0028",
+                            "tboxName": "寶桑國中活動中心(左)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市仁和里仁七街1號",
+                            "neighbor": "1-4,6-8,11-12"
+                        },
+                        {
+                            "ScopeLiName": "仁和里",
+                            "tboxNo": "0029",
+                            "tboxName": "寶桑國中教室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市仁和里仁七街1號",
+                            "neighbor": "5,9-10,13-16,19"
+                        },
+                        {
+                            "ScopeLiName": "仁和里",
+                            "tboxNo": "0030",
+                            "tboxName": "寶桑國中活動中心(右)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市仁和里仁七街1號",
+                            "neighbor": "17-18,20-25"
+                        }
+                    ],
+                    "liName": "仁和里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新生里",
+                            "tboxNo": "0031",
+                            "tboxName": "新生國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新生里更生路474巷45號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "新生里",
+                            "tboxNo": "0032",
+                            "tboxName": "新生國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新生里更生路474巷45號",
+                            "neighbor": "8-15"
+                        },
+                        {
+                            "ScopeLiName": "新生里",
+                            "tboxNo": "0033",
+                            "tboxName": "新生國小教室(三)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新生里更生路474巷45號",
+                            "neighbor": "16-22"
+                        }
+                    ],
+                    "liName": "新生里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南榮里",
+                            "tboxNo": "0034",
+                            "tboxName": "新馬蘭部落聚會所教室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市南榮里青島街1號",
+                            "neighbor": "1-5,8"
+                        },
+                        {
+                            "ScopeLiName": "南榮里",
+                            "tboxNo": "0035",
+                            "tboxName": "新馬蘭部落聚會所（中）",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市南榮里青島街1號",
+                            "neighbor": "6-7,9-12"
+                        },
+                        {
+                            "ScopeLiName": "南榮里",
+                            "tboxNo": "0036",
+                            "tboxName": "大橋部落聚會所",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市南榮里志航路一段412巷17弄38號",
+                            "neighbor": "13-19"
+                        }
+                    ],
+                    "liName": "南榮里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "岩灣里",
+                            "tboxNo": "0037",
+                            "tboxName": "岩灣國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "岩灣里",
+                            "tboxNo": "0038",
+                            "tboxName": "岩灣國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+                            "neighbor": "12-21"
+                        }
+                    ],
+                    "liName": "岩灣里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "卑南里",
+                            "tboxNo": "0039",
+                            "tboxName": "卑南國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市卑南里更生北路317號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "卑南里",
+                            "tboxNo": "0040",
+                            "tboxName": "卑南國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市卑南里更生北路317號",
+                            "neighbor": "7-11,21-22"
+                        },
+                        {
+                            "ScopeLiName": "卑南里",
+                            "tboxNo": "0041",
+                            "tboxName": "卑南民眾活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市卑南里南清街23號",
+                            "neighbor": "12-20"
+                        }
+                    ],
+                    "liName": "卑南里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南王里",
+                            "tboxNo": "0042",
+                            "tboxName": "卑南國中教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市南王里更生北路766號",
+                            "neighbor": "1-7,13"
+                        },
+                        {
+                            "ScopeLiName": "南王里",
+                            "tboxNo": "0043",
+                            "tboxName": "卑南國中教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市南王里更生北路766號",
+                            "neighbor": "8-12,17-18"
+                        },
+                        {
+                            "ScopeLiName": "南王里",
+                            "tboxNo": "0044",
+                            "tboxName": "卑南國中教室(三)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市南王里更生北路766號",
+                            "neighbor": "14-16,19-21"
+                        }
+                    ],
+                    "liName": "南王里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富岡里",
+                            "tboxNo": "0045",
+                            "tboxName": "臺東市老人文康活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市富岡里吉林路二段699巷22號",
+                            "neighbor": "1,9,12-15"
+                        },
+                        {
+                            "ScopeLiName": "富岡里",
+                            "tboxNo": "0046",
+                            "tboxName": "富豐社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市富岡里吉林路一段279巷58號",
+                            "neighbor": "2-8,17"
+                        },
+                        {
+                            "ScopeLiName": "富岡里",
+                            "tboxNo": "0047",
+                            "tboxName": "海神廟",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市富岡里松江路一段316巷17弄1號",
+                            "neighbor": "10-11,16,18-19"
+                        }
+                    ],
+                    "liName": "富岡里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0048",
+                            "tboxName": "復興國小",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新興里鐵花路87巷55號",
+                            "neighbor": "1-2,7-11"
+                        },
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0049",
+                            "tboxName": "臺東縣政府社會處大禮堂",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新興里桂林北路201號",
+                            "neighbor": "3-6,12-13"
+                        }
+                    ],
+                    "liName": "新興里"
+                },
+                {
+                    "liCode": "036",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東海里",
+                            "tboxNo": "0050",
+                            "tboxName": "東海國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市東海里長沙街329號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "東海里",
+                            "tboxNo": "0051",
+                            "tboxName": "東海國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市東海里長沙街329號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "東海里"
+                },
+                {
+                    "liCode": "033",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐樂里",
+                            "tboxNo": "0052",
+                            "tboxName": "臺東專科教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐樂里正氣北路889號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "豐樂里",
+                            "tboxNo": "0053",
+                            "tboxName": "臺東專校教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐樂里正氣北路889號",
+                            "neighbor": "7-13"
+                        }
+                    ],
+                    "liName": "豐樂里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光明里",
+                            "tboxNo": "0054",
+                            "tboxName": "光明國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市光明里中興路二段150巷29弄1號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "光明里",
+                            "tboxNo": "0055",
+                            "tboxName": "光明國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市光明里中興路二段150巷29弄1號",
+                            "neighbor": "8-14"
+                        },
+                        {
+                            "ScopeLiName": "光明里",
+                            "tboxNo": "0056",
+                            "tboxName": "光明國小教室(三)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市光明里中興路二段150巷29弄1號",
+                            "neighbor": "15-21"
+                        }
+                    ],
+                    "liName": "光明里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐年里",
+                            "tboxNo": "0057",
+                            "tboxName": "豐年國小會議室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐年里中興路三段320號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "豐年里",
+                            "tboxNo": "0058",
+                            "tboxName": "豐年國小語文教室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐年里中興路三段320號",
+                            "neighbor": "9-15"
+                        },
+                        {
+                            "ScopeLiName": "豐年里",
+                            "tboxNo": "0059",
+                            "tboxName": "豐年國小廚房",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐年里中興路三段320號",
+                            "neighbor": "16-24"
+                        }
+                    ],
+                    "liName": "豐年里"
+                },
+                {
+                    "liCode": "035",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "康樂里",
+                            "tboxNo": "0060",
+                            "tboxName": "康樂德安巖",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市康樂里康樂路79號",
+                            "neighbor": "康樂里"
+                        }
+                    ],
+                    "liName": "康樂里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永樂里",
+                            "tboxNo": "0061",
+                            "tboxName": "康樂國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市永樂里山西路一段256號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "永樂里",
+                            "tboxNo": "0062",
+                            "tboxName": "康樂國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市永樂里山西路一段256號",
+                            "neighbor": "7-13"
+                        },
+                        {
+                            "ScopeLiName": "永樂里",
+                            "tboxNo": "0063",
+                            "tboxName": "康樂國小教室(三)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市永樂里山西路一段256號",
+                            "neighbor": "14-20"
+                        }
+                    ],
+                    "liName": "永樂里"
+                },
+                {
+                    "liCode": "048",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐安里",
+                            "tboxNo": "0064",
+                            "tboxName": "豐榮國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "1-7,15"
+                        },
+                        {
+                            "ScopeLiName": "豐安里",
+                            "tboxNo": "0065",
+                            "tboxName": "豐榮國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "8-13"
+                        },
+                        {
+                            "ScopeLiName": "豐安里",
+                            "tboxNo": "0066",
+                            "tboxName": "豐榮國小教室(三)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "14,16-22"
+                        }
+                    ],
+                    "liName": "豐安里"
+                },
+                {
+                    "liCode": "038",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐榮里",
+                            "tboxNo": "0067",
+                            "tboxName": "豐榮國小教室(四)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "豐榮里",
+                            "tboxNo": "0068",
+                            "tboxName": "豐榮國小教室(五)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "9-16"
+                        },
+                        {
+                            "ScopeLiName": "豐榮里",
+                            "tboxNo": "0069",
+                            "tboxName": "豐榮國小教室(六)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "17-23"
+                        }
+                    ],
+                    "liName": "豐榮里"
+                },
+                {
+                    "liCode": "049",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐盛里",
+                            "tboxNo": "0070",
+                            "tboxName": "東海國宅閱覽室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐盛里文心街60號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "豐盛里",
+                            "tboxNo": "0071",
+                            "tboxName": "家庭教育中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐盛里中華路二段17號",
+                            "neighbor": "9-11,13-17"
+                        },
+                        {
+                            "ScopeLiName": "豐盛里",
+                            "tboxNo": "0072",
+                            "tboxName": "豐盛民眾活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐盛里中華路二段173號",
+                            "neighbor": "12,18-24"
+                        }
+                    ],
+                    "liName": "豐盛里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐谷里",
+                            "tboxNo": "0073",
+                            "tboxName": "豐榮國小教室(七)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "1-9,15"
+                        },
+                        {
+                            "ScopeLiName": "豐谷里",
+                            "tboxNo": "0074",
+                            "tboxName": "豐榮國小教室(八)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "10-14,16-17"
+                        },
+                        {
+                            "ScopeLiName": "豐谷里",
+                            "tboxNo": "0075",
+                            "tboxName": "豐榮國小教室(九)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐榮里中華路二段154巷150號",
+                            "neighbor": "18-26"
+                        }
+                    ],
+                    "liName": "豐谷里"
+                },
+                {
+                    "liCode": "040",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐里里",
+                            "tboxNo": "0076",
+                            "tboxName": "豐里國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐里里中華路三段80號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "豐里里",
+                            "tboxNo": "0077",
+                            "tboxName": "豐里國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐里里中華路三段80號",
+                            "neighbor": "8-16"
+                        }
+                    ],
+                    "liName": "豐里里"
+                },
+                {
+                    "liCode": "041",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐原里",
+                            "tboxNo": "0078",
+                            "tboxName": "豐源國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐原里中華路四段392號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "豐原里",
+                            "tboxNo": "0079",
+                            "tboxName": "豐源國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐原里中華路四段392號",
+                            "neighbor": "6-9"
+                        }
+                    ],
+                    "liName": "豐原里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐田里",
+                            "tboxNo": "0080",
+                            "tboxName": "豐田國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐田里中興路四段750號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "豐田里",
+                            "tboxNo": "0081",
+                            "tboxName": "豐田國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市豐田里中興路四段750號",
+                            "neighbor": "12-22"
+                        }
+                    ],
+                    "liName": "豐田里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新園里",
+                            "tboxNo": "0082",
+                            "tboxName": "新園國小",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新園里新園路88號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "新園里",
+                            "tboxNo": "0083",
+                            "tboxName": "新園社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市新園里中興路六段708號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "新園里"
+                },
+                {
+                    "liCode": "042",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建和里",
+                            "tboxNo": "0084",
+                            "tboxName": "建和國小資源教室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建和里青海路三段640號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "建和里",
+                            "tboxNo": "0085",
+                            "tboxName": "建和國小圖書室",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建和里青海路三段640號",
+                            "neighbor": "7-12"
+                        }
+                    ],
+                    "liName": "建和里"
+                },
+                {
+                    "liCode": "043",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建興里",
+                            "tboxNo": "0086",
+                            "tboxName": "建興里集會所",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建興里富貴街86號",
+                            "neighbor": "建興里"
+                        }
+                    ],
+                    "liName": "建興里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "知本里",
+                            "tboxNo": "0087",
+                            "tboxName": "知本社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市知本里知本路三段13巷40號",
+                            "neighbor": "1-6,9"
+                        },
+                        {
+                            "ScopeLiName": "知本里",
+                            "tboxNo": "0088",
+                            "tboxName": "建業社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市知本里西昌街214號",
+                            "neighbor": "7,15-19"
+                        },
+                        {
+                            "ScopeLiName": "知本里",
+                            "tboxNo": "0089",
+                            "tboxName": "卡大地布聚會所",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市知本里康定街116號",
+                            "neighbor": "8,10-14,20"
+                        }
+                    ],
+                    "liName": "知本里"
+                },
+                {
+                    "liCode": "046",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建農里",
+                            "tboxNo": "0090",
+                            "tboxName": "榮農社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建農里知本路一段560號",
+                            "neighbor": "1-3,5-7,10,15"
+                        },
+                        {
+                            "ScopeLiName": "建農里",
+                            "tboxNo": "0091",
+                            "tboxName": "退輔會臺東農場知本分場",
+                            "geocode": null,
+                            "addr": "臺東縣臺東市建農里知本路二段370號",
+                            "neighbor": "4,8-9,11-14"
+                        }
+                    ],
+                    "liName": "建農里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "信義里",
+                            "tboxNo": "0092",
+                            "tboxName": "小馬活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮信義里小馬路44號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "信義里",
+                            "tboxNo": "0093",
+                            "tboxName": "都歷活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮信義里都歷路110號",
+                            "neighbor": "9-21"
+                        },
+                        {
+                            "ScopeLiName": "信義里",
+                            "tboxNo": "0094",
+                            "tboxName": "豐田活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮信義里豐田路91號",
+                            "neighbor": "22-27"
+                        }
+                    ],
+                    "liName": "信義里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和平里",
+                            "tboxNo": "0095",
+                            "tboxName": "和平里活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮和平里跋邊路15號",
+                            "neighbor": "和平里"
+                        }
+                    ],
+                    "liName": "和平里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠仁里",
+                            "tboxNo": "0096",
+                            "tboxName": "麒麟活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮忠仁里麒麟路45之12號",
+                            "neighbor": "32-38"
+                        },
+                        {
+                            "ScopeLiName": "忠仁里",
+                            "tboxNo": "0097",
+                            "tboxName": "舊鎮公所",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮忠仁里中山東路75號",
+                            "neighbor": "1-20"
+                        },
+                        {
+                            "ScopeLiName": "忠仁里",
+                            "tboxNo": "0098",
+                            "tboxName": "成功國小教室",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮忠仁里太平路28號",
+                            "neighbor": "21-31"
+                        }
+                    ],
+                    "liName": "忠仁里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠智里",
+                            "tboxNo": "0099",
+                            "tboxName": "新港國中活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮忠智里中正路1號",
+                            "neighbor": "1-16"
+                        },
+                        {
+                            "ScopeLiName": "忠智里",
+                            "tboxNo": "0100",
+                            "tboxName": "忠智里活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮忠智里五權路164號",
+                            "neighbor": "17-26"
+                        }
+                    ],
+                    "liName": "忠智里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三民里",
+                            "tboxNo": "0101",
+                            "tboxName": "三民活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮三民里三民路20號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "三民里",
+                            "tboxNo": "0102",
+                            "tboxName": "成功鎮第二市場",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮三民里三民路111號",
+                            "neighbor": "15-28"
+                        }
+                    ],
+                    "liName": "三民里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三仙里",
+                            "tboxNo": "0103",
+                            "tboxName": "芝田活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮三仙里芝田路10號",
+                            "neighbor": "1-6,8"
+                        },
+                        {
+                            "ScopeLiName": "三仙里",
+                            "tboxNo": "0104",
+                            "tboxName": "新白守蓮活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮三仙里白蓮路43號",
+                            "neighbor": "7,9-24"
+                        }
+                    ],
+                    "liName": "三仙里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠孝里",
+                            "tboxNo": "0105",
+                            "tboxName": "美山活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮忠孝里美山路180-1號",
+                            "neighbor": "1-6,16-17"
+                        },
+                        {
+                            "ScopeLiName": "忠孝里",
+                            "tboxNo": "0106",
+                            "tboxName": "小港活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮忠孝里成廣路7號",
+                            "neighbor": "7-15"
+                        }
+                    ],
+                    "liName": "忠孝里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "博愛里",
+                            "tboxNo": "0107",
+                            "tboxName": "重安活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮博愛里重安路1號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "博愛里",
+                            "tboxNo": "0108",
+                            "tboxName": "宜灣聚會所",
+                            "geocode": null,
+                            "addr": "臺東縣成功鎮博愛里宜灣路40號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "博愛里"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "里壠里",
+                            "tboxNo": "0109",
+                            "tboxName": "里壠社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮里壠里崁頂46號之1",
+                            "neighbor": "1-20"
+                        },
+                        {
+                            "ScopeLiName": "里壠里",
+                            "tboxNo": "0110",
+                            "tboxName": "關山工商學生活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮里壠里民權路58號",
+                            "neighbor": "21-33"
+                        }
+                    ],
+                    "liName": "里壠里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中福里",
+                            "tboxNo": "0111",
+                            "tboxName": "關山國小大禮堂",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮中福里中華路101號",
+                            "neighbor": "中福里"
+                        }
+                    ],
+                    "liName": "中福里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新福里",
+                            "tboxNo": "0112",
+                            "tboxName": "新福社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮新福里溪埔34-1號",
+                            "neighbor": "新福里"
+                        }
+                    ],
+                    "liName": "新福里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐泉里",
+                            "tboxNo": "0113",
+                            "tboxName": "關山鎮老人會館",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮豐泉里忠孝路18巷2號",
+                            "neighbor": "豐泉里"
+                        }
+                    ],
+                    "liName": "豐泉里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "月眉里",
+                            "tboxNo": "0114",
+                            "tboxName": "月眉社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮月眉里中和7之3號",
+                            "neighbor": "月眉里"
+                        }
+                    ],
+                    "liName": "月眉里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "德高里",
+                            "tboxNo": "0115",
+                            "tboxName": "德高社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮德高里永豐105之1號",
+                            "neighbor": "1-17"
+                        },
+                        {
+                            "ScopeLiName": "德高里",
+                            "tboxNo": "0116",
+                            "tboxName": "北庄社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮德高里東明23-1號",
+                            "neighbor": "18-33"
+                        }
+                    ],
+                    "liName": "德高里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "電光里",
+                            "tboxNo": "0117",
+                            "tboxName": "電光多功能活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣關山鎮電光里中興85號",
+                            "neighbor": "電光里"
+                        }
+                    ],
+                    "liName": "電光里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "賓朗村",
+                            "tboxNo": "0118",
+                            "tboxName": "賓朗國小",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉賓朗村賓朗路474巷2號",
+                            "neighbor": "17-30"
+                        },
+                        {
+                            "ScopeLiName": "賓朗村",
+                            "tboxNo": "0119",
+                            "tboxName": "賓朗老人暨多功能活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉賓朗村賓朗路474巷3-1號",
+                            "neighbor": "1-16"
+                        }
+                    ],
+                    "liName": "賓朗村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "美農村",
+                            "tboxNo": "0120",
+                            "tboxName": "臺東縣卑南族民族自治事務促進發展協會",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉美農村高台9號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "美農村",
+                            "tboxNo": "0121",
+                            "tboxName": "煙草間活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉美農村煙草間34之1號",
+                            "neighbor": "7-17"
+                        },
+                        {
+                            "ScopeLiName": "美農村",
+                            "tboxNo": "0122",
+                            "tboxName": "東成國小",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉美農村班鳩92號",
+                            "neighbor": "18-26"
+                        }
+                    ],
+                    "liName": "美農村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "初鹿村",
+                            "tboxNo": "0123",
+                            "tboxName": "讚天宮(原初鹿活動中心)",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉初鹿村初鹿二街109號",
+                            "neighbor": "14-32"
+                        },
+                        {
+                            "ScopeLiName": "初鹿村",
+                            "tboxNo": "0124",
+                            "tboxName": "卑南老人活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉初鹿村忠孝路165號",
+                            "neighbor": "1-13"
+                        }
+                    ],
+                    "liName": "初鹿村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明峰村",
+                            "tboxNo": "0125",
+                            "tboxName": "明峰村社區關懷據點卑南站",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉明峰村文泰路31號",
+                            "neighbor": "12-31"
+                        },
+                        {
+                            "ScopeLiName": "明峰村",
+                            "tboxNo": "0126",
+                            "tboxName": "龍過脈社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉明峰村龍過脈92之1號",
+                            "neighbor": "1-11"
+                        }
+                    ],
+                    "liName": "明峰村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "嘉豐村",
+                            "tboxNo": "0127",
+                            "tboxName": "嘉豐活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉嘉豐村文昌路27號",
+                            "neighbor": "4-13"
+                        },
+                        {
+                            "ScopeLiName": "嘉豐村",
+                            "tboxNo": "0128",
+                            "tboxName": "山里聚會所",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉嘉豐村山里40號",
+                            "neighbor": "1-3"
+                        }
+                    ],
+                    "liName": "嘉豐村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太平村",
+                            "tboxNo": "0129",
+                            "tboxName": "太平文衡殿（右側餐廳）",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉太平村太平路276號",
+                            "neighbor": "8-20"
+                        },
+                        {
+                            "ScopeLiName": "太平村",
+                            "tboxNo": "0130",
+                            "tboxName": "卑南鄉立圖書館(太平村辦)",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉太平村和平路128巷8號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "太平村",
+                            "tboxNo": "0131",
+                            "tboxName": "太平國小",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉泰安村泰安6號",
+                            "neighbor": "21-27"
+                        }
+                    ],
+                    "liName": "太平村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泰安村",
+                            "tboxNo": "0132",
+                            "tboxName": "泰安活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉泰安村泰安101號",
+                            "neighbor": "泰安村"
+                        }
+                    ],
+                    "liName": "泰安村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "利嘉村",
+                            "tboxNo": "0133",
+                            "tboxName": "利嘉活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉利嘉村利民路669號",
+                            "neighbor": "利嘉村"
+                        }
+                    ],
+                    "liName": "利嘉村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東興村",
+                            "tboxNo": "0134",
+                            "tboxName": "東興活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉東興村東園一街120號",
+                            "neighbor": "東興村"
+                        }
+                    ],
+                    "liName": "東興村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溫泉村",
+                            "tboxNo": "0135",
+                            "tboxName": "溫泉活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉溫泉村溫泉路293號",
+                            "neighbor": "1-28"
+                        },
+                        {
+                            "ScopeLiName": "溫泉村",
+                            "tboxNo": "0136",
+                            "tboxName": "樂山福德祠",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉溫泉村樂山73號",
+                            "neighbor": "29-36"
+                        }
+                    ],
+                    "liName": "溫泉村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富山村",
+                            "tboxNo": "0137",
+                            "tboxName": "富山活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉富山村漁場64號",
+                            "neighbor": "富山村"
+                        }
+                    ],
+                    "liName": "富山村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富源村",
+                            "tboxNo": "0138",
+                            "tboxName": "富源活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉富源村富源118號",
+                            "neighbor": "富源村"
+                        }
+                    ],
+                    "liName": "富源村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "利吉村",
+                            "tboxNo": "0139",
+                            "tboxName": "利吉活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣卑南鄉利吉村利吉路52號",
+                            "neighbor": "利吉村"
+                        }
+                    ],
+                    "liName": "利吉村"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿野村",
+                            "tboxNo": "0140",
+                            "tboxName": "和平社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉鹿野村和平路57號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "鹿野村",
+                            "tboxNo": "0141",
+                            "tboxName": "鹿野國小",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉鹿野村中華路一段402號",
+                            "neighbor": "6-13"
+                        }
+                    ],
+                    "liName": "鹿野村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍田村",
+                            "tboxNo": "0142",
+                            "tboxName": "龍田社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉龍田村光榮路308號",
+                            "neighbor": "龍田村"
+                        }
+                    ],
+                    "liName": "龍田村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永安村",
+                            "tboxNo": "0143",
+                            "tboxName": "永安村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉永安村永安路257巷5號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "永安村",
+                            "tboxNo": "0144",
+                            "tboxName": "永隆原住民多功能活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉永安村中華路三段269巷5號",
+                            "neighbor": "10-15"
+                        }
+                    ],
+                    "liName": "永安村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞隆村",
+                            "tboxNo": "0145",
+                            "tboxName": "瑞源瑞隆原住民聚會所",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉瑞隆村同興路200號",
+                            "neighbor": "瑞隆村"
+                        }
+                    ],
+                    "liName": "瑞隆村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞源村",
+                            "tboxNo": "0146",
+                            "tboxName": "瑞源國小",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉瑞源村文化路67號",
+                            "neighbor": "瑞源村"
+                        }
+                    ],
+                    "liName": "瑞源村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞和村",
+                            "tboxNo": "0147",
+                            "tboxName": "瑞興部落活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉瑞和村瑞景路三段117號",
+                            "neighbor": "瑞和村"
+                        }
+                    ],
+                    "liName": "瑞和村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞豐村",
+                            "tboxNo": "0148",
+                            "tboxName": "新豐社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉瑞豐村新和路281巷1號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "瑞豐村",
+                            "tboxNo": "0149",
+                            "tboxName": "瑞豐老人活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣鹿野鄉瑞豐村景新路60巷2號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "瑞豐村"
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福原村",
+                            "tboxNo": "0150",
+                            "tboxName": "福原國小活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉福原村中華路17號",
+                            "neighbor": "1-7,16-19"
+                        },
+                        {
+                            "ScopeLiName": "福原村",
+                            "tboxNo": "0151",
+                            "tboxName": "福原國小中正堂",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉福原村中華路17號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "福原村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福文村",
+                            "tboxNo": "0152",
+                            "tboxName": "福文老人文康活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉福文村中西三路136號",
+                            "neighbor": "1-7,18-21"
+                        },
+                        {
+                            "ScopeLiName": "福文村",
+                            "tboxNo": "0153",
+                            "tboxName": "福文社區活動中心(玉清宮旁)",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉福文村文化路22號",
+                            "neighbor": "8-17"
+                        }
+                    ],
+                    "liName": "福文村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "慶豐村",
+                            "tboxNo": "0154",
+                            "tboxName": "慶豐社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉慶豐村慶豐82號",
+                            "neighbor": "慶豐村"
+                        }
+                    ],
+                    "liName": "慶豐村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大坡村",
+                            "tboxNo": "0155",
+                            "tboxName": "大坡社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉大坡村大坡18號",
+                            "neighbor": "大坡村"
+                        }
+                    ],
+                    "liName": "大坡村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大埔村",
+                            "tboxNo": "0156",
+                            "tboxName": "大埔老人活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉大埔村大埔14號",
+                            "neighbor": "大埔村"
+                        }
+                    ],
+                    "liName": "大埔村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興村",
+                            "tboxNo": "0157",
+                            "tboxName": "新興社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉新興村新興48之1號",
+                            "neighbor": "新興村"
+                        }
+                    ],
+                    "liName": "新興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "錦園村",
+                            "tboxNo": "0158",
+                            "tboxName": "錦園社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉錦園村新開園2號",
+                            "neighbor": "錦園村"
+                        }
+                    ],
+                    "liName": "錦園村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬安村",
+                            "tboxNo": "0159",
+                            "tboxName": "萬安國小活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉萬安村萬安5之6號",
+                            "neighbor": "萬安村"
+                        }
+                    ],
+                    "liName": "萬安村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富興村",
+                            "tboxNo": "0160",
+                            "tboxName": "富興社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉富興村水墜62之5號",
+                            "neighbor": "富興村"
+                        }
+                    ],
+                    "liName": "富興村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "振興村",
+                            "tboxNo": "0161",
+                            "tboxName": "振興社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣池上鄉振興村振興36之1號",
+                            "neighbor": "振興村"
+                        }
+                    ],
+                    "liName": "振興村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "都蘭村",
+                            "tboxNo": "0162",
+                            "tboxName": "都蘭國中",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉都蘭村都蘭398號",
+                            "neighbor": "1-13,26-30"
+                        },
+                        {
+                            "ScopeLiName": "都蘭村",
+                            "tboxNo": "0163",
+                            "tboxName": "東河鄉立圖書館",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉都蘭村都蘭91巷64號",
+                            "neighbor": "14-25"
+                        },
+                        {
+                            "ScopeLiName": "都蘭村",
+                            "tboxNo": "0164",
+                            "tboxName": "都蘭社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉都蘭村都蘭372號",
+                            "neighbor": "31-49"
+                        }
+                    ],
+                    "liName": "都蘭村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興昌村",
+                            "tboxNo": "0165",
+                            "tboxName": "興昌村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉興昌村興昌26之3號",
+                            "neighbor": "興昌村"
+                        }
+                    ],
+                    "liName": "興昌村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "隆昌村",
+                            "tboxNo": "0166",
+                            "tboxName": "隆昌村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉隆昌村隆昌230號",
+                            "neighbor": "隆昌村"
+                        }
+                    ],
+                    "liName": "隆昌村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東河村",
+                            "tboxNo": "0167",
+                            "tboxName": "東河村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉東河村北東河30號",
+                            "neighbor": "東河村"
+                        }
+                    ],
+                    "liName": "東河村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泰源村",
+                            "tboxNo": "0168",
+                            "tboxName": "泰源村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉泰源村本部落225號",
+                            "neighbor": "泰源村"
+                        }
+                    ],
+                    "liName": "泰源村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北源村",
+                            "tboxNo": "0169",
+                            "tboxName": "北源天后宮",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉北源村花固2號",
+                            "neighbor": "1-16"
+                        },
+                        {
+                            "ScopeLiName": "北源村",
+                            "tboxNo": "0170",
+                            "tboxName": "北源村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉北源村美蘭162號",
+                            "neighbor": "17-27,29"
+                        },
+                        {
+                            "ScopeLiName": "北源村",
+                            "tboxNo": "0171",
+                            "tboxName": "北源國小",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉北源村順那21號",
+                            "neighbor": "28,30-47"
+                        }
+                    ],
+                    "liName": "北源村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尚德村",
+                            "tboxNo": "0172",
+                            "tboxName": "尚德村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣東河鄉尚德村前寮36號",
+                            "neighbor": "尚德村"
+                        }
+                    ],
+                    "liName": "尚德村"
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寧埔村",
+                            "tboxNo": "0173",
+                            "tboxName": "膽曼社區發展協會活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉寧埔村9之3號",
+                            "neighbor": "12-17"
+                        },
+                        {
+                            "ScopeLiName": "寧埔村",
+                            "tboxNo": "0174",
+                            "tboxName": "寧埔村活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉寧埔村16之1號",
+                            "neighbor": "1-11"
+                        }
+                    ],
+                    "liName": "寧埔村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹湖村",
+                            "tboxNo": "0175",
+                            "tboxName": "竹湖村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉竹湖村48號",
+                            "neighbor": "竹湖村"
+                        }
+                    ],
+                    "liName": "竹湖村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長濱村",
+                            "tboxNo": "0176",
+                            "tboxName": "長濱鄉老人會館",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉長濱村中興路48號",
+                            "neighbor": "1-18"
+                        },
+                        {
+                            "ScopeLiName": "長濱村",
+                            "tboxNo": "0177",
+                            "tboxName": "長光天主教活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉長濱村105之1號",
+                            "neighbor": "19-29"
+                        }
+                    ],
+                    "liName": "長濱村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠勇村",
+                            "tboxNo": "0178",
+                            "tboxName": "忠勇社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉忠勇村49號",
+                            "neighbor": "忠勇村"
+                        }
+                    ],
+                    "liName": "忠勇村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三間村",
+                            "tboxNo": "0179",
+                            "tboxName": "三間屋活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉三間村15號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "三間村",
+                            "tboxNo": "0180",
+                            "tboxName": "大俱來社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉三間村27之6號",
+                            "neighbor": "11-15"
+                        },
+                        {
+                            "ScopeLiName": "三間村",
+                            "tboxNo": "0181",
+                            "tboxName": "南溪國小教室(一)",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉三間村南溪6號",
+                            "neighbor": "16-20"
+                        }
+                    ],
+                    "liName": "三間村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樟原村",
+                            "tboxNo": "0182",
+                            "tboxName": "南溪國小教室(二)",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉三間村南溪6號",
+                            "neighbor": "15-16"
+                        },
+                        {
+                            "ScopeLiName": "樟原村",
+                            "tboxNo": "0183",
+                            "tboxName": "樟原多功能活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣長濱鄉樟原村6號",
+                            "neighbor": "1-14"
+                        }
+                    ],
+                    "liName": "樟原村"
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "美和村",
+                            "tboxNo": "0184",
+                            "tboxName": "新美和活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉美和村24-9號",
+                            "neighbor": "1-6,13"
+                        },
+                        {
+                            "ScopeLiName": "美和村",
+                            "tboxNo": "0185",
+                            "tboxName": "美和國小",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉美和村90號",
+                            "neighbor": "7-12"
+                        }
+                    ],
+                    "liName": "美和村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三和村",
+                            "tboxNo": "0186",
+                            "tboxName": "三和活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉三和村漁場131號",
+                            "neighbor": "三和村"
+                        }
+                    ],
+                    "liName": "三和村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "華源村",
+                            "tboxNo": "0187",
+                            "tboxName": "華源活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉華源村15之1號",
+                            "neighbor": "華源村"
+                        }
+                    ],
+                    "liName": "華源村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北里村",
+                            "tboxNo": "0188",
+                            "tboxName": "北里活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉北里村20之4號",
+                            "neighbor": "北里村"
+                        }
+                    ],
+                    "liName": "北里村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大王村",
+                            "tboxNo": "0189",
+                            "tboxName": "大王國小(一)",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉大王村文化路60號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "大王村",
+                            "tboxNo": "0190",
+                            "tboxName": "大王國小(二)",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉大王村文化路60號",
+                            "neighbor": "10-20"
+                        }
+                    ],
+                    "liName": "大王村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泰和村",
+                            "tboxNo": "0191",
+                            "tboxName": "大王活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉大王村順安路39號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "泰和村",
+                            "tboxNo": "0192",
+                            "tboxName": "太麻里老人文康活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉大王村順安路33號",
+                            "neighbor": "9-18"
+                        }
+                    ],
+                    "liName": "泰和村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "香蘭村",
+                            "tboxNo": "0193",
+                            "tboxName": "香蘭國小",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉香蘭村28號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "香蘭村",
+                            "tboxNo": "0194",
+                            "tboxName": "新香蘭活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉香蘭村42號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "香蘭村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金崙村",
+                            "tboxNo": "0195",
+                            "tboxName": "金崙活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉金崙村303號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "金崙村",
+                            "tboxNo": "0196",
+                            "tboxName": "賓茂國小",
+                            "geocode": null,
+                            "addr": "臺東縣金峰鄉賓茂村68號",
+                            "neighbor": "8-17"
+                        }
+                    ],
+                    "liName": "金崙村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "多良村",
+                            "tboxNo": "0197",
+                            "tboxName": "向陽薪傳木工坊(原多良分校)",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉多良村15號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "多良村",
+                            "tboxNo": "0198",
+                            "tboxName": "多良活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣太麻里鄉多良村大溪251號",
+                            "neighbor": "11-21"
+                        }
+                    ],
+                    "liName": "多良村"
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南興村",
+                            "tboxNo": "0199",
+                            "tboxName": "南興社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣大武鄉南興村達興152之1號",
+                            "neighbor": "南興村"
+                        }
+                    ],
+                    "liName": "南興村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尚武村",
+                            "tboxNo": "0200",
+                            "tboxName": "尚武社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣大武鄉尚武村政通三街1號",
+                            "neighbor": "尚武村"
+                        }
+                    ],
+                    "liName": "尚武村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大武村",
+                            "tboxNo": "0201",
+                            "tboxName": "大武社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣大武鄉大武村大武街56號",
+                            "neighbor": "大武村"
+                        }
+                    ],
+                    "liName": "大武村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大鳥村",
+                            "tboxNo": "0202",
+                            "tboxName": "大鳥國小",
+                            "geocode": null,
+                            "addr": "臺東縣大武鄉大鳥村大鳥12號",
+                            "neighbor": "大鳥村"
+                        }
+                    ],
+                    "liName": "大鳥村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大竹村",
+                            "tboxNo": "0203",
+                            "tboxName": "加津林多功能活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣大武鄉大竹村加津林50號",
+                            "neighbor": "10-17"
+                        },
+                        {
+                            "ScopeLiName": "大竹村",
+                            "tboxNo": "0204",
+                            "tboxName": "大竹村愛國蒲活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣大武鄉大竹村愛國蒲153號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "大竹村"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "加拿村",
+                            "tboxNo": "0209",
+                            "tboxName": "加拿村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣海端鄉加拿村加南1號",
+                            "neighbor": "加拿村"
+                        }
+                    ],
+                    "liName": "加拿村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崁頂村",
+                            "tboxNo": "0210",
+                            "tboxName": "崁頂活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣海端鄉崁頂村中福20號",
+                            "neighbor": "崁頂村"
+                        }
+                    ],
+                    "liName": "崁頂村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "海端村",
+                            "tboxNo": "0211",
+                            "tboxName": "海端村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣海端鄉海端村初來2-1號",
+                            "neighbor": "海端村"
+                        }
+                    ],
+                    "liName": "海端村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣原村",
+                            "tboxNo": "0212",
+                            "tboxName": "錦屏國小三年級教室",
+                            "geocode": null,
+                            "addr": "臺東縣海端鄉廣原村錦屏1號",
+                            "neighbor": "廣原村"
+                        }
+                    ],
+                    "liName": "廣原村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "霧鹿村",
+                            "tboxNo": "0213",
+                            "tboxName": "霧鹿村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣海端鄉霧鹿村霧鹿37號",
+                            "neighbor": "霧鹿村"
+                        }
+                    ],
+                    "liName": "霧鹿村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "利稻村",
+                            "tboxNo": "0214",
+                            "tboxName": "霧鹿國小利稻分校教室",
+                            "geocode": null,
+                            "addr": "臺東縣海端鄉利稻村文化路1號",
+                            "neighbor": "利稻村"
+                        }
+                    ],
+                    "liName": "利稻村"
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "桃源村",
+                            "tboxNo": "0215",
+                            "tboxName": "桃源村活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣延平鄉桃源村78號",
+                            "neighbor": "桃源村"
+                        }
+                    ],
+                    "liName": "桃源村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "紅葉村",
+                            "tboxNo": "0216",
+                            "tboxName": "紅葉社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣延平鄉紅葉村紅谷路15號",
+                            "neighbor": "紅葉村"
+                        }
+                    ],
+                    "liName": "紅葉村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永康村",
+                            "tboxNo": "0217",
+                            "tboxName": "永康村活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣延平鄉永康村43號",
+                            "neighbor": "永康村"
+                        }
+                    ],
+                    "liName": "永康村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "武陵村",
+                            "tboxNo": "0218",
+                            "tboxName": "武陵村活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣延平鄉武陵村15號",
+                            "neighbor": "武陵村"
+                        }
+                    ],
+                    "liName": "武陵村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鸞山村",
+                            "tboxNo": "0219",
+                            "tboxName": "鸞山國小教室",
+                            "geocode": null,
+                            "addr": "臺東縣延平鄉鸞山村14號",
+                            "neighbor": "鸞山村"
+                        }
+                    ],
+                    "liName": "鸞山村"
+                }
+            ],
+            "deptCode": "130"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "嘉蘭村",
+                            "tboxNo": "0220",
+                            "tboxName": "嘉蘭國小多功能學習中心",
+                            "geocode": null,
+                            "addr": "臺東縣金峰鄉嘉蘭村132號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "嘉蘭村",
+                            "tboxNo": "0221",
+                            "tboxName": "金峰鄉嘉蘭村多功能活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣金峰鄉嘉蘭村665號",
+                            "neighbor": "8-13"
+                        }
+                    ],
+                    "liName": "嘉蘭村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "正興村",
+                            "tboxNo": "0222",
+                            "tboxName": "正興活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣金峰鄉正興村33-1號",
+                            "neighbor": "正興村"
+                        }
+                    ],
+                    "liName": "正興村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興村",
+                            "tboxNo": "0223",
+                            "tboxName": "新興活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣金峰鄉新興村31號",
+                            "neighbor": "新興村"
+                        }
+                    ],
+                    "liName": "新興村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "賓茂村",
+                            "tboxNo": "0224",
+                            "tboxName": "賓茂村辦公處",
+                            "geocode": null,
+                            "addr": "臺東縣金峰鄉賓茂村3之2號",
+                            "neighbor": "賓茂村"
+                        }
+                    ],
+                    "liName": "賓茂村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "歷坵村",
+                            "tboxNo": "0225",
+                            "tboxName": "歷坵小米學堂",
+                            "geocode": null,
+                            "addr": "臺東縣金峰鄉歷坵村42之2號",
+                            "neighbor": "歷坵村"
+                        }
+                    ],
+                    "liName": "歷坵村"
+                }
+            ],
+            "deptCode": "140"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安朔村",
+                            "tboxNo": "0226",
+                            "tboxName": "達仁鄉立圖書館",
+                            "geocode": null,
+                            "addr": "臺東縣達仁鄉安朔村復興路46號",
+                            "neighbor": "9-13"
+                        },
+                        {
+                            "ScopeLiName": "安朔村",
+                            "tboxNo": "0227",
+                            "tboxName": "安朔村社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣達仁鄉安朔村安朔103號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "安朔村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南田村",
+                            "tboxNo": "0228",
+                            "tboxName": "南田村社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣達仁鄉南田村南田路10-2號",
+                            "neighbor": "南田村"
+                        }
+                    ],
+                    "liName": "南田村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "森永村",
+                            "tboxNo": "0229",
+                            "tboxName": "森永村社區活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣達仁鄉森永村森永31號",
+                            "neighbor": "森永村"
+                        }
+                    ],
+                    "liName": "森永村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新化村",
+                            "tboxNo": "0230",
+                            "tboxName": "安朔國小新化分校",
+                            "geocode": null,
+                            "addr": "臺東縣達仁鄉新化村新化路57號",
+                            "neighbor": "新化村"
+                        }
+                    ],
+                    "liName": "新化村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "台坂村",
+                            "tboxNo": "0231",
+                            "tboxName": "台坂國小教室",
+                            "geocode": null,
+                            "addr": "臺東縣達仁鄉台坂村59-1號",
+                            "neighbor": "台坂村"
+                        }
+                    ],
+                    "liName": "台坂村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "土坂村",
+                            "tboxNo": "0232",
+                            "tboxName": "土坂文化實驗小學",
+                            "geocode": null,
+                            "addr": "臺東縣達仁鄉土坂村土坂10號",
+                            "neighbor": "土坂村"
+                        }
+                    ],
+                    "liName": "土坂村"
+                }
+            ],
+            "deptCode": "150"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "椰油村",
+                            "tboxNo": "0233",
+                            "tboxName": "蘭嶼高中活動中心",
+                            "geocode": null,
+                            "addr": "臺東縣蘭嶼鄉椰油村37號",
+                            "neighbor": "椰油村"
+                        }
+                    ],
+                    "liName": "椰油村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "紅頭村",
+                            "tboxNo": "0234",
+                            "tboxName": "社團法人紅頭社區發展協會",
+                            "geocode": null,
+                            "addr": "臺東縣蘭嶼鄉紅頭村78號",
+                            "neighbor": "紅頭村"
+                        }
+                    ],
+                    "liName": "紅頭村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東清村",
+                            "tboxNo": "0235",
+                            "tboxName": "東清國小視聽教室",
+                            "geocode": null,
+                            "addr": "臺東縣蘭嶼鄉東清村1號",
+                            "neighbor": "東清村"
+                        }
+                    ],
+                    "liName": "東清村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "朗島村",
+                            "tboxNo": "0236",
+                            "tboxName": "朗島國小視聽教室",
+                            "geocode": null,
+                            "addr": "臺東縣蘭嶼鄉朗島村17號",
+                            "neighbor": "朗島村"
+                        }
+                    ],
+                    "liName": "朗島村"
+                }
+            ],
+            "deptCode": "160"
+        }
+    ]
+}

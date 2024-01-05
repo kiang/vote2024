@@ -1,0 +1,82 @@
+{
+    "L1": [
+        {
+            "areaCode": "00",
+            "areaName": "基隆市選舉區",
+            "cands": [
+                {
+                    "area": "基隆市選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10017\/10017000000001.jpg",
+                    "gender": "男",
+                    "name": "邱紹祐",
+                    "birth": "0721209",
+                    "type": "L1",
+                    "party": "家庭基本收入",
+                    "candNo": 1,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "基隆市選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10017\/10017000000002.jpg",
+                    "gender": "男",
+                    "name": "黃傑陽",
+                    "birth": "0711208",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "基隆市選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10017\/10017000000003.jpg",
+                    "gender": "女",
+                    "name": "謝海菁",
+                    "birth": "0850531",
+                    "type": "L1",
+                    "party": "小民參政歐巴桑聯盟",
+                    "candNo": 3,
+                    "home": "新北市"
+                },
+                {
+                    "area": "基隆市選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10017\/10017000000004.jpg",
+                    "gender": "男",
+                    "name": "王醒之",
+                    "birth": "0610216",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 4,
+                    "home": "新北市"
+                },
+                {
+                    "area": "基隆市選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10017\/10017000000005.jpg",
+                    "gender": "男",
+                    "name": "林沛祥",
+                    "birth": "0660514",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 5,
+                    "home": "基隆市"
+                },
+                {
+                    "area": "基隆市選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10017\/10017000000006.jpg",
+                    "gender": "女",
+                    "name": "鄭文婷",
+                    "birth": "0570928",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 6,
+                    "home": "臺北市"
+                }
+            ]
+        }
+    ]
+}

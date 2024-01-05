@@ -1,0 +1,2859 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿場里",
+                            "tboxNo": "0005",
+                            "tboxName": "成功國民中學(二)",
+                            "addr": "新竹縣竹北市鹿場里成功八路99號",
+                            "neighbor": "鹿場里"
+                        }
+                    ],
+                    "liName": "鹿場里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東平里",
+                            "tboxNo": "0019",
+                            "tboxName": "東興國民小學(五)",
+                            "addr": "新竹縣竹北市東平里嘉豐十一路二段100號",
+                            "neighbor": "東平里"
+                        }
+                    ],
+                    "liName": "東平里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中興里",
+                            "tboxNo": "0027",
+                            "tboxName": "六家國民小學(五)",
+                            "addr": "新竹縣竹北市鹿場里嘉興路６２號",
+                            "neighbor": "中興里"
+                        }
+                    ],
+                    "liName": "中興里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "隘口里",
+                            "tboxNo": "0030",
+                            "tboxName": "隘口社區活動中心(3樓)",
+                            "addr": "新竹縣竹北市隘口里隘口七街19號3樓",
+                            "neighbor": "隘口里"
+                        }
+                    ],
+                    "liName": "隘口里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東海里",
+                            "tboxNo": "0033",
+                            "tboxName": "東海國民小學(三)",
+                            "addr": "新竹縣竹北市東海里東興路一段839號",
+                            "neighbor": "東海里"
+                        }
+                    ],
+                    "liName": "東海里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東興里",
+                            "tboxNo": "0038",
+                            "tboxName": "六家高級中學(五)",
+                            "addr": "新竹縣竹北市東興里嘉興路356號",
+                            "neighbor": "東興里"
+                        }
+                    ],
+                    "liName": "東興里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北興里",
+                            "tboxNo": "0042",
+                            "tboxName": "安興國民小學(二)",
+                            "addr": "新竹縣竹北市北興里十興路一段435號",
+                            "neighbor": "北興里"
+                        }
+                    ],
+                    "liName": "北興里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "十興里",
+                            "tboxNo": "0051",
+                            "tboxName": "十興國民小學(五)",
+                            "addr": "新竹縣竹北市十興里莊敬北路66號",
+                            "neighbor": "十興里"
+                        }
+                    ],
+                    "liName": "十興里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興安里",
+                            "tboxNo": "0054",
+                            "tboxName": "仁愛國民中學(二)",
+                            "addr": "新竹縣竹北市文化里三民路239號1樓",
+                            "neighbor": "興安里"
+                        }
+                    ],
+                    "liName": "興安里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0057",
+                            "tboxName": "仁愛國民中學(五)",
+                            "addr": "新竹縣竹北市文化里三民路２３９號１樓",
+                            "neighbor": "文化里"
+                        }
+                    ],
+                    "liName": "文化里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "斗崙里",
+                            "tboxNo": "0061",
+                            "tboxName": "光明國民小學(二)",
+                            "addr": "新竹縣竹北市斗崙里光明九路65號",
+                            "neighbor": "斗崙里"
+                        }
+                    ],
+                    "liName": "斗崙里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中崙里",
+                            "tboxNo": "0066",
+                            "tboxName": "博愛國民中學(一)",
+                            "addr": "新竹縣竹北市北崙里縣政十三路81號",
+                            "neighbor": "中崙里"
+                        }
+                    ],
+                    "liName": "中崙里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北崙里",
+                            "tboxNo": "0071",
+                            "tboxName": "博愛國民中學(四)",
+                            "addr": "新竹縣竹北市北崙里縣政十三路81號",
+                            "neighbor": "北崙里"
+                        }
+                    ],
+                    "liName": "北崙里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新崙里",
+                            "tboxNo": "0074",
+                            "tboxName": "博愛國民小學(二)",
+                            "addr": "新竹縣竹北市北崙里光明六路72號",
+                            "neighbor": "新崙里"
+                        }
+                    ],
+                    "liName": "新崙里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹北里",
+                            "tboxNo": "0081",
+                            "tboxName": "中正國民小學(二)",
+                            "addr": "新竹縣竹北市竹北里中山路190號",
+                            "neighbor": "竹北里"
+                        }
+                    ],
+                    "liName": "竹北里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹仁里",
+                            "tboxNo": "0095",
+                            "tboxName": "竹仁國民小學(四)",
+                            "addr": "新竹縣竹北市竹仁里仁和街1號",
+                            "neighbor": "竹仁里"
+                        }
+                    ],
+                    "liName": "竹仁里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福德里",
+                            "tboxNo": "0096",
+                            "tboxName": "竹北市老人文康活動中心(2樓)",
+                            "addr": "新竹縣竹北市福德里福德街29號2樓",
+                            "neighbor": "福德里"
+                        }
+                    ],
+                    "liName": "福德里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹義里",
+                            "tboxNo": "0102",
+                            "tboxName": "竹北國民小學(一)",
+                            "addr": "新竹縣竹北市竹義里中央路98號",
+                            "neighbor": "竹義里"
+                        }
+                    ],
+                    "liName": "竹義里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泰和里",
+                            "tboxNo": "0105",
+                            "tboxName": "中正國民小學(八)",
+                            "addr": "新竹縣竹北市竹北里中山路１９０號",
+                            "neighbor": "泰和里"
+                        }
+                    ],
+                    "liName": "泰和里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新社里",
+                            "tboxNo": "0114",
+                            "tboxName": "新社國民小學(三)",
+                            "addr": "新竹縣竹北市新社里40號",
+                            "neighbor": "新社里"
+                        }
+                    ],
+                    "liName": "新社里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新國里",
+                            "tboxNo": "0116",
+                            "tboxName": "竹北國民中學(三)",
+                            "addr": "新竹縣竹北市新社里中正西路154號",
+                            "neighbor": "新國里"
+                        }
+                    ],
+                    "liName": "新國里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "聯興里",
+                            "tboxNo": "0123",
+                            "tboxName": "市立幼兒園聯興分班",
+                            "addr": "新竹縣竹北市聯興里新興路174號",
+                            "neighbor": "聯興里"
+                        }
+                    ],
+                    "liName": "聯興里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "麻園里",
+                            "tboxNo": "0125",
+                            "tboxName": "麻園國民小學",
+                            "addr": "新竹縣竹北市麻園里長園一街236號",
+                            "neighbor": "麻園里"
+                        }
+                    ],
+                    "liName": "麻園里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪州里",
+                            "tboxNo": "0127",
+                            "tboxName": "溪州福德宮",
+                            "addr": "新竹縣竹北市溪州里新溪街382號",
+                            "neighbor": "溪州里"
+                        }
+                    ],
+                    "liName": "溪州里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新庄里",
+                            "tboxNo": "0129",
+                            "tboxName": "豐田國民小學(一)",
+                            "addr": "新竹縣竹北市新庄里中正西路1377號",
+                            "neighbor": "新庄里"
+                        }
+                    ],
+                    "liName": "新庄里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "白地里",
+                            "tboxNo": "0130",
+                            "tboxName": "白地里辦公廳舍",
+                            "addr": "新竹縣竹北市白地里水防道路五段145號",
+                            "neighbor": "白地里"
+                        }
+                    ],
+                    "liName": "白地里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新港里",
+                            "tboxNo": "0132",
+                            "tboxName": "新港社區活動中心",
+                            "addr": "新竹縣竹北市新港里港安街一段269號",
+                            "neighbor": "新港里"
+                        }
+                    ],
+                    "liName": "新港里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大眉里",
+                            "tboxNo": "0134",
+                            "tboxName": "大眉社區發展協會",
+                            "addr": "新竹縣竹北市大眉里鳳岡路一段178號",
+                            "neighbor": "大眉里"
+                        }
+                    ],
+                    "liName": "大眉里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大義里",
+                            "tboxNo": "0136",
+                            "tboxName": "鳳岡國民小學",
+                            "addr": "新竹縣竹北市大義里鳳岡路三段200號",
+                            "neighbor": "大義里"
+                        }
+                    ],
+                    "liName": "大義里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尚義里",
+                            "tboxNo": "0138",
+                            "tboxName": "尚義里集會所",
+                            "addr": "新竹縣竹北市尚義里蓮花路710號",
+                            "neighbor": "尚義里"
+                        }
+                    ],
+                    "liName": "尚義里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崇義里",
+                            "tboxNo": "0140",
+                            "tboxName": "新竹區漁會竹北辦事處",
+                            "addr": "新竹縣竹北市崇義里鳳岡路三段507巷57號",
+                            "neighbor": "崇義里"
+                        }
+                    ],
+                    "liName": "崇義里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上坪里",
+                            "tboxNo": "0141",
+                            "tboxName": "瑞峰國民小學(一)",
+                            "addr": "新竹縣竹東鎮上坪里４３號",
+                            "neighbor": "上坪里"
+                        }
+                    ],
+                    "liName": "上坪里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞峰里",
+                            "tboxNo": "0142",
+                            "tboxName": "瑞峰國民小學(二)",
+                            "addr": "新竹縣竹東鎮上坪里４３號",
+                            "neighbor": "瑞峰里"
+                        }
+                    ],
+                    "liName": "瑞峰里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "軟橋里",
+                            "tboxNo": "0143",
+                            "tboxName": "軟橋里集會所",
+                            "addr": "新竹縣竹東鎮軟橋里５２號",
+                            "neighbor": "軟橋里"
+                        }
+                    ],
+                    "liName": "軟橋里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "員崠里",
+                            "tboxNo": "0144",
+                            "tboxName": "三元宮",
+                            "addr": "新竹縣竹東鎮員崠里東峰路４０３巷９之１號",
+                            "neighbor": "1-4,15-16"
+                        },
+                        {
+                            "ScopeLiName": "員崠里",
+                            "tboxNo": "0145",
+                            "tboxName": "員崠社區活動中心",
+                            "addr": "新竹縣竹東鎮員崠里東峰路３３９號",
+                            "neighbor": "5-14,17-20"
+                        }
+                    ],
+                    "liName": "員崠里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0146",
+                            "tboxName": "上舘里黃世輔宅車庫",
+                            "addr": "新竹縣竹東鎮上舘里生產街１０７號旁",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0147",
+                            "tboxName": "上舘國民小學(一)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "21,25-27"
+                        },
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0148",
+                            "tboxName": "新竹縣立竹東幼兒園",
+                            "addr": "新竹縣竹東鎮上舘里和江街２５１號",
+                            "neighbor": "7-11,22-24"
+                        },
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0149",
+                            "tboxName": "惠安宮",
+                            "addr": "新竹縣竹東鎮上舘里惠安街１８９巷２７號",
+                            "neighbor": "14-15"
+                        },
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0150",
+                            "tboxName": "基督教改革宗長老會竹東教會",
+                            "addr": "新竹縣竹東鎮上舘里幸福路１３２號",
+                            "neighbor": "12-13,16-17"
+                        },
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0151",
+                            "tboxName": "上舘國民小學(二)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "18-20,34-36"
+                        },
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0152",
+                            "tboxName": "上舘國民小學(三)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "28-33"
+                        },
+                        {
+                            "ScopeLiName": "上舘里",
+                            "tboxNo": "0153",
+                            "tboxName": "上舘國民小學(四)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "37-43"
+                        }
+                    ],
+                    "liName": "上舘里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東寧里",
+                            "tboxNo": "0154",
+                            "tboxName": "東寧里集會所地下室",
+                            "addr": "新竹縣竹東鎮東寧里中豐路一段９０號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "東寧里",
+                            "tboxNo": "0155",
+                            "tboxName": "東寧里集會所1樓",
+                            "addr": "新竹縣竹東鎮東寧里中豐路一段９０號",
+                            "neighbor": "8-13,21-22"
+                        },
+                        {
+                            "ScopeLiName": "東寧里",
+                            "tboxNo": "0156",
+                            "tboxName": "新竹縣私立東寧幼兒園",
+                            "addr": "新竹縣竹東鎮中正里東寧路一段１６３號",
+                            "neighbor": "14-20"
+                        }
+                    ],
+                    "liName": "東寧里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中正里",
+                            "tboxNo": "0157",
+                            "tboxName": "中華基督教信義會厚賜堂",
+                            "addr": "新竹縣竹東鎮中正里東寧路二段１１巷１號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "中正里",
+                            "tboxNo": "0158",
+                            "tboxName": "新竹縣原住民族文化教育產業推廣中心",
+                            "addr": "新竹縣竹東鎮鷄林里中山路８５號",
+                            "neighbor": "11-15"
+                        }
+                    ],
+                    "liName": "中正里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大鄉里",
+                            "tboxNo": "0159",
+                            "tboxName": "上舘國民小學(五)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "大鄉里",
+                            "tboxNo": "0160",
+                            "tboxName": "上舘國民小學(六)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "9-16"
+                        },
+                        {
+                            "ScopeLiName": "大鄉里",
+                            "tboxNo": "0161",
+                            "tboxName": "上舘國民小學(七)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "17-21"
+                        },
+                        {
+                            "ScopeLiName": "大鄉里",
+                            "tboxNo": "0162",
+                            "tboxName": "上舘國民小學(八)",
+                            "addr": "新竹縣竹東鎮上舘里中豐路二段３９９號",
+                            "neighbor": "22-27"
+                        }
+                    ],
+                    "liName": "大鄉里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0163",
+                            "tboxName": "竹東國民小學(一)",
+                            "addr": "新竹縣竹東鎮東華里康寧街１號　",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0164",
+                            "tboxName": "竹東國民小學(二)",
+                            "addr": "新竹縣竹東鎮東華里康寧街１號　",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南華里",
+                            "tboxNo": "0165",
+                            "tboxName": "竹東國民小學(三)",
+                            "addr": "新竹縣竹東鎮東華里康寧街１號　",
+                            "neighbor": "南華里"
+                        }
+                    ],
+                    "liName": "南華里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東華里",
+                            "tboxNo": "0166",
+                            "tboxName": "竹東國民小學(四)",
+                            "addr": "新竹縣竹東鎮東華里康寧街１號　",
+                            "neighbor": "東華里"
+                        }
+                    ],
+                    "liName": "東華里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "商華里",
+                            "tboxNo": "0167",
+                            "tboxName": "竹東國民中學(一)",
+                            "addr": "新竹縣竹東鎮商華里公園路８號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "商華里",
+                            "tboxNo": "0168",
+                            "tboxName": "竹東國民中學(二)",
+                            "addr": "新竹縣竹東鎮商華里公園路８號",
+                            "neighbor": "8-16"
+                        },
+                        {
+                            "ScopeLiName": "商華里",
+                            "tboxNo": "0169",
+                            "tboxName": "竹東國民中學(三)",
+                            "addr": "新竹縣竹東鎮商華里公園路８號",
+                            "neighbor": "17-25"
+                        }
+                    ],
+                    "liName": "商華里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹東里",
+                            "tboxNo": "0170",
+                            "tboxName": "惠昌宮",
+                            "addr": "新竹縣竹東鎮竹東里東寧路三段６７號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "竹東里",
+                            "tboxNo": "0171",
+                            "tboxName": "東孝社區活動中心",
+                            "addr": "新竹縣竹東鎮竹東里康寧街２３６號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "竹東里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠孝里",
+                            "tboxNo": "0172",
+                            "tboxName": "私立上智小學",
+                            "addr": "新竹縣竹東鎮忠孝里東寧路三段２０５號",
+                            "neighbor": "1-7,14"
+                        },
+                        {
+                            "ScopeLiName": "忠孝里",
+                            "tboxNo": "0173",
+                            "tboxName": "台灣基督長老教會竹東教會",
+                            "addr": "新竹縣竹東鎮忠孝里長春路三段１２１號",
+                            "neighbor": "8-13,15"
+                        }
+                    ],
+                    "liName": "忠孝里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鷄林里",
+                            "tboxNo": "0174",
+                            "tboxName": "中山國民小學(一)",
+                            "addr": "新竹縣竹東鎮中正里中山路７０號",
+                            "neighbor": "1-6,11,15"
+                        },
+                        {
+                            "ScopeLiName": "鷄林里",
+                            "tboxNo": "0175",
+                            "tboxName": "中山國民小學(二)",
+                            "addr": "新竹縣竹東鎮中正里中山路７０號",
+                            "neighbor": "7-10,12"
+                        },
+                        {
+                            "ScopeLiName": "鷄林里",
+                            "tboxNo": "0176",
+                            "tboxName": "中山國民小學(三)",
+                            "addr": "新竹縣竹東鎮中正里中山路７０號",
+                            "neighbor": "13-14,16,24-28"
+                        },
+                        {
+                            "ScopeLiName": "鷄林里",
+                            "tboxNo": "0177",
+                            "tboxName": "中山國民小學(四)",
+                            "addr": "新竹縣竹東鎮中正里中山路７０號",
+                            "neighbor": "17-23,29"
+                        }
+                    ],
+                    "liName": "鷄林里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0178",
+                            "tboxName": "中山社區活動中心1樓",
+                            "addr": "新竹縣竹東鎮鷄林里大同路２５７號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0179",
+                            "tboxName": "中山國民小學(五)",
+                            "addr": "新竹縣竹東鎮中正里中山路７０號",
+                            "neighbor": "7-15"
+                        },
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0180",
+                            "tboxName": "大同國民小學(一)",
+                            "addr": "新竹縣竹東鎮榮樂里莊敬路１１１號",
+                            "neighbor": "16-25"
+                        }
+                    ],
+                    "liName": "仁愛里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榮樂里",
+                            "tboxNo": "0181",
+                            "tboxName": "大同國民小學(二)",
+                            "addr": "新竹縣竹東鎮榮樂里莊敬路１１１號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "榮樂里",
+                            "tboxNo": "0182",
+                            "tboxName": "大同國民小學(三)",
+                            "addr": "新竹縣竹東鎮榮樂里莊敬路１１１號",
+                            "neighbor": "11-21"
+                        }
+                    ],
+                    "liName": "榮樂里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榮華里",
+                            "tboxNo": "0183",
+                            "tboxName": "大同國民小學(四)",
+                            "addr": "新竹縣竹東鎮榮樂里莊敬路１１１號",
+                            "neighbor": "1-8,10"
+                        },
+                        {
+                            "ScopeLiName": "榮華里",
+                            "tboxNo": "0184",
+                            "tboxName": "大同國民小學(五)",
+                            "addr": "新竹縣竹東鎮榮樂里莊敬路１１１號",
+                            "neighbor": "9,11-17"
+                        },
+                        {
+                            "ScopeLiName": "榮華里",
+                            "tboxNo": "0185",
+                            "tboxName": "大同國民小學(六)",
+                            "addr": "新竹縣竹東鎮榮樂里莊敬路１１１號",
+                            "neighbor": "18-24"
+                        },
+                        {
+                            "ScopeLiName": "榮華里",
+                            "tboxNo": "0186",
+                            "tboxName": "自強國民中學(一)",
+                            "addr": "新竹縣竹東鎮榮華里自強路１６９號",
+                            "neighbor": "25-31"
+                        },
+                        {
+                            "ScopeLiName": "榮華里",
+                            "tboxNo": "0187",
+                            "tboxName": "自強國民中學(二)",
+                            "addr": "新竹縣竹東鎮榮華里自強路１６９號",
+                            "neighbor": "32-37"
+                        },
+                        {
+                            "ScopeLiName": "榮華里",
+                            "tboxNo": "0188",
+                            "tboxName": "自強國民中學(三)",
+                            "addr": "新竹縣竹東鎮榮華里自強路１６９號",
+                            "neighbor": "38-42"
+                        }
+                    ],
+                    "liName": "榮華里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五豐里",
+                            "tboxNo": "0189",
+                            "tboxName": "五豐里集會所-春福麗晶大樓2樓",
+                            "addr": "新竹縣竹東鎮五豐里長春路三段３７４號２樓",
+                            "neighbor": "1-6,8-9"
+                        },
+                        {
+                            "ScopeLiName": "五豐里",
+                            "tboxNo": "0190",
+                            "tboxName": "自強國民中學(四)",
+                            "addr": "新竹縣竹東鎮榮華里自強路１６９號",
+                            "neighbor": "14-19"
+                        },
+                        {
+                            "ScopeLiName": "五豐里",
+                            "tboxNo": "0191",
+                            "tboxName": "自強國民中學(五)",
+                            "addr": "新竹縣竹東鎮榮華里自強路１６９號",
+                            "neighbor": "20-28"
+                        },
+                        {
+                            "ScopeLiName": "五豐里",
+                            "tboxNo": "0192",
+                            "tboxName": "自強國民中學(六)",
+                            "addr": "新竹縣竹東鎮榮華里自強路１６９號",
+                            "neighbor": "7,10-13,37-41"
+                        },
+                        {
+                            "ScopeLiName": "五豐里",
+                            "tboxNo": "0193",
+                            "tboxName": "凱旋大地社區管理中心1樓",
+                            "addr": "新竹縣竹東鎮五豐里康莊街１７０號",
+                            "neighbor": "42-46,53"
+                        },
+                        {
+                            "ScopeLiName": "五豐里",
+                            "tboxNo": "0194",
+                            "tboxName": "凱旋大地社區管理中心2樓",
+                            "addr": "新竹縣竹東鎮五豐里康莊街１７０號",
+                            "neighbor": "47-52"
+                        },
+                        {
+                            "ScopeLiName": "五豐里",
+                            "tboxNo": "0195",
+                            "tboxName": "甘露寺",
+                            "addr": "新竹縣竹東鎮五豐里敦睦街４７號",
+                            "neighbor": "29-36"
+                        }
+                    ],
+                    "liName": "五豐里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "陸豐里",
+                            "tboxNo": "0196",
+                            "tboxName": "陸豐里集會所",
+                            "addr": "新竹縣竹東鎮陸豐里荳子埔３７之５號",
+                            "neighbor": "陸豐里"
+                        }
+                    ],
+                    "liName": "陸豐里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三重里",
+                            "tboxNo": "0197",
+                            "tboxName": "三重里集會所",
+                            "addr": "新竹縣竹東鎮三重里中興路二段１５２巷３０號",
+                            "neighbor": "10,21"
+                        },
+                        {
+                            "ScopeLiName": "三重里",
+                            "tboxNo": "0198",
+                            "tboxName": "二重國民小學(活動中心)(一)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "1,2,4"
+                        },
+                        {
+                            "ScopeLiName": "三重里",
+                            "tboxNo": "0199",
+                            "tboxName": "二重國民小學(二)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "3,5,6"
+                        },
+                        {
+                            "ScopeLiName": "三重里",
+                            "tboxNo": "0200",
+                            "tboxName": "五穀宮活動中心1樓",
+                            "addr": "新竹縣竹東鎮二重里中興路三段７３巷３０號",
+                            "neighbor": "7-9,22-23"
+                        },
+                        {
+                            "ScopeLiName": "三重里",
+                            "tboxNo": "0202",
+                            "tboxName": "三重里許瑞霞宅車庫",
+                            "addr": "新竹縣竹東鎮三重里中興路一段１３７號",
+                            "neighbor": "13-18"
+                        }
+                    ],
+                    "liName": "三重里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0203",
+                            "tboxName": "二重社區活動中心1樓",
+                            "addr": "新竹縣竹東鎮二重里中興路三段７３巷２３號",
+                            "neighbor": "1-2,10-11,27"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0204",
+                            "tboxName": "二重國民中學",
+                            "addr": "新竹縣竹東鎮二重里學府路１３２號",
+                            "neighbor": "3-4,6-9,5"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0205",
+                            "tboxName": "放翁清境社區服務中心",
+                            "addr": "新竹縣竹東鎮二重里學府東路３１８號",
+                            "neighbor": "5"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0206",
+                            "tboxName": "二重國民小學(三)",
+                            "addr": "新竹縣竹東鎮二重里光明路32號",
+                            "neighbor": "12"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0207",
+                            "tboxName": "二重國民小學(四)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "12"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0208",
+                            "tboxName": "二重國民小學(五)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "12"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0209",
+                            "tboxName": "二重國民小學(六)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "13-15,26"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0210",
+                            "tboxName": "二重國民小學(七)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "16"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0211",
+                            "tboxName": "二重國民小學(八)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "17-18"
+                        },
+                        {
+                            "ScopeLiName": "二重里",
+                            "tboxNo": "0212",
+                            "tboxName": "二重國民小學(九)",
+                            "addr": "新竹縣竹東鎮二重里光明路３２號",
+                            "neighbor": "19-25"
+                        }
+                    ],
+                    "liName": "二重里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頭重里",
+                            "tboxNo": "0213",
+                            "tboxName": "竹中國民小學(一)",
+                            "addr": "新竹縣竹東鎮頭重里竹中路１０４巷１４號",
+                            "neighbor": "1-4,6-7"
+                        },
+                        {
+                            "ScopeLiName": "頭重里",
+                            "tboxNo": "0214",
+                            "tboxName": "竹中國民小學(二)",
+                            "addr": "新竹縣竹東鎮頭重里竹中路１０４巷１４號",
+                            "neighbor": "5,8-10,19,24"
+                        },
+                        {
+                            "ScopeLiName": "頭重里",
+                            "tboxNo": "0215",
+                            "tboxName": "竹中國民小學(三)",
+                            "addr": "新竹縣竹東鎮頭重里竹中路１０４巷１４號",
+                            "neighbor": "11-15,17"
+                        },
+                        {
+                            "ScopeLiName": "頭重里",
+                            "tboxNo": "0216",
+                            "tboxName": "竹中國民小學(四)",
+                            "addr": "新竹縣竹東鎮頭重里竹中路１０４巷１４號",
+                            "neighbor": "16,18,20-23"
+                        }
+                    ],
+                    "liName": "頭重里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柯湖里",
+                            "tboxNo": "0219",
+                            "tboxName": "柯湖里集會所",
+                            "addr": "新竹縣竹東鎮柯湖里柯湖路三段２９１號",
+                            "neighbor": "柯湖里"
+                        }
+                    ],
+                    "liName": "柯湖里"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0255",
+                            "tboxName": "關西國民小學(一)",
+                            "addr": "新竹縣關西鎮西安里中山路126號",
+                            "neighbor": "10,11,12"
+                        },
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0256",
+                            "tboxName": "關西國民小學(二)",
+                            "addr": "新竹縣關西鎮西安里中山路126號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "西安里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南雄里",
+                            "tboxNo": "0257",
+                            "tboxName": "錦泰茶業股份有限公司",
+                            "addr": "新竹縣關西鎮南雄里中豐路一段336號",
+                            "neighbor": "2,3,5,8"
+                        }
+                    ],
+                    "liName": "南雄里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北斗里",
+                            "tboxNo": "0258",
+                            "tboxName": "關西國民中學(一)",
+                            "addr": "新竹縣關西鎮北斗里北門口41號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "北斗里",
+                            "tboxNo": "0259",
+                            "tboxName": "關西國民中學(二)",
+                            "addr": "新竹縣關西鎮北斗里北門口41號",
+                            "neighbor": "7,10,12"
+                        },
+                        {
+                            "ScopeLiName": "北斗里",
+                            "tboxNo": "0260",
+                            "tboxName": "關西國民中學(三)",
+                            "addr": "新竹縣關西鎮北斗里北門口41號",
+                            "neighbor": "8,9,11,13"
+                        }
+                    ],
+                    "liName": "北斗里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北山里",
+                            "tboxNo": "0261",
+                            "tboxName": "北山里活動中心",
+                            "addr": "新竹縣關西鎮北山里6-31號",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "北山里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁安里",
+                            "tboxNo": "0262",
+                            "tboxName": "仁安社區活動中心",
+                            "addr": "新竹縣關西鎮仁安里3號",
+                            "neighbor": "1,5,8"
+                        }
+                    ],
+                    "liName": "仁安里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南山里",
+                            "tboxNo": "0263",
+                            "tboxName": "關西國民小學(三)",
+                            "addr": "新竹縣關西鎮西安里中山路126號",
+                            "neighbor": "8,11,12"
+                        }
+                    ],
+                    "liName": "南山里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東安里",
+                            "tboxNo": "0264",
+                            "tboxName": "東安國民小學(一)",
+                            "addr": "新竹縣關西鎮東安里中山東路40號",
+                            "neighbor": "2,3,5"
+                        },
+                        {
+                            "ScopeLiName": "東安里",
+                            "tboxNo": "0265",
+                            "tboxName": "東安國民小學(二)",
+                            "addr": "新竹縣關西鎮東安里中山東路40號",
+                            "neighbor": "6-9,11"
+                        },
+                        {
+                            "ScopeLiName": "東安里",
+                            "tboxNo": "0266",
+                            "tboxName": "東安里集會所",
+                            "addr": "新竹縣關西鎮東安里東山街48巷7號",
+                            "neighbor": "10,12-15"
+                        },
+                        {
+                            "ScopeLiName": "東安里",
+                            "tboxNo": "0267",
+                            "tboxName": "東山社區綜合活動中心",
+                            "addr": "新竹縣關西鎮東山里湖肚35-2號",
+                            "neighbor": "5,6"
+                        }
+                    ],
+                    "liName": "東安里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南新里",
+                            "tboxNo": "0269",
+                            "tboxName": "南新社區老人休閒中心",
+                            "addr": "新竹縣關西鎮南新里新城16之1號",
+                            "neighbor": "1,9"
+                        }
+                    ],
+                    "liName": "南新里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新富里",
+                            "tboxNo": "0270",
+                            "tboxName": "范徐員妹圖書紀念館",
+                            "addr": "新竹縣關西鎮新富里老社寮2-3號",
+                            "neighbor": "2,3,8,13"
+                        }
+                    ],
+                    "liName": "新富里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "玉山里",
+                            "tboxNo": "0271",
+                            "tboxName": "玉山國民小學",
+                            "addr": "新竹縣關西鎮玉山里25號",
+                            "neighbor": "14"
+                        }
+                    ],
+                    "liName": "玉山里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金山里",
+                            "tboxNo": "0272",
+                            "tboxName": "金山社區活動中心",
+                            "addr": "新竹縣關西鎮金山里127號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "金山里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "錦山里",
+                            "tboxNo": "0273",
+                            "tboxName": "錦山里集會所",
+                            "addr": "新竹縣關西鎮錦山里20-16號",
+                            "neighbor": "3,8,9,10,11,14,16,17"
+                        }
+                    ],
+                    "liName": "錦山里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石光里",
+                            "tboxNo": "0275",
+                            "tboxName": "石光里集會所",
+                            "addr": "新竹縣關西鎮石光里石岡子308巷46號",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "石光里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新力里",
+                            "tboxNo": "0279",
+                            "tboxName": "新力里集會所",
+                            "addr": "新竹縣關西鎮新力里9-5號",
+                            "neighbor": "新力里"
+                        }
+                    ],
+                    "liName": "新力里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南和里",
+                            "tboxNo": "0280",
+                            "tboxName": "南和民眾活動中心",
+                            "addr": "新竹縣關西鎮南和里69號",
+                            "neighbor": "4,6,9,10"
+                        }
+                    ],
+                    "liName": "南和里"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和興村",
+                            "tboxNo": "0281",
+                            "tboxName": "和興國民小學",
+                            "addr": "新竹縣湖口鄉和興村德興路930號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "和興村",
+                            "tboxNo": "0282",
+                            "tboxName": "和興村集會所",
+                            "addr": "新竹縣湖口鄉和興村德和路128號",
+                            "neighbor": "13-21"
+                        }
+                    ],
+                    "liName": "和興村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東興村",
+                            "tboxNo": "0283",
+                            "tboxName": "新湖國民小學(一)",
+                            "addr": "新竹縣湖口鄉愛勢村民族街222號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "東興村",
+                            "tboxNo": "0284",
+                            "tboxName": "維東社區活動中心",
+                            "addr": "新竹縣湖口鄉東興村維東八街37號",
+                            "neighbor": "8-9,24-26"
+                        },
+                        {
+                            "ScopeLiName": "東興村",
+                            "tboxNo": "0285",
+                            "tboxName": "東興村集會所",
+                            "addr": "新竹縣湖口鄉東興村德和路6號",
+                            "neighbor": "10-18"
+                        },
+                        {
+                            "ScopeLiName": "東興村",
+                            "tboxNo": "0286",
+                            "tboxName": "東興村和興鎮活動中心",
+                            "addr": "新竹縣湖口鄉東興村德和路76巷1號",
+                            "neighbor": "19-23"
+                        }
+                    ],
+                    "liName": "東興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "德盛村",
+                            "tboxNo": "0288",
+                            "tboxName": "德盛村集會所",
+                            "addr": "新竹縣湖口鄉德盛村德興路127巷13號",
+                            "neighbor": "8-14"
+                        },
+                        {
+                            "ScopeLiName": "德盛村",
+                            "tboxNo": "0289",
+                            "tboxName": "新湖國民中學(一)",
+                            "addr": "新竹縣湖口鄉信勢村新湖路200號",
+                            "neighbor": "15-24"
+                        },
+                        {
+                            "ScopeLiName": "德盛村",
+                            "tboxNo": "0290",
+                            "tboxName": "新湖國民中學(二)",
+                            "addr": "新竹縣湖口鄉信勢村新湖路200號",
+                            "neighbor": "25-31"
+                        }
+                    ],
+                    "liName": "德盛村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "愛勢村",
+                            "tboxNo": "0291",
+                            "tboxName": "新湖國民小學(三)",
+                            "addr": "新竹縣湖口鄉愛勢村民族街222號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "愛勢村",
+                            "tboxNo": "0292",
+                            "tboxName": "新湖國民小學(四)",
+                            "addr": "新竹縣湖口鄉愛勢村民族街222號",
+                            "neighbor": "15-24"
+                        },
+                        {
+                            "ScopeLiName": "愛勢村",
+                            "tboxNo": "0293",
+                            "tboxName": "新湖國民小學(五)",
+                            "addr": "新竹縣湖口鄉愛勢村民族街222號",
+                            "neighbor": "25-32"
+                        }
+                    ],
+                    "liName": "愛勢村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁勢村",
+                            "tboxNo": "0294",
+                            "tboxName": "仁勢村集會所",
+                            "addr": "新竹縣湖口鄉仁勢村民生街61號",
+                            "neighbor": "1-12"
+                        }
+                    ],
+                    "liName": "仁勢村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "孝勢村",
+                            "tboxNo": "0295",
+                            "tboxName": "孝勢村集會所活動中心",
+                            "addr": "新竹縣湖口鄉孝勢村忠孝路39號",
+                            "neighbor": "1-15"
+                        }
+                    ],
+                    "liName": "孝勢村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中勢村",
+                            "tboxNo": "0296",
+                            "tboxName": "湖口農會客家樓辦事處",
+                            "addr": "新竹縣湖口鄉中勢村中平路一段510號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "中勢村",
+                            "tboxNo": "0298",
+                            "tboxName": "湖口顯聖宮活動中心",
+                            "addr": "新竹縣湖口鄉愛勢村民生街120號",
+                            "neighbor": "19-24"
+                        }
+                    ],
+                    "liName": "中勢村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0299",
+                            "tboxName": "中正村集會所活動中心",
+                            "addr": "新竹縣湖口鄉中正村中正二路70號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0300",
+                            "tboxName": "湖口高級中學(一)",
+                            "addr": "新竹縣湖口鄉中正村中正路二段263巷21號",
+                            "neighbor": "8-14"
+                        },
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0301",
+                            "tboxName": "湖口高級中學(二)",
+                            "addr": "新竹縣湖口鄉中正村中正路二段263巷21號",
+                            "neighbor": "15-21"
+                        }
+                    ],
+                    "liName": "中正村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "信勢村",
+                            "tboxNo": "0302",
+                            "tboxName": "湖口鄉老人會館",
+                            "addr": "新竹縣湖口鄉信勢村德興路15巷32號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "信勢村",
+                            "tboxNo": "0303",
+                            "tboxName": "新湖國民中學(三)",
+                            "addr": "新竹縣湖口鄉信勢村新湖路200號",
+                            "neighbor": "7-15"
+                        },
+                        {
+                            "ScopeLiName": "信勢村",
+                            "tboxNo": "0305",
+                            "tboxName": "信勢村集會所活動中心",
+                            "addr": "新竹縣湖口鄉信勢村明德街296號",
+                            "neighbor": "21-27"
+                        }
+                    ],
+                    "liName": "信勢村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "信義村",
+                            "tboxNo": "0306",
+                            "tboxName": "信勢國民小學(二)",
+                            "addr": "新竹縣湖口鄉信義村成功路360號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "信義村",
+                            "tboxNo": "0307",
+                            "tboxName": "信勢國民小學(三)",
+                            "addr": "新竹縣湖口鄉信義村成功路360號",
+                            "neighbor": "10-17"
+                        },
+                        {
+                            "ScopeLiName": "信義村",
+                            "tboxNo": "0308",
+                            "tboxName": "信義村集會所活動中心",
+                            "addr": "新竹縣湖口鄉信義村中山二街72號",
+                            "neighbor": "18-25"
+                        }
+                    ],
+                    "liName": "信義村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "波羅村",
+                            "tboxNo": "0309",
+                            "tboxName": "波羅汶三元宮",
+                            "addr": "新竹縣湖口鄉波羅村三元路二段82號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "波羅村",
+                            "tboxNo": "0310",
+                            "tboxName": "波羅村集會所活動中心",
+                            "addr": "新竹縣湖口鄉波羅村千禧路32號",
+                            "neighbor": "10-17"
+                        }
+                    ],
+                    "liName": "波羅村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長嶺村",
+                            "tboxNo": "0311",
+                            "tboxName": "長嶺社區活動中心",
+                            "addr": "新竹縣湖口鄉長嶺村中平路二段439巷巷內",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "長嶺村",
+                            "tboxNo": "0312",
+                            "tboxName": "長嶺村集會所活動中心",
+                            "addr": "新竹縣湖口鄉長嶺村中平路二段267巷36號",
+                            "neighbor": "11-15"
+                        },
+                        {
+                            "ScopeLiName": "長嶺村",
+                            "tboxNo": "0313",
+                            "tboxName": "周三合文物館",
+                            "addr": "新竹縣湖口鄉長嶺村中平路二段10巷25號",
+                            "neighbor": "16-21"
+                        }
+                    ],
+                    "liName": "長嶺村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長安村",
+                            "tboxNo": "0314",
+                            "tboxName": "長安社區活動中心",
+                            "addr": "新竹縣湖口鄉長安村長安路381號",
+                            "neighbor": "1-14"
+                        }
+                    ],
+                    "liName": "長安村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖口村",
+                            "tboxNo": "0315",
+                            "tboxName": "湖口國民小學",
+                            "addr": "新竹縣湖口鄉湖口村八德路二段182號",
+                            "neighbor": "1-13,22-28"
+                        },
+                        {
+                            "ScopeLiName": "湖口村",
+                            "tboxNo": "0316",
+                            "tboxName": "湖口村集會所活動中心",
+                            "addr": "新竹縣湖口鄉湖口村中美東路358巷27號",
+                            "neighbor": "14-21"
+                        }
+                    ],
+                    "liName": "湖口村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖鏡村",
+                            "tboxNo": "0317",
+                            "tboxName": "湖鏡村集會所",
+                            "addr": "新竹縣湖口鄉湖鏡村八德路二段78巷36弄50號",
+                            "neighbor": "1-15"
+                        },
+                        {
+                            "ScopeLiName": "湖鏡村",
+                            "tboxNo": "0318",
+                            "tboxName": "湖口高級中學(三)",
+                            "addr": "新竹縣湖口鄉中正村中正路二段263巷21號",
+                            "neighbor": "16-24"
+                        }
+                    ],
+                    "liName": "湖鏡村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖南村",
+                            "tboxNo": "0319",
+                            "tboxName": "湖南村集會所",
+                            "addr": "新竹縣湖口鄉湖南村八德路一段652巷2號",
+                            "neighbor": "1-18"
+                        }
+                    ],
+                    "liName": "湖南村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中興村",
+                            "tboxNo": "0320",
+                            "tboxName": "中興國民小學(一)",
+                            "addr": "新竹縣湖口鄉勝利村吉祥街43號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "中興村",
+                            "tboxNo": "0321",
+                            "tboxName": "中興國民小學(二)",
+                            "addr": "新竹縣湖口鄉勝利村吉祥街43號",
+                            "neighbor": "11-20"
+                        },
+                        {
+                            "ScopeLiName": "中興村",
+                            "tboxNo": "0322",
+                            "tboxName": "中興國民小學(三)",
+                            "addr": "新竹縣湖口鄉勝利村吉祥街43號",
+                            "neighbor": "21-30"
+                        },
+                        {
+                            "ScopeLiName": "中興村",
+                            "tboxNo": "0323",
+                            "tboxName": "中興村民眾活動中心",
+                            "addr": "新竹縣湖口鄉中興村工業一路83號",
+                            "neighbor": "31-38"
+                        },
+                        {
+                            "ScopeLiName": "中興村",
+                            "tboxNo": "0324",
+                            "tboxName": "中興國民小學(四)",
+                            "addr": "新竹縣湖口鄉勝利村吉祥街43號",
+                            "neighbor": "39-46"
+                        }
+                    ],
+                    "liName": "中興村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳凰村",
+                            "tboxNo": "0325",
+                            "tboxName": "華興國民小學(一)",
+                            "addr": "新竹縣湖口鄉鳳凰村文化路171號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "鳳凰村",
+                            "tboxNo": "0326",
+                            "tboxName": "華興國民小學(二)",
+                            "addr": "新竹縣湖口鄉鳳凰村文化路171號",
+                            "neighbor": "13-17,22-25"
+                        },
+                        {
+                            "ScopeLiName": "鳳凰村",
+                            "tboxNo": "0327",
+                            "tboxName": "鳳凰社區活動中心",
+                            "addr": "新竹縣湖口鄉鳳凰村仁和路90號",
+                            "neighbor": "9-12,26-30"
+                        },
+                        {
+                            "ScopeLiName": "鳳凰村",
+                            "tboxNo": "0328",
+                            "tboxName": "中正國民中學",
+                            "addr": "新竹縣湖口鄉鳳凰村仁興路135號",
+                            "neighbor": "18-21,31-36"
+                        }
+                    ],
+                    "liName": "鳳凰村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "勝利村",
+                            "tboxNo": "0329",
+                            "tboxName": "老人文康活動中心",
+                            "addr": "新竹縣湖口鄉勝利村新生路122號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "勝利村",
+                            "tboxNo": "0331",
+                            "tboxName": "勝利村集會所活動中心",
+                            "addr": "新竹縣湖口鄉勝利村新生路95號",
+                            "neighbor": "18-31"
+                        }
+                    ],
+                    "liName": "勝利村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳山村",
+                            "tboxNo": "0332",
+                            "tboxName": "鳳山社區活動中心",
+                            "addr": "新竹縣湖口鄉鳳山村榮光路120號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "鳳山村",
+                            "tboxNo": "0333",
+                            "tboxName": "鳳山村集會所",
+                            "addr": "新竹縣湖口鄉鳳山村瑞安街22巷2號",
+                            "neighbor": "8-9,14-20"
+                        },
+                        {
+                            "ScopeLiName": "鳳山村",
+                            "tboxNo": "0334",
+                            "tboxName": "寧園安養院",
+                            "addr": "新竹縣湖口鄉鳳山村榮光路19號",
+                            "neighbor": "10-13,21-23"
+                        }
+                    ],
+                    "liName": "鳳山村"
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0335",
+                            "tboxName": "福龍國民小學",
+                            "addr": "新竹縣新豐鄉福興村113號",
+                            "neighbor": "福興村"
+                        }
+                    ],
+                    "liName": "福興村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "青埔村",
+                            "tboxNo": "0336",
+                            "tboxName": "青埔老人會館",
+                            "addr": "新竹縣新豐鄉青埔村80之1號",
+                            "neighbor": "1,3-7"
+                        },
+                        {
+                            "ScopeLiName": "青埔村",
+                            "tboxNo": "0337",
+                            "tboxName": "青埔社區活動中心",
+                            "addr": "新竹縣新豐鄉青埔村80之2號",
+                            "neighbor": "2,8-10"
+                        }
+                    ],
+                    "liName": "青埔村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中崙村",
+                            "tboxNo": "0339",
+                            "tboxName": "中崙活動中心",
+                            "addr": "新竹縣新豐鄉中崙村37號",
+                            "neighbor": "2,5-8"
+                        },
+                        {
+                            "ScopeLiName": "中崙村",
+                            "tboxNo": "0340",
+                            "tboxName": "溪南中崙三元宮迎賓館",
+                            "addr": "新竹縣新豐鄉中崙村38號",
+                            "neighbor": "9-12"
+                        }
+                    ],
+                    "liName": "中崙村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞興村",
+                            "tboxNo": "0341",
+                            "tboxName": "瑞興國民小學(一)",
+                            "addr": "新竹縣新豐鄉瑞興村63號",
+                            "neighbor": "1-6,12"
+                        },
+                        {
+                            "ScopeLiName": "瑞興村",
+                            "tboxNo": "0342",
+                            "tboxName": "瑞興國民小學(二)",
+                            "addr": "新竹縣新豐鄉瑞興村63號",
+                            "neighbor": "7-11,13"
+                        }
+                    ],
+                    "liName": "瑞興村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後湖村",
+                            "tboxNo": "0343",
+                            "tboxName": "福興國民小學(一)",
+                            "addr": "新竹縣新豐鄉後湖村108號",
+                            "neighbor": "1-6,8"
+                        },
+                        {
+                            "ScopeLiName": "後湖村",
+                            "tboxNo": "0344",
+                            "tboxName": "福興國民小學(二)",
+                            "addr": "新竹縣新豐鄉後湖村108號",
+                            "neighbor": "7,9-13"
+                        }
+                    ],
+                    "liName": "後湖村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "坡頭村",
+                            "tboxNo": "0345",
+                            "tboxName": "坡頭活動中心",
+                            "addr": "新竹縣新豐鄉坡頭村91號",
+                            "neighbor": "坡頭村"
+                        }
+                    ],
+                    "liName": "坡頭村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔和村",
+                            "tboxNo": "0346",
+                            "tboxName": "埔和村集會所",
+                            "addr": "新竹縣新豐鄉埔和村埔頂126-1號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "埔和村",
+                            "tboxNo": "0347",
+                            "tboxName": "埔和國民小學(一)",
+                            "addr": "新竹縣新豐鄉埔和村466號",
+                            "neighbor": "6-11"
+                        },
+                        {
+                            "ScopeLiName": "埔和村",
+                            "tboxNo": "0348",
+                            "tboxName": "埔和國民小學(二)",
+                            "addr": "新竹縣新豐鄉埔和村466號",
+                            "neighbor": "12-19"
+                        }
+                    ],
+                    "liName": "埔和村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新豐村",
+                            "tboxNo": "0349",
+                            "tboxName": "埔和國民小學(三)",
+                            "addr": "新竹縣新豐鄉埔和村466號",
+                            "neighbor": "1-4,6-11"
+                        },
+                        {
+                            "ScopeLiName": "新豐村",
+                            "tboxNo": "0350",
+                            "tboxName": "新豐活動中心",
+                            "addr": "新竹縣新豐鄉新豐村池府路149號",
+                            "neighbor": "5,12-17"
+                        }
+                    ],
+                    "liName": "新豐村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0351",
+                            "tboxName": "員山活動中心",
+                            "addr": "新竹縣新豐鄉忠孝村忠一街216號",
+                            "neighbor": "1,8-12"
+                        },
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0352",
+                            "tboxName": "仰德高級中學(一)",
+                            "addr": "新竹縣新豐鄉員山村133號",
+                            "neighbor": "2-7"
+                        }
+                    ],
+                    "liName": "員山村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠孝村",
+                            "tboxNo": "0354",
+                            "tboxName": "忠孝國民中學(一)",
+                            "addr": "新竹縣新豐鄉忠孝村孝六街1號",
+                            "neighbor": "1,3-4"
+                        },
+                        {
+                            "ScopeLiName": "忠孝村",
+                            "tboxNo": "0355",
+                            "tboxName": "忠孝國民中學(二)",
+                            "addr": "新竹縣新豐鄉忠孝村孝六街1號",
+                            "neighbor": "2,5-8"
+                        },
+                        {
+                            "ScopeLiName": "忠孝村",
+                            "tboxNo": "0356",
+                            "tboxName": "忠孝國民中學(三)",
+                            "addr": "新竹縣新豐鄉忠孝村孝六街1號",
+                            "neighbor": "9-13"
+                        }
+                    ],
+                    "liName": "忠孝村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山崎村",
+                            "tboxNo": "0357",
+                            "tboxName": "山崎國民小學(一)",
+                            "addr": "新竹縣新豐鄉山崎村新興路291號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "山崎村",
+                            "tboxNo": "0358",
+                            "tboxName": "山崎國民小學(二)",
+                            "addr": "新竹縣新豐鄉山崎村新興路291號",
+                            "neighbor": "6-11"
+                        },
+                        {
+                            "ScopeLiName": "山崎村",
+                            "tboxNo": "0359",
+                            "tboxName": "山崎國民小學(三)",
+                            "addr": "新竹縣新豐鄉山崎村新興路291號",
+                            "neighbor": "12-15"
+                        },
+                        {
+                            "ScopeLiName": "山崎村",
+                            "tboxNo": "0360",
+                            "tboxName": "山崎國民小學(四)",
+                            "addr": "新竹縣新豐鄉山崎村新興路291號",
+                            "neighbor": "16-18"
+                        }
+                    ],
+                    "liName": "山崎村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上坑村",
+                            "tboxNo": "0361",
+                            "tboxName": "上坑活動中心",
+                            "addr": "新竹縣新豐鄉上坑村401號",
+                            "neighbor": "1-6,9"
+                        },
+                        {
+                            "ScopeLiName": "上坑村",
+                            "tboxNo": "0362",
+                            "tboxName": "勤美股份有限公司",
+                            "addr": "新竹縣新豐鄉上坑村488號",
+                            "neighbor": "7-8,10-12"
+                        }
+                    ],
+                    "liName": "上坑村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "重興村",
+                            "tboxNo": "0365",
+                            "tboxName": "新豐國民中學(二)",
+                            "addr": "新竹縣新豐鄉重興村成德街36號",
+                            "neighbor": "7-10,12,19"
+                        },
+                        {
+                            "ScopeLiName": "重興村",
+                            "tboxNo": "0366",
+                            "tboxName": "新豐國民小學(一)",
+                            "addr": "新竹縣新豐鄉重興村明德巷13號",
+                            "neighbor": "11,14,16"
+                        },
+                        {
+                            "ScopeLiName": "重興村",
+                            "tboxNo": "0367",
+                            "tboxName": "新豐國民小學(二)",
+                            "addr": "新竹縣新豐鄉重興村明德巷13號",
+                            "neighbor": "13,15,17-18"
+                        },
+                        {
+                            "ScopeLiName": "重興村",
+                            "tboxNo": "0368",
+                            "tboxName": "新豐國民小學(三)",
+                            "addr": "新竹縣新豐鄉重興村明德巷13號",
+                            "neighbor": "20-23"
+                        }
+                    ],
+                    "liName": "重興村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崎頂村",
+                            "tboxNo": "0369",
+                            "tboxName": "新豐老人文康活動中心",
+                            "addr": "新竹縣新豐鄉重興村長春路89巷1號",
+                            "neighbor": "17-21"
+                        },
+                        {
+                            "ScopeLiName": "崎頂村",
+                            "tboxNo": "0370",
+                            "tboxName": "關聖宮",
+                            "addr": "新竹縣新豐鄉員山村建興路一段202之4號",
+                            "neighbor": "1,14-16"
+                        },
+                        {
+                            "ScopeLiName": "崎頂村",
+                            "tboxNo": "0371",
+                            "tboxName": "崎頂活動中心",
+                            "addr": "新竹縣新豐鄉崎頂村榮華街127巷10號",
+                            "neighbor": "2-13,22-23"
+                        }
+                    ],
+                    "liName": "崎頂村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松林村",
+                            "tboxNo": "0372",
+                            "tboxName": "松林國民小學(一)",
+                            "addr": "新竹縣新豐鄉松林村松林街99號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "松林村",
+                            "tboxNo": "0373",
+                            "tboxName": "松林國民小學(二)",
+                            "addr": "新竹縣新豐鄉松林村松林街99號",
+                            "neighbor": "6-9"
+                        },
+                        {
+                            "ScopeLiName": "松林村",
+                            "tboxNo": "0375",
+                            "tboxName": "松林國民小學(四)",
+                            "addr": "新竹縣新豐鄉松林村松林街99號",
+                            "neighbor": "10,16-21"
+                        }
+                    ],
+                    "liName": "松林村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松柏村",
+                            "tboxNo": "0376",
+                            "tboxName": "松柏活動中心",
+                            "addr": "新竹縣新豐鄉松柏村康樂路1段516號",
+                            "neighbor": "1-5,9"
+                        },
+                        {
+                            "ScopeLiName": "松柏村",
+                            "tboxNo": "0377",
+                            "tboxName": "松林國民小學(五)",
+                            "addr": "新竹縣新豐鄉松林村松林街99號",
+                            "neighbor": "6-8,10-11"
+                        },
+                        {
+                            "ScopeLiName": "松柏村",
+                            "tboxNo": "0378",
+                            "tboxName": "松林國民小學(六)",
+                            "addr": "新竹縣新豐鄉松林村松林街99號",
+                            "neighbor": "12-19"
+                        },
+                        {
+                            "ScopeLiName": "松柏村",
+                            "tboxNo": "0379",
+                            "tboxName": "松林國民小學(七)",
+                            "addr": "新竹縣新豐鄉松林村松林街99號",
+                            "neighbor": "20-27"
+                        },
+                        {
+                            "ScopeLiName": "松柏村",
+                            "tboxNo": "0380",
+                            "tboxName": "松林國民小學(八)",
+                            "addr": "新竹縣新豐鄉松林村松林街99號",
+                            "neighbor": "28-37"
+                        }
+                    ],
+                    "liName": "松柏村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "華龍村",
+                            "tboxNo": "0381",
+                            "tboxName": "華龍村集會所",
+                            "addr": "新竹縣芎林鄉華龍村鹿寮坑176之1號",
+                            "neighbor": "華龍村"
+                        }
+                    ],
+                    "liName": "華龍村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五龍村",
+                            "tboxNo": "0382",
+                            "tboxName": "五龍村集會所",
+                            "addr": "新竹縣芎林鄉五龍村富林路1段138巷91號",
+                            "neighbor": "5,6,9"
+                        }
+                    ],
+                    "liName": "五龍村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永興村",
+                            "tboxNo": "0384",
+                            "tboxName": "永興社區活動中心",
+                            "addr": "新竹縣芎林鄉永興村王爺坑39之5號",
+                            "neighbor": "8,9,10"
+                        }
+                    ],
+                    "liName": "永興村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石潭村",
+                            "tboxNo": "0385",
+                            "tboxName": "碧潭國民小學",
+                            "addr": "新竹縣芎林鄉石潭村福昌街90號",
+                            "neighbor": "5,9,10,11"
+                        },
+                        {
+                            "ScopeLiName": "石潭村",
+                            "tboxNo": "0386",
+                            "tboxName": "石潭社區活動中心",
+                            "addr": "新竹縣芎林鄉石潭村福昌街３００巷４７號",
+                            "neighbor": "1,2,3,6"
+                        }
+                    ],
+                    "liName": "石潭村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新鳳村",
+                            "tboxNo": "0387",
+                            "tboxName": "芎林國民中學",
+                            "addr": "新竹縣芎林鄉新鳳村五股林74號",
+                            "neighbor": "1,7-9"
+                        },
+                        {
+                            "ScopeLiName": "新鳳村",
+                            "tboxNo": "0388",
+                            "tboxName": "新鳳村集會所",
+                            "addr": "新竹縣芎林鄉新鳳村文衡路200號",
+                            "neighbor": "3,5,6"
+                        }
+                    ],
+                    "liName": "新鳳村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中坑村",
+                            "tboxNo": "0389",
+                            "tboxName": "中坑村集會所",
+                            "addr": "新竹縣芎林鄉中坑村中坑7之3號",
+                            "neighbor": "4,10"
+                        }
+                    ],
+                    "liName": "中坑村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水坑村",
+                            "tboxNo": "0390",
+                            "tboxName": "水坑村集會所",
+                            "addr": "新竹縣芎林鄉水坑村文華街183號",
+                            "neighbor": "2,4,8-10"
+                        }
+                    ],
+                    "liName": "水坑村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文林村",
+                            "tboxNo": "0391",
+                            "tboxName": "芎林國民小學",
+                            "addr": "新竹縣芎林鄉文林村文山路288號",
+                            "neighbor": "1,2,14"
+                        },
+                        {
+                            "ScopeLiName": "文林村",
+                            "tboxNo": "0392",
+                            "tboxName": "文林村集會所",
+                            "addr": "新竹縣芎林鄉文林村文山路327號",
+                            "neighbor": "9"
+                        }
+                    ],
+                    "liName": "文林村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "芎林村",
+                            "tboxNo": "0393",
+                            "tboxName": "芎林村活動中心",
+                            "addr": "新竹縣芎林鄉芎林村文富街39號",
+                            "neighbor": "5,10,11"
+                        }
+                    ],
+                    "liName": "芎林村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上山村",
+                            "tboxNo": "0395",
+                            "tboxName": "芎林鄉農會農民直銷站-上山店 (食農教室)",
+                            "addr": "新竹縣芎林鄉上山村文山路626號",
+                            "neighbor": "2,3,22"
+                        },
+                        {
+                            "ScopeLiName": "上山村",
+                            "tboxNo": "0396",
+                            "tboxName": "上山村活動中心",
+                            "addr": "新竹縣芎林鄉上山村綠獅三街6號",
+                            "neighbor": "5,14-16"
+                        },
+                        {
+                            "ScopeLiName": "上山村",
+                            "tboxNo": "0397",
+                            "tboxName": "大矽谷活動中心",
+                            "addr": "新竹縣芎林鄉上山村三民路2號",
+                            "neighbor": "7"
+                        },
+                        {
+                            "ScopeLiName": "上山村",
+                            "tboxNo": "0398",
+                            "tboxName": "新竹縣農會3樓",
+                            "addr": "新竹縣芎林鄉上山村文山路989號3樓",
+                            "neighbor": "6,10-12"
+                        }
+                    ],
+                    "liName": "上山村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下山村",
+                            "tboxNo": "0399",
+                            "tboxName": "下山社區活動中心",
+                            "addr": "新竹縣芎林鄉下山村金獅九街6號",
+                            "neighbor": "5,9"
+                        }
+                    ],
+                    "liName": "下山村"
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "橫山村",
+                            "tboxNo": "0400",
+                            "tboxName": "橫山社區活動中心",
+                            "addr": "新竹縣橫山鄉橫山村橫山101號",
+                            "neighbor": "1-5,10"
+                        },
+                        {
+                            "ScopeLiName": "橫山村",
+                            "tboxNo": "0401",
+                            "tboxName": "華山國民中學",
+                            "addr": "新竹縣橫山鄉橫山村橫山街一段29號",
+                            "neighbor": "6-9"
+                        },
+                        {
+                            "ScopeLiName": "橫山村",
+                            "tboxNo": "0402",
+                            "tboxName": "橫山社區長壽俱樂部會館",
+                            "addr": "新竹縣橫山鄉橫山村橫山96號",
+                            "neighbor": "11-23"
+                        }
+                    ],
+                    "liName": "橫山村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "田寮村",
+                            "tboxNo": "0403",
+                            "tboxName": "田寮村集會所",
+                            "addr": "新竹縣橫山鄉田寮村田洋街132號",
+                            "neighbor": "田寮村"
+                        }
+                    ],
+                    "liName": "田寮村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南昌村",
+                            "tboxNo": "0404",
+                            "tboxName": "南昌村集會所",
+                            "addr": "新竹縣橫山鄉南昌村薯園41號",
+                            "neighbor": "南昌村"
+                        }
+                    ],
+                    "liName": "南昌村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內灣村",
+                            "tboxNo": "0407",
+                            "tboxName": "內灣村廣濟宮活動中心",
+                            "addr": "新竹縣橫山鄉內灣村大同路1號",
+                            "neighbor": "內灣村"
+                        }
+                    ],
+                    "liName": "內灣村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0410",
+                            "tboxName": "福興社區活動中心",
+                            "addr": "新竹縣橫山鄉福興村八十分37號",
+                            "neighbor": "福興村"
+                        }
+                    ],
+                    "liName": "福興村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "沙坑村",
+                            "tboxNo": "0411",
+                            "tboxName": "沙坑村集會所",
+                            "addr": "新竹縣橫山鄉沙坑村沙坑街50號",
+                            "neighbor": "1-10"
+                        }
+                    ],
+                    "liName": "沙坑村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興村",
+                            "tboxNo": "0414",
+                            "tboxName": "橫山鄉立圖書館",
+                            "addr": "新竹縣橫山鄉新興村新興街67巷7號",
+                            "neighbor": "8-14"
+                        }
+                    ],
+                    "liName": "新興村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大肚村",
+                            "tboxNo": "0415",
+                            "tboxName": "橫山鄉老人文康中心",
+                            "addr": "新竹縣橫山鄉大肚村永昌街53號",
+                            "neighbor": "1-10"
+                        }
+                    ],
+                    "liName": "大肚村"
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北埔村",
+                            "tboxNo": "0417",
+                            "tboxName": "埔尾社區活動中心",
+                            "addr": "新竹縣北埔鄉埔尾村埔心街１號",
+                            "neighbor": "北埔村"
+                        }
+                    ],
+                    "liName": "北埔村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南興村",
+                            "tboxNo": "0418",
+                            "tboxName": "北埔、南興、大湖聯合活動中心",
+                            "addr": "新竹縣北埔鄉南興村光復街28號",
+                            "neighbor": "南興村"
+                        }
+                    ],
+                    "liName": "南興村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南坑村",
+                            "tboxNo": "0418",
+                            "tboxName": "北埔、南興、大湖聯合活動中心",
+                            "addr": "新竹縣北埔鄉南興村光復街28號",
+                            "neighbor": "南坑村"
+                        }
+                    ],
+                    "liName": "南坑村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔尾村",
+                            "tboxNo": "0422",
+                            "tboxName": "北埔國民中學(二)",
+                            "addr": "新竹縣北埔鄉埔尾村埔心街141號",
+                            "neighbor": "7,8,13"
+                        }
+                    ],
+                    "liName": "埔尾村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南埔村",
+                            "tboxNo": "0424",
+                            "tboxName": "南昌宮",
+                            "addr": "新竹縣北埔鄉南埔村南埔１7號",
+                            "neighbor": "南埔村"
+                        }
+                    ],
+                    "liName": "南埔村"
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "雙新村",
+                            "tboxNo": "0428",
+                            "tboxName": "寶山國中（一）",
+                            "addr": "新竹縣寶山鄉雙溪村三峰路二段600號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "雙新村",
+                            "tboxNo": "0429",
+                            "tboxName": "寶山國中（二）",
+                            "addr": "新竹縣寶山鄉雙溪村三峰路二段600號",
+                            "neighbor": "9-19"
+                        }
+                    ],
+                    "liName": "雙新村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "雙溪村",
+                            "tboxNo": "0430",
+                            "tboxName": "雙溪國小（一）",
+                            "addr": "新竹縣寶山鄉雙溪村雙園路二段310號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "雙溪村",
+                            "tboxNo": "0431",
+                            "tboxName": "雙溪國小（二）",
+                            "addr": "新竹縣寶山鄉雙溪村雙園路二段310號",
+                            "neighbor": "9-15"
+                        }
+                    ],
+                    "liName": "雙溪村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大崎村",
+                            "tboxNo": "0432",
+                            "tboxName": "大崎村集會所(一)",
+                            "addr": "新竹縣寶山鄉大崎村雙園路一段6巷32號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "大崎村",
+                            "tboxNo": "0433",
+                            "tboxName": "大崎村集會所(二)",
+                            "addr": "新竹縣寶山鄉大崎村雙園路一段6巷32號",
+                            "neighbor": "8-17"
+                        }
+                    ],
+                    "liName": "大崎村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三峰村",
+                            "tboxNo": "0434",
+                            "tboxName": "三峰村民眾活動中心",
+                            "addr": "新竹縣寶山鄉三峰村三峰路一段330巷10號",
+                            "neighbor": "三峰村"
+                        }
+                    ],
+                    "liName": "三峰村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新城村",
+                            "tboxNo": "0435",
+                            "tboxName": "新城國民小學",
+                            "addr": "新竹縣寶山鄉新城村寶新路二段475號",
+                            "neighbor": "新城村"
+                        }
+                    ],
+                    "liName": "新城村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寶斗村",
+                            "tboxNo": "0436",
+                            "tboxName": "寶斗村集會所",
+                            "addr": "新竹縣寶山鄉寶斗村寶斗路110號",
+                            "neighbor": "寶斗村"
+                        }
+                    ],
+                    "liName": "寶斗村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "深井村",
+                            "tboxNo": "0437",
+                            "tboxName": "深井社區活動中心",
+                            "addr": "新竹縣寶山鄉深井村雙林路二段18號",
+                            "neighbor": "深井村"
+                        }
+                    ],
+                    "liName": "深井村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寶山村",
+                            "tboxNo": "0438",
+                            "tboxName": "寶山村集會所",
+                            "addr": "新竹縣寶山鄉寶山村新湖路二段26號",
+                            "neighbor": "寶山村"
+                        }
+                    ],
+                    "liName": "寶山村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "油田村",
+                            "tboxNo": "0439",
+                            "tboxName": "油田村集會所",
+                            "addr": "新竹縣寶山鄉油田村新湖路三段300號",
+                            "neighbor": "油田村"
+                        }
+                    ],
+                    "liName": "油田村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山湖村",
+                            "tboxNo": "0440",
+                            "tboxName": "山湖村集會所",
+                            "addr": "新竹縣寶山鄉山湖村山湖二路98號",
+                            "neighbor": "山湖村"
+                        }
+                    ],
+                    "liName": "山湖村"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "峨眉村",
+                            "tboxNo": "0441",
+                            "tboxName": "峨眉國民小學",
+                            "addr": "新竹縣峨眉鄉峨眉村4號",
+                            "neighbor": "峨眉村"
+                        }
+                    ],
+                    "liName": "峨眉村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中盛村",
+                            "tboxNo": "0442",
+                            "tboxName": "中盛社區活動中心",
+                            "addr": "新竹縣峨眉鄉中盛村中興279號",
+                            "neighbor": "中盛村"
+                        }
+                    ],
+                    "liName": "中盛村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石井村",
+                            "tboxNo": "0443",
+                            "tboxName": "石井集會所",
+                            "addr": "新竹縣峨眉鄉石井村41號",
+                            "neighbor": "石井村"
+                        }
+                    ],
+                    "liName": "石井村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "七星村",
+                            "tboxNo": "0444",
+                            "tboxName": "峨眉鄉老人文康中心(2樓)",
+                            "addr": "新竹縣峨眉鄉峨眉村獅山街28號2樓",
+                            "neighbor": "1-7,9"
+                        },
+                        {
+                            "ScopeLiName": "七星村",
+                            "tboxNo": "0445",
+                            "tboxName": "交通部觀光局參山國家風景區管理處獅山遊客中心",
+                            "addr": "新竹縣峨眉鄉七星村六寮60之8號",
+                            "neighbor": "8,10-18"
+                        }
+                    ],
+                    "liName": "七星村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富興村",
+                            "tboxNo": "0446",
+                            "tboxName": "富興社區活動中心",
+                            "addr": "新竹縣峨眉鄉富興村富農新邨33號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "富興村",
+                            "tboxNo": "0447",
+                            "tboxName": "富興國民小學",
+                            "addr": "新竹縣峨眉鄉富興村太平街8號",
+                            "neighbor": "7-18"
+                        }
+                    ],
+                    "liName": "富興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖光村",
+                            "tboxNo": "0448",
+                            "tboxName": "原赤坪村集會所",
+                            "addr": "新竹縣峨眉鄉湖光村9號之1",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "湖光村",
+                            "tboxNo": "0449",
+                            "tboxName": "湖光社區活動中心",
+                            "addr": "新竹縣峨眉鄉湖光村湖農新邨32號",
+                            "neighbor": "9-15"
+                        }
+                    ],
+                    "liName": "湖光村"
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義興村",
+                            "tboxNo": "0452",
+                            "tboxName": "多功能農特產品展示中心",
+                            "addr": "新竹縣尖石鄉嘉樂村麥樹仁70號 尖石鄉衛生所旁 ",
+                            "neighbor": "1-5"
+                        }
+                    ],
+                    "liName": "義興村"
+                }
+            ],
+            "deptCode": "120"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "南投縣第1選舉區",
+            "cands": [
+                {
+                    "area": "南投縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000011.jpg",
+                    "gender": "女",
+                    "name": "馬文君",
+                    "birth": "0541201",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "南投縣"
+                },
+                {
+                    "area": "南投縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000012.jpg",
+                    "gender": "男",
+                    "name": "許文忠",
+                    "birth": "0640113",
+                    "type": "L1",
+                    "party": "勞動黨",
+                    "candNo": 2,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "area": "南投縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000013.jpg",
+                    "gender": "男",
+                    "name": "蔡銘軒",
+                    "birth": "0730827",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "南投縣"
+                },
+                {
+                    "area": "南投縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000014.jpg",
+                    "gender": "女",
+                    "name": "李圓恩",
+                    "birth": "0690723",
+                    "type": "L1",
+                    "party": "小民參政歐巴桑聯盟",
+                    "candNo": 4,
+                    "home": "臺東縣"
+                },
+                {
+                    "area": "南投縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000015.jpg",
+                    "gender": "男",
+                    "name": "林金潭",
+                    "birth": "0460728",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 5,
+                    "home": "南投縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "南投縣第2選舉區",
+            "cands": [
+                {
+                    "area": "南投縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000021.jpg",
+                    "gender": "男",
+                    "name": "陳癸佑",
+                    "birth": "0570915",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "南投縣"
+                },
+                {
+                    "area": "南投縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000022.jpg",
+                    "gender": "女",
+                    "name": "蔡培慧",
+                    "birth": "0600902",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "南投縣"
+                },
+                {
+                    "area": "南投縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10008\/10008000000023.jpg",
+                    "gender": "男",
+                    "name": "游顥",
+                    "birth": "0720911",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "基隆市"
+                }
+            ]
+        }
+    ]
+}

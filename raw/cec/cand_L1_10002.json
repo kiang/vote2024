@@ -1,0 +1,82 @@
+{
+    "L1": [
+        {
+            "areaCode": "00",
+            "areaName": "宜蘭縣選舉區",
+            "cands": [
+                {
+                    "area": "宜蘭縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10002\/10002000000001.jpg",
+                    "gender": "男",
+                    "name": "陳俊宇",
+                    "birth": "0640314",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "area": "宜蘭縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10002\/10002000000002.jpg",
+                    "gender": "男",
+                    "name": "林錦坤",
+                    "birth": "0531206",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "area": "宜蘭縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10002\/10002000000003.jpg",
+                    "gender": "男",
+                    "name": "邱介勲",
+                    "birth": "0430428",
+                    "type": "L1",
+                    "party": "制度救世島",
+                    "candNo": 3,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "area": "宜蘭縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10002\/10002000000004.jpg",
+                    "gender": "女",
+                    "name": "陳琬惠",
+                    "birth": "0630911",
+                    "type": "L1",
+                    "party": "台灣民眾黨",
+                    "candNo": 4,
+                    "home": "臺南市"
+                },
+                {
+                    "area": "宜蘭縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10002\/10002000000005.jpg",
+                    "gender": "男",
+                    "name": "林意評",
+                    "birth": "0780304",
+                    "type": "L1",
+                    "party": "台灣基進",
+                    "candNo": 5,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "area": "宜蘭縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10002\/10002000000006.jpg",
+                    "gender": "女",
+                    "name": "黃琤婷",
+                    "birth": "0671220",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 6,
+                    "home": "宜蘭縣"
+                }
+            ]
+        }
+    ]
+}

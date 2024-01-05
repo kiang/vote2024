@@ -1,0 +1,3624 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蒜頭村",
+                            "tboxNo": "0001",
+                            "tboxName": "蒜頭村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉蒜頭村73號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "蒜頭村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蒜東村",
+                            "tboxNo": "0002",
+                            "tboxName": "蒜東社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉蒜東村225號之1",
+                            "neighbor": "5,14"
+                        }
+                    ],
+                    "liName": "蒜東村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蒜南村",
+                            "tboxNo": "0003",
+                            "tboxName": "蒜南社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉蒜南村399號",
+                            "neighbor": "5,11,13"
+                        }
+                    ],
+                    "liName": "蒜南村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "工廠村",
+                            "tboxNo": "0004",
+                            "tboxName": "工廠村品格英語學院",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉工廠村蒜頭糖廠5號",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "工廠村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "灣南村",
+                            "tboxNo": "0005",
+                            "tboxName": "灣南社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉灣南村28號",
+                            "neighbor": "1"
+                        }
+                    ],
+                    "liName": "灣南村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪厝村",
+                            "tboxNo": "0015",
+                            "tboxName": "溪厝村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉溪厝村77號",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "溪厝村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "六斗村",
+                            "tboxNo": "0018",
+                            "tboxName": "六斗社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉六斗村12號",
+                            "neighbor": "3,6"
+                        }
+                    ],
+                    "liName": "六斗村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蘇厝村",
+                            "tboxNo": "0020",
+                            "tboxName": "蘇厝社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉蘇厝村80-1號",
+                            "neighbor": "5,7"
+                        }
+                    ],
+                    "liName": "蘇厝村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "六腳村",
+                            "tboxNo": "0025",
+                            "tboxName": "六腳文化中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉六腳村39號",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "六腳村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崩山村",
+                            "tboxNo": "0027",
+                            "tboxName": "崩山社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉崩山村45號",
+                            "neighbor": "2,10"
+                        }
+                    ],
+                    "liName": "崩山村"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古林村",
+                            "tboxNo": "0028",
+                            "tboxName": "古林社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉古林村164號",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "古林村"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "更寮村",
+                            "tboxNo": "0030",
+                            "tboxName": "更寮上帝公廟",
+                            "geocode": null,
+                            "addr": "嘉義縣六腳鄉更寮村76號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "更寮村"
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東石村",
+                            "tboxNo": "0032",
+                            "tboxName": "東石鄉立幼兒園",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉東石村觀海二路118號",
+                            "neighbor": "21-26"
+                        }
+                    ],
+                    "liName": "東石村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "塭港村",
+                            "tboxNo": "0035",
+                            "tboxName": "塭港社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉塭港村塭港999號",
+                            "neighbor": "塭港村"
+                        }
+                    ],
+                    "liName": "塭港村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三家村",
+                            "tboxNo": "0036",
+                            "tboxName": "三家社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉三家村三塊厝73號之4",
+                            "neighbor": "三家村"
+                        }
+                    ],
+                    "liName": "三家村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下揖村",
+                            "tboxNo": "0041",
+                            "tboxName": "建安宮",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉下揖村下揖子寮121號附1",
+                            "neighbor": "1-16"
+                        }
+                    ],
+                    "liName": "下揖村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪下村",
+                            "tboxNo": "0044",
+                            "tboxName": "溪下社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉溪下村溪子下999號",
+                            "neighbor": "溪下村"
+                        }
+                    ],
+                    "liName": "溪下村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鰲鼓村",
+                            "tboxNo": "0046",
+                            "tboxName": "鰲鼓社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉鰲鼓村鰲鼓64號之2",
+                            "neighbor": "鰲鼓村"
+                        }
+                    ],
+                    "liName": "鰲鼓村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蔦松村",
+                            "tboxNo": "0049",
+                            "tboxName": "蔦松社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉蔦松村下蔦松43號",
+                            "neighbor": "蔦松村"
+                        }
+                    ],
+                    "liName": "蔦松村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西崙村",
+                            "tboxNo": "0054",
+                            "tboxName": "西崙社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉西崙村栗子崙97號之1",
+                            "neighbor": "西崙村"
+                        }
+                    ],
+                    "liName": "西崙村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "塭仔村",
+                            "tboxNo": "0055",
+                            "tboxName": "塭仔社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣東石鄉塭仔村塭子999號",
+                            "neighbor": "塭仔村"
+                        }
+                    ],
+                    "liName": "塭仔村"
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安福里",
+                            "tboxNo": "0059",
+                            "tboxName": "東石國中教室",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市安福里山通路6號",
+                            "neighbor": "20-21,25"
+                        },
+                        {
+                            "ScopeLiName": "安福里",
+                            "tboxNo": "0060",
+                            "tboxName": "安福里集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市安福里北通路28號",
+                            "neighbor": "2"
+                        }
+                    ],
+                    "liName": "安福里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平和里",
+                            "tboxNo": "0061",
+                            "tboxName": "朴子市農會推廣部",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市平和里市東路3號",
+                            "neighbor": "1,9"
+                        },
+                        {
+                            "ScopeLiName": "平和里",
+                            "tboxNo": "0062",
+                            "tboxName": "平和里集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市平和里海通路２之４６號",
+                            "neighbor": "11,19"
+                        }
+                    ],
+                    "liName": "平和里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "順天里",
+                            "tboxNo": "0066",
+                            "tboxName": "巡天宮",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市順天里南通路３段916號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "順天里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0069",
+                            "tboxName": "高明寺",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市文化里山通路73號",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "文化里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永和里",
+                            "tboxNo": "0071",
+                            "tboxName": "永安宮",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市永和里@270FD@菜埔７９號之２",
+                            "neighbor": "9,14,7-12,16-20"
+                        }
+                    ],
+                    "liName": "永和里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹圍里",
+                            "tboxNo": "0072",
+                            "tboxName": "嘉義縣立體育館",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市竹圍里四維路一段460號",
+                            "neighbor": "25-26"
+                        },
+                        {
+                            "ScopeLiName": "竹圍里",
+                            "tboxNo": "0074",
+                            "tboxName": "大同國小禮堂",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市竹圍里大同路２３９號",
+                            "neighbor": "22"
+                        }
+                    ],
+                    "liName": "竹圍里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁和里",
+                            "tboxNo": "0079",
+                            "tboxName": "仁和社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市仁和里小槺榔１２號",
+                            "neighbor": "1"
+                        }
+                    ],
+                    "liName": "仁和里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大鄉里",
+                            "tboxNo": "0082",
+                            "tboxName": "大鄉國小",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市大鄉里大槺榔560號",
+                            "neighbor": "5,28"
+                        }
+                    ],
+                    "liName": "大鄉里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大葛里",
+                            "tboxNo": "0083",
+                            "tboxName": "大葛里集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市大葛里大槺榔５０號之３",
+                            "neighbor": "2-3,7,14,21"
+                        },
+                        {
+                            "ScopeLiName": "大葛里",
+                            "tboxNo": "0084",
+                            "tboxName": "祥和國小",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市大葛里祥和二路西段９號",
+                            "neighbor": "23-32"
+                        }
+                    ],
+                    "liName": "大葛里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅華里",
+                            "tboxNo": "0092",
+                            "tboxName": "梅華新社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市梅華里牛挑灣３之２０號",
+                            "neighbor": "1-20"
+                        }
+                    ],
+                    "liName": "梅華里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松華里",
+                            "tboxNo": "0093",
+                            "tboxName": "松華社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣朴子市松華里牛挑灣341之2號",
+                            "neighbor": "1-21"
+                        }
+                    ],
+                    "liName": "松華里"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太保里",
+                            "tboxNo": "0096",
+                            "tboxName": "太保里集會所(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市太保里太保112號之88",
+                            "neighbor": "14,15,11"
+                        }
+                    ],
+                    "liName": "太保里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後潭里",
+                            "tboxNo": "0100",
+                            "tboxName": "後潭社區活動中心(一)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市後潭里後潭２９８號",
+                            "neighbor": "2,7"
+                        }
+                    ],
+                    "liName": "後潭里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅埔里",
+                            "tboxNo": "0102",
+                            "tboxName": "春梅社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市梅埔里梅子厝71號",
+                            "neighbor": "8"
+                        }
+                    ],
+                    "liName": "梅埔里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙頂里",
+                            "tboxNo": "0105",
+                            "tboxName": "崙頂里集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市崙頂里崙子頂２１號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "崙頂里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安仁里",
+                            "tboxNo": "0107",
+                            "tboxName": "安仁社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市安仁里頂港子墘１０號之1",
+                            "neighbor": "5,9"
+                        },
+                        {
+                            "ScopeLiName": "安仁里",
+                            "tboxNo": "0108",
+                            "tboxName": "創新學院1樓餐廳(一)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市安仁里祥和二路東段8號",
+                            "neighbor": "10,11,12"
+                        },
+                        {
+                            "ScopeLiName": "安仁里",
+                            "tboxNo": "0109",
+                            "tboxName": "創新學院1樓餐廳(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市安仁里祥和二路東段8號",
+                            "neighbor": "13"
+                        }
+                    ],
+                    "liName": "安仁里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東勢里",
+                            "tboxNo": "0111",
+                            "tboxName": "永慶中學行政圖資大樓1樓多功能教室",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市東勢里信義二路1號",
+                            "neighbor": "13,14,15"
+                        }
+                    ],
+                    "liName": "東勢里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新埤里",
+                            "tboxNo": "0113",
+                            "tboxName": "新埤國小(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市新埤里新埤214號",
+                            "neighbor": "11,13"
+                        }
+                    ],
+                    "liName": "新埤里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "舊埤里",
+                            "tboxNo": "0115",
+                            "tboxName": "舊埤勞工住宅活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市舊埤里新平路３5號",
+                            "neighbor": "14,15,16,18,19,1-18,14-18"
+                        }
+                    ],
+                    "liName": "舊埤里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "過溝里",
+                            "tboxNo": "0122",
+                            "tboxName": "過溝社區活動中心(一)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市過溝里過溝36號之5",
+                            "neighbor": "6,18"
+                        },
+                        {
+                            "ScopeLiName": "過溝里",
+                            "tboxNo": "0123",
+                            "tboxName": "過溝社區活動中心(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市過溝里過溝36號之5",
+                            "neighbor": "16.17"
+                        },
+                        {
+                            "ScopeLiName": "過溝里",
+                            "tboxNo": "0124",
+                            "tboxName": "瓦厝集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市過溝里瓦厝26號",
+                            "neighbor": "10,11"
+                        }
+                    ],
+                    "liName": "過溝里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "麻寮里",
+                            "tboxNo": "0125",
+                            "tboxName": "古恩宮集會所(一 )",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市麻寮里中山路二段246號",
+                            "neighbor": "6,7,10,12"
+                        },
+                        {
+                            "ScopeLiName": "麻寮里",
+                            "tboxNo": "0126",
+                            "tboxName": "古恩宮集會所(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市麻寮里中山路二段246號",
+                            "neighbor": "13,15,16,18"
+                        },
+                        {
+                            "ScopeLiName": "麻寮里",
+                            "tboxNo": "0127",
+                            "tboxName": "古恩宮西側",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市麻寮里中山路二段250號",
+                            "neighbor": "19,20,22"
+                        },
+                        {
+                            "ScopeLiName": "麻寮里",
+                            "tboxNo": "0129",
+                            "tboxName": "古恩宮東側(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市麻寮里中山路二段250號",
+                            "neighbor": "4"
+                        }
+                    ],
+                    "liName": "麻寮里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南新里",
+                            "tboxNo": "0130",
+                            "tboxName": "南新國小學生活動中心(一)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市南新里中山路一段140號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "南新里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北新里",
+                            "tboxNo": "0133",
+                            "tboxName": "嘉新國中-北新(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市北新里中興路一段250號",
+                            "neighbor": "12,16,13-20"
+                        },
+                        {
+                            "ScopeLiName": "北新里",
+                            "tboxNo": "0134",
+                            "tboxName": "嘉新國中-北新(三)",
+                            "geocode": null,
+                            "addr": "嘉義縣太保市北新里中興路一段250號",
+                            "neighbor": "18,19,21-26"
+                        }
+                    ],
+                    "liName": "北新里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光復里",
+                            "tboxNo": "0141",
+                            "tboxName": "舊戶政事務所",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮光復里太平路121號",
+                            "neighbor": "21"
+                        },
+                        {
+                            "ScopeLiName": "光復里",
+                            "tboxNo": "0142",
+                            "tboxName": "布袋鎮立圖書館",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮光復里東安庄64號",
+                            "neighbor": "22"
+                        }
+                    ],
+                    "liName": "光復里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "見龍里",
+                            "tboxNo": "0143",
+                            "tboxName": "見龍社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮見龍里內田2號之4",
+                            "neighbor": "14"
+                        }
+                    ],
+                    "liName": "見龍里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新厝里",
+                            "tboxNo": "0144",
+                            "tboxName": "龍江里多功能活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮龍江里新厝仔300號之1",
+                            "neighbor": "3,14"
+                        }
+                    ],
+                    "liName": "新厝里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "振寮里",
+                            "tboxNo": "0146",
+                            "tboxName": "振寮社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮振寮里後壁寮102號之1",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "振寮里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0147",
+                            "tboxName": "西安里辦公處",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮西安里過溝廈厝30號之22",
+                            "neighbor": "12,15,19"
+                        }
+                    ],
+                    "liName": "西安里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東港里",
+                            "tboxNo": "0154",
+                            "tboxName": "東港里活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮東港里東港28之5號",
+                            "neighbor": "5"
+                        },
+                        {
+                            "ScopeLiName": "東港里",
+                            "tboxNo": "0155",
+                            "tboxName": "埔仔厝社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮東港里埔仔厝101號之1",
+                            "neighbor": "23"
+                        }
+                    ],
+                    "liName": "東港里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0162",
+                            "tboxName": "新民復興社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮新民里新塭330號之10",
+                            "neighbor": "1,4,16"
+                        }
+                    ],
+                    "liName": "復興里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "好美里",
+                            "tboxNo": "0164",
+                            "tboxName": "好美社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣布袋鎮好美里虎尾寮105之10號",
+                            "neighbor": "7,10,12"
+                        }
+                    ],
+                    "liName": "好美里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "岸腳村",
+                            "tboxNo": "0166",
+                            "tboxName": "岸腳村角帶圍聖母宮",
+                            "geocode": null,
+                            "addr": "嘉義縣義竹鄉岸腳村15鄰角帶圍6號之2",
+                            "neighbor": "13-15"
+                        }
+                    ],
+                    "liName": "岸腳村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義竹村",
+                            "tboxNo": "0167",
+                            "tboxName": "義竹村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣義竹鄉義竹村117號",
+                            "neighbor": "1-14"
+                        }
+                    ],
+                    "liName": "義竹村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁里村",
+                            "tboxNo": "0170",
+                            "tboxName": "義竹鄉老人文康活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣義竹鄉仁里村1鄰３３３號之１",
+                            "neighbor": "仁里村"
+                        }
+                    ],
+                    "liName": "仁里村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埤前村",
+                            "tboxNo": "0176",
+                            "tboxName": "埤前村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣義竹鄉埤前村９８號",
+                            "neighbor": "埤前村"
+                        }
+                    ],
+                    "liName": "埤前村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北華村",
+                            "tboxNo": "0179",
+                            "tboxName": "北華村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣義竹鄉北華村4鄰４８號之１",
+                            "neighbor": "北華村"
+                        }
+                    ],
+                    "liName": "北華村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東過村",
+                            "tboxNo": "0182",
+                            "tboxName": "東過村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣義竹鄉東過村9鄰100號",
+                            "neighbor": "東過村"
+                        }
+                    ],
+                    "liName": "東過村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪洲村",
+                            "tboxNo": "0191",
+                            "tboxName": "溪洲村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣義竹鄉溪洲村7鄰21號之1",
+                            "neighbor": "1-10"
+                        }
+                    ],
+                    "liName": "溪洲村"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿草村",
+                            "tboxNo": "0195",
+                            "tboxName": "鹿草西井社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣鹿草鄉西井村長壽路227號",
+                            "neighbor": "18"
+                        }
+                    ],
+                    "liName": "鹿草村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西井村",
+                            "tboxNo": "0196",
+                            "tboxName": "鹿草國小禮堂",
+                            "geocode": null,
+                            "addr": "嘉義縣鹿草鄉西井村長壽路221號",
+                            "neighbor": "6,12"
+                        }
+                    ],
+                    "liName": "西井村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "重寮村",
+                            "tboxNo": "0199",
+                            "tboxName": "重寮社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣鹿草鄉重寮村中寮１６０號之3",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "重寮村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "施家村",
+                            "tboxNo": "0200",
+                            "tboxName": "施家村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣鹿草鄉施家村施厝寮９１號",
+                            "neighbor": "1,4,9"
+                        }
+                    ],
+                    "liName": "施家村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "後堀村",
+                            "tboxNo": "0208",
+                            "tboxName": "山子脚歌友會",
+                            "geocode": null,
+                            "addr": "嘉義縣鹿草鄉後堀村山子脚４９號之１",
+                            "neighbor": "18"
+                        }
+                    ],
+                    "liName": "後堀村"
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水上村",
+                            "tboxNo": "0214",
+                            "tboxName": "保安宮",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉水上村店興街152巷16號",
+                            "neighbor": "水上村"
+                        }
+                    ],
+                    "liName": "水上村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水頭村",
+                            "tboxNo": "0218",
+                            "tboxName": "吳竹仔腳活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉水頭村吳竹街25號",
+                            "neighbor": "水頭村"
+                        }
+                    ],
+                    "liName": "水頭村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "粗溪村",
+                            "tboxNo": "0219",
+                            "tboxName": "粗溪村活動中心前",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉粗溪村粗溪119之1號",
+                            "neighbor": "粗溪村"
+                        }
+                    ],
+                    "liName": "粗溪村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下寮村",
+                            "tboxNo": "0222",
+                            "tboxName": "下寮村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉下寮村下寮48號",
+                            "neighbor": "下寮村"
+                        }
+                    ],
+                    "liName": "下寮村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三和村",
+                            "tboxNo": "0223",
+                            "tboxName": "三和村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉三和村新和庄7之1號",
+                            "neighbor": "三和村"
+                        }
+                    ],
+                    "liName": "三和村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "回歸村",
+                            "tboxNo": "0225",
+                            "tboxName": "回歸村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉回歸村建國四村190之1號",
+                            "neighbor": "回歸村"
+                        }
+                    ],
+                    "liName": "回歸村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大堀村",
+                            "tboxNo": "0227",
+                            "tboxName": "江竹仔腳集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉大堀村江竹仔腳44號",
+                            "neighbor": "大堀村"
+                        }
+                    ],
+                    "liName": "大堀村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大崙村",
+                            "tboxNo": "0229",
+                            "tboxName": "大崙社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉大崙村大崙49號",
+                            "neighbor": "大崙村"
+                        }
+                    ],
+                    "liName": "大崙村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍德村",
+                            "tboxNo": "0233",
+                            "tboxName": "龍德村集會所右側",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉龍德村十一指厝53之6號",
+                            "neighbor": "龍德村"
+                        }
+                    ],
+                    "liName": "龍德村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪洲村",
+                            "tboxNo": "0234",
+                            "tboxName": "溪洲社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉溪洲村外溪洲82之1號",
+                            "neighbor": "溪洲村"
+                        }
+                    ],
+                    "liName": "溪洲村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三鎮村",
+                            "tboxNo": "0235",
+                            "tboxName": "三鎮村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉三鎮村南靖車站44號",
+                            "neighbor": "三鎮村"
+                        }
+                    ],
+                    "liName": "三鎮村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南和村",
+                            "tboxNo": "0237",
+                            "tboxName": "新發寺廟旁",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉南和村南靖11號",
+                            "neighbor": "南和村"
+                        }
+                    ],
+                    "liName": "南和村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柳新村",
+                            "tboxNo": "0240",
+                            "tboxName": "嘉義縣水上鄉民代表會旁",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉柳新村柳子林68號旁",
+                            "neighbor": "柳新村"
+                        }
+                    ],
+                    "liName": "柳新村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柳林村",
+                            "tboxNo": "0241",
+                            "tboxName": "柳子林社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉柳林村柳子林45號",
+                            "neighbor": "柳林村"
+                        }
+                    ],
+                    "liName": "柳林村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柳鄉村",
+                            "tboxNo": "0243",
+                            "tboxName": "柳鄉村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉柳鄉村柳子林92之1號",
+                            "neighbor": "柳鄉村"
+                        }
+                    ],
+                    "liName": "柳鄉村"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內溪村",
+                            "tboxNo": "0245",
+                            "tboxName": "內溪村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉內溪村溪仔底27號",
+                            "neighbor": "內溪村"
+                        }
+                    ],
+                    "liName": "內溪村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寬士村",
+                            "tboxNo": "0246",
+                            "tboxName": "寬士村活動中心左側",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉寬士村崎子頭29之29號",
+                            "neighbor": "寬士村"
+                        }
+                    ],
+                    "liName": "寬士村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民生村",
+                            "tboxNo": "0250",
+                            "tboxName": "水上鄉老人文康中心右側",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉民生村信義街1號",
+                            "neighbor": "民生村"
+                        }
+                    ],
+                    "liName": "民生村"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義興村",
+                            "tboxNo": "0251",
+                            "tboxName": "義興村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉義興村番子寮57之1號",
+                            "neighbor": "義興村"
+                        }
+                    ],
+                    "liName": "義興村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中庄村",
+                            "tboxNo": "0252",
+                            "tboxName": "中庄社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉中庄村中庄40之2號",
+                            "neighbor": "中庄村"
+                        }
+                    ],
+                    "liName": "中庄村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠和村",
+                            "tboxNo": "0254",
+                            "tboxName": "忠和社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉忠和村中庄77之1號",
+                            "neighbor": "忠和村"
+                        }
+                    ],
+                    "liName": "忠和村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南鄉村",
+                            "tboxNo": "0256",
+                            "tboxName": "南鄉村寶豐宮香客聯誼中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉南鄉村牛稠埔76號",
+                            "neighbor": "南鄉村"
+                        }
+                    ],
+                    "liName": "南鄉村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三界村",
+                            "tboxNo": "0257",
+                            "tboxName": "成功社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉三界村三界埔196之1號",
+                            "neighbor": "三界村"
+                        }
+                    ],
+                    "liName": "三界村"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國姓村",
+                            "tboxNo": "0258",
+                            "tboxName": "國姓村辦公處(老人食堂)",
+                            "geocode": null,
+                            "addr": "嘉義縣水上鄉三界村三界埔153號之1",
+                            "neighbor": "國姓村"
+                        }
+                    ],
+                    "liName": "國姓村"
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪東村",
+                            "tboxNo": "0259",
+                            "tboxName": "溪東活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉溪東村中正路133號",
+                            "neighbor": "13"
+                        }
+                    ],
+                    "liName": "溪東村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "疊溪村",
+                            "tboxNo": "0264",
+                            "tboxName": "柳溝活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉柳溝村柳子溝16號之5",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "疊溪村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柳溝村",
+                            "tboxNo": "0264",
+                            "tboxName": "柳溝活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉柳溝村柳子溝16號之5",
+                            "neighbor": "12"
+                        }
+                    ],
+                    "liName": "柳溝村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "美北村",
+                            "tboxNo": "0268",
+                            "tboxName": "柴林活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉柴林村柴林腳25號之1",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "美北村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林腳村",
+                            "tboxNo": "0268",
+                            "tboxName": "柴林活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉柴林村柴林腳25號之1",
+                            "neighbor": "10"
+                        },
+                        {
+                            "ScopeLiName": "林腳村",
+                            "tboxNo": "0269",
+                            "tboxName": "林腳活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉林腳村柴林腳42號之1",
+                            "neighbor": "2"
+                        }
+                    ],
+                    "liName": "林腳村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柴林村",
+                            "tboxNo": "0268",
+                            "tboxName": "柴林活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉柴林村柴林腳25號之1",
+                            "neighbor": "2,10"
+                        }
+                    ],
+                    "liName": "柴林村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "本厝村",
+                            "tboxNo": "0272",
+                            "tboxName": "本溯光點旅服館(原本廳活動中心)",
+                            "geocode": null,
+                            "addr": "嘉義縣溪口鄉本厝村本廳60號之1",
+                            "neighbor": "9"
+                        }
+                    ],
+                    "liName": "本厝村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東林里",
+                            "tboxNo": "0276",
+                            "tboxName": "大林鎮聯合里辦公處",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮平林里東榮街44號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "東林里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西林里",
+                            "tboxNo": "0277",
+                            "tboxName": "大林國小（一）",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮西林里中正路423號",
+                            "neighbor": "1-14,20"
+                        },
+                        {
+                            "ScopeLiName": "西林里",
+                            "tboxNo": "0278",
+                            "tboxName": "大林國小（二）",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮西林里中正路423號",
+                            "neighbor": "15-19"
+                        }
+                    ],
+                    "liName": "西林里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "吉林里",
+                            "tboxNo": "0279",
+                            "tboxName": "安霞宮",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮西林里仁愛路2號",
+                            "neighbor": "1-15"
+                        }
+                    ],
+                    "liName": "吉林里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平林里",
+                            "tboxNo": "0280",
+                            "tboxName": "平林里活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮平林里新興街112號",
+                            "neighbor": "2,14-16,18,19,27-30"
+                        },
+                        {
+                            "ScopeLiName": "平林里",
+                            "tboxNo": "0281",
+                            "tboxName": "大林鎮聯合社區活動中心(原大林鎮農業機械站)",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮平林里東榮街50號",
+                            "neighbor": "1,3-5,11-13,20-22,24-26"
+                        },
+                        {
+                            "ScopeLiName": "平林里",
+                            "tboxNo": "0282",
+                            "tboxName": "大林鎮老人體育活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮平林里新興街116號",
+                            "neighbor": "6-10,17,31-32"
+                        },
+                        {
+                            "ScopeLiName": "平林里",
+                            "tboxNo": "0283",
+                            "tboxName": "平林國小",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮平林里民權路80號",
+                            "neighbor": "23,33-34"
+                        }
+                    ],
+                    "liName": "平林里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明華里",
+                            "tboxNo": "0284",
+                            "tboxName": "明華社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮明華里下埤頭25號",
+                            "neighbor": "1-19"
+                        }
+                    ],
+                    "liName": "明華里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明和里",
+                            "tboxNo": "0285",
+                            "tboxName": "明和里民眾活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮明和里甘蔗崙72號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "明和里",
+                            "tboxNo": "0286",
+                            "tboxName": "天德寶宮（即妙修堂）",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮西林里中山路269號",
+                            "neighbor": "10-12"
+                        }
+                    ],
+                    "liName": "明和里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "排路里",
+                            "tboxNo": "0287",
+                            "tboxName": "排路社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮排路里排子路167號",
+                            "neighbor": "1-12"
+                        }
+                    ],
+                    "liName": "排路里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西結里",
+                            "tboxNo": "0288",
+                            "tboxName": "西結社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮西結里陳井寮81號",
+                            "neighbor": "1-15"
+                        }
+                    ],
+                    "liName": "西結里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖北里",
+                            "tboxNo": "0289",
+                            "tboxName": "湖北社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮湖北里大湖23號之6",
+                            "neighbor": "1-11"
+                        }
+                    ],
+                    "liName": "湖北里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大糖里",
+                            "tboxNo": "0290",
+                            "tboxName": "大林國中",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮大糖里中學路1號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "大糖里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大美里",
+                            "tboxNo": "0291",
+                            "tboxName": "大美社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮大美里大埔美33號",
+                            "neighbor": "1-20"
+                        }
+                    ],
+                    "liName": "大美里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "過溪里",
+                            "tboxNo": "0292",
+                            "tboxName": "過溪社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮過溪里過溪237號",
+                            "neighbor": "1-15"
+                        }
+                    ],
+                    "liName": "過溪里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中坑里",
+                            "tboxNo": "0293",
+                            "tboxName": "萬寧宮",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮中坑里沙崙176號",
+                            "neighbor": "1-12,18,21-22"
+                        },
+                        {
+                            "ScopeLiName": "中坑里",
+                            "tboxNo": "0294",
+                            "tboxName": "前龍岩國小教室",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮中坑里芎蕉山41號",
+                            "neighbor": "13-17,19,20"
+                        }
+                    ],
+                    "liName": "中坑里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上林里",
+                            "tboxNo": "0295",
+                            "tboxName": "上林社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮上林里頂員林44號",
+                            "neighbor": "1-13"
+                        }
+                    ],
+                    "liName": "上林里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中林里",
+                            "tboxNo": "0296",
+                            "tboxName": "中林社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮中林里中林1號",
+                            "neighbor": "1-23"
+                        }
+                    ],
+                    "liName": "中林里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三和里",
+                            "tboxNo": "0297",
+                            "tboxName": "三和社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮三和里水碓44號",
+                            "neighbor": "7-12"
+                        },
+                        {
+                            "ScopeLiName": "三和里",
+                            "tboxNo": "0298",
+                            "tboxName": "三和國小",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮三和里中興路二段937號",
+                            "neighbor": "1-6,13"
+                        }
+                    ],
+                    "liName": "三和里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溝背里",
+                            "tboxNo": "0299",
+                            "tboxName": "溝背社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮溝背里溝背280號",
+                            "neighbor": "1-13"
+                        }
+                    ],
+                    "liName": "溝背里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義和里",
+                            "tboxNo": "0300",
+                            "tboxName": "義和社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮義和里三塊厝35號",
+                            "neighbor": "1-7"
+                        }
+                    ],
+                    "liName": "義和里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內林里",
+                            "tboxNo": "0301",
+                            "tboxName": "內林社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮內林里內林61號",
+                            "neighbor": "1-10"
+                        }
+                    ],
+                    "liName": "內林里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三角里",
+                            "tboxNo": "0302",
+                            "tboxName": "社團國小",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮三角里下林頭51號",
+                            "neighbor": "1-17"
+                        }
+                    ],
+                    "liName": "三角里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三村里",
+                            "tboxNo": "0303",
+                            "tboxName": "三村社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大林鎮三村里湖子16號之1",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "三村里"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅東村",
+                            "tboxNo": "0304",
+                            "tboxName": "梅山鄉立幼兒園",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉梅東村社教路62巷30號",
+                            "neighbor": "1-16"
+                        },
+                        {
+                            "ScopeLiName": "梅東村",
+                            "tboxNo": "0305",
+                            "tboxName": "梅山國小育樂堂",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉梅東村中山路28號之1",
+                            "neighbor": "17-28"
+                        }
+                    ],
+                    "liName": "梅東村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅北村",
+                            "tboxNo": "0307",
+                            "tboxName": "嘉義縣立梅山國中",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉梅北村健康街136號",
+                            "neighbor": "1-5,7,16-17"
+                        },
+                        {
+                            "ScopeLiName": "梅北村",
+                            "tboxNo": "0308",
+                            "tboxName": "梅北國小一",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉梅北村民生街1號 地下一樓 ",
+                            "neighbor": "6,8-11,18-19"
+                        },
+                        {
+                            "ScopeLiName": "梅北村",
+                            "tboxNo": "0309",
+                            "tboxName": "梅北國小二",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉梅北村民生街1號",
+                            "neighbor": "13,20-23,26"
+                        }
+                    ],
+                    "liName": "梅北村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "圳南村",
+                            "tboxNo": "0312",
+                            "tboxName": "圳南社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉圳南村三源60號旁",
+                            "neighbor": "圳南村"
+                        }
+                    ],
+                    "liName": "圳南村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "圳北村",
+                            "tboxNo": "0313",
+                            "tboxName": "圳北社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉圳北村麻園寮19號旁",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "圳北村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永興村",
+                            "tboxNo": "0318",
+                            "tboxName": "永興社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉永興村九芎坑22之1號",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "永興村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞峯村",
+                            "tboxNo": "0324",
+                            "tboxName": "瑞峰國小",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉瑞峯村生毛樹１９號之１",
+                            "neighbor": "1-9"
+                        }
+                    ],
+                    "liName": "瑞峯村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞里村",
+                            "tboxNo": "0325",
+                            "tboxName": "瑞里社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉瑞里村幼葉林62號附1對面",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "瑞里村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太和村",
+                            "tboxNo": "0327",
+                            "tboxName": "仁和國小",
+                            "geocode": null,
+                            "addr": "嘉義縣梅山鄉太和村社前湖6號",
+                            "neighbor": "4,5,6,9,11,12"
+                        }
+                    ],
+                    "liName": "太和村"
+                }
+            ],
+            "deptCode": "150"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "宮前村",
+                            "tboxNo": "0329",
+                            "tboxName": "新港鄉老人文康活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉宮前村公園路28號之1",
+                            "neighbor": "24"
+                        }
+                    ],
+                    "liName": "宮前村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "宮後村",
+                            "tboxNo": "0330",
+                            "tboxName": "文昌國小二年丙班(永慶樓)",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉宮前村古民街12號",
+                            "neighbor": "10,11,13"
+                        }
+                    ],
+                    "liName": "宮後村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大興村",
+                            "tboxNo": "0332",
+                            "tboxName": "新港國中學生活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉福德村福德路106號",
+                            "neighbor": "11,13"
+                        },
+                        {
+                            "ScopeLiName": "大興村",
+                            "tboxNo": "0333",
+                            "tboxName": "新港國中校史室(迎曦樓)",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉福德村福德路106號",
+                            "neighbor": "24"
+                        }
+                    ],
+                    "liName": "大興村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福德村",
+                            "tboxNo": "0335",
+                            "tboxName": "新港國小多媒體教室",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉福德村登雲路105號",
+                            "neighbor": "20"
+                        }
+                    ],
+                    "liName": "福德村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北崙村",
+                            "tboxNo": "0345",
+                            "tboxName": "復興國小六年甲班",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉北崙村崙子75號之4",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "北崙村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "潭大村",
+                            "tboxNo": "0358",
+                            "tboxName": "潭大社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉潭大村潭子墘8號之1",
+                            "neighbor": "4"
+                        }
+                    ],
+                    "liName": "潭大村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "共和村",
+                            "tboxNo": "0361",
+                            "tboxName": "共和村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣新港鄉共和村董厝9號附2",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "共和村"
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東榮村",
+                            "tboxNo": "0362",
+                            "tboxName": "嘉義縣長壽會館",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉東榮村中庄130號",
+                            "neighbor": "1-8,17-20"
+                        },
+                        {
+                            "ScopeLiName": "東榮村",
+                            "tboxNo": "0363",
+                            "tboxName": "民雄國小中正堂",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉中樂村民族路４３號",
+                            "neighbor": "9-16,21-26"
+                        }
+                    ],
+                    "liName": "東榮村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中樂村",
+                            "tboxNo": "0364",
+                            "tboxName": "民雄鄉立圖書館",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉中樂村民族路４３號之１",
+                            "neighbor": "中樂村"
+                        }
+                    ],
+                    "liName": "中樂村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西安村",
+                            "tboxNo": "0365",
+                            "tboxName": "嘉義縣民雄鄉樂齡運動館1樓（運動公園內）",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉西安村西安路112之3號",
+                            "neighbor": "1-15"
+                        },
+                        {
+                            "ScopeLiName": "西安村",
+                            "tboxNo": "0366",
+                            "tboxName": "民雄國中活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉西安村西安路147號",
+                            "neighbor": "16-26"
+                        }
+                    ],
+                    "liName": "西安村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寮頂村",
+                            "tboxNo": "0367",
+                            "tboxName": "寮頂村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉寮頂村頂寮５９號之３",
+                            "neighbor": "1-8,11,16-17"
+                        },
+                        {
+                            "ScopeLiName": "寮頂村",
+                            "tboxNo": "0368",
+                            "tboxName": "中央廣播電台警衛室",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉寮頂村民權路74號",
+                            "neighbor": "9-10,18-24"
+                        }
+                    ],
+                    "liName": "寮頂村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福權村",
+                            "tboxNo": "0369",
+                            "tboxName": "福權社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉福權村福權２６號",
+                            "neighbor": "福權村"
+                        }
+                    ],
+                    "liName": "福權村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東湖村",
+                            "tboxNo": "0370",
+                            "tboxName": "東湖村三界公廟",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉東湖村東勢湖159號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "東湖村",
+                            "tboxNo": "0371",
+                            "tboxName": "東湖社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉東湖村東勢湖１７４號",
+                            "neighbor": "10-20"
+                        }
+                    ],
+                    "liName": "東湖村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂崙村",
+                            "tboxNo": "0372",
+                            "tboxName": "頂崙社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉頂崙村崙子頂２５號之１",
+                            "neighbor": "頂崙村"
+                        }
+                    ],
+                    "liName": "頂崙村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "菁埔村",
+                            "tboxNo": "0373",
+                            "tboxName": "菁埔社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉菁埔村菁埔１３７號之１",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "菁埔村",
+                            "tboxNo": "0374",
+                            "tboxName": "菁埔社區長照中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉菁埔村菁埔137號之1",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "菁埔村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中和村",
+                            "tboxNo": "0375",
+                            "tboxName": "中和社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉中和村社溝３８號之１",
+                            "neighbor": "中和村"
+                        }
+                    ],
+                    "liName": "中和村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平和村",
+                            "tboxNo": "0376",
+                            "tboxName": "平和社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉平和村雙援１５號之２",
+                            "neighbor": "平和村"
+                        }
+                    ],
+                    "liName": "平和村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西昌村",
+                            "tboxNo": "0377",
+                            "tboxName": "西昌社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉西昌村竹子脚１號之２",
+                            "neighbor": "西昌村"
+                        }
+                    ],
+                    "liName": "西昌村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豊收村",
+                            "tboxNo": "0378",
+                            "tboxName": "豐收社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉豊收村好收１４８號之１",
+                            "neighbor": "9-16"
+                        },
+                        {
+                            "ScopeLiName": "豊收村",
+                            "tboxNo": "0379",
+                            "tboxName": "林姓宗祠活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉豊收村好收60之2號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "豊收村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三興村",
+                            "tboxNo": "0381",
+                            "tboxName": "三興社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉三興村陳厝寮37號",
+                            "neighbor": "三興村"
+                        }
+                    ],
+                    "liName": "三興村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮北村",
+                            "tboxNo": "0383",
+                            "tboxName": "鎮北社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉鎮北村土庫子２４號之２",
+                            "neighbor": "鎮北村"
+                        }
+                    ],
+                    "liName": "鎮北村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北斗村",
+                            "tboxNo": "0384",
+                            "tboxName": "北斗社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉北斗村北勢子１９號之４",
+                            "neighbor": "1-6,11-12,21-22"
+                        },
+                        {
+                            "ScopeLiName": "北斗村",
+                            "tboxNo": "0385",
+                            "tboxName": "秀林國小風雨教室（禮堂）",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉北斗村北勢子17號",
+                            "neighbor": "23-25,27-30"
+                        },
+                        {
+                            "ScopeLiName": "北斗村",
+                            "tboxNo": "0386",
+                            "tboxName": "覆鼎金老人文康中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉北斗村覆鼎金３４號之２",
+                            "neighbor": "7-10,20,26"
+                        },
+                        {
+                            "ScopeLiName": "北斗村",
+                            "tboxNo": "0387",
+                            "tboxName": "吳家鳳梨集貨總行",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉北斗村新庄子1之22號",
+                            "neighbor": "13-19,31-36"
+                        }
+                    ],
+                    "liName": "北斗村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "双福村",
+                            "tboxNo": "0388",
+                            "tboxName": "雙福社區發展協會",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉双福村雙福42號之12",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "双福村",
+                            "tboxNo": "0389",
+                            "tboxName": "雙福社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉双福村雙福６０號",
+                            "neighbor": "12-25"
+                        }
+                    ],
+                    "liName": "双福村"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福樂村",
+                            "tboxNo": "0390",
+                            "tboxName": "福樂國小一年丁班",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉福樂村光明二街１９１號",
+                            "neighbor": "1-3,33,36,37"
+                        },
+                        {
+                            "ScopeLiName": "福樂村",
+                            "tboxNo": "0391",
+                            "tboxName": "福樂國小一年甲班",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉福樂村光明二街191號",
+                            "neighbor": "4,30,31,38,39"
+                        },
+                        {
+                            "ScopeLiName": "福樂村",
+                            "tboxNo": "0392",
+                            "tboxName": "福樂國小科任教室",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉福樂村光明二街191號",
+                            "neighbor": "10,11,29,32,34,35"
+                        },
+                        {
+                            "ScopeLiName": "福樂村",
+                            "tboxNo": "0393",
+                            "tboxName": "福樂社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉福樂村新生一街１號",
+                            "neighbor": "5-9"
+                        }
+                    ],
+                    "liName": "福樂村"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大崎村",
+                            "tboxNo": "0395",
+                            "tboxName": "大崎社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉大崎村大崎脚17之5號",
+                            "neighbor": "1-6,8-9,11,16"
+                        },
+                        {
+                            "ScopeLiName": "大崎村",
+                            "tboxNo": "0396",
+                            "tboxName": "十四甲鎮安宮",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉大崎村十四甲２２號",
+                            "neighbor": "7-10,12-15,17"
+                        }
+                    ],
+                    "liName": "大崎村"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "秀林村",
+                            "tboxNo": "0397",
+                            "tboxName": "秀林社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉秀林村林子尾３８號之１",
+                            "neighbor": "1-6,9,10,15-21"
+                        },
+                        {
+                            "ScopeLiName": "秀林村",
+                            "tboxNo": "0398",
+                            "tboxName": "秀林村溪龍宮",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉秀林村溪底寮５號",
+                            "neighbor": "7,8,11-14,22"
+                        }
+                    ],
+                    "liName": "秀林村"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松山村",
+                            "tboxNo": "0399",
+                            "tboxName": "松山社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉松山村松子脚４３號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "松山村",
+                            "tboxNo": "0400",
+                            "tboxName": "松山村上升宮",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉松山村松子脚43號",
+                            "neighbor": "13-15"
+                        }
+                    ],
+                    "liName": "松山村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興中村",
+                            "tboxNo": "0401",
+                            "tboxName": "興中社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉興中村江厝店２９號之4",
+                            "neighbor": "1-4,12-14"
+                        },
+                        {
+                            "ScopeLiName": "興中村",
+                            "tboxNo": "0402",
+                            "tboxName": "興中國小一年一班",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉興中村江厝店30號",
+                            "neighbor": "5-11"
+                        }
+                    ],
+                    "liName": "興中村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興南村",
+                            "tboxNo": "0403",
+                            "tboxName": "興南村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉興南村頭橋９７號",
+                            "neighbor": "1-2,4-12,22"
+                        },
+                        {
+                            "ScopeLiName": "興南村",
+                            "tboxNo": "0404",
+                            "tboxName": "興南村耀明宮",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉興南村頭橋９９號",
+                            "neighbor": "3,13-21,23-24"
+                        }
+                    ],
+                    "liName": "興南村"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金興村",
+                            "tboxNo": "0405",
+                            "tboxName": "金興社區活動中心（一）",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉金興村頭橋1200號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "金興村",
+                            "tboxNo": "0406",
+                            "tboxName": "金興社區活動中心（二）",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉金興村頭橋1200號",
+                            "neighbor": "12-22"
+                        }
+                    ],
+                    "liName": "金興村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0407",
+                            "tboxName": "福興村廣興宮",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉福興村牛稠溪６０號",
+                            "neighbor": "全村,1-8"
+                        },
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0408",
+                            "tboxName": "福興村社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉福興村牛稠溪68號之3",
+                            "neighbor": "9-12"
+                        }
+                    ],
+                    "liName": "福興村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文隆村",
+                            "tboxNo": "0409",
+                            "tboxName": "文隆社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉文隆村鴨母坔４７號之７",
+                            "neighbor": "2-11,14,18"
+                        },
+                        {
+                            "ScopeLiName": "文隆村",
+                            "tboxNo": "0410",
+                            "tboxName": "協同中學餐廳(側門)",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉文隆村建國路二段３１號",
+                            "neighbor": "1,12,13,15-17"
+                        }
+                    ],
+                    "liName": "文隆村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山中村",
+                            "tboxNo": "0411",
+                            "tboxName": "山中社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉山中村牛斗山７８號之１",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "山中村",
+                            "tboxNo": "0412",
+                            "tboxName": "山中村文康中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉山中村牛斗山95之7號",
+                            "neighbor": "9-19"
+                        },
+                        {
+                            "ScopeLiName": "山中村",
+                            "tboxNo": "0413",
+                            "tboxName": "民雄鄉農會稻穀乾燥中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉山中村牛斗山209之60號",
+                            "neighbor": "20-30"
+                        }
+                    ],
+                    "liName": "山中村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中央村",
+                            "tboxNo": "0414",
+                            "tboxName": "中央社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣民雄鄉中央村田中央７７號",
+                            "neighbor": "中央村"
+                        }
+                    ],
+                    "liName": "中央村"
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹崎村",
+                            "tboxNo": "0415",
+                            "tboxName": "竹崎村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉竹崎村中山路76號",
+                            "neighbor": "1-17"
+                        },
+                        {
+                            "ScopeLiName": "竹崎村",
+                            "tboxNo": "0416",
+                            "tboxName": "竹崎老人文康中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉竹崎村中正路96號",
+                            "neighbor": "18-31"
+                        }
+                    ],
+                    "liName": "竹崎村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和平村",
+                            "tboxNo": "0418",
+                            "tboxName": "和平村民眾活動中心(二)",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉和平村坑仔坪137號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "和平村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "沙坑村",
+                            "tboxNo": "0420",
+                            "tboxName": "沙坑社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉沙坑村水坑56之8號",
+                            "neighbor": "沙坑村"
+                        }
+                    ],
+                    "liName": "沙坑村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "獅埜村",
+                            "tboxNo": "0421",
+                            "tboxName": "獅埜社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉獅埜村許厝8之2號",
+                            "neighbor": "獅埜村"
+                        }
+                    ],
+                    "liName": "獅埜村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義和村",
+                            "tboxNo": "0422",
+                            "tboxName": "義和村民眾活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉義和村山子門23號",
+                            "neighbor": "義和村"
+                        }
+                    ],
+                    "liName": "義和村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "灣橋村",
+                            "tboxNo": "0424",
+                            "tboxName": "灣橋村朴子埔收容所暨防災物資整備所",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉灣橋村朴子埔32之2號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "灣橋村",
+                            "tboxNo": "0425",
+                            "tboxName": "灣橋社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉灣橋村灣橋172號",
+                            "neighbor": "12-16,23"
+                        },
+                        {
+                            "ScopeLiName": "灣橋村",
+                            "tboxNo": "0426",
+                            "tboxName": "灣橋村北極殿管理委員會辦公室",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉灣橋村灣橋266號",
+                            "neighbor": "17-22"
+                        },
+                        {
+                            "ScopeLiName": "灣橋村",
+                            "tboxNo": "0427",
+                            "tboxName": "灣橋村圓崇國小教室",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉灣橋村灣橋387巷28號",
+                            "neighbor": "24-26"
+                        },
+                        {
+                            "ScopeLiName": "灣橋村",
+                            "tboxNo": "0428",
+                            "tboxName": "灣橋村圓崇國小會議室",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉灣橋村灣橋387巷28號",
+                            "neighbor": "27-31"
+                        }
+                    ],
+                    "liName": "灣橋村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿滿村",
+                            "tboxNo": "0429",
+                            "tboxName": "鹿滿社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉鹿滿村麻箕埔95之1號",
+                            "neighbor": "鹿滿村"
+                        }
+                    ],
+                    "liName": "鹿滿村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "紫雲村",
+                            "tboxNo": "0430",
+                            "tboxName": "紫雲社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉紫雲村大竹圍3之2號",
+                            "neighbor": "紫雲村"
+                        }
+                    ],
+                    "liName": "紫雲村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內埔村",
+                            "tboxNo": "0431",
+                            "tboxName": "內埔社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉內埔村崁脚１之1號",
+                            "neighbor": "內埔村"
+                        }
+                    ],
+                    "liName": "內埔村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "桃源村",
+                            "tboxNo": "0434",
+                            "tboxName": "桃源村（桃仔斜）民眾活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉桃源村勝源30之1號",
+                            "neighbor": "14-20"
+                        }
+                    ],
+                    "liName": "桃源村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "白杞村",
+                            "tboxNo": "0436",
+                            "tboxName": "白杞社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉白杞村白杞42之1號",
+                            "neighbor": "白杞村"
+                        }
+                    ],
+                    "liName": "白杞村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "塘興村",
+                            "tboxNo": "0438",
+                            "tboxName": "塘興村頂坪慈雲寺",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉塘興村頂坪34號之2",
+                            "neighbor": "7-16"
+                        }
+                    ],
+                    "liName": "塘興村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍山村",
+                            "tboxNo": "0441",
+                            "tboxName": "龍山社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉龍山村大庭23之3號",
+                            "neighbor": "8-22"
+                        }
+                    ],
+                    "liName": "龍山村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復金村",
+                            "tboxNo": "0444",
+                            "tboxName": "復金社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉復金村復鐤金59之1號",
+                            "neighbor": "1-13"
+                        }
+                    ],
+                    "liName": "復金村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中和村",
+                            "tboxNo": "0449",
+                            "tboxName": "奮起湖社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣竹崎鄉中和村奮起湖165號",
+                            "neighbor": "1-17"
+                        }
+                    ],
+                    "liName": "中和村"
+                }
+            ],
+            "deptCode": "140"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富收村",
+                            "tboxNo": "0455",
+                            "tboxName": "興化廍社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉富收村興化廍23之60號",
+                            "neighbor": "20,23"
+                        }
+                    ],
+                    "liName": "富收村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和睦村",
+                            "tboxNo": "0458",
+                            "tboxName": "三和公園管理中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉和睦村中華路630巷43之3號",
+                            "neighbor": "18,20,23"
+                        }
+                    ],
+                    "liName": "和睦村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和美村",
+                            "tboxNo": "0459",
+                            "tboxName": "和美村民眾活動中心1樓",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉和美村忠明路40巷8號",
+                            "neighbor": "5"
+                        },
+                        {
+                            "ScopeLiName": "和美村",
+                            "tboxNo": "0460",
+                            "tboxName": "和美村民眾活動中心2樓",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉和美村忠明路40巷8號",
+                            "neighbor": "7,8"
+                        },
+                        {
+                            "ScopeLiName": "和美村",
+                            "tboxNo": "0462",
+                            "tboxName": "和睦國小綜合教室",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉和美村後庄１６號",
+                            "neighbor": "19,20"
+                        },
+                        {
+                            "ScopeLiName": "和美村",
+                            "tboxNo": "0464",
+                            "tboxName": "中埔鄉農會和美辦事處",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉和美村大義路658號",
+                            "neighbor": "26,28"
+                        }
+                    ],
+                    "liName": "和美村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和興村",
+                            "tboxNo": "0466",
+                            "tboxName": "和興國小教室(多功能教室)",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉和興村和興路91號",
+                            "neighbor": "15,17"
+                        },
+                        {
+                            "ScopeLiName": "和興村",
+                            "tboxNo": "0468",
+                            "tboxName": "和興國小教室(大桌球樂活站)",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉和興村和興路91號",
+                            "neighbor": "32"
+                        }
+                    ],
+                    "liName": "和興村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中埔村",
+                            "tboxNo": "0470",
+                            "tboxName": "中埔國小教室特教巡迴教室",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉中埔村中正路1號",
+                            "neighbor": "3,5"
+                        }
+                    ],
+                    "liName": "中埔村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "塩舘村",
+                            "tboxNo": "0472",
+                            "tboxName": "塩舘社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉塩舘村塩舘41之1號",
+                            "neighbor": "4,11,12"
+                        }
+                    ],
+                    "liName": "塩舘村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金蘭村",
+                            "tboxNo": "0473",
+                            "tboxName": "頂六國小教室",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉金蘭村頂山門２５號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "金蘭村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "隆興村",
+                            "tboxNo": "0476",
+                            "tboxName": "隆興社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉隆興村中正路５１５號",
+                            "neighbor": "9"
+                        }
+                    ],
+                    "liName": "隆興村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義仁村",
+                            "tboxNo": "0477",
+                            "tboxName": "義仁社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉義仁村挖仔厝17號前面",
+                            "neighbor": "5,6"
+                        }
+                    ],
+                    "liName": "義仁村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "社口村",
+                            "tboxNo": "0479",
+                            "tboxName": "德雲寺",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉社口村內埔43號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "社口村",
+                            "tboxNo": "0480",
+                            "tboxName": "社口社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉社口村番仔坑７號之１",
+                            "neighbor": "9,16"
+                        }
+                    ],
+                    "liName": "社口村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "灣潭村",
+                            "tboxNo": "0482",
+                            "tboxName": "灣潭村民眾活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉灣潭村客庄１７號之２",
+                            "neighbor": "17,19"
+                        }
+                    ],
+                    "liName": "灣潭村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "裕民村",
+                            "tboxNo": "0483",
+                            "tboxName": "裕民社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉裕民村石頭厝８號之１",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "裕民村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍門村",
+                            "tboxNo": "0484",
+                            "tboxName": "龍門社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉龍門村龍山脚33號",
+                            "neighbor": "2,5,8"
+                        }
+                    ],
+                    "liName": "龍門村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂埔村",
+                            "tboxNo": "0487",
+                            "tboxName": "頂埔社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉頂埔村頂埔10之6號",
+                            "neighbor": "9"
+                        }
+                    ],
+                    "liName": "頂埔村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "同仁村",
+                            "tboxNo": "0489",
+                            "tboxName": "柚仔宅慈安宮",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉同仁村柚仔宅19之2號",
+                            "neighbor": "18,21"
+                        }
+                    ],
+                    "liName": "同仁村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞豐村",
+                            "tboxNo": "0492",
+                            "tboxName": "瑞豐社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉瑞豐村崁脚45號",
+                            "neighbor": "10,12"
+                        }
+                    ],
+                    "liName": "瑞豐村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "沄水村",
+                            "tboxNo": "0493",
+                            "tboxName": "沄水國小教室",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉沄水村16號",
+                            "neighbor": "3,4"
+                        }
+                    ],
+                    "liName": "沄水村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中崙村",
+                            "tboxNo": "0496",
+                            "tboxName": "中崙村民眾活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣中埔鄉中崙村中崙２７號",
+                            "neighbor": "1"
+                        }
+                    ],
+                    "liName": "中崙村"
+                }
+            ],
+            "deptCode": "130"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "江西村",
+                            "tboxNo": "0497",
+                            "tboxName": "江西社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉江西村４鄰柿仔脚３號",
+                            "neighbor": "4,6"
+                        }
+                    ],
+                    "liName": "江西村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新福村",
+                            "tboxNo": "0499",
+                            "tboxName": "新福社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉新福村６鄰大庄１４號",
+                            "neighbor": "6"
+                        },
+                        {
+                            "ScopeLiName": "新福村",
+                            "tboxNo": "0500",
+                            "tboxName": "日安社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉新福村公舘仔110號",
+                            "neighbor": "11"
+                        }
+                    ],
+                    "liName": "新福村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下坑村",
+                            "tboxNo": "0501",
+                            "tboxName": "民和國小禮堂",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉下坑村菜公店91號",
+                            "neighbor": "3,4,11"
+                        },
+                        {
+                            "ScopeLiName": "下坑村",
+                            "tboxNo": "0502",
+                            "tboxName": "下坑社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉下坑村下坑30-10號",
+                            "neighbor": "8,10"
+                        }
+                    ],
+                    "liName": "下坑村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "觸口村",
+                            "tboxNo": "0505",
+                            "tboxName": "觸口社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉觸口村觸口137之2號",
+                            "neighbor": "18,19"
+                        }
+                    ],
+                    "liName": "觸口村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大湖村",
+                            "tboxNo": "0507",
+                            "tboxName": "大湖社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉大湖村１０鄰火燒寮１之１號",
+                            "neighbor": "2"
+                        }
+                    ],
+                    "liName": "大湖村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公田村",
+                            "tboxNo": "0509",
+                            "tboxName": "公田村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉公田村5鄰隙頂54-9號",
+                            "neighbor": "2,4,5"
+                        }
+                    ],
+                    "liName": "公田村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公興村",
+                            "tboxNo": "0510",
+                            "tboxName": "公興村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣番路鄉公興村４鄰中寮２8－１號",
+                            "neighbor": "3,9"
+                        }
+                    ],
+                    "liName": "公興村"
+                }
+            ],
+            "deptCode": "160"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山村",
+                            "tboxNo": "0513",
+                            "tboxName": "中山村老人亭活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉中山村31號旁",
+                            "neighbor": "1,2,6"
+                        }
+                    ],
+                    "liName": "中山村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中正村",
+                            "tboxNo": "0514",
+                            "tboxName": "阿里山聯合村辦公處",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉中正村52號",
+                            "neighbor": "1-2"
+                        }
+                    ],
+                    "liName": "中正村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "香林村",
+                            "tboxNo": "0515",
+                            "tboxName": "香林國小",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉香林村41號",
+                            "neighbor": "2,5"
+                        }
+                    ],
+                    "liName": "香林村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "十字村",
+                            "tboxNo": "0516",
+                            "tboxName": "十字村活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉十字村52號",
+                            "neighbor": "1,2"
+                        },
+                        {
+                            "ScopeLiName": "十字村",
+                            "tboxNo": "0517",
+                            "tboxName": "得恩亞納活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉十字村213號",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "十字村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐山村",
+                            "tboxNo": "0518",
+                            "tboxName": "豐山村辦公處",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉豐山村56號",
+                            "neighbor": "2,3"
+                        }
+                    ],
+                    "liName": "豐山村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "來吉村",
+                            "tboxNo": "0519",
+                            "tboxName": "來吉國小",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉來吉村91號",
+                            "neighbor": "來吉村"
+                        }
+                    ],
+                    "liName": "來吉村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樂野村",
+                            "tboxNo": "0520",
+                            "tboxName": "樂野社區活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉樂野村56號",
+                            "neighbor": "1-4,6-9"
+                        }
+                    ],
+                    "liName": "樂野村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "達邦村",
+                            "tboxNo": "0521",
+                            "tboxName": "達邦舊圖書館",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉達邦村23之1號",
+                            "neighbor": "達邦村"
+                        }
+                    ],
+                    "liName": "達邦村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "里佳村",
+                            "tboxNo": "0522",
+                            "tboxName": "里佳資訊站",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉里佳村31號",
+                            "neighbor": "里佳村"
+                        }
+                    ],
+                    "liName": "里佳村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山美村",
+                            "tboxNo": "0523",
+                            "tboxName": "山美多功能活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉山美村72之38號",
+                            "neighbor": "山美村"
+                        }
+                    ],
+                    "liName": "山美村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新美村",
+                            "tboxNo": "0524",
+                            "tboxName": "新美國小綜合教室",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉新美村78號",
+                            "neighbor": "新美村"
+                        }
+                    ],
+                    "liName": "新美村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "茶山村",
+                            "tboxNo": "0525",
+                            "tboxName": "茶山國小",
+                            "geocode": null,
+                            "addr": "嘉義縣阿里山鄉茶山村74號",
+                            "neighbor": "1-4"
+                        }
+                    ],
+                    "liName": "茶山村"
+                }
+            ],
+            "deptCode": "180"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大埔村",
+                            "tboxNo": "0526",
+                            "tboxName": "北極殿",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉大埔村大埔137號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "大埔村",
+                            "tboxNo": "0527",
+                            "tboxName": "大埔公有市場",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉大埔村大埔162號之9",
+                            "neighbor": "13-16"
+                        }
+                    ],
+                    "liName": "大埔村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和平村",
+                            "tboxNo": "0528",
+                            "tboxName": "福壽宮",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉和平村石硤內57之1號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "和平村",
+                            "tboxNo": "0529",
+                            "tboxName": "雙溪天主教堂",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉和平村雙溪28號",
+                            "neighbor": "6-9"
+                        }
+                    ],
+                    "liName": "和平村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永樂村",
+                            "tboxNo": "0530",
+                            "tboxName": "永樂村集會所",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉永樂村埔頂13之1號",
+                            "neighbor": "1-5"
+                        }
+                    ],
+                    "liName": "永樂村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "茄苳村",
+                            "tboxNo": "0532",
+                            "tboxName": "茄苳活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉茄苳村竹圍仔38號之1",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "茄苳村",
+                            "tboxNo": "0534",
+                            "tboxName": "大埔國小坪林分校",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉茄苳村坪林24號",
+                            "neighbor": "7-9"
+                        }
+                    ],
+                    "liName": "茄苳村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西興村",
+                            "tboxNo": "0535",
+                            "tboxName": "西興活動中心",
+                            "geocode": null,
+                            "addr": "嘉義縣大埔鄉西興村菜瓜坪4之1號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "西興村"
+                }
+            ],
+            "deptCode": "170"
+        }
+    ]
+}

@@ -1,0 +1,4910 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "036",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民族里",
+                            "tboxNo": "0001",
+                            "tboxName": "光復國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市負郭里泰山路６０號",
+                            "neighbor": "1-5,8,14-15"
+                        },
+                        {
+                            "ScopeLiName": "民族里",
+                            "tboxNo": "0002",
+                            "tboxName": "光復國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市負郭里泰山路６０號",
+                            "neighbor": "6-7,9-13"
+                        }
+                    ],
+                    "liName": "民族里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建軍里",
+                            "tboxNo": "0003",
+                            "tboxName": "宜蘭高中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市建軍里復興路３段８號",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "建軍里",
+                            "tboxNo": "0004",
+                            "tboxName": "宜蘭高中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市建軍里復興路３段８號",
+                            "neighbor": "5-8"
+                        }
+                    ],
+                    "liName": "建軍里"
+                },
+                {
+                    "liCode": "044",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泰山里",
+                            "tboxNo": "0005",
+                            "tboxName": "南屏國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市負郭里泰山路９８號",
+                            "neighbor": "1,3-6"
+                        },
+                        {
+                            "ScopeLiName": "泰山里",
+                            "tboxNo": "0006",
+                            "tboxName": "南屏國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市負郭里泰山路９８號",
+                            "neighbor": "2,7-11"
+                        }
+                    ],
+                    "liName": "泰山里"
+                },
+                {
+                    "liCode": "035",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "負郭里",
+                            "tboxNo": "0007",
+                            "tboxName": "光復國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市負郭里泰山路６０號",
+                            "neighbor": "6-8,14-16"
+                        },
+                        {
+                            "ScopeLiName": "負郭里",
+                            "tboxNo": "0008",
+                            "tboxName": "南屏國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市負郭里泰山路９８號",
+                            "neighbor": "1,4,9,11-12"
+                        },
+                        {
+                            "ScopeLiName": "負郭里",
+                            "tboxNo": "0009",
+                            "tboxName": "光復國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市負郭里泰山路６０號",
+                            "neighbor": "2-3,5,10,13"
+                        }
+                    ],
+                    "liName": "負郭里"
+                },
+                {
+                    "liCode": "038",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "思源里",
+                            "tboxNo": "0010",
+                            "tboxName": "宜蘭大學",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市思源里神農路１段１號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "思源里",
+                            "tboxNo": "0011",
+                            "tboxName": "宜蘭大學",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市思源里神農路１段１號",
+                            "neighbor": "6,9-10,16"
+                        },
+                        {
+                            "ScopeLiName": "思源里",
+                            "tboxNo": "0012",
+                            "tboxName": "宜蘭大學",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市思源里神農路１段１號",
+                            "neighbor": "8,11-13"
+                        },
+                        {
+                            "ScopeLiName": "思源里",
+                            "tboxNo": "0013",
+                            "tboxName": "宜蘭大學",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市思源里神農路１段１號",
+                            "neighbor": "7,14-15"
+                        }
+                    ],
+                    "liName": "思源里"
+                },
+                {
+                    "liCode": "043",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "七結里",
+                            "tboxNo": "0014",
+                            "tboxName": "復興國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市文化里復興路２段７７號",
+                            "neighbor": "1-4,10"
+                        },
+                        {
+                            "ScopeLiName": "七結里",
+                            "tboxNo": "0015",
+                            "tboxName": "金七結福德廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市七結里農權路３段１６３巷８２號",
+                            "neighbor": "5-9"
+                        }
+                    ],
+                    "liName": "七結里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0016",
+                            "tboxName": "復興國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市文化里復興路２段７７號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0017",
+                            "tboxName": "復興國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市文化里復興路２段７７號",
+                            "neighbor": "8-13"
+                        },
+                        {
+                            "ScopeLiName": "文化里",
+                            "tboxNo": "0018",
+                            "tboxName": "金六結福德廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市文化里民權新路２５９巷４２號",
+                            "neighbor": "14-16"
+                        }
+                    ],
+                    "liName": "文化里"
+                },
+                {
+                    "liCode": "040",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0019",
+                            "tboxName": "篤行國宅社區互助管理委員會",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市復興里民權新路４７巷２５號",
+                            "neighbor": "1-2,6-9"
+                        },
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0020",
+                            "tboxName": "蘭陽女中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市擺厘里女中路２段３５５號",
+                            "neighbor": "3-5,10"
+                        },
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0021",
+                            "tboxName": "宜蘭大學",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市思源里神農路１段１號",
+                            "neighbor": "11-16"
+                        }
+                    ],
+                    "liName": "復興里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民權里",
+                            "tboxNo": "0022",
+                            "tboxName": "蘭陽女中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市擺厘里女中路２段３５５號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "民權里",
+                            "tboxNo": "0023",
+                            "tboxName": "蘭陽女中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市擺厘里女中路２段３５５號",
+                            "neighbor": "6-11"
+                        }
+                    ],
+                    "liName": "民權里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "神農里",
+                            "tboxNo": "0024",
+                            "tboxName": "宜蘭國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市神農里崇聖街２號",
+                            "neighbor": "13-17"
+                        },
+                        {
+                            "ScopeLiName": "神農里",
+                            "tboxNo": "0025",
+                            "tboxName": "宜蘭國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市神農里崇聖街２號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "神農里",
+                            "tboxNo": "0026",
+                            "tboxName": "宜蘭國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市神農里崇聖街２號",
+                            "neighbor": "6-12"
+                        }
+                    ],
+                    "liName": "神農里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大新里",
+                            "tboxNo": "0027",
+                            "tboxName": "中山國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市神農里崇聖街４號",
+                            "neighbor": "大新里"
+                        }
+                    ],
+                    "liName": "大新里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新民里",
+                            "tboxNo": "0028",
+                            "tboxName": "新民堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新民里新民路１５３號",
+                            "neighbor": "1-2,12-17"
+                        },
+                        {
+                            "ScopeLiName": "新民里",
+                            "tboxNo": "0029",
+                            "tboxName": "中山國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市神農里崇聖街４號",
+                            "neighbor": "3-11"
+                        }
+                    ],
+                    "liName": "新民里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "進士里",
+                            "tboxNo": "0030",
+                            "tboxName": "進士社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市進士里進士路二段３３９號",
+                            "neighbor": "1-7,10"
+                        },
+                        {
+                            "ScopeLiName": "進士里",
+                            "tboxNo": "0031",
+                            "tboxName": "宜蘭大學",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市思源里神農路１段１號",
+                            "neighbor": "8-9,11-12"
+                        }
+                    ],
+                    "liName": "進士里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南橋里",
+                            "tboxNo": "0032",
+                            "tboxName": "南橋社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市南橋里南橋路２４０號",
+                            "neighbor": "南橋里"
+                        }
+                    ],
+                    "liName": "南橋里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "凱旋里",
+                            "tboxNo": "0033",
+                            "tboxName": "凱旋社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市凱旋里鎮安路２３號",
+                            "neighbor": "凱旋里"
+                        }
+                    ],
+                    "liName": "凱旋里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南津里",
+                            "tboxNo": "0034",
+                            "tboxName": "凱旋國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市南津里凱旋路１３０號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "南津里",
+                            "tboxNo": "0035",
+                            "tboxName": "凱旋國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市南津里凱旋路１３０號",
+                            "neighbor": "9-13"
+                        }
+                    ],
+                    "liName": "南津里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建業里",
+                            "tboxNo": "0036",
+                            "tboxName": "凱旋國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市建業里縣政七街５０巷１號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "建業里",
+                            "tboxNo": "0037",
+                            "tboxName": "凱旋國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市建業里縣政七街５０巷１號",
+                            "neighbor": "6-11"
+                        }
+                    ],
+                    "liName": "建業里"
+                },
+                {
+                    "liCode": "047",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "擺厘里",
+                            "tboxNo": "0038",
+                            "tboxName": "蘭陽女中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市擺厘里女中路２段３５５號",
+                            "neighbor": "1-3,12"
+                        },
+                        {
+                            "ScopeLiName": "擺厘里",
+                            "tboxNo": "0039",
+                            "tboxName": "蘭陽女中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市擺厘里女中路２段３５５號",
+                            "neighbor": "4-6,11"
+                        },
+                        {
+                            "ScopeLiName": "擺厘里",
+                            "tboxNo": "0040",
+                            "tboxName": "蘭陽女中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市擺厘里女中路２段３５５號",
+                            "neighbor": "7-10"
+                        }
+                    ],
+                    "liName": "擺厘里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0041",
+                            "tboxName": "五大社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市延平里東港路１段１８６巷５０弄２１號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0042",
+                            "tboxName": "黎明國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新東里校舍路１號",
+                            "neighbor": "7,10,14-15"
+                        },
+                        {
+                            "ScopeLiName": "延平里",
+                            "tboxNo": "0043",
+                            "tboxName": "宜蘭高商",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市成功里延平路５０號",
+                            "neighbor": "8-9,11-13,16-17"
+                        }
+                    ],
+                    "liName": "延平里"
+                },
+                {
+                    "liCode": "041",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0044",
+                            "tboxName": "宜蘭高商",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市成功里延平路５０號",
+                            "neighbor": "1,3-6"
+                        },
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0045",
+                            "tboxName": "宜蘭高商",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市成功里延平路５０號",
+                            "neighbor": "2,7-9,11"
+                        },
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0046",
+                            "tboxName": "延平社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市成功里環市東路２段８９０號 黎霧橋下 ",
+                            "neighbor": "10,12-16"
+                        }
+                    ],
+                    "liName": "成功里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東村里",
+                            "tboxNo": "0047",
+                            "tboxName": "黎明國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新東里校舍路１號",
+                            "neighbor": "1-3,6"
+                        },
+                        {
+                            "ScopeLiName": "東村里",
+                            "tboxNo": "0048",
+                            "tboxName": "黎明國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新東里校舍路１號",
+                            "neighbor": "4-5,7-10"
+                        }
+                    ],
+                    "liName": "東村里"
+                },
+                {
+                    "liCode": "042",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新東里",
+                            "tboxNo": "0049",
+                            "tboxName": "黎明國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新東里校舍路１號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "新東里",
+                            "tboxNo": "0050",
+                            "tboxName": "黎明國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新東里校舍路１號",
+                            "neighbor": "6-8"
+                        },
+                        {
+                            "ScopeLiName": "新東里",
+                            "tboxNo": "0051",
+                            "tboxName": "黎明國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新東里校舍路１號",
+                            "neighbor": "9-14"
+                        }
+                    ],
+                    "liName": "新東里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "黎明里",
+                            "tboxNo": "0052",
+                            "tboxName": "宜蘭市幼兒園",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市黎明里黎明二路２３９號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "黎明里",
+                            "tboxNo": "0053",
+                            "tboxName": "宜蘭市幼兒園",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市黎明里黎明二路２３９號",
+                            "neighbor": "8-11"
+                        }
+                    ],
+                    "liName": "黎明里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "七張里",
+                            "tboxNo": "0054",
+                            "tboxName": "七張社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市七張里七張路５３７號",
+                            "neighbor": "6-10"
+                        },
+                        {
+                            "ScopeLiName": "七張里",
+                            "tboxNo": "0055",
+                            "tboxName": "七張社區守望相助隊辦公室",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市七張里七張路３９０號",
+                            "neighbor": "1-5"
+                        }
+                    ],
+                    "liName": "七張里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "孝廉里",
+                            "tboxNo": "0056",
+                            "tboxName": "力行國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市孝廉里力行路１５２號",
+                            "neighbor": "孝廉里"
+                        }
+                    ],
+                    "liName": "孝廉里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東門里",
+                            "tboxNo": "0057",
+                            "tboxName": "法蒂瑪聖母堂峻德廳",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市東門里聖後街１６４號",
+                            "neighbor": "東門里"
+                        }
+                    ],
+                    "liName": "東門里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "小東里",
+                            "tboxNo": "0058",
+                            "tboxName": "宜蘭國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市小東里樹人路３７號",
+                            "neighbor": "1-5,9"
+                        },
+                        {
+                            "ScopeLiName": "小東里",
+                            "tboxNo": "0059",
+                            "tboxName": "宜蘭國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市小東里樹人路３７號",
+                            "neighbor": "6-8,10"
+                        }
+                    ],
+                    "liName": "小東里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "菜園里",
+                            "tboxNo": "0060",
+                            "tboxName": "宜蘭國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市小東里樹人路３７號",
+                            "neighbor": "菜園里"
+                        }
+                    ],
+                    "liName": "菜園里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "慈安里",
+                            "tboxNo": "0061",
+                            "tboxName": "慈安寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市慈安里慈安路７７號",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "慈安里",
+                            "tboxNo": "0062",
+                            "tboxName": "慈安寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市慈安里慈安路７７號",
+                            "neighbor": "5-10"
+                        }
+                    ],
+                    "liName": "慈安里"
+                },
+                {
+                    "liCode": "046",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中興里",
+                            "tboxNo": "0063",
+                            "tboxName": "慈安寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市慈安里慈安路７７號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "中興里",
+                            "tboxNo": "0064",
+                            "tboxName": "宜蘭高商",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市成功里延平路５０號",
+                            "neighbor": "4-6"
+                        },
+                        {
+                            "ScopeLiName": "中興里",
+                            "tboxNo": "0065",
+                            "tboxName": "宜蘭高商",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市成功里延平路５０號",
+                            "neighbor": "7-8"
+                        }
+                    ],
+                    "liName": "中興里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新生里",
+                            "tboxNo": "0066",
+                            "tboxName": "新生社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新生里大福路１段２４３號",
+                            "neighbor": "4-7"
+                        },
+                        {
+                            "ScopeLiName": "新生里",
+                            "tboxNo": "0067",
+                            "tboxName": "新生里民集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新生里宜興路３段１０號 宜興橋下 ",
+                            "neighbor": "1-3,8-10"
+                        },
+                        {
+                            "ScopeLiName": "新生里",
+                            "tboxNo": "0068",
+                            "tboxName": "新生里民集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市新生里宜興路３段１０號 宜興橋下 ",
+                            "neighbor": "11-15"
+                        }
+                    ],
+                    "liName": "新生里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "茭白里",
+                            "tboxNo": "0069",
+                            "tboxName": "新生國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市茭白里大坡路１段１００號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "茭白里",
+                            "tboxNo": "0070",
+                            "tboxName": "茭白社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市茭白里一結路９８號",
+                            "neighbor": "7-13"
+                        }
+                    ],
+                    "liName": "茭白里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北津里",
+                            "tboxNo": "0071",
+                            "tboxName": "新生國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市茭白里大坡路１段１００號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "北津里",
+                            "tboxNo": "0072",
+                            "tboxName": "北津社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市北津里金同春路２３１號",
+                            "neighbor": "7-13"
+                        }
+                    ],
+                    "liName": "北津里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "梅洲里",
+                            "tboxNo": "0073",
+                            "tboxName": "梅洲社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市梅洲里金同春路４８號",
+                            "neighbor": "15-18"
+                        },
+                        {
+                            "ScopeLiName": "梅洲里",
+                            "tboxNo": "0074",
+                            "tboxName": "昭安宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市梅洲里大坡路１段３０５巷６２號",
+                            "neighbor": "6-12,14"
+                        },
+                        {
+                            "ScopeLiName": "梅洲里",
+                            "tboxNo": "0075",
+                            "tboxName": "慈航宮管理委員會",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市梅洲里金同春路67號",
+                            "neighbor": "1-5,13"
+                        }
+                    ],
+                    "liName": "梅洲里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南門里",
+                            "tboxNo": "0076",
+                            "tboxName": "蘭陽林姓興德會(林姓家廟)",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市南門里南興街２２號",
+                            "neighbor": "1-3,5-6,8-10"
+                        },
+                        {
+                            "ScopeLiName": "南門里",
+                            "tboxNo": "0077",
+                            "tboxName": "文昌宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市中山里文昌路６６號",
+                            "neighbor": "4,7,11-13"
+                        }
+                    ],
+                    "liName": "南門里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0078",
+                            "tboxName": "武穆文史館",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市中山里城隍街５６號",
+                            "neighbor": "中山里"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西門里",
+                            "tboxNo": "0079",
+                            "tboxName": "西關廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市西門里舊城西路２９號",
+                            "neighbor": "8-12"
+                        },
+                        {
+                            "ScopeLiName": "西門里",
+                            "tboxNo": "0080",
+                            "tboxName": "光明寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市西門里西門路９１號",
+                            "neighbor": "1-7"
+                        }
+                    ],
+                    "liName": "西門里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北門里",
+                            "tboxNo": "0081",
+                            "tboxName": "慶和社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣宜蘭市北門里碧霞街１３６號",
+                            "neighbor": "北門里"
+                        }
+                    ],
+                    "liName": "北門里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "開明里",
+                            "tboxNo": "0082",
+                            "tboxName": "羅東國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮南昌里民族路1號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "開明里",
+                            "tboxNo": "0083",
+                            "tboxName": "羅東國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮南昌里民族路1號",
+                            "neighbor": "14-26"
+                        }
+                    ],
+                    "liName": "開明里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大新里",
+                            "tboxNo": "0084",
+                            "tboxName": "城隍廟前廣場",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮大新里中正路128號",
+                            "neighbor": "大新里"
+                        }
+                    ],
+                    "liName": "大新里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東安里",
+                            "tboxNo": "0085",
+                            "tboxName": "東安社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮東安里天祥路171號",
+                            "neighbor": "2-4,7-9,11,13-18,21"
+                        },
+                        {
+                            "ScopeLiName": "東安里",
+                            "tboxNo": "0086",
+                            "tboxName": "羅東獅子會館",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮東安里天祥路360號",
+                            "neighbor": "1,19,23-26,28-29"
+                        },
+                        {
+                            "ScopeLiName": "東安里",
+                            "tboxNo": "0087",
+                            "tboxName": "羅東獅子會館",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮東安里天祥路360號",
+                            "neighbor": "5-6,10,12,20,22,27"
+                        }
+                    ],
+                    "liName": "東安里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新群里",
+                            "tboxNo": "0088",
+                            "tboxName": "玉皇宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮新群里月眉路508號",
+                            "neighbor": "1,2,13,14,15"
+                        },
+                        {
+                            "ScopeLiName": "新群里",
+                            "tboxNo": "0089",
+                            "tboxName": "新群社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮新群里月眉路300號",
+                            "neighbor": "3-7"
+                        },
+                        {
+                            "ScopeLiName": "新群里",
+                            "tboxNo": "0090",
+                            "tboxName": "救安宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮新群里中山路一段460號",
+                            "neighbor": "8,9,10,11,12,16,17"
+                        }
+                    ],
+                    "liName": "新群里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "羅莊里",
+                            "tboxNo": "0091",
+                            "tboxName": "羅莊社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮羅莊里羅莊街357號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "羅莊里",
+                            "tboxNo": "0092",
+                            "tboxName": "小甜甜幼兒園1",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮羅莊里南宜二路16號",
+                            "neighbor": "11-15"
+                        },
+                        {
+                            "ScopeLiName": "羅莊里",
+                            "tboxNo": "0093",
+                            "tboxName": "小甜甜幼兒園2",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮羅莊里南宜二路16號",
+                            "neighbor": "16-22"
+                        }
+                    ],
+                    "liName": "羅莊里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南昌里",
+                            "tboxNo": "0094",
+                            "tboxName": "羅東國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮南昌里民族路1號",
+                            "neighbor": "10,12,14,17-23"
+                        },
+                        {
+                            "ScopeLiName": "南昌里",
+                            "tboxNo": "0095",
+                            "tboxName": "羅東國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮南昌里民族路1號",
+                            "neighbor": "1-9,11,13,15-16"
+                        }
+                    ],
+                    "liName": "南昌里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南豪里",
+                            "tboxNo": "0096",
+                            "tboxName": "成功國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮成功里興東南路100號",
+                            "neighbor": "南豪里"
+                        }
+                    ],
+                    "liName": "南豪里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0097",
+                            "tboxName": "南豪社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮成功里體育路40號",
+                            "neighbor": "成功里"
+                        }
+                    ],
+                    "liName": "成功里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁德里",
+                            "tboxNo": "0098",
+                            "tboxName": "仁德社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮仁德里忠義巷92之1號",
+                            "neighbor": "仁德里"
+                        }
+                    ],
+                    "liName": "仁德里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁和里",
+                            "tboxNo": "0099",
+                            "tboxName": "震安宮(香客大樓一樓)",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮仁和里中正路35號",
+                            "neighbor": "仁和里"
+                        }
+                    ],
+                    "liName": "仁和里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0100",
+                            "tboxName": "扶輪兒童美語圖書館",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮集祥里民權路110號",
+                            "neighbor": "中山里"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "漢民里",
+                            "tboxNo": "0101",
+                            "tboxName": "聖安宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮漢民里忠孝路48號",
+                            "neighbor": "3-6,8,20-22,25,26,32"
+                        },
+                        {
+                            "ScopeLiName": "漢民里",
+                            "tboxNo": "0102",
+                            "tboxName": "孔子廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮漢民里北成路一段26號",
+                            "neighbor": "2,10,18,23,27-31,33"
+                        },
+                        {
+                            "ScopeLiName": "漢民里",
+                            "tboxNo": "0103",
+                            "tboxName": "漢民社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮漢民里純精路一段219號",
+                            "neighbor": "1,7,9,11-17,19,24,34"
+                        }
+                    ],
+                    "liName": "漢民里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "維揚里",
+                            "tboxNo": "0104",
+                            "tboxName": "維安社區長青食堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮維揚里維揚路121號",
+                            "neighbor": "1-7,9"
+                        },
+                        {
+                            "ScopeLiName": "維揚里",
+                            "tboxNo": "0105",
+                            "tboxName": "爐源寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮維揚里維揚路55巷16號",
+                            "neighbor": "12-14,18-20,24"
+                        },
+                        {
+                            "ScopeLiName": "維揚里",
+                            "tboxNo": "0106",
+                            "tboxName": "羅東鎮立養護所",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮維揚里維揚路132號",
+                            "neighbor": "8,10-11,15-17,21-23"
+                        }
+                    ],
+                    "liName": "維揚里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0107",
+                            "tboxName": "維安社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮西安里西安街468號",
+                            "neighbor": "1-5,7-8,12,19"
+                        },
+                        {
+                            "ScopeLiName": "西安里",
+                            "tboxNo": "0108",
+                            "tboxName": "羅東鎮農會(三館)",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮西安里純精路一段109號",
+                            "neighbor": "6,9-11,13-18"
+                        }
+                    ],
+                    "liName": "西安里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北成里",
+                            "tboxNo": "0109",
+                            "tboxName": "興安宮辦公室",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮北成里北成路二段38號",
+                            "neighbor": "10-11,13-17"
+                        },
+                        {
+                            "ScopeLiName": "北成里",
+                            "tboxNo": "0110",
+                            "tboxName": "永福宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮北成里北投街62巷65號",
+                            "neighbor": "2-3,6-7,18"
+                        },
+                        {
+                            "ScopeLiName": "北成里",
+                            "tboxNo": "0111",
+                            "tboxName": "北成國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮北成里北成路一段125號",
+                            "neighbor": "1,4-5,8-9,12"
+                        }
+                    ],
+                    "liName": "北成里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國華里",
+                            "tboxNo": "0112",
+                            "tboxName": "北成國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮北成里北成路一段125號",
+                            "neighbor": "3-9"
+                        },
+                        {
+                            "ScopeLiName": "國華里",
+                            "tboxNo": "0113",
+                            "tboxName": "國華國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里國華街101號",
+                            "neighbor": "2,10-17"
+                        },
+                        {
+                            "ScopeLiName": "國華里",
+                            "tboxNo": "0114",
+                            "tboxName": "國華國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里國華街101號",
+                            "neighbor": "1,18-23"
+                        },
+                        {
+                            "ScopeLiName": "國華里",
+                            "tboxNo": "0115",
+                            "tboxName": "國華國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里國華街101號",
+                            "neighbor": "24-29"
+                        }
+                    ],
+                    "liName": "國華里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "賢文里",
+                            "tboxNo": "0116",
+                            "tboxName": "國華國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里國華街101號",
+                            "neighbor": "15-17,21-24,27,30-31,37-41"
+                        },
+                        {
+                            "ScopeLiName": "賢文里",
+                            "tboxNo": "0117",
+                            "tboxName": "羅東鎮衛生所",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里民生路79號",
+                            "neighbor": "1-10,29,32"
+                        },
+                        {
+                            "ScopeLiName": "賢文里",
+                            "tboxNo": "0118",
+                            "tboxName": "公正國小幼兒園中庭",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里公正路199號",
+                            "neighbor": "11-14,18-20,25-26,28,33-36"
+                        }
+                    ],
+                    "liName": "賢文里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公正里",
+                            "tboxNo": "0119",
+                            "tboxName": "公正國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里公正路199號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "公正里",
+                            "tboxNo": "0120",
+                            "tboxName": "公正國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮賢文里公正路199號",
+                            "neighbor": "15-26"
+                        }
+                    ],
+                    "liName": "公正里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "集祥里",
+                            "tboxNo": "0121",
+                            "tboxName": "羅東鎮老人會",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮集祥里公園路113號",
+                            "neighbor": "集祥里"
+                        }
+                    ],
+                    "liName": "集祥里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "信義里",
+                            "tboxNo": "0122",
+                            "tboxName": "第一號公園管理站(信義社區活動中心)",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮信義里中華路189號",
+                            "neighbor": "4,6,9-13,15-16,21-23,26"
+                        },
+                        {
+                            "ScopeLiName": "信義里",
+                            "tboxNo": "0123",
+                            "tboxName": "羅東國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮信義里中華路99號",
+                            "neighbor": "1,7-8,14,17-18"
+                        },
+                        {
+                            "ScopeLiName": "信義里",
+                            "tboxNo": "0124",
+                            "tboxName": "羅東國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮信義里中華路99號",
+                            "neighbor": "2-3,5,19-20,24-25"
+                        }
+                    ],
+                    "liName": "信義里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樹林里",
+                            "tboxNo": "0125",
+                            "tboxName": "第五號公園管理站(樹林社區活動中心)",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮樹林里文林路130號",
+                            "neighbor": "6-13,22"
+                        },
+                        {
+                            "ScopeLiName": "樹林里",
+                            "tboxNo": "0126",
+                            "tboxName": "羅東高中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮樹林里公正路324號",
+                            "neighbor": "1-5,20-21"
+                        },
+                        {
+                            "ScopeLiName": "樹林里",
+                            "tboxNo": "0127",
+                            "tboxName": "羅東高中",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮樹林里公正路324號",
+                            "neighbor": "14-19"
+                        }
+                    ],
+                    "liName": "樹林里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹林里",
+                            "tboxNo": "0128",
+                            "tboxName": "竹林國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮竹林里復興路二段128號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "竹林里",
+                            "tboxNo": "0129",
+                            "tboxName": "竹林國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮竹林里復興路二段128號",
+                            "neighbor": "8-13,24-27"
+                        },
+                        {
+                            "ScopeLiName": "竹林里",
+                            "tboxNo": "0130",
+                            "tboxName": "竹林國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮竹林里復興路二段128號",
+                            "neighbor": "14-23"
+                        }
+                    ],
+                    "liName": "竹林里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0131",
+                            "tboxName": "羅東鎮立圖書館仁愛圖書室",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮仁愛里復興路三段159號",
+                            "neighbor": "1,10,12-15,20-21"
+                        },
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0132",
+                            "tboxName": "仁愛社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮仁愛里復興路三段577號",
+                            "neighbor": "2-7,19"
+                        },
+                        {
+                            "ScopeLiName": "仁愛里",
+                            "tboxNo": "0133",
+                            "tboxName": "羅東鎮立幼兒園",
+                            "geocode": null,
+                            "addr": "宜蘭縣羅東鎮仁愛里復興路三段579號",
+                            "neighbor": "8-9,11,16-18"
+                        }
+                    ],
+                    "liName": "仁愛里"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍德里",
+                            "tboxNo": "0134",
+                            "tboxName": "龍德社區(新)活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮龍德里福德路177巷27號",
+                            "neighbor": "8-10,12-16,27"
+                        },
+                        {
+                            "ScopeLiName": "龍德里",
+                            "tboxNo": "0135",
+                            "tboxName": "龍德社區(舊)活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮龍德里福德路150號",
+                            "neighbor": "6-7,17-20"
+                        },
+                        {
+                            "ScopeLiName": "龍德里",
+                            "tboxNo": "0136",
+                            "tboxName": "龍德廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮龍德里福德路130號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "龍德里",
+                            "tboxNo": "0137",
+                            "tboxName": "區界帝君廟餐廳",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮龍德里福德路462巷51號",
+                            "neighbor": "11,21-26"
+                        }
+                    ],
+                    "liName": "龍德里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂寮里",
+                            "tboxNo": "0138",
+                            "tboxName": "頂寮文教活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮頂寮里頂寮路2號",
+                            "neighbor": "頂寮里"
+                        }
+                    ],
+                    "liName": "頂寮里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永榮里",
+                            "tboxNo": "0139",
+                            "tboxName": "建安廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永榮里永愛路250號",
+                            "neighbor": "10,11,14,24-26"
+                        },
+                        {
+                            "ScopeLiName": "永榮里",
+                            "tboxNo": "0140",
+                            "tboxName": "永榮社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永榮里和平路51號",
+                            "neighbor": "12,13,15,16"
+                        },
+                        {
+                            "ScopeLiName": "永榮里",
+                            "tboxNo": "0141",
+                            "tboxName": "聖安宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永榮里大同南巷5號",
+                            "neighbor": "2-9,23"
+                        },
+                        {
+                            "ScopeLiName": "永榮里",
+                            "tboxNo": "0142",
+                            "tboxName": "文化國中(901教室)",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永榮里新馬路2號",
+                            "neighbor": "1,17-22"
+                        }
+                    ],
+                    "liName": "永榮里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "存仁里",
+                            "tboxNo": "0143",
+                            "tboxName": "存仁社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮存仁里存仁路199之1號（功勞埔）",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "存仁里",
+                            "tboxNo": "0144",
+                            "tboxName": "大玄廟活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮存仁里大成路49之1號（大坑罟）",
+                            "neighbor": "9-14"
+                        }
+                    ],
+                    "liName": "存仁里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港邊里",
+                            "tboxNo": "0145",
+                            "tboxName": "永安宮生活館",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮港邊里嶺脚路88之1號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "港邊里",
+                            "tboxNo": "0146",
+                            "tboxName": "港口集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮港邊里港口路14號",
+                            "neighbor": "12-15"
+                        }
+                    ],
+                    "liName": "港邊里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "隘丁里",
+                            "tboxNo": "0147",
+                            "tboxName": "社福大樓",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮隘丁里隘丁路36號",
+                            "neighbor": "6,10,11,13,16,18"
+                        },
+                        {
+                            "ScopeLiName": "隘丁里",
+                            "tboxNo": "0148",
+                            "tboxName": "隘丁社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮隘丁里城中路40號",
+                            "neighbor": "1-4,7,8,12"
+                        },
+                        {
+                            "ScopeLiName": "隘丁里",
+                            "tboxNo": "0149",
+                            "tboxName": "文化國中(903教室)",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永榮里新馬路2號",
+                            "neighbor": "5,9,14,15,17"
+                        }
+                    ],
+                    "liName": "隘丁里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新城里",
+                            "tboxNo": "0150",
+                            "tboxName": "慶安廟活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮新城里慶安路1號",
+                            "neighbor": "2-6,12"
+                        },
+                        {
+                            "ScopeLiName": "新城里",
+                            "tboxNo": "0151",
+                            "tboxName": "蘇澳地區農會新城辦事處(後方倉庫)",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮新城里中山路二段355號",
+                            "neighbor": "1,7-11"
+                        }
+                    ],
+                    "liName": "新城里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "聖愛里",
+                            "tboxNo": "0152",
+                            "tboxName": "蘇澳國小活動中心(國樂教室)",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮蘇西里中山路一段366號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "聖愛里",
+                            "tboxNo": "0153",
+                            "tboxName": "蘇澳國中體育館(前段)",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮聖湖里中山路二段1號",
+                            "neighbor": "15-19"
+                        },
+                        {
+                            "ScopeLiName": "聖愛里",
+                            "tboxNo": "0154",
+                            "tboxName": "蘇澳國中體育館(後段)",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮聖湖里中山路二段1號",
+                            "neighbor": "9-14,20,21"
+                        }
+                    ],
+                    "liName": "聖愛里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "聖湖里",
+                            "tboxNo": "0155",
+                            "tboxName": "蘇澳鎮立圖書館",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮聖湖里育才路6號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "聖湖里",
+                            "tboxNo": "0156",
+                            "tboxName": "聖湖社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮聖湖里全祿街10號",
+                            "neighbor": "6-10"
+                        },
+                        {
+                            "ScopeLiName": "聖湖里",
+                            "tboxNo": "0157",
+                            "tboxName": "慈心華德福教育實驗高級中等學校(蘇澳校區)",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮聖湖里中山路二段1號",
+                            "neighbor": "11-17"
+                        }
+                    ],
+                    "liName": "聖湖里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蘇西里",
+                            "tboxNo": "0158",
+                            "tboxName": "寶山寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮蘇西里中原路25號 後門-華中街 ",
+                            "neighbor": "1-12,17-18"
+                        },
+                        {
+                            "ScopeLiName": "蘇西里",
+                            "tboxNo": "0159",
+                            "tboxName": "蘇澳福德宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮蘇西里中山路一段198之16號",
+                            "neighbor": "13-16,19-21"
+                        },
+                        {
+                            "ScopeLiName": "蘇西里",
+                            "tboxNo": "0160",
+                            "tboxName": "蘇西社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮蘇西里志成路62號",
+                            "neighbor": "22-33"
+                        }
+                    ],
+                    "liName": "蘇西里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蘇北里",
+                            "tboxNo": "0161",
+                            "tboxName": "蘇北社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮蘇北里新生路8號",
+                            "neighbor": "蘇北里"
+                        }
+                    ],
+                    "liName": "蘇北里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蘇南里",
+                            "tboxNo": "0162",
+                            "tboxName": "蘇南社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮蘇南里光復路27巷4號",
+                            "neighbor": "蘇南里"
+                        }
+                    ],
+                    "liName": "蘇南里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蘇東里",
+                            "tboxNo": "0163",
+                            "tboxName": "蘇東社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮蘇東里蘇花路五段101巷1號",
+                            "neighbor": "蘇東里"
+                        }
+                    ],
+                    "liName": "蘇東里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長安里",
+                            "tboxNo": "0164",
+                            "tboxName": "長安社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮長安里勝利路1號",
+                            "neighbor": "長安里"
+                        }
+                    ],
+                    "liName": "長安里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永光里",
+                            "tboxNo": "0165",
+                            "tboxName": "永光社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永光里蘇港路85號",
+                            "neighbor": "永光里"
+                        }
+                    ],
+                    "liName": "永光里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永春里",
+                            "tboxNo": "0166",
+                            "tboxName": "白米社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永春里永春路134巷11之1號",
+                            "neighbor": "永春里"
+                        }
+                    ],
+                    "liName": "永春里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永樂里",
+                            "tboxNo": "0167",
+                            "tboxName": "永樂社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮永樂里永樂路116巷6號",
+                            "neighbor": "永樂里"
+                        }
+                    ],
+                    "liName": "永樂里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南安里",
+                            "tboxNo": "0168",
+                            "tboxName": "鎮安廟餐廳",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南安里海邊路77號",
+                            "neighbor": "南安里"
+                        }
+                    ],
+                    "liName": "南安里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南正里",
+                            "tboxNo": "0169",
+                            "tboxName": "南天宮辦公室",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南正里江夏路15號",
+                            "neighbor": "南正里"
+                        }
+                    ],
+                    "liName": "南正里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南成里",
+                            "tboxNo": "0170",
+                            "tboxName": "南成社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南成里民生路15號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "南成里",
+                            "tboxNo": "0171",
+                            "tboxName": "南天宮餐廳",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南正里江夏路17號",
+                            "neighbor": "8-13"
+                        }
+                    ],
+                    "liName": "南成里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南興里",
+                            "tboxNo": "0172",
+                            "tboxName": "南興社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南興里華山五巷16之2號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "南興里",
+                            "tboxNo": "0173",
+                            "tboxName": "南光寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南興里華山七巷14號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "南興里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南寧里",
+                            "tboxNo": "0174",
+                            "tboxName": "南寧社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南寧里南新路9號",
+                            "neighbor": "南寧里"
+                        }
+                    ],
+                    "liName": "南寧里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南建里",
+                            "tboxNo": "0175",
+                            "tboxName": "昭安社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南建里內埤路117之2號",
+                            "neighbor": "1-2,5-6,11-12"
+                        },
+                        {
+                            "ScopeLiName": "南建里",
+                            "tboxNo": "0176",
+                            "tboxName": "南安國中美術教室",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南建里學府路117號",
+                            "neighbor": "3-4,7-10"
+                        }
+                    ],
+                    "liName": "南建里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東澳里",
+                            "tboxNo": "0177",
+                            "tboxName": "東澳里活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮東澳里東澳路103號",
+                            "neighbor": "東澳里"
+                        }
+                    ],
+                    "liName": "東澳里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南強里",
+                            "tboxNo": "0178",
+                            "tboxName": "南強社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮南強里南澳路2之6號",
+                            "neighbor": "南強里"
+                        }
+                    ],
+                    "liName": "南強里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "朝陽里",
+                            "tboxNo": "0179",
+                            "tboxName": "海岸社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮朝陽里海岸路69號",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "朝陽里",
+                            "tboxNo": "0180",
+                            "tboxName": "朝陽社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮朝陽里朝陽路40號",
+                            "neighbor": "5-13"
+                        }
+                    ],
+                    "liName": "朝陽里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石城里",
+                            "tboxNo": "0181",
+                            "tboxName": "石城社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮石城里石城路40之8號",
+                            "neighbor": "石城里"
+                        }
+                    ],
+                    "liName": "石城里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大里里",
+                            "tboxNo": "0182",
+                            "tboxName": "大里社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮大里里濱海路六段251號",
+                            "neighbor": "大里里"
+                        }
+                    ],
+                    "liName": "大里里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龜山里",
+                            "tboxNo": "0183",
+                            "tboxName": "龜山島社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮龜山里龜山路221號",
+                            "neighbor": "龜山里"
+                        }
+                    ],
+                    "liName": "龜山里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大溪里",
+                            "tboxNo": "0184",
+                            "tboxName": "大溪社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮大溪里濱海路五段249號",
+                            "neighbor": "大溪里"
+                        }
+                    ],
+                    "liName": "大溪里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "合興里",
+                            "tboxNo": "0185",
+                            "tboxName": "合興社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮合興里合興路94之1號",
+                            "neighbor": "合興里"
+                        }
+                    ],
+                    "liName": "合興里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "更新里",
+                            "tboxNo": "0186",
+                            "tboxName": "梗枋國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮更新里更新路59號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "更新里",
+                            "tboxNo": "0187",
+                            "tboxName": "更新里漁民多功能活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮更新里濱海路三段93號",
+                            "neighbor": "7-12"
+                        }
+                    ],
+                    "liName": "更新里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "外澳里",
+                            "tboxNo": "0188",
+                            "tboxName": "外澳社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮外澳里濱海路二段212號",
+                            "neighbor": "外澳里"
+                        }
+                    ],
+                    "liName": "外澳里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港口里",
+                            "tboxNo": "0189",
+                            "tboxName": "港口社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮港口里港口路60之3號",
+                            "neighbor": "港口里"
+                        }
+                    ],
+                    "liName": "港口里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "武營里",
+                            "tboxNo": "0190",
+                            "tboxName": "武營社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮武營里開蘭路224號",
+                            "neighbor": "1-5,11-12,14-15"
+                        },
+                        {
+                            "ScopeLiName": "武營里",
+                            "tboxNo": "0191",
+                            "tboxName": "開蘭長青集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮武營里武營路16之8號",
+                            "neighbor": "6-10,13"
+                        }
+                    ],
+                    "liName": "武營里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大坑里",
+                            "tboxNo": "0192",
+                            "tboxName": "大坑社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮大坑里協天路602號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "大坑里",
+                            "tboxNo": "0193",
+                            "tboxName": "協天宮香客大樓",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮大坑里協天路636巷36號",
+                            "neighbor": "6-10"
+                        }
+                    ],
+                    "liName": "大坑里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "城東里",
+                            "tboxNo": "0194",
+                            "tboxName": "頭城鎮立幼兒園",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮城東里開蘭舊路6號",
+                            "neighbor": "城東里"
+                        }
+                    ],
+                    "liName": "城東里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "城北里",
+                            "tboxNo": "0195",
+                            "tboxName": "頭城鎮公所(舊)",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮城北里纉祥路88號",
+                            "neighbor": "城北里"
+                        }
+                    ],
+                    "liName": "城北里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "城西里",
+                            "tboxNo": "0196",
+                            "tboxName": "頭城鎮長壽老人會(喚醒堂)",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮城西里纉祥路39號",
+                            "neighbor": "城西里"
+                        }
+                    ],
+                    "liName": "城西里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "城南里",
+                            "tboxNo": "0197",
+                            "tboxName": "慶元宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮城東里和平街105號",
+                            "neighbor": "城南里"
+                        }
+                    ],
+                    "liName": "城南里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹安里",
+                            "tboxNo": "0198",
+                            "tboxName": "鎮安宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮竹安里頭濱路一段462號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "竹安里",
+                            "tboxNo": "0199",
+                            "tboxName": "泰安廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮竹安里頭濱路二段426號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "竹安里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新建里",
+                            "tboxNo": "0200",
+                            "tboxName": "開成寺-城隍廟聯誼中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮新建里吉祥路1號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "新建里",
+                            "tboxNo": "0201",
+                            "tboxName": "新建社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮新建里新興路234之1號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "新建里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "拔雅里",
+                            "tboxNo": "0202",
+                            "tboxName": "拔雅社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮拔雅里復興路12巷2號",
+                            "neighbor": "2-7"
+                        },
+                        {
+                            "ScopeLiName": "拔雅里",
+                            "tboxNo": "0203",
+                            "tboxName": "頭城國民中學",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮拔雅里復興路145號",
+                            "neighbor": "1,8-11"
+                        }
+                    ],
+                    "liName": "拔雅里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福成里",
+                            "tboxNo": "0204",
+                            "tboxName": "福成社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮福成里宜三路二段378號",
+                            "neighbor": "福成里"
+                        }
+                    ],
+                    "liName": "福成里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金面里",
+                            "tboxNo": "0205",
+                            "tboxName": "頭城鎮長青文康活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮金面里金面路200之5號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "金面里",
+                            "tboxNo": "0206",
+                            "tboxName": "金面協天廟會議廳",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮金面里金面路354之6號",
+                            "neighbor": "7-16"
+                        }
+                    ],
+                    "liName": "金面里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金盈里",
+                            "tboxNo": "0207",
+                            "tboxName": "金盈社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮金盈里金盈路39號",
+                            "neighbor": "金盈里"
+                        }
+                    ],
+                    "liName": "金盈里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂埔里",
+                            "tboxNo": "0208",
+                            "tboxName": "順天府池府王爺廟(聯誼廳)",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮頂埔里頂埔路一段250號",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "頂埔里",
+                            "tboxNo": "0209",
+                            "tboxName": "頂埔社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮頂埔里頂埔路二段116號",
+                            "neighbor": "5-10"
+                        }
+                    ],
+                    "liName": "頂埔里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下埔里",
+                            "tboxNo": "0210",
+                            "tboxName": "下埔社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮下埔里下埔路48之3號",
+                            "neighbor": "下埔里"
+                        }
+                    ],
+                    "liName": "下埔里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中崙里",
+                            "tboxNo": "0211",
+                            "tboxName": "中崙社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮中崙里中崙路31號",
+                            "neighbor": "中崙里"
+                        }
+                    ],
+                    "liName": "中崙里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "二城里",
+                            "tboxNo": "0212",
+                            "tboxName": "二城社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣頭城鎮二城里青雲路一段143號",
+                            "neighbor": "二城里"
+                        }
+                    ],
+                    "liName": "二城里"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "白雲村",
+                            "tboxNo": "0213",
+                            "tboxName": "白雲社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉白雲村白雲一路61號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "白雲村",
+                            "tboxNo": "0214",
+                            "tboxName": "白雲福德廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉白雲村白雲二路178-1號",
+                            "neighbor": "10-17"
+                        }
+                    ],
+                    "liName": "白雲村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "玉石村",
+                            "tboxNo": "0215",
+                            "tboxName": "礁溪鄉老人文康中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉玉石村公園路2號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "玉石村",
+                            "tboxNo": "0216",
+                            "tboxName": "玉石社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉玉石村公園路2號",
+                            "neighbor": "8-16"
+                        }
+                    ],
+                    "liName": "玉石村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "德陽村",
+                            "tboxNo": "0217",
+                            "tboxName": "德陽宮﹝弘道大樓一樓﹞",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉德陽村中山路2段133號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "德陽村",
+                            "tboxNo": "0218",
+                            "tboxName": "德陽社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉德陽村成功路32之3號",
+                            "neighbor": "9-10"
+                        },
+                        {
+                            "ScopeLiName": "德陽村",
+                            "tboxNo": "0219",
+                            "tboxName": "武聖廟管理委員會",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉德陽村成功路32之2號",
+                            "neighbor": "11-13,24-31"
+                        },
+                        {
+                            "ScopeLiName": "德陽村",
+                            "tboxNo": "0220",
+                            "tboxName": "聖德宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉德陽村奇立丹路72巷18號",
+                            "neighbor": "14-23"
+                        }
+                    ],
+                    "liName": "德陽村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大忠村",
+                            "tboxNo": "0221",
+                            "tboxName": "礁溪國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉大忠村礁溪路4段135號",
+                            "neighbor": "7-10"
+                        },
+                        {
+                            "ScopeLiName": "大忠村",
+                            "tboxNo": "0222",
+                            "tboxName": "礁溪國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉大忠村礁溪路4段135號",
+                            "neighbor": "13-17"
+                        },
+                        {
+                            "ScopeLiName": "大忠村",
+                            "tboxNo": "0223",
+                            "tboxName": "礁溪國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉大忠村礁溪路4段23號",
+                            "neighbor": "1-6,11-12"
+                        }
+                    ],
+                    "liName": "大忠村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大義村",
+                            "tboxNo": "0224",
+                            "tboxName": "礁溪國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉大忠村礁溪路4段23號",
+                            "neighbor": "大義村"
+                        }
+                    ],
+                    "liName": "大義村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "六結村",
+                            "tboxNo": "0225",
+                            "tboxName": "六結社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉六結村六結路69號",
+                            "neighbor": "1-2,10-13"
+                        },
+                        {
+                            "ScopeLiName": "六結村",
+                            "tboxNo": "0226",
+                            "tboxName": "礁溪國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉大忠村礁溪路4段135號",
+                            "neighbor": "3-9"
+                        }
+                    ],
+                    "liName": "六結村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "二龍村",
+                            "tboxNo": "0227",
+                            "tboxName": "二龍社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉二龍村淇武蘭路110號",
+                            "neighbor": "二龍村"
+                        }
+                    ],
+                    "liName": "二龍村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "時潮村",
+                            "tboxNo": "0228",
+                            "tboxName": "時潮社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉時潮村塭底路54之1號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "時潮村",
+                            "tboxNo": "0229",
+                            "tboxName": "時潮村民眾活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉時潮村大塭路47之4號",
+                            "neighbor": "11-16"
+                        }
+                    ],
+                    "liName": "時潮村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "玉田村",
+                            "tboxNo": "0230",
+                            "tboxName": "玉田國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉玉田村玉民路一段169號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "玉田村",
+                            "tboxNo": "0231",
+                            "tboxName": "玉田社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉玉田村玉龍路1段479巷6號",
+                            "neighbor": "12-20"
+                        }
+                    ],
+                    "liName": "玉田村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三民村",
+                            "tboxNo": "0232",
+                            "tboxName": "三民社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉三民村十六結路101之1號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "三民村",
+                            "tboxNo": "0233",
+                            "tboxName": "三民國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉三民村十六結路100號",
+                            "neighbor": "10"
+                        },
+                        {
+                            "ScopeLiName": "三民村",
+                            "tboxNo": "0234",
+                            "tboxName": "三民國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉三民村十六結路100號",
+                            "neighbor": "11-23"
+                        }
+                    ],
+                    "liName": "三民村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林美村",
+                            "tboxNo": "0235",
+                            "tboxName": "林美村民眾活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉林美村林尾路66之1號",
+                            "neighbor": "林美村"
+                        }
+                    ],
+                    "liName": "林美村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "白鵝村",
+                            "tboxNo": "0236",
+                            "tboxName": "白鵝社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉白鵝村柴圍路30號",
+                            "neighbor": "白鵝村"
+                        }
+                    ],
+                    "liName": "白鵝村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "玉光村",
+                            "tboxNo": "0237",
+                            "tboxName": "玉光社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉玉光村瑪僯路76號",
+                            "neighbor": "玉光村"
+                        }
+                    ],
+                    "liName": "玉光村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光武村",
+                            "tboxNo": "0238",
+                            "tboxName": "礁溪鄉立幼兒園",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉光武村武暖路10之3號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "光武村",
+                            "tboxNo": "0239",
+                            "tboxName": "光武社區〈舊〉活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉光武村武暖路150之12號",
+                            "neighbor": "8-14"
+                        }
+                    ],
+                    "liName": "光武村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "吳沙村",
+                            "tboxNo": "0240",
+                            "tboxName": "四結國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉吳沙村育英路46號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "吳沙村",
+                            "tboxNo": "0241",
+                            "tboxName": "四結國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉吳沙村育英路46號",
+                            "neighbor": "10-18"
+                        },
+                        {
+                            "ScopeLiName": "吳沙村",
+                            "tboxNo": "0242",
+                            "tboxName": "吳沙社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉吳沙村開蘭路110號",
+                            "neighbor": "19-27"
+                        }
+                    ],
+                    "liName": "吳沙村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍潭村",
+                            "tboxNo": "0243",
+                            "tboxName": "﹝新﹞龍潭社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉龍潭村大坡路90巷18號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "龍潭村",
+                            "tboxNo": "0244",
+                            "tboxName": "龍潭國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉龍潭村育龍路71號",
+                            "neighbor": "6-11"
+                        },
+                        {
+                            "ScopeLiName": "龍潭村",
+                            "tboxNo": "0245",
+                            "tboxName": "﹝舊﹞龍潭社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉龍潭村三皇路4號",
+                            "neighbor": "12-18"
+                        }
+                    ],
+                    "liName": "龍潭村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "匏崙村",
+                            "tboxNo": "0246",
+                            "tboxName": "匏崙社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉匏崙村匏杓崙路6之1號",
+                            "neighbor": "匏崙村"
+                        }
+                    ],
+                    "liName": "匏崙村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "二結村",
+                            "tboxNo": "0247",
+                            "tboxName": "二結社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣礁溪鄉二結村二結路54之1號",
+                            "neighbor": "二結村"
+                        }
+                    ],
+                    "liName": "二結村"
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "吉祥村",
+                            "tboxNo": "0248",
+                            "tboxName": "壯五鎮安廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉吉祥村壯五路112號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "吉祥村",
+                            "tboxNo": "0249",
+                            "tboxName": "壯五社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉吉祥村壯五路63號",
+                            "neighbor": "6-11"
+                        },
+                        {
+                            "ScopeLiName": "吉祥村",
+                            "tboxNo": "0250",
+                            "tboxName": "壯圍鄉老人文康活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉吉祥村壯志路64號",
+                            "neighbor": "12-18"
+                        }
+                    ],
+                    "liName": "吉祥村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古結村",
+                            "tboxNo": "0251",
+                            "tboxName": "古結社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉古結村古結路237號",
+                            "neighbor": "古結村"
+                        }
+                    ],
+                    "liName": "古結村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "美福村",
+                            "tboxNo": "0252",
+                            "tboxName": "美福協天廟活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉美福村中央路一段263巷70號旁",
+                            "neighbor": "3-9,15-16"
+                        },
+                        {
+                            "ScopeLiName": "美福村",
+                            "tboxNo": "0253",
+                            "tboxName": "美福社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉美福村美福路三段92巷6號",
+                            "neighbor": "1-2,10-14"
+                        }
+                    ],
+                    "liName": "美福村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新南村",
+                            "tboxNo": "0254",
+                            "tboxName": "新南社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉新南村美福路一段72號",
+                            "neighbor": "新南村"
+                        }
+                    ],
+                    "liName": "新南村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東港村",
+                            "tboxNo": "0255",
+                            "tboxName": "廍後社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉東港村廍後路仁愛新村50號",
+                            "neighbor": "東港村"
+                        }
+                    ],
+                    "liName": "東港村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興村",
+                            "tboxNo": "0256",
+                            "tboxName": "公館國小(體育館)",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉復興村紅葉路69號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "復興村",
+                            "tboxNo": "0257",
+                            "tboxName": "紅葉社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉復興村紅葉路69之2號",
+                            "neighbor": "9-20"
+                        }
+                    ],
+                    "liName": "復興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "過嶺村",
+                            "tboxNo": "0258",
+                            "tboxName": "後埤社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉過嶺村過嶺路1巷19號",
+                            "neighbor": "1-6,18"
+                        },
+                        {
+                            "ScopeLiName": "過嶺村",
+                            "tboxNo": "0259",
+                            "tboxName": "過嶺社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉過嶺村壯濱路三段295號",
+                            "neighbor": "7-17"
+                        }
+                    ],
+                    "liName": "過嶺村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永鎮村",
+                            "tboxNo": "0260",
+                            "tboxName": "永鎮社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉永鎮村壯濱路四段375號",
+                            "neighbor": "永鎮村"
+                        }
+                    ],
+                    "liName": "永鎮村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "忠孝村",
+                            "tboxNo": "0261",
+                            "tboxName": "壯六社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉忠孝村壯六路47之3號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "忠孝村",
+                            "tboxNo": "0262",
+                            "tboxName": "順和社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉忠孝村順和路47之4號",
+                            "neighbor": "11-17"
+                        },
+                        {
+                            "ScopeLiName": "忠孝村",
+                            "tboxNo": "0263",
+                            "tboxName": "順和活動中心(原藝文教室)",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉忠孝村順和路48之8號",
+                            "neighbor": "18-22"
+                        }
+                    ],
+                    "liName": "忠孝村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古亭村",
+                            "tboxNo": "0264",
+                            "tboxName": "古亭社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉古亭村古亭路48之16號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "古亭村",
+                            "tboxNo": "0265",
+                            "tboxName": "古亭國小(體育館)",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉古亭村古亭路81號",
+                            "neighbor": "10-16"
+                        }
+                    ],
+                    "liName": "古亭村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "功勞村",
+                            "tboxNo": "0266",
+                            "tboxName": "功勞社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉功勞村美功路一段80巷21號",
+                            "neighbor": "功勞村"
+                        }
+                    ],
+                    "liName": "功勞村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "美城村",
+                            "tboxNo": "0267",
+                            "tboxName": "美城社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉美城村永美路二段121號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "美城村",
+                            "tboxNo": "0268",
+                            "tboxName": "美城社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉美城村永美路二段121號",
+                            "neighbor": "11-21"
+                        }
+                    ],
+                    "liName": "美城村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新社村",
+                            "tboxNo": "0269",
+                            "tboxName": "新社社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉新社村新社路54之3號",
+                            "neighbor": "新社村"
+                        }
+                    ],
+                    "liName": "新社村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大福村",
+                            "tboxNo": "0270",
+                            "tboxName": "大福國小(活動中心)",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉大福村大福路一段62巷26號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "大福村",
+                            "tboxNo": "0271",
+                            "tboxName": "大福國小(四年忠班教室)",
+                            "geocode": null,
+                            "addr": "宜蘭縣壯圍鄉大福村大福路一段62巷26號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "大福村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0272",
+                            "tboxName": "玄開廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉員山村員山路一段100巷9弄7號",
+                            "neighbor": "1-6,35-36"
+                        },
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0273",
+                            "tboxName": "員山鄉老人文康中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉員山村文化路156號",
+                            "neighbor": "7-11"
+                        },
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0274",
+                            "tboxName": "員山國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉員山村復興路39號",
+                            "neighbor": "12-18"
+                        },
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0275",
+                            "tboxName": "員山國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉員山村復興路39號",
+                            "neighbor": "19-29"
+                        },
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0276",
+                            "tboxName": "員山國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉員山村復興路39號",
+                            "neighbor": "30-34,37-42"
+                        }
+                    ],
+                    "liName": "員山村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尚德村",
+                            "tboxNo": "0277",
+                            "tboxName": "財團法人大三鬮慈惠寺",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉尚德村賢德路二段299號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "尚德村",
+                            "tboxNo": "0278",
+                            "tboxName": "尚德社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉尚德村三鬮路35巷13號",
+                            "neighbor": "14-30"
+                        }
+                    ],
+                    "liName": "尚德村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "惠好村",
+                            "tboxNo": "0279",
+                            "tboxName": "惠好社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉惠好村賢德路二段66巷50號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "惠好村",
+                            "tboxNo": "0280",
+                            "tboxName": "福興廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉惠好村賢德路二段66巷50號",
+                            "neighbor": "11-17"
+                        }
+                    ],
+                    "liName": "惠好村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "七賢村",
+                            "tboxNo": "0281",
+                            "tboxName": "七賢國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉七賢村浮洲路30號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "七賢村",
+                            "tboxNo": "0282",
+                            "tboxName": "七賢村民眾活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉七賢村賢德路一段61巷25號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "七賢村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "深溝村",
+                            "tboxNo": "0283",
+                            "tboxName": "深溝國小活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉深溝村惠民路266號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "深溝村",
+                            "tboxNo": "0284",
+                            "tboxName": "深溝村集會所(保民廟旁)",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉深溝村深洲一路37巷7號",
+                            "neighbor": "8-17"
+                        }
+                    ],
+                    "liName": "深溝村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蓁巷村",
+                            "tboxNo": "0285",
+                            "tboxName": "蓁巷社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉蓁巷村成功路45號",
+                            "neighbor": "蓁巷村"
+                        }
+                    ],
+                    "liName": "蓁巷村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內城村",
+                            "tboxNo": "0286",
+                            "tboxName": "內城國民中小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉內城村內城路545號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "內城村",
+                            "tboxNo": "0287",
+                            "tboxName": "內城國民中小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉內城村內城路545號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "內城村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中華村",
+                            "tboxNo": "0288",
+                            "tboxName": "內城國民中小學化育分校",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉中華村員山路三段256號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "中華村",
+                            "tboxNo": "0289",
+                            "tboxName": "北基宜花金馬分署宜蘭職業訓練場（敬業樓）",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉中華村員山路三段500巷1號",
+                            "neighbor": "12-15"
+                        }
+                    ],
+                    "liName": "中華村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永和村",
+                            "tboxNo": "0290",
+                            "tboxName": "永和社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉永和村温泉路62之1號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "永和村",
+                            "tboxNo": "0291",
+                            "tboxName": "永廣廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉永和村永廣路22號",
+                            "neighbor": "14-21"
+                        }
+                    ],
+                    "liName": "永和村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頭分村",
+                            "tboxNo": "0292",
+                            "tboxName": "頭分社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉頭分村永同路二段186之1號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "頭分村",
+                            "tboxNo": "0293",
+                            "tboxName": "讚化宮活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉頭分村永同路二段190號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "頭分村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "枕山村",
+                            "tboxNo": "0294",
+                            "tboxName": "枕山社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉枕山村慶安路97號",
+                            "neighbor": "1-5,14-15"
+                        },
+                        {
+                            "ScopeLiName": "枕山村",
+                            "tboxNo": "0295",
+                            "tboxName": "協進廟",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉枕山村枕山路二段211號",
+                            "neighbor": "6-13"
+                        },
+                        {
+                            "ScopeLiName": "枕山村",
+                            "tboxNo": "0296",
+                            "tboxName": "湖山國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉枕山村坡城路54號",
+                            "neighbor": "16-23"
+                        }
+                    ],
+                    "liName": "枕山村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "同樂村",
+                            "tboxNo": "0297",
+                            "tboxName": "同樂社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉同樂村同新路182號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "同樂村",
+                            "tboxNo": "0298",
+                            "tboxName": "同樂國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉同樂村新城路84之4號",
+                            "neighbor": "15-22"
+                        },
+                        {
+                            "ScopeLiName": "同樂村",
+                            "tboxNo": "0299",
+                            "tboxName": "同樂國小",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉同樂村新城路84之4號",
+                            "neighbor": "23-33"
+                        }
+                    ],
+                    "liName": "同樂村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖東村",
+                            "tboxNo": "0300",
+                            "tboxName": "湖東社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉湖東村茄苳路68之2號",
+                            "neighbor": "湖東村"
+                        }
+                    ],
+                    "liName": "湖東村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "逸仙村",
+                            "tboxNo": "0301",
+                            "tboxName": "逸仙社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉逸仙村大湖十六路181巷2號",
+                            "neighbor": "逸仙村"
+                        }
+                    ],
+                    "liName": "逸仙村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖北村",
+                            "tboxNo": "0302",
+                            "tboxName": "湖北社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉湖北村大湖路49之2號",
+                            "neighbor": "湖北村"
+                        }
+                    ],
+                    "liName": "湖北村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖西村",
+                            "tboxNo": "0303",
+                            "tboxName": "雙湖社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉湖西村隘界路131號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "湖西村",
+                            "tboxNo": "0304",
+                            "tboxName": "雙湖社區守望相助隊",
+                            "geocode": null,
+                            "addr": "宜蘭縣員山鄉湖西村隘界路139之1號",
+                            "neighbor": "13-29"
+                        }
+                    ],
+                    "liName": "湖西村"
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "珍珠村",
+                            "tboxNo": "0305",
+                            "tboxName": "進興宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉珍珠村富農路一段383巷35號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "珍珠村",
+                            "tboxNo": "0306",
+                            "tboxName": "珍珠村集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉珍珠村幸福二路73號",
+                            "neighbor": "7-12"
+                        }
+                    ],
+                    "liName": "珍珠村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "補城村",
+                            "tboxNo": "0307",
+                            "tboxName": "補城社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉補城村建進二路29號",
+                            "neighbor": "補城村"
+                        }
+                    ],
+                    "liName": "補城村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三奇村",
+                            "tboxNo": "0308",
+                            "tboxName": "三奇社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉三奇村成興路810號",
+                            "neighbor": "三奇村"
+                        }
+                    ],
+                    "liName": "三奇村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大興村",
+                            "tboxNo": "0309",
+                            "tboxName": "大興村集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉大興村福興東路88號",
+                            "neighbor": "大興村"
+                        }
+                    ],
+                    "liName": "大興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東城村",
+                            "tboxNo": "0310",
+                            "tboxName": "東城社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉東城村東城路280號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "東城村",
+                            "tboxNo": "0311",
+                            "tboxName": "東興國小五育堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉東城村東城路316號",
+                            "neighbor": "8-15"
+                        }
+                    ],
+                    "liName": "東城村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "香和村",
+                            "tboxNo": "0312",
+                            "tboxName": "舊鄉立托兒所香和分班教室",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉香和村香和路138巷24號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "香和村",
+                            "tboxNo": "0313",
+                            "tboxName": "慈心華德福學生活動中心(迎心樓)",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉香和村照安路257號",
+                            "neighbor": "9,10,18,19"
+                        },
+                        {
+                            "ScopeLiName": "香和村",
+                            "tboxNo": "0314",
+                            "tboxName": "香和社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉香和村香南路33號",
+                            "neighbor": "11-17,20"
+                        }
+                    ],
+                    "liName": "香和村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南興村",
+                            "tboxNo": "0315",
+                            "tboxName": "南興社區活動中心(新)",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉南興村冬山路98之2號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "南興村",
+                            "tboxNo": "0316",
+                            "tboxName": "冬山國中學生活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉南興村照安路26號",
+                            "neighbor": "12-16"
+                        },
+                        {
+                            "ScopeLiName": "南興村",
+                            "tboxNo": "0317",
+                            "tboxName": "冬山國中學生活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉南興村照安路26號",
+                            "neighbor": "17-21"
+                        }
+                    ],
+                    "liName": "南興村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安平村",
+                            "tboxNo": "0318",
+                            "tboxName": "安平社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉安平村安平路23號",
+                            "neighbor": "安平村"
+                        }
+                    ],
+                    "liName": "安平村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "冬山村",
+                            "tboxNo": "0319",
+                            "tboxName": "冬山社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉冬山村中正路20號",
+                            "neighbor": "冬山村"
+                        }
+                    ],
+                    "liName": "冬山村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太和村",
+                            "tboxNo": "0320",
+                            "tboxName": "太和社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉太和村太和路238號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "太和村",
+                            "tboxNo": "0321",
+                            "tboxName": "太和永福宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉太和村太和路217號",
+                            "neighbor": "7-14"
+                        }
+                    ],
+                    "liName": "太和村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "八寶村",
+                            "tboxNo": "0322",
+                            "tboxName": "八寶社區老人休閒多功能活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉八寶村八寶路29號",
+                            "neighbor": "八寶村"
+                        }
+                    ],
+                    "liName": "八寶村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "丸山村",
+                            "tboxNo": "0323",
+                            "tboxName": "保安宮旁村集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉丸山村丸山路77號",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "丸山村",
+                            "tboxNo": "0324",
+                            "tboxName": "丸山社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉丸山村港尾路98號",
+                            "neighbor": "5-13"
+                        }
+                    ],
+                    "liName": "丸山村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山村",
+                            "tboxNo": "0325",
+                            "tboxName": "中山社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉中山村中山路260號",
+                            "neighbor": "中山村"
+                        }
+                    ],
+                    "liName": "中山村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "順安村",
+                            "tboxNo": "0326",
+                            "tboxName": "順安國小圖書館",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉順安村永興路二段17號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "順安村",
+                            "tboxNo": "0327",
+                            "tboxName": "順安國小活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉順安村永興路二段17號",
+                            "neighbor": "14-22"
+                        },
+                        {
+                            "ScopeLiName": "順安村",
+                            "tboxNo": "0328",
+                            "tboxName": "順安國小活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉順安村永興路二段17號",
+                            "neighbor": "23-33"
+                        },
+                        {
+                            "ScopeLiName": "順安村",
+                            "tboxNo": "0329",
+                            "tboxName": "順安國小活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉順安村永興路二段17號",
+                            "neighbor": "34-40"
+                        }
+                    ],
+                    "liName": "順安村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永美村",
+                            "tboxNo": "0330",
+                            "tboxName": "永美鎮安宮後倉庫",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉永美村永興路一段188號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "永美村",
+                            "tboxNo": "0331",
+                            "tboxName": "永美社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉永美村永興路一段189號",
+                            "neighbor": "9-17"
+                        },
+                        {
+                            "ScopeLiName": "永美村",
+                            "tboxNo": "0332",
+                            "tboxName": "永美鎮安宮左廂房",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉永美村永興路一段188號",
+                            "neighbor": "18-22"
+                        }
+                    ],
+                    "liName": "永美村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "武淵村",
+                            "tboxNo": "0333",
+                            "tboxName": "武淵國小(武淵堂)",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉武淵村富農路二段350號",
+                            "neighbor": "武淵村"
+                        }
+                    ],
+                    "liName": "武淵村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "群英村",
+                            "tboxNo": "0334",
+                            "tboxName": "鄉立幼兒園群英分班",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉群英村富英路158號",
+                            "neighbor": "1-4,6-7,11"
+                        },
+                        {
+                            "ScopeLiName": "群英村",
+                            "tboxNo": "0335",
+                            "tboxName": "群英社區活動中心旁廣場(光榮橋下)",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉群英村冬山路5段51號旁",
+                            "neighbor": "5,8,9,10,12-14,26-29"
+                        },
+                        {
+                            "ScopeLiName": "群英村",
+                            "tboxNo": "0336",
+                            "tboxName": "舊群英社區托兒所(昭靈宮旁)",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉群英村冬山路五段160號",
+                            "neighbor": "15-16,30-42,50-51"
+                        },
+                        {
+                            "ScopeLiName": "群英村",
+                            "tboxNo": "0337",
+                            "tboxName": "群英社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉群英村冬山路五段51號",
+                            "neighbor": "17-25,45-46,49,52-60"
+                        },
+                        {
+                            "ScopeLiName": "群英村",
+                            "tboxNo": "0338",
+                            "tboxName": "昭靈宮後方停車場",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉群英村冬山路五段162號",
+                            "neighbor": "43-44,47-48,61-71"
+                        }
+                    ],
+                    "liName": "群英村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "清溝村",
+                            "tboxNo": "0339",
+                            "tboxName": "清溝國小體育館",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉清溝村永清路369號",
+                            "neighbor": "1-10,31-34"
+                        },
+                        {
+                            "ScopeLiName": "清溝村",
+                            "tboxNo": "0340",
+                            "tboxName": "清溝社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉清溝村光明路51號",
+                            "neighbor": "11-20"
+                        },
+                        {
+                            "ScopeLiName": "清溝村",
+                            "tboxNo": "0341",
+                            "tboxName": "清溝社區發展協會",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉清溝村清溝路50號",
+                            "neighbor": "21-30"
+                        }
+                    ],
+                    "liName": "清溝村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹿埔村",
+                            "tboxNo": "0342",
+                            "tboxName": "鹿埔社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉鹿埔村鹿埔路488號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "鹿埔村",
+                            "tboxNo": "0343",
+                            "tboxName": "冬山鄉立老人文康活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉鹿埔村鹿埔路490號",
+                            "neighbor": "10-20"
+                        }
+                    ],
+                    "liName": "鹿埔村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "得安村",
+                            "tboxNo": "0344",
+                            "tboxName": "梅花社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉得安村下湖路398號",
+                            "neighbor": "得安村"
+                        }
+                    ],
+                    "liName": "得安村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣興村",
+                            "tboxNo": "0345",
+                            "tboxName": "廣興社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉廣興村永興路二段916號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "廣興村",
+                            "tboxNo": "0346",
+                            "tboxName": "廣興村集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉廣興村永興路二段921號",
+                            "neighbor": "12-22"
+                        }
+                    ],
+                    "liName": "廣興村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "廣安村",
+                            "tboxNo": "0347",
+                            "tboxName": "廣安福德宮旁空地",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉廣安村水井一路97號",
+                            "neighbor": "1-5,13"
+                        },
+                        {
+                            "ScopeLiName": "廣安村",
+                            "tboxNo": "0348",
+                            "tboxName": "廣安社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉廣安村廣安路195號",
+                            "neighbor": "6-12"
+                        }
+                    ],
+                    "liName": "廣安村"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柯林村",
+                            "tboxNo": "0349",
+                            "tboxName": "柯林國小活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉柯林村光華路158號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "柯林村",
+                            "tboxNo": "0350",
+                            "tboxName": "柯林社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉柯林村光華路209號",
+                            "neighbor": "8-14"
+                        }
+                    ],
+                    "liName": "柯林村"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大進村",
+                            "tboxNo": "0351",
+                            "tboxName": "大進進安宮",
+                            "geocode": null,
+                            "addr": "宜蘭縣冬山鄉大進村大進九路58號",
+                            "neighbor": "大進村"
+                        }
+                    ],
+                    "liName": "大進村"
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三興村",
+                            "tboxNo": "0352",
+                            "tboxName": "三興村集會所(開基灶君廟省民堂旁)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉三興村三興東路89號",
+                            "neighbor": "1-10,13-14"
+                        },
+                        {
+                            "ScopeLiName": "三興村",
+                            "tboxNo": "0353",
+                            "tboxName": "三興社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉三興村三結五路188號",
+                            "neighbor": "11-12,15-25"
+                        }
+                    ],
+                    "liName": "三興村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "二結村",
+                            "tboxNo": "0354",
+                            "tboxName": "學進國小大禮堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉二結村中正路三段151號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "二結村",
+                            "tboxNo": "0355",
+                            "tboxName": "二結社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉二結村中正路三段151號",
+                            "neighbor": "10-17"
+                        }
+                    ],
+                    "liName": "二結村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮安村",
+                            "tboxNo": "0356",
+                            "tboxName": "象集團一樓辦公室",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉鎮安村舊街一路158號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "鎮安村",
+                            "tboxNo": "0357",
+                            "tboxName": "鎮安長壽生活館(二結福德廟旁)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉鎮安村舊街一路136號",
+                            "neighbor": "8-12"
+                        },
+                        {
+                            "ScopeLiName": "鎮安村",
+                            "tboxNo": "0358",
+                            "tboxName": "二結庄生活文化廣場(鎮安社區活動中心)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉鎮安村舊街一路80號",
+                            "neighbor": "13-18"
+                        }
+                    ],
+                    "liName": "鎮安村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上四村",
+                            "tboxNo": "0359",
+                            "tboxName": "興中國中涵英樓",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉上四村中正東路50號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "上四村",
+                            "tboxNo": "0360",
+                            "tboxName": "上四社區老人活動中心(萬應廟後)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉上四村福德路97號",
+                            "neighbor": "12-19"
+                        }
+                    ],
+                    "liName": "上四村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中興村",
+                            "tboxNo": "0361",
+                            "tboxName": "中興社區貨櫃屋廣場",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉中興村中興路三段2號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "中興村",
+                            "tboxNo": "0362",
+                            "tboxName": "中興國小陶藝教室",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉四結村中興路三段67號",
+                            "neighbor": "9-17"
+                        }
+                    ],
+                    "liName": "中興村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "四結村",
+                            "tboxNo": "0363",
+                            "tboxName": "四結社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉四結村光榮北路198號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "四結村",
+                            "tboxNo": "0364",
+                            "tboxName": "中興國小禮堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉四結村中興路三段67號",
+                            "neighbor": "7-13"
+                        },
+                        {
+                            "ScopeLiName": "四結村",
+                            "tboxNo": "0365",
+                            "tboxName": "中興國小禮堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉四結村中興路三段67號",
+                            "neighbor": "14-20"
+                        }
+                    ],
+                    "liName": "四結村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0366",
+                            "tboxName": "正勉堂(掃笏廟)一樓",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉福興村興盛北路182巷16號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "福興村",
+                            "tboxNo": "0367",
+                            "tboxName": "福興社區活動中心(正勉堂旁)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉福興村興盛北路182巷16號",
+                            "neighbor": "9-20"
+                        }
+                    ],
+                    "liName": "福興村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五結村",
+                            "tboxNo": "0368",
+                            "tboxName": "五結數位機會中心(五結國小內)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉五結村五結中路二段88號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "五結村",
+                            "tboxNo": "0369",
+                            "tboxName": "五結國小五育館",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉五結村五結中路二段88號",
+                            "neighbor": "6-15"
+                        },
+                        {
+                            "ScopeLiName": "五結村",
+                            "tboxNo": "0370",
+                            "tboxName": "五結國小多功能教室",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉五結村五結中路二段88號",
+                            "neighbor": "21-29"
+                        },
+                        {
+                            "ScopeLiName": "五結村",
+                            "tboxNo": "0371",
+                            "tboxName": "國立宜蘭特殊教育學校活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉五結村國民中路22之20號",
+                            "neighbor": "16-20"
+                        }
+                    ],
+                    "liName": "五結村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "協和村",
+                            "tboxNo": "0372",
+                            "tboxName": "協和社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉協和村五結路二段199號",
+                            "neighbor": "1-3,7-8"
+                        },
+                        {
+                            "ScopeLiName": "協和村",
+                            "tboxNo": "0373",
+                            "tboxName": "景德宮右側會議室",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉協和村五結路二段197號",
+                            "neighbor": "4-6,9,11-13"
+                        },
+                        {
+                            "ScopeLiName": "協和村",
+                            "tboxNo": "0374",
+                            "tboxName": "福安宮香客休息室",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉協和村五結中路一段35號",
+                            "neighbor": "10,14-21"
+                        }
+                    ],
+                    "liName": "協和村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大吉村",
+                            "tboxNo": "0375",
+                            "tboxName": "五結國中總務處旁教室",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉大吉村大吉五路58號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "大吉村",
+                            "tboxNo": "0376",
+                            "tboxName": "五結國中五動館",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉大吉村大吉五路58號",
+                            "neighbor": "7-9,26"
+                        },
+                        {
+                            "ScopeLiName": "大吉村",
+                            "tboxNo": "0377",
+                            "tboxName": "大吉社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉大吉村大吉五路181巷10號",
+                            "neighbor": "10-16"
+                        },
+                        {
+                            "ScopeLiName": "大吉村",
+                            "tboxNo": "0378",
+                            "tboxName": "大吉社區三吉老人活動中心(靈惠廟前)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉大吉村三吉中路129號",
+                            "neighbor": "17-25"
+                        }
+                    ],
+                    "liName": "大吉村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "孝威村",
+                            "tboxNo": "0379",
+                            "tboxName": "孝威社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉孝威村孝威路322號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "孝威村",
+                            "tboxNo": "0380",
+                            "tboxName": "孝威社區活動中心(小)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉孝威村孝威路326號",
+                            "neighbor": "11-18"
+                        }
+                    ],
+                    "liName": "孝威村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "錦眾村",
+                            "tboxNo": "0381",
+                            "tboxName": "錦草社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉錦眾村錦草五路220巷18號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "錦眾村",
+                            "tboxNo": "0382",
+                            "tboxName": "大眾社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉錦眾村大眾三路360巷16號",
+                            "neighbor": "13-24"
+                        }
+                    ],
+                    "liName": "錦眾村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "利澤村",
+                            "tboxNo": "0383",
+                            "tboxName": "利澤社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉利澤村下福路156號",
+                            "neighbor": "6-16,19"
+                        },
+                        {
+                            "ScopeLiName": "利澤村",
+                            "tboxNo": "0384",
+                            "tboxName": "下福集會所(下福福德廟後)",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉利澤村利成路二段217之1號",
+                            "neighbor": "1-5,17-18,20-21"
+                        }
+                    ],
+                    "liName": "利澤村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成興村",
+                            "tboxNo": "0385",
+                            "tboxName": "成興社區老人活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣蘇澳鎮頂寮里頂寮路20巷2號",
+                            "neighbor": "1,11,13-17"
+                        },
+                        {
+                            "ScopeLiName": "成興村",
+                            "tboxNo": "0386",
+                            "tboxName": "五結鄉成興村老人福利中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉成興村利成路一段185號",
+                            "neighbor": "2-6,8-9,12"
+                        },
+                        {
+                            "ScopeLiName": "成興村",
+                            "tboxNo": "0387",
+                            "tboxName": "利澤國小松竹館",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉成興村利寶路101號",
+                            "neighbor": "7,10,18-24"
+                        }
+                    ],
+                    "liName": "成興村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "季新村",
+                            "tboxNo": "0388",
+                            "tboxName": "季新社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉季新村季水路北巷6之3號",
+                            "neighbor": "1-3,9-15"
+                        },
+                        {
+                            "ScopeLiName": "季新村",
+                            "tboxNo": "0389",
+                            "tboxName": "祈安宮一樓",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉季新村季水路51號",
+                            "neighbor": "4-8,27-32"
+                        },
+                        {
+                            "ScopeLiName": "季新村",
+                            "tboxNo": "0390",
+                            "tboxName": "新店集會所",
+                            "geocode": null,
+                            "addr": "宜蘭縣五結鄉季新村新店路97之1號",
+                            "neighbor": "16-26"
+                        }
+                    ],
+                    "liName": "季新村"
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "員山村",
+                            "tboxNo": "0391",
+                            "tboxName": "員山民眾活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉員山村泰雅一路203巷清水66號",
+                            "neighbor": "員山村"
+                        }
+                    ],
+                    "liName": "員山村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "天山村",
+                            "tboxNo": "0392",
+                            "tboxName": "福山寺福濟堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉天福村福山街117號",
+                            "neighbor": "天山村"
+                        }
+                    ],
+                    "liName": "天山村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "天福村",
+                            "tboxNo": "0393",
+                            "tboxName": "天送埤社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉天山村福山街30之1號",
+                            "neighbor": "天福村"
+                        }
+                    ],
+                    "liName": "天福村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬德村",
+                            "tboxNo": "0394",
+                            "tboxName": "萬德社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉萬德村楓林九路61號",
+                            "neighbor": "萬德村"
+                        }
+                    ],
+                    "liName": "萬德村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "貴林村",
+                            "tboxNo": "0395",
+                            "tboxName": "貴林民眾活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉貴林村照林路三段337號",
+                            "neighbor": "貴林村"
+                        }
+                    ],
+                    "liName": "貴林村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬富村",
+                            "tboxNo": "0396",
+                            "tboxName": "萬富社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉萬富村萬富五路300號",
+                            "neighbor": "萬富村"
+                        }
+                    ],
+                    "liName": "萬富村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "雙賢村",
+                            "tboxNo": "0397",
+                            "tboxName": "雙義社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉雙賢村三星路六段2巷22號",
+                            "neighbor": "雙賢村"
+                        }
+                    ],
+                    "liName": "雙賢村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "人和村",
+                            "tboxNo": "0398",
+                            "tboxName": "人和社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉人和村雙和中路92號",
+                            "neighbor": "人和村"
+                        }
+                    ],
+                    "liName": "人和村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "義德村",
+                            "tboxNo": "0399",
+                            "tboxName": "三星國小禮堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉義德村三星路五段86號",
+                            "neighbor": "義德村"
+                        }
+                    ],
+                    "liName": "義德村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "集慶村",
+                            "tboxNo": "0400",
+                            "tboxName": "三星鄉公所展演場",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉集慶村集義路168號",
+                            "neighbor": "集慶村"
+                        }
+                    ],
+                    "liName": "集慶村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "月眉村",
+                            "tboxNo": "0401",
+                            "tboxName": "三星國中體育館",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉月眉村星義路72號",
+                            "neighbor": "月眉村"
+                        }
+                    ],
+                    "liName": "月眉村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "拱照村",
+                            "tboxNo": "0402",
+                            "tboxName": "拱照社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉拱照村大湖二路8號",
+                            "neighbor": "拱照村"
+                        }
+                    ],
+                    "liName": "拱照村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "行健村",
+                            "tboxNo": "0403",
+                            "tboxName": "行健社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉行健村行健三路二段13號",
+                            "neighbor": "行健村"
+                        }
+                    ],
+                    "liName": "行健村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大隱村",
+                            "tboxNo": "0404",
+                            "tboxName": "大隱社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大隱村三星路一段533巷48號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "大隱村",
+                            "tboxNo": "0405",
+                            "tboxName": "大隱國小學生活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大隱村大隱中路347號",
+                            "neighbor": "8-13"
+                        },
+                        {
+                            "ScopeLiName": "大隱村",
+                            "tboxNo": "0406",
+                            "tboxName": "昭靈宮文教館",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大隱村大隱八路377號",
+                            "neighbor": "14-21"
+                        },
+                        {
+                            "ScopeLiName": "大隱村",
+                            "tboxNo": "0407",
+                            "tboxName": "大隱老人活動中心(尊親館)",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大隱村三星路二段99巷17弄68號",
+                            "neighbor": "22-28"
+                        }
+                    ],
+                    "liName": "大隱村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大義村",
+                            "tboxNo": "0408",
+                            "tboxName": "大義紫微宮長青食堂",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大義村上將路三段398巷28號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "大義村",
+                            "tboxNo": "0409",
+                            "tboxName": "大義社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大義村上將路三段375巷31號",
+                            "neighbor": "8-12"
+                        }
+                    ],
+                    "liName": "大義村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尚武村",
+                            "tboxNo": "0410",
+                            "tboxName": "尚武社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉尚武村中興路一段125號",
+                            "neighbor": "尚武村"
+                        }
+                    ],
+                    "liName": "尚武村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大洲村",
+                            "tboxNo": "0411",
+                            "tboxName": "大洲多功能建築館",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大洲村五分路二段180號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "大洲村",
+                            "tboxNo": "0412",
+                            "tboxName": "大洲社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉大洲村大洲原路17號",
+                            "neighbor": "7-17"
+                        }
+                    ],
+                    "liName": "大洲村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尾塹村",
+                            "tboxNo": "0413",
+                            "tboxName": "清洲鎮安宮會議室",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉尾塹村鎮安路28號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "尾塹村",
+                            "tboxNo": "0414",
+                            "tboxName": "尾塹社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣三星鄉尾塹村上將路一段249巷30號",
+                            "neighbor": "9-15"
+                        }
+                    ],
+                    "liName": "尾塹村"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寒溪村",
+                            "tboxNo": "0415",
+                            "tboxName": "寒溪社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉寒溪村寒溪巷5號2樓",
+                            "neighbor": "寒溪村"
+                        }
+                    ],
+                    "liName": "寒溪村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙埤村",
+                            "tboxNo": "0416",
+                            "tboxName": "崙埤社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉崙埤村朝陽10之8號",
+                            "neighbor": "崙埤村"
+                        }
+                    ],
+                    "liName": "崙埤村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松羅村",
+                            "tboxNo": "0417",
+                            "tboxName": "松羅社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉松羅村松羅南巷81之10號",
+                            "neighbor": "松羅村"
+                        }
+                    ],
+                    "liName": "松羅村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興村",
+                            "tboxNo": "0418",
+                            "tboxName": "復興社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉復興村泰雅一路61巷5號",
+                            "neighbor": "復興村"
+                        }
+                    ],
+                    "liName": "復興村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "英士村",
+                            "tboxNo": "0419",
+                            "tboxName": "英士社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉英士村梵梵90之5號",
+                            "neighbor": "英士村"
+                        }
+                    ],
+                    "liName": "英士村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樂水村",
+                            "tboxNo": "0420",
+                            "tboxName": "樂水社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉樂水村碼崙路46號2樓",
+                            "neighbor": "樂水村"
+                        }
+                    ],
+                    "liName": "樂水村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太平村",
+                            "tboxNo": "0421",
+                            "tboxName": "大同國中",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉太平村泰雅路4段35號",
+                            "neighbor": "太平村"
+                        }
+                    ],
+                    "liName": "太平村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "茂安村",
+                            "tboxNo": "0422",
+                            "tboxName": "茂安社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉茂安村泰雅路5段66號",
+                            "neighbor": "茂安村"
+                        }
+                    ],
+                    "liName": "茂安村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "四季村",
+                            "tboxNo": "0423",
+                            "tboxName": "四季社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉四季村和勳巷2號2樓",
+                            "neighbor": "四季村"
+                        }
+                    ],
+                    "liName": "四季村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南山村",
+                            "tboxNo": "0424",
+                            "tboxName": "南山社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣大同鄉南山村埤南巷9之1號",
+                            "neighbor": "南山村"
+                        }
+                    ],
+                    "liName": "南山村"
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東岳村",
+                            "tboxNo": "0425",
+                            "tboxName": "東澳國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣南澳鄉東岳村蘇花路3段209號",
+                            "neighbor": "東岳村"
+                        }
+                    ],
+                    "liName": "東岳村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南澳村",
+                            "tboxNo": "0426",
+                            "tboxName": "南澳國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣南澳鄉南澳村中正路15號",
+                            "neighbor": "南澳村"
+                        }
+                    ],
+                    "liName": "南澳村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "碧候村",
+                            "tboxNo": "0427",
+                            "tboxName": "碧候國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣南澳鄉碧候村碧候路自覺巷38號",
+                            "neighbor": "碧候村"
+                        }
+                    ],
+                    "liName": "碧候村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金岳村",
+                            "tboxNo": "0428",
+                            "tboxName": "金岳國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣南澳鄉金岳村金岳路2號",
+                            "neighbor": "金岳村"
+                        }
+                    ],
+                    "liName": "金岳村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "武塔村",
+                            "tboxNo": "0429",
+                            "tboxName": "武塔社區活動中心",
+                            "geocode": null,
+                            "addr": "宜蘭縣南澳鄉武塔村新溪路温泉巷7之3號",
+                            "neighbor": "武塔村"
+                        }
+                    ],
+                    "liName": "武塔村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金洋村",
+                            "tboxNo": "0430",
+                            "tboxName": "金洋國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣南澳鄉金洋村金洋路11號",
+                            "neighbor": "金洋村"
+                        }
+                    ],
+                    "liName": "金洋村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "澳花村",
+                            "tboxNo": "0431",
+                            "tboxName": "澳花國民小學",
+                            "geocode": null,
+                            "addr": "宜蘭縣南澳鄉澳花村中央路19號",
+                            "neighbor": "澳花村"
+                        }
+                    ],
+                    "liName": "澳花村"
+                }
+            ],
+            "deptCode": "120"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "彰化縣第1選舉區",
+            "cands": [
+                {
+                    "area": "彰化縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000011.jpg",
+                    "gender": "女",
+                    "name": "陳秀寳",
+                    "birth": "0611011",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000012.jpg",
+                    "gender": "男",
+                    "name": "蘇群傑",
+                    "birth": "0690710",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000013.jpg",
+                    "gender": "男",
+                    "name": "阮厚爵",
+                    "birth": "0591106",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "彰化縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "彰化縣第2選舉區",
+            "cands": [
+                {
+                    "area": "彰化縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000021.jpg",
+                    "gender": "女",
+                    "name": "黃秀芳",
+                    "birth": "0601110",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000022.jpg",
+                    "gender": "男",
+                    "name": "楊曜聰",
+                    "birth": "0610913",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "彰化縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "03",
+            "areaName": "彰化縣第3選舉區",
+            "cands": [
+                {
+                    "area": "彰化縣第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000031.jpg",
+                    "gender": "男",
+                    "name": "洪建興",
+                    "birth": "0680206",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000032.jpg",
+                    "gender": "女",
+                    "name": "謝衣鳯",
+                    "birth": "0660712",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000033.jpg",
+                    "gender": "女",
+                    "name": "吳音寧",
+                    "birth": "0610627",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000034.jpg",
+                    "gender": "女",
+                    "name": "桂麗娜",
+                    "birth": "0631013",
+                    "type": "L1",
+                    "party": "中華統一促進黨",
+                    "candNo": 4,
+                    "home": "南京市"
+                }
+            ]
+        },
+        {
+            "areaCode": "04",
+            "areaName": "彰化縣第4選舉區",
+            "cands": [
+                {
+                    "area": "彰化縣第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000041.jpg",
+                    "gender": "男",
+                    "name": "鄭錫懋",
+                    "birth": "0691121",
+                    "type": "L1",
+                    "party": "臺灣雙語無法黨",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000042.jpg",
+                    "gender": "男",
+                    "name": "鄭俊雄",
+                    "birth": "0500122",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "彰化縣第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000043.jpg",
+                    "gender": "女",
+                    "name": "陳素月",
+                    "birth": "0550118",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "南投縣"
+                },
+                {
+                    "area": "彰化縣第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10007\/10007000000044.jpg",
+                    "gender": "男",
+                    "name": "蔡念諶",
+                    "birth": "0841113",
+                    "type": "L1",
+                    "party": "中華文化共和黨",
+                    "candNo": 4,
+                    "home": "彰化縣"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "嘉義縣第1選舉區",
+            "cands": [
+                {
+                    "area": "嘉義縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10010\/10010000000011.jpg",
+                    "gender": "女",
+                    "name": "詹琬蓁",
+                    "birth": "0660322",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "嘉義縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10010\/10010000000012.jpg",
+                    "gender": "男",
+                    "name": "蔡易餘",
+                    "birth": "0700314",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "嘉義市"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "嘉義縣第2選舉區",
+            "cands": [
+                {
+                    "area": "嘉義縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10010\/10010000000021.jpg",
+                    "gender": "女",
+                    "name": "廖昱婧",
+                    "birth": "0670211",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "湖南省"
+                },
+                {
+                    "area": "嘉義縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10010\/10010000000022.jpg",
+                    "gender": "男",
+                    "name": "簡銘傑",
+                    "birth": "0780723",
+                    "type": "L1",
+                    "party": "制度救世島",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "嘉義縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10010\/10010000000023.jpg",
+                    "gender": "男",
+                    "name": "林國慶",
+                    "birth": "0541102",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 3,
+                    "home": "嘉義縣"
+                },
+                {
+                    "area": "嘉義縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10010\/10010000000024.jpg",
+                    "gender": "男",
+                    "name": "黃一哲",
+                    "birth": "0521113",
+                    "type": "L1",
+                    "party": "台灣維新",
+                    "candNo": 4,
+                    "home": "嘉義縣"
+                },
+                {
+                    "area": "嘉義縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10010\/10010000000025.jpg",
+                    "gender": "男",
+                    "name": "陳冠廷",
+                    "birth": "0750405",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 5,
+                    "home": "嘉義市"
+                }
+            ]
+        }
+    ]
+}

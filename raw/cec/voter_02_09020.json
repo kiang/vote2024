@@ -1,0 +1,515 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "珠沙里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "珠沙里"
+                        }
+                    ],
+                    "liName": "珠沙里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "賢庵里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "賢庵里"
+                        }
+                    ],
+                    "liName": "賢庵里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金水里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "金水里"
+                        }
+                    ],
+                    "liName": "金水里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古城里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "古城里"
+                        }
+                    ],
+                    "liName": "古城里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北門里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "北門里"
+                        }
+                    ],
+                    "liName": "北門里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南門里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "南門里"
+                        }
+                    ],
+                    "liName": "南門里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西門里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "西門里"
+                        }
+                    ],
+                    "liName": "西門里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東門里",
+                            "tboxNo": "0017",
+                            "tboxName": "浯江書院",
+                            "addr": "金門縣金城鎮北門里珠浦北路36號",
+                            "neighbor": "東門里"
+                        }
+                    ],
+                    "liName": "東門里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "盤山村",
+                            "tboxNo": "0031",
+                            "tboxName": "安美村辦公處",
+                            "addr": "金門縣金寧鄉安美村安岐60之9號1樓",
+                            "neighbor": "盤山村"
+                        }
+                    ],
+                    "liName": "盤山村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "后盤村",
+                            "tboxNo": "0031",
+                            "tboxName": "安美村辦公處",
+                            "addr": "金門縣金寧鄉安美村安岐60之9號1樓",
+                            "neighbor": "后盤村"
+                        }
+                    ],
+                    "liName": "后盤村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榜林村",
+                            "tboxNo": "0031",
+                            "tboxName": "安美村辦公處",
+                            "addr": "金門縣金寧鄉安美村安岐60之9號1樓",
+                            "neighbor": "榜林村"
+                        }
+                    ],
+                    "liName": "榜林村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖埔村",
+                            "tboxNo": "0031",
+                            "tboxName": "安美村辦公處",
+                            "addr": "金門縣金寧鄉安美村安岐60之9號1樓",
+                            "neighbor": "湖埔村"
+                        }
+                    ],
+                    "liName": "湖埔村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古寧村",
+                            "tboxNo": "0031",
+                            "tboxName": "安美村辦公處",
+                            "addr": "金門縣金寧鄉安美村安岐60之9號1樓",
+                            "neighbor": "古寧村"
+                        }
+                    ],
+                    "liName": "古寧村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安美村",
+                            "tboxNo": "0031",
+                            "tboxName": "安美村辦公處",
+                            "addr": "金門縣金寧鄉安美村安岐60之9號1樓",
+                            "neighbor": "安美村"
+                        }
+                    ],
+                    "liName": "安美村"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上岐村",
+                            "tboxNo": "0052",
+                            "tboxName": "林湖村辦公處",
+                            "addr": "金門縣烈嶼鄉林湖村東林24號",
+                            "neighbor": "上岐村"
+                        }
+                    ],
+                    "liName": "上岐村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林湖村",
+                            "tboxNo": "0052",
+                            "tboxName": "林湖村辦公處",
+                            "addr": "金門縣烈嶼鄉林湖村東林24號",
+                            "neighbor": "林湖村"
+                        }
+                    ],
+                    "liName": "林湖村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西口村",
+                            "tboxNo": "0052",
+                            "tboxName": "林湖村辦公處",
+                            "addr": "金門縣烈嶼鄉林湖村東林24號",
+                            "neighbor": "西口村"
+                        }
+                    ],
+                    "liName": "西口村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "上林村",
+                            "tboxNo": "0052",
+                            "tboxName": "林湖村辦公處",
+                            "addr": "金門縣烈嶼鄉林湖村東林24號",
+                            "neighbor": "上林村"
+                        }
+                    ],
+                    "liName": "上林村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "黃埔村",
+                            "tboxNo": "0052",
+                            "tboxName": "林湖村辦公處",
+                            "addr": "金門縣烈嶼鄉林湖村東林24號",
+                            "neighbor": "黃埔村"
+                        }
+                    ],
+                    "liName": "黃埔村"
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大坵村",
+                            "tboxNo": "0060",
+                            "tboxName": "大坵村活動中心",
+                            "addr": "金門縣烏坵鄉大坵村1號",
+                            "neighbor": "大坵村"
+                        }
+                    ],
+                    "liName": "大坵村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "小坵村",
+                            "tboxNo": "0060",
+                            "tboxName": "大坵村活動中心",
+                            "addr": "金門縣烏坵鄉大坵村1號",
+                            "neighbor": "小坵村"
+                        }
+                    ],
+                    "liName": "小坵村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瓊林里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "瓊林里"
+                        }
+                    ],
+                    "liName": "瓊林里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "料羅里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "料羅里"
+                        }
+                    ],
+                    "liName": "料羅里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "正義里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "正義里"
+                        }
+                    ],
+                    "liName": "正義里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山外里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "山外里"
+                        }
+                    ],
+                    "liName": "山外里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新市里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "新市里"
+                        }
+                    ],
+                    "liName": "新市里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "蓮庵里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "蓮庵里"
+                        }
+                    ],
+                    "liName": "蓮庵里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪湖里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "溪湖里"
+                        }
+                    ],
+                    "liName": "溪湖里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新湖里",
+                            "tboxNo": "0062",
+                            "tboxName": "金湖國小(多功能教室一)",
+                            "addr": "金門縣金湖鎮新市里林森路12號",
+                            "neighbor": "新湖里"
+                        }
+                    ],
+                    "liName": "新湖里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "官嶼里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "官嶼里"
+                        }
+                    ],
+                    "liName": "官嶼里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大洋里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "大洋里"
+                        }
+                    ],
+                    "liName": "大洋里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "浦山里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "浦山里"
+                        }
+                    ],
+                    "liName": "浦山里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三山里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "三山里"
+                        }
+                    ],
+                    "liName": "三山里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "何斗里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "何斗里"
+                        }
+                    ],
+                    "liName": "何斗里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "汶沙里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "汶沙里"
+                        }
+                    ],
+                    "liName": "汶沙里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西園里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "西園里"
+                        }
+                    ],
+                    "liName": "西園里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光前里",
+                            "tboxNo": "0080",
+                            "tboxName": "金沙國小一年甲班",
+                            "addr": "金門縣金沙鎮汶沙里后浦頭117號",
+                            "neighbor": "光前里"
+                        }
+                    ],
+                    "liName": "光前里"
+                }
+            ],
+            "deptCode": "020"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "雲林縣第1選舉區",
+            "cands": [
+                {
+                    "area": "雲林縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000011.jpg",
+                    "gender": "男",
+                    "name": "郭炳宏",
+                    "birth": "0870522",
+                    "type": "L1",
+                    "party": "中華統一促進黨",
+                    "candNo": 1,
+                    "home": "雲林縣"
+                },
+                {
+                    "area": "雲林縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000012.jpg",
+                    "gender": "男",
+                    "name": "吳炳輝",
+                    "birth": "0561201",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "雲林縣"
+                },
+                {
+                    "area": "雲林縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000013.jpg",
+                    "gender": "女",
+                    "name": "蘇治芬",
+                    "birth": "0420710",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "雲林縣"
+                },
+                {
+                    "area": "雲林縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000014.jpg",
+                    "gender": "女",
+                    "name": "李昭儀",
+                    "birth": "0740829",
+                    "type": "L1",
+                    "party": "台灣革命黨",
+                    "candNo": 4,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "雲林縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000015.jpg",
+                    "gender": "男",
+                    "name": "丁學忠",
+                    "birth": "0590628",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 5,
+                    "home": "雲林縣"
+                },
+                {
+                    "area": "雲林縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000016.jpg",
+                    "gender": "男",
+                    "name": "陳俊龍",
+                    "birth": "0580704",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 6,
+                    "home": "雲林縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "雲林縣第2選舉區",
+            "cands": [
+                {
+                    "area": "雲林縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000021.jpg",
+                    "gender": "男",
+                    "name": "劉建國",
+                    "birth": "0580309",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "雲林縣"
+                },
+                {
+                    "area": "雲林縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10009\/10009000000022.jpg",
+                    "gender": "男",
+                    "name": "邱良閱",
+                    "birth": "0710507",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "高雄市"
+                }
+            ]
+        }
+    ]
+}

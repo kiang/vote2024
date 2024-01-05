@@ -1,0 +1,64 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "苗栗縣第1選舉區",
+            "cands": [
+                {
+                    "area": "苗栗縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10005\/10005000000011.jpg",
+                    "gender": "男",
+                    "name": "康世明",
+                    "birth": "0581126",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "苗栗縣"
+                },
+                {
+                    "area": "苗栗縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10005\/10005000000012.jpg",
+                    "gender": "男",
+                    "name": "陳超明",
+                    "birth": "0401217",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "苗栗縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "苗栗縣第2選舉區",
+            "cands": [
+                {
+                    "area": "苗栗縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10005\/10005000000021.jpg",
+                    "gender": "男",
+                    "name": "邱鎮軍",
+                    "birth": "0601207",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "新北市"
+                },
+                {
+                    "area": "苗栗縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10005\/10005000000022.jpg",
+                    "gender": "男",
+                    "name": "曾玟學",
+                    "birth": "0761219",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "臺北市"
+                }
+            ]
+        }
+    ]
+}

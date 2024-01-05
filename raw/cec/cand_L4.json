@@ -1,0 +1,1403 @@
+{
+    "L4": [
+        {
+            "politics": "",
+            "img": "party\/357.jpg",
+            "partyName": "小民參政歐巴桑聯盟",
+            "partyUni": "357",
+            "partyNo": 1,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "高芸婷",
+                    "birth": "0650711",
+                    "candNo": 1,
+                    "home": "基隆市"
+                },
+                {
+                    "gender": "女",
+                    "name": "林詩涵",
+                    "birth": "0701101",
+                    "candNo": 2,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "女",
+                    "name": "閔柏陵",
+                    "birth": "0691209",
+                    "candNo": 3,
+                    "home": "基隆市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/079.jpg",
+            "partyName": "台灣綠黨",
+            "partyUni": "079",
+            "partyNo": 2,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "鍾寶珠",
+                    "birth": "0550203",
+                    "candNo": 1,
+                    "home": "花蓮縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "李菁琪",
+                    "birth": "0770402",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "黃柔嘉",
+                    "birth": "0801016",
+                    "candNo": 3,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "吳伊婷",
+                    "birth": "0750112",
+                    "candNo": 4,
+                    "home": "香港"
+                },
+                {
+                    "gender": "女",
+                    "name": "希婻·瑪飛洑Sinan·Mavivo",
+                    "birth": "0620616",
+                    "candNo": 5,
+                    "home": "臺東縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "林莉棻",
+                    "birth": "0550311",
+                    "candNo": 6,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "黃慧芬",
+                    "birth": "0581130",
+                    "candNo": 7,
+                    "home": "桃園市"
+                },
+                {
+                    "gender": "女",
+                    "name": "張竹芩",
+                    "birth": "0740110",
+                    "candNo": 8,
+                    "home": "桃園市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/366.jpg",
+            "partyName": "臺灣雙語無法黨",
+            "partyUni": "366",
+            "partyNo": 3,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "陳亭諭",
+                    "birth": "0770314",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "蕭文乾",
+                    "birth": "0630927",
+                    "candNo": 2,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/303.jpg",
+            "partyName": "台灣基進",
+            "partyUni": "303",
+            "partyNo": 4,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "史惟筑",
+                    "birth": "0680504",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳奕齊",
+                    "birth": "0610827",
+                    "candNo": 2,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "黃楓茹",
+                    "birth": "0690902",
+                    "candNo": 3,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳君愷",
+                    "birth": "0540310",
+                    "candNo": 4,
+                    "home": "日本"
+                },
+                {
+                    "gender": "女",
+                    "name": "楊佩樺",
+                    "birth": "0810123",
+                    "candNo": 5,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "黃馨瑩",
+                    "birth": "0750109",
+                    "candNo": 6,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "徐煊博",
+                    "birth": "0791101",
+                    "candNo": 7,
+                    "home": "臺中市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/113.jpg",
+            "partyName": "中華統一促進黨",
+            "partyUni": "113",
+            "partyNo": 5,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "男",
+                    "name": "丁炳仁",
+                    "birth": "0480328",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "黃妙如",
+                    "birth": "0480210",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "肖云霞",
+                    "birth": "0580302",
+                    "candNo": 3,
+                    "home": "湖南省"
+                },
+                {
+                    "gender": "男",
+                    "name": "張安樂",
+                    "birth": "0370313",
+                    "candNo": 4,
+                    "home": "南京市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/016.jpg",
+            "partyName": "民主進步黨",
+            "partyUni": "016",
+            "partyNo": 6,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "林月琴",
+                    "birth": "0540904",
+                    "candNo": 1,
+                    "home": "苗栗縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "沈伯洋",
+                    "birth": "0710607",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "張雅琳",
+                    "birth": "0690829",
+                    "candNo": 3,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "洪申翰",
+                    "birth": "0731018",
+                    "candNo": 4,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "羅美玲",
+                    "birth": "0580501",
+                    "candNo": 5,
+                    "home": "馬來西亞"
+                },
+                {
+                    "gender": "男",
+                    "name": "游錫堃",
+                    "birth": "0370425",
+                    "candNo": 6,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "范雲",
+                    "birth": "0570709",
+                    "candNo": 7,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "柯建銘",
+                    "birth": "0400908",
+                    "candNo": 8,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "男",
+                    "name": "沈發惠",
+                    "birth": "0551102",
+                    "candNo": 9,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "莊瑞雄",
+                    "birth": "0520420",
+                    "candNo": 10,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "林楚茵",
+                    "birth": "0611010",
+                    "candNo": 11,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "郭昱晴",
+                    "birth": "0590329",
+                    "candNo": 12,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "王正旭",
+                    "birth": "0450820",
+                    "candNo": 13,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "王義川",
+                    "birth": "0610307",
+                    "candNo": 14,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳培瑜",
+                    "birth": "0660809",
+                    "candNo": 15,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳俊翰",
+                    "birth": "0720615",
+                    "candNo": 16,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "女",
+                    "name": "張秀君",
+                    "birth": "0540305",
+                    "candNo": 17,
+                    "home": "南投縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "黃奕睿",
+                    "birth": "0560721",
+                    "candNo": 18,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "男",
+                    "name": "孫一信",
+                    "birth": "0571129",
+                    "candNo": 19,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "吳祥榮",
+                    "birth": "0510207",
+                    "candNo": 20,
+                    "home": "雲林縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳慧君 Mulas·Ismahasan",
+                    "birth": "0740122",
+                    "candNo": 21,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "柯富揚",
+                    "birth": "0590101",
+                    "candNo": 22,
+                    "home": "彰化縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "劉柏君",
+                    "birth": "0680810",
+                    "candNo": 23,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "石明謹",
+                    "birth": "0650125",
+                    "candNo": 24,
+                    "home": "基隆市"
+                },
+                {
+                    "gender": "女",
+                    "name": "曾美玲",
+                    "birth": "0620311",
+                    "candNo": 25,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "黃真瑋",
+                    "birth": "0661203",
+                    "candNo": 26,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "女",
+                    "name": "曾湘樺",
+                    "birth": "0761006",
+                    "candNo": 27,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "鄭力嘉",
+                    "birth": "0640628",
+                    "candNo": 28,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳右欣",
+                    "birth": "0760215",
+                    "candNo": 29,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "女",
+                    "name": "余宛如",
+                    "birth": "0690611",
+                    "candNo": 30,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "許菡芸",
+                    "birth": "0810427",
+                    "candNo": 31,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "周威佑",
+                    "birth": "0510915",
+                    "candNo": 32,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "女",
+                    "name": "廖韶吟",
+                    "birth": "0610803",
+                    "candNo": 33,
+                    "home": "雲林縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "蔡宜文",
+                    "birth": "0771019",
+                    "candNo": 34,
+                    "home": "新竹市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/195.jpg",
+            "partyName": "制度救世島",
+            "partyUni": "195",
+            "partyNo": 7,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "林麗容",
+                    "birth": "0431013",
+                    "candNo": 1,
+                    "home": "嘉義市"
+                },
+                {
+                    "gender": "男",
+                    "name": "石人仁",
+                    "birth": "0480616",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "張怡菁",
+                    "birth": "0640820",
+                    "candNo": 3,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "古文發",
+                    "birth": "0570702",
+                    "candNo": 4,
+                    "home": "苗栗縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "黃千明",
+                    "birth": "0311007",
+                    "candNo": 5,
+                    "home": "宜蘭縣"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/267.jpg",
+            "partyName": "時代力量",
+            "partyUni": "267",
+            "partyNo": 8,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "林依瑩",
+                    "birth": "0621230",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "王寶萱",
+                    "birth": "0710207",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "宋國鼎",
+                    "birth": "0700122",
+                    "candNo": 3,
+                    "home": "苗栗縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "江盛",
+                    "birth": "0490217",
+                    "candNo": 4,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳泰源",
+                    "birth": "0721223",
+                    "candNo": 5,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳昱安",
+                    "birth": "0790402",
+                    "candNo": 6,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "余佳蒨",
+                    "birth": "0760416",
+                    "candNo": 7,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "女",
+                    "name": "鄭侑青",
+                    "birth": "0780405",
+                    "candNo": 8,
+                    "home": "高雄市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/001.jpg",
+            "partyName": "中國國民黨",
+            "partyUni": "001",
+            "partyNo": 9,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "男",
+                    "name": "韓國瑜",
+                    "birth": "0460617",
+                    "candNo": 1,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "柯志恩",
+                    "birth": "0510429",
+                    "candNo": 2,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "葛如鈞",
+                    "birth": "0700728",
+                    "candNo": 3,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "翁曉玲",
+                    "birth": "0580118",
+                    "candNo": 4,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳菁徽",
+                    "birth": "0680420",
+                    "candNo": 5,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "吳宗憲",
+                    "birth": "0600927",
+                    "candNo": 6,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "林倩綺",
+                    "birth": "0571017",
+                    "candNo": 7,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳永康",
+                    "birth": "0400420",
+                    "candNo": 8,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "許宇甄",
+                    "birth": "0571020",
+                    "candNo": 9,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "謝龍介",
+                    "birth": "0501003",
+                    "candNo": 10,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "男",
+                    "name": "蘇清泉",
+                    "birth": "0460805",
+                    "candNo": 11,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "張嘉郡",
+                    "birth": "0700110",
+                    "candNo": 12,
+                    "home": "雲林縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "王育敏",
+                    "birth": "0600411",
+                    "candNo": 13,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "蔡明忠",
+                    "birth": "0481209",
+                    "candNo": 14,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "女",
+                    "name": "吳亮儀",
+                    "birth": "0800621",
+                    "candNo": 15,
+                    "home": "南非"
+                },
+                {
+                    "gender": "女",
+                    "name": "李玉嬋",
+                    "birth": "0540226",
+                    "candNo": 16,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "女",
+                    "name": "李霞",
+                    "birth": "0590525",
+                    "candNo": 17,
+                    "home": "福建省"
+                },
+                {
+                    "gender": "男",
+                    "name": "楊應超",
+                    "birth": "0560506",
+                    "candNo": 18,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "徐弘庭",
+                    "birth": "0710621",
+                    "candNo": 19,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "鍾沛君",
+                    "birth": "0731210",
+                    "candNo": 20,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "江怡臻",
+                    "birth": "0711107",
+                    "candNo": 21,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "簡榮宗",
+                    "birth": "0630407",
+                    "candNo": 22,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "田長沛",
+                    "birth": "0751021",
+                    "candNo": 23,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "沈采穎",
+                    "birth": "0500107",
+                    "candNo": 24,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "林瓊嘉",
+                    "birth": "0490306",
+                    "candNo": 25,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳克威",
+                    "birth": "0690825",
+                    "candNo": 26,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "邱一峰",
+                    "birth": "0710812",
+                    "candNo": 27,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "女",
+                    "name": "廖怡琇",
+                    "birth": "0730326",
+                    "candNo": 28,
+                    "home": "南投縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "李縉穎",
+                    "birth": "0740108",
+                    "candNo": 29,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "李茂芊",
+                    "birth": "0791024",
+                    "candNo": 30,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "丁瑀",
+                    "birth": "0800619",
+                    "candNo": 31,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "楊智伃",
+                    "birth": "0850527",
+                    "candNo": 32,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "何嘉霖",
+                    "birth": "0880618",
+                    "candNo": 33,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "康晉瑜",
+                    "birth": "0890224",
+                    "candNo": 34,
+                    "home": "臺中市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/382.jpg",
+            "partyName": "司法改革黨",
+            "partyUni": "382",
+            "partyNo": 10,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "戴翊如",
+                    "birth": "0770402",
+                    "candNo": 1,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "男",
+                    "name": "張靜",
+                    "birth": "0450527",
+                    "candNo": 2,
+                    "home": "桃園市"
+                },
+                {
+                    "gender": "男",
+                    "name": "李柏融",
+                    "birth": "0381102",
+                    "candNo": 3,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "尤瑞敏",
+                    "birth": "0530810",
+                    "candNo": 4,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "賴伯琦",
+                    "birth": "0570917",
+                    "candNo": 5,
+                    "home": "南投縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "吳振槖",
+                    "birth": "0380627",
+                    "candNo": 6,
+                    "home": "桃園市"
+                },
+                {
+                    "gender": "男",
+                    "name": "晏揚清",
+                    "birth": "0480103",
+                    "candNo": 7,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "女",
+                    "name": "許韶珍",
+                    "birth": "0580915",
+                    "candNo": 8,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "楊啓珊",
+                    "birth": "0590205",
+                    "candNo": 9,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/074.jpg",
+            "partyName": "新黨",
+            "partyUni": "074",
+            "partyNo": 11,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "男",
+                    "name": "王建煊",
+                    "birth": "0270807",
+                    "candNo": 1,
+                    "home": "安徽省"
+                },
+                {
+                    "gender": "女",
+                    "name": "仉桂美",
+                    "birth": "0440315",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "吳成典",
+                    "birth": "0460510",
+                    "candNo": 3,
+                    "home": "福建省"
+                },
+                {
+                    "gender": "女",
+                    "name": "賀樺",
+                    "birth": "0610904",
+                    "candNo": 4,
+                    "home": "湖南省"
+                },
+                {
+                    "gender": "男",
+                    "name": "林易陞",
+                    "birth": "0450730",
+                    "candNo": 5,
+                    "home": "彰化縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳麗玲",
+                    "birth": "0580727",
+                    "candNo": 6,
+                    "home": "桃園市"
+                },
+                {
+                    "gender": "男",
+                    "name": "戴德滿",
+                    "birth": "0481120",
+                    "candNo": 7,
+                    "home": "福建省"
+                },
+                {
+                    "gender": "女",
+                    "name": "王子芩",
+                    "birth": "0700220",
+                    "candNo": 8,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/350.jpg",
+            "partyName": "台灣民眾黨",
+            "partyUni": "350",
+            "partyNo": 12,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "黃珊珊",
+                    "birth": "0581018",
+                    "candNo": 1,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "男",
+                    "name": "黃國昌",
+                    "birth": "0620819",
+                    "candNo": 2,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳昭姿",
+                    "birth": "0450903",
+                    "candNo": 3,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "吳春城",
+                    "birth": "0500818",
+                    "candNo": 4,
+                    "home": "彰化縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "麥玉珍",
+                    "birth": "0621014",
+                    "candNo": 5,
+                    "home": "越南"
+                },
+                {
+                    "gender": "男",
+                    "name": "林國成",
+                    "birth": "0460820",
+                    "candNo": 6,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "林憶君",
+                    "birth": "0591004",
+                    "candNo": 7,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "張啓楷",
+                    "birth": "0511221",
+                    "candNo": 8,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "劉書彬",
+                    "birth": "0570530",
+                    "candNo": 9,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "洪毓祥",
+                    "birth": "0571020",
+                    "candNo": 10,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "蔡春綢",
+                    "birth": "0490113",
+                    "candNo": 11,
+                    "home": "雲林縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "王安祥",
+                    "birth": "0570123",
+                    "candNo": 12,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "邱慧洳",
+                    "birth": "0630112",
+                    "candNo": 13,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "陳清龍",
+                    "birth": "0540329",
+                    "candNo": 14,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "女",
+                    "name": "李貞秀",
+                    "birth": "0620415",
+                    "candNo": 15,
+                    "home": "湖南省"
+                },
+                {
+                    "gender": "男",
+                    "name": "許忠信",
+                    "birth": "0540601",
+                    "candNo": 16,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "女",
+                    "name": "徐瑞希",
+                    "birth": "0511211",
+                    "candNo": 17,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "男",
+                    "name": "楊弘意",
+                    "birth": "0750803",
+                    "candNo": 18,
+                    "home": "彰化縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳智菡",
+                    "birth": "0681208",
+                    "candNo": 19,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "莊貽量",
+                    "birth": "0620125",
+                    "candNo": 20,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "林筱淇",
+                    "birth": "0670413",
+                    "candNo": 21,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "蔡豐州",
+                    "birth": "0571224",
+                    "candNo": 22,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "女",
+                    "name": "張雪如",
+                    "birth": "0550513",
+                    "candNo": 23,
+                    "home": "彰化縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "湯宏正",
+                    "birth": "0711025",
+                    "candNo": 24,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "女",
+                    "name": "林淑芬",
+                    "birth": "0571014",
+                    "candNo": 25,
+                    "home": "雲林縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "梁明輝",
+                    "birth": "0450907",
+                    "candNo": 26,
+                    "home": "屏東縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "廖維欣",
+                    "birth": "0620924",
+                    "candNo": 27,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "男",
+                    "name": "馮啟彥",
+                    "birth": "0590612",
+                    "candNo": 28,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "女",
+                    "name": "林子宇",
+                    "birth": "0840906",
+                    "candNo": 29,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "gender": "男",
+                    "name": "張清俊",
+                    "birth": "0740609",
+                    "candNo": 30,
+                    "home": "桃園市"
+                },
+                {
+                    "gender": "女",
+                    "name": "林治華",
+                    "birth": "0761210",
+                    "candNo": 31,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "李家豪",
+                    "birth": "0730919",
+                    "candNo": 32,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "邱于珊",
+                    "birth": "0510225",
+                    "candNo": 33,
+                    "home": "高雄市"
+                },
+                {
+                    "gender": "男",
+                    "name": "周榆修",
+                    "birth": "0660407",
+                    "candNo": 34,
+                    "home": "臺中市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/356.jpg",
+            "partyName": "台灣維新",
+            "partyUni": "356",
+            "partyNo": 13,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "男",
+                    "name": "蘇煥智",
+                    "birth": "0450720",
+                    "candNo": 1,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "女",
+                    "name": "劉亦恩",
+                    "birth": "0590928",
+                    "candNo": 2,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "江映瑤",
+                    "birth": "0510111",
+                    "candNo": 3,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/090.jpg",
+            "partyName": "親民黨",
+            "partyUni": "090",
+            "partyNo": 14,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "男",
+                    "name": "李桐豪",
+                    "birth": "0441007",
+                    "candNo": 1,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "女",
+                    "name": "陳怡潔",
+                    "birth": "0680909",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "曲兆祥",
+                    "birth": "0450104",
+                    "candNo": 3,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "女",
+                    "name": "何偉真",
+                    "birth": "0400104",
+                    "candNo": 4,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "男",
+                    "name": "簡泰河",
+                    "birth": "0430701",
+                    "candNo": 5,
+                    "home": "嘉義縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "藍志玟",
+                    "birth": "0620913",
+                    "candNo": 6,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "吳建德",
+                    "birth": "0850915",
+                    "candNo": 7,
+                    "home": "臺中市"
+                },
+                {
+                    "gender": "女",
+                    "name": "黎淑慧",
+                    "birth": "0491110",
+                    "candNo": 8,
+                    "home": "新竹市"
+                },
+                {
+                    "gender": "女",
+                    "name": "孫信君",
+                    "birth": "0500117",
+                    "candNo": 9,
+                    "home": "臺南市"
+                },
+                {
+                    "gender": "男",
+                    "name": "黎建南",
+                    "birth": "0390718",
+                    "candNo": 10,
+                    "home": "越南"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/153.jpg",
+            "partyName": "人民最大黨",
+            "partyUni": "153",
+            "partyNo": 15,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "男",
+                    "name": "林東雄",
+                    "birth": "0320628",
+                    "candNo": 1,
+                    "home": "雲林縣"
+                },
+                {
+                    "gender": "女",
+                    "name": "賴方靜靜",
+                    "birth": "0311111",
+                    "candNo": 2,
+                    "home": "湖北省"
+                }
+            ]
+        },
+        {
+            "politics": "",
+            "img": "party\/095.jpg",
+            "partyName": "台灣團結聯盟",
+            "partyUni": "095",
+            "partyNo": 16,
+            "politicsImg": "",
+            "cands": [
+                {
+                    "gender": "女",
+                    "name": "周倪安",
+                    "birth": "0611007",
+                    "candNo": 1,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "劉一德",
+                    "birth": "0490415",
+                    "candNo": 2,
+                    "home": "嘉義市"
+                },
+                {
+                    "gender": "女",
+                    "name": "歐陽瑞蓮",
+                    "birth": "0650226",
+                    "candNo": 3,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "王思棠",
+                    "birth": "0570703",
+                    "candNo": 4,
+                    "home": "臺北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "張登凱",
+                    "birth": "0461125",
+                    "candNo": 5,
+                    "home": "新北市"
+                },
+                {
+                    "gender": "男",
+                    "name": "吳家慶",
+                    "birth": "0360401",
+                    "candNo": 6,
+                    "home": "雲林縣"
+                }
+            ]
+        }
+    ]
+}

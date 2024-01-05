@@ -1,0 +1,136 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "屏東縣第1選舉區",
+            "cands": [
+                {
+                    "area": "屏東縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000011.jpg",
+                    "gender": "男",
+                    "name": "曾鈺庭",
+                    "birth": "0620309",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "屏東縣"
+                },
+                {
+                    "area": "屏東縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000012.jpg",
+                    "gender": "男",
+                    "name": "鍾佳濱",
+                    "birth": "0540223",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "屏東縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000013.jpg",
+                    "gender": "女",
+                    "name": "蔣月惠",
+                    "birth": "0480412",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 3,
+                    "home": "屏東縣"
+                },
+                {
+                    "area": "屏東縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000014.jpg",
+                    "gender": "男",
+                    "name": "張庭源",
+                    "birth": "0841108",
+                    "type": "L1",
+                    "party": "台灣維新",
+                    "candNo": 4,
+                    "home": "屏東縣"
+                },
+                {
+                    "area": "屏東縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000015.jpg",
+                    "gender": "男",
+                    "name": "李孟翰",
+                    "birth": "0790126",
+                    "type": "L1",
+                    "party": "中華統一促進黨",
+                    "candNo": 5,
+                    "home": "屏東縣"
+                },
+                {
+                    "area": "屏東縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000016.jpg",
+                    "gender": "男",
+                    "name": "黃明賢",
+                    "birth": "0720525",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 6,
+                    "home": "屏東縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "屏東縣第2選舉區",
+            "cands": [
+                {
+                    "area": "屏東縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000021.jpg",
+                    "gender": "女",
+                    "name": "吳媚宮",
+                    "birth": "0540109",
+                    "type": "L1",
+                    "party": "中華聯合黨",
+                    "candNo": 1,
+                    "home": "臺南市"
+                },
+                {
+                    "area": "屏東縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000022.jpg",
+                    "gender": "女",
+                    "name": "何秋葺",
+                    "birth": "0590114",
+                    "type": "L1",
+                    "party": "人民最大黨",
+                    "candNo": 2,
+                    "home": "屏東縣"
+                },
+                {
+                    "area": "屏東縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000023.jpg",
+                    "gender": "男",
+                    "name": "徐富癸",
+                    "birth": "0591029",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "屏東縣"
+                },
+                {
+                    "area": "屏東縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/10013\/10013000000024.jpg",
+                    "gender": "男",
+                    "name": "蘇孟淳",
+                    "birth": "0811211",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 4,
+                    "home": "屏東縣"
+                }
+            ]
+        }
+    ]
+}

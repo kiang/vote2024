@@ -1,0 +1,388 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "高雄市第1選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000011.jpg",
+                    "gender": "男",
+                    "name": "林義迪",
+                    "birth": "0481105",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000012.jpg",
+                    "gender": "女",
+                    "name": "曾尹儷",
+                    "birth": "0521031",
+                    "type": "L1",
+                    "party": "台灣民眾黨",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000013.jpg",
+                    "gender": "男",
+                    "name": "劉承智",
+                    "birth": "0600814",
+                    "type": "L1",
+                    "party": "人民最大黨",
+                    "candNo": 3,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000014.jpg",
+                    "gender": "女",
+                    "name": "邱議瑩",
+                    "birth": "0600601",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 4,
+                    "home": "屏東縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "高雄市第2選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000021.jpg",
+                    "gender": "男",
+                    "name": "曹桓榮",
+                    "birth": "0651111",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000022.jpg",
+                    "gender": "男",
+                    "name": "邱志偉",
+                    "birth": "0610724",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "屏東縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "03",
+            "areaName": "高雄市第3選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000031.jpg",
+                    "gender": "男",
+                    "name": "郭璽",
+                    "birth": "0470831",
+                    "type": "L1",
+                    "party": "台灣麻將最大黨",
+                    "candNo": 1,
+                    "home": "臺中市"
+                },
+                {
+                    "area": "高雄市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000032.jpg",
+                    "gender": "男",
+                    "name": "陳銓霖",
+                    "birth": "0420912",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000033.jpg",
+                    "gender": "女",
+                    "name": "李眉蓁",
+                    "birth": "0680321",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000034.jpg",
+                    "gender": "男",
+                    "name": "李柏毅",
+                    "birth": "0660408",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 4,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000035.jpg",
+                    "gender": "男",
+                    "name": "張正達",
+                    "birth": "0600619",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 5,
+                    "home": "高雄市"
+                }
+            ]
+        },
+        {
+            "areaCode": "04",
+            "areaName": "高雄市第4選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000041.jpg",
+                    "gender": "女",
+                    "name": "林岱樺",
+                    "birth": "0610804",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000042.jpg",
+                    "gender": "女",
+                    "name": "陳若翠",
+                    "birth": "0580429",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "雲林縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "05",
+            "areaName": "高雄市第5選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第5選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000051.jpg",
+                    "gender": "男",
+                    "name": "楊椒喬",
+                    "birth": "0630420",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "基隆市"
+                },
+                {
+                    "area": "高雄市第5選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000052.jpg",
+                    "gender": "男",
+                    "name": "李昆澤",
+                    "birth": "0530429",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "宜蘭縣"
+                },
+                {
+                    "area": "高雄市第5選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000053.jpg",
+                    "gender": "女",
+                    "name": "張芳愉",
+                    "birth": "0710412",
+                    "type": "L1",
+                    "party": "小民參政歐巴桑聯盟",
+                    "candNo": 3,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第5選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000054.jpg",
+                    "gender": "男",
+                    "name": "黃柏霖",
+                    "birth": "0561031",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 4,
+                    "home": "高雄市"
+                }
+            ]
+        },
+        {
+            "areaCode": "06",
+            "areaName": "高雄市第6選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000061.jpg",
+                    "gender": "男",
+                    "name": "郭倍宏",
+                    "birth": "0440531",
+                    "type": "L1",
+                    "party": "喜樂島聯盟",
+                    "candNo": 1,
+                    "home": "臺南市"
+                },
+                {
+                    "area": "高雄市第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000062.jpg",
+                    "gender": "女",
+                    "name": "黃捷",
+                    "birth": "0820119",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000063.jpg",
+                    "gender": "女",
+                    "name": "陳美雅",
+                    "birth": "0591112",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "高雄市"
+                }
+            ]
+        },
+        {
+            "areaCode": "07",
+            "areaName": "高雄市第7選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第7選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000071.jpg",
+                    "gender": "男",
+                    "name": "洪啟修",
+                    "birth": "0771002",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第7選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000072.jpg",
+                    "gender": "男",
+                    "name": "王和平統一",
+                    "birth": "0421112",
+                    "type": "L1",
+                    "party": "司法改革黨",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第7選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000073.jpg",
+                    "gender": "男",
+                    "name": "鍾易仲",
+                    "birth": "0710928",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第7選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000074.jpg",
+                    "gender": "男",
+                    "name": "許智傑",
+                    "birth": "0550105",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 4,
+                    "home": "嘉義縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "08",
+            "areaName": "高雄市第8選舉區",
+            "cands": [
+                {
+                    "area": "高雄市第8選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000081.jpg",
+                    "gender": "男",
+                    "name": "李政憲",
+                    "birth": "0450702",
+                    "type": "L1",
+                    "party": "司法改革黨",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第8選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000082.jpg",
+                    "gender": "女",
+                    "name": "李明璇",
+                    "birth": "0820330",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "高雄市第8選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000083.jpg",
+                    "gender": "男",
+                    "name": "賴瑞隆",
+                    "birth": "0621115",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "高雄市第8選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/64000\/64000000000084.jpg",
+                    "gender": "女",
+                    "name": "湛秀英",
+                    "birth": "0651116",
+                    "type": "L1",
+                    "party": "勞動黨",
+                    "candNo": 4,
+                    "home": "雲南省"
+                }
+            ]
+        }
+    ]
+}

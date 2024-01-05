@@ -1,0 +1,16 @@
+{
+    "voters": [
+        {
+            "voterCode": "01",
+            "voterName": "一般選舉人"
+        },
+        {
+            "voterCode": "02",
+            "voterName": "山地原住民"
+        },
+        {
+            "voterCode": "03",
+            "voterName": "平地原住民"
+        }
+    ]
+}

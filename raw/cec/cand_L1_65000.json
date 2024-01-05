@@ -1,0 +1,640 @@
+{
+    "L1": [
+        {
+            "areaCode": "01",
+            "areaName": "新北市第1選舉區",
+            "cands": [
+                {
+                    "area": "新北市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000011.jpg",
+                    "gender": "男",
+                    "name": "徐百弟",
+                    "birth": "0410102",
+                    "type": "L1",
+                    "party": "台灣維新",
+                    "candNo": 1,
+                    "home": "香港"
+                },
+                {
+                    "area": "新北市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000012.jpg",
+                    "gender": "男",
+                    "name": "何博文",
+                    "birth": "0620627",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "臺中市"
+                },
+                {
+                    "area": "新北市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000013.jpg",
+                    "gender": "男",
+                    "name": "游清池",
+                    "birth": "0570224",
+                    "type": "L1",
+                    "party": "制度救世島",
+                    "candNo": 3,
+                    "home": "臺南市"
+                },
+                {
+                    "area": "新北市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000014.jpg",
+                    "gender": "男",
+                    "name": "洪孟楷",
+                    "birth": "0720101",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 4,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000015.jpg",
+                    "gender": "男",
+                    "name": "翁藤原",
+                    "birth": "0600801",
+                    "type": "L1",
+                    "party": "中華統一促進黨",
+                    "candNo": 5,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "areaName": "新北市第2選舉區",
+            "cands": [
+                {
+                    "area": "新北市第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000021.jpg",
+                    "gender": "女",
+                    "name": "林淑芬",
+                    "birth": "0620117",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "新北市第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000022.jpg",
+                    "gender": "男",
+                    "name": "何淯笙",
+                    "birth": "0631227",
+                    "type": "L1",
+                    "party": "中華統一促進黨",
+                    "candNo": 2,
+                    "home": "嘉義縣"
+                },
+                {
+                    "area": "新北市第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000023.jpg",
+                    "gender": "女",
+                    "name": "李有宜",
+                    "birth": "0790508",
+                    "type": "L1",
+                    "party": "台灣民眾黨",
+                    "candNo": 3,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "areaCode": "03",
+            "areaName": "新北市第3選舉區",
+            "cands": [
+                {
+                    "area": "新北市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000031.jpg",
+                    "gender": "男",
+                    "name": "蔡明堂",
+                    "birth": "0470427",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000032.jpg",
+                    "gender": "男",
+                    "name": "蘇卿彥",
+                    "birth": "0280313",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000033.jpg",
+                    "gender": "男",
+                    "name": "李坤城",
+                    "birth": "0620503",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000034.jpg",
+                    "gender": "男",
+                    "name": "陳東雲",
+                    "birth": "0471120",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 4,
+                    "home": "南投縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "04",
+            "areaName": "新北市第4選舉區",
+            "cands": [
+                {
+                    "area": "新北市第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000041.jpg",
+                    "gender": "女",
+                    "name": "洪懿馥",
+                    "birth": "0670905",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000042.jpg",
+                    "gender": "男",
+                    "name": "吳秉叡",
+                    "birth": "0551007",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "臺東縣"
+                },
+                {
+                    "area": "新北市第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000043.jpg",
+                    "gender": "男",
+                    "name": "蘇輝湟",
+                    "birth": "0651110",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 3,
+                    "home": "雲林縣"
+                },
+                {
+                    "area": "新北市第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000044.jpg",
+                    "gender": "男",
+                    "name": "蔣欣璋",
+                    "birth": "0761105",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 4,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000045.jpg",
+                    "gender": "男",
+                    "name": "邱吉均",
+                    "birth": "0471208",
+                    "type": "L1",
+                    "party": "制度救世島",
+                    "candNo": 5,
+                    "home": "新竹縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "05",
+            "areaName": "新北市第5選舉區",
+            "cands": [
+                {
+                    "area": "新北市第5選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000051.jpg",
+                    "gender": "女",
+                    "name": "蘇巧慧",
+                    "birth": "0650405",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第5選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000052.jpg",
+                    "gender": "女",
+                    "name": "洪佳君",
+                    "birth": "0660628",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "新北市"
+                }
+            ]
+        },
+        {
+            "areaCode": "06",
+            "areaName": "新北市第6選舉區",
+            "cands": [
+                {
+                    "area": "新北市第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000061.jpg",
+                    "gender": "女",
+                    "name": "黃淑珍",
+                    "birth": "0540901",
+                    "type": "L1",
+                    "party": "司法改革黨",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "新北市第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000062.jpg",
+                    "gender": "男",
+                    "name": "林國春",
+                    "birth": "0570108",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "金門縣"
+                },
+                {
+                    "area": "新北市第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000063.jpg",
+                    "gender": "男",
+                    "name": "張宏陸",
+                    "birth": "0610110",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "臺中市"
+                }
+            ]
+        },
+        {
+            "areaCode": "07",
+            "areaName": "新北市第7選舉區",
+            "cands": [
+                {
+                    "area": "新北市第7選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000071.jpg",
+                    "gender": "男",
+                    "name": "葉元之",
+                    "birth": "0631228",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第7選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000072.jpg",
+                    "gender": "男",
+                    "name": "羅致政",
+                    "birth": "0531117",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "苗栗縣"
+                },
+                {
+                    "area": "新北市第7選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000073.jpg",
+                    "gender": "女",
+                    "name": "劉書婷",
+                    "birth": "0790513",
+                    "type": "L1",
+                    "party": "小民參政歐巴桑聯盟",
+                    "candNo": 3,
+                    "home": "新北市"
+                }
+            ]
+        },
+        {
+            "areaCode": "08",
+            "areaName": "新北市第8選舉區",
+            "cands": [
+                {
+                    "area": "新北市第8選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000081.jpg",
+                    "gender": "男",
+                    "name": "吳崢",
+                    "birth": "0780703",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 1,
+                    "home": "美國"
+                },
+                {
+                    "area": "新北市第8選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000082.jpg",
+                    "gender": "男",
+                    "name": "邱臣遠",
+                    "birth": "0701211",
+                    "type": "L1",
+                    "party": "台灣民眾黨",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第8選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000083.jpg",
+                    "gender": "男",
+                    "name": "張智倫",
+                    "birth": "0721124",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "areaCode": "09",
+            "areaName": "新北市第9選舉區",
+            "cands": [
+                {
+                    "area": "新北市第9選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000091.jpg",
+                    "gender": "男",
+                    "name": "林德福",
+                    "birth": "0421023",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第9選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000092.jpg",
+                    "gender": "男",
+                    "name": "莊銘淵",
+                    "birth": "0620625",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第9選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000093.jpg",
+                    "gender": "女",
+                    "name": "陳愷寧",
+                    "birth": "0840202",
+                    "type": "L1",
+                    "party": "台灣維新",
+                    "candNo": 3,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "areaCode": "10",
+            "areaName": "新北市第10選舉區",
+            "cands": [
+                {
+                    "area": "新北市第10選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000101.jpg",
+                    "gender": "女",
+                    "name": "孟藹倫",
+                    "birth": "0440527",
+                    "type": "L1",
+                    "party": "人民最大黨",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "新北市第10選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000102.jpg",
+                    "gender": "男",
+                    "name": "袁興",
+                    "birth": "0521025",
+                    "type": "L1",
+                    "party": "復康聯盟黨",
+                    "candNo": 2,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第10選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000103.jpg",
+                    "gender": "男",
+                    "name": "吳琪銘",
+                    "birth": "0520224",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 3,
+                    "home": "雲林縣"
+                },
+                {
+                    "area": "新北市第10選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000104.jpg",
+                    "gender": "男",
+                    "name": "林金結",
+                    "birth": "0570721",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 4,
+                    "home": "宜蘭縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "11",
+            "areaName": "新北市第11選舉區",
+            "cands": [
+                {
+                    "area": "新北市第11選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000111.jpg",
+                    "gender": "男",
+                    "name": "羅明才",
+                    "birth": "0560115",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 1,
+                    "home": "彰化縣"
+                },
+                {
+                    "area": "新北市第11選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000112.jpg",
+                    "gender": "男",
+                    "name": "鄭添泉",
+                    "birth": "0390423",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "嘉義縣"
+                },
+                {
+                    "area": "新北市第11選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000113.jpg",
+                    "gender": "男",
+                    "name": "魏趨安",
+                    "birth": "0621024",
+                    "type": "L1",
+                    "party": "制度救世島",
+                    "candNo": 3,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第11選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000114.jpg",
+                    "gender": "女",
+                    "name": "張家榛",
+                    "birth": "0640311",
+                    "type": "L1",
+                    "party": "人民最大黨",
+                    "candNo": 4,
+                    "home": "臺中市"
+                },
+                {
+                    "area": "新北市第11選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000115.jpg",
+                    "gender": "男",
+                    "name": "陳聖",
+                    "birth": "0500721",
+                    "type": "L1",
+                    "party": "中華婦女黨",
+                    "candNo": 5,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第11選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000116.jpg",
+                    "gender": "女",
+                    "name": "曾柏瑜",
+                    "birth": "0801108",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 6,
+                    "home": "臺北市"
+                }
+            ]
+        },
+        {
+            "areaCode": "12",
+            "areaName": "新北市第12選舉區",
+            "cands": [
+                {
+                    "area": "新北市第12選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000121.jpg",
+                    "gender": "男",
+                    "name": "黃瑞傳",
+                    "birth": "0390407",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "花蓮縣"
+                },
+                {
+                    "area": "新北市第12選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000122.jpg",
+                    "gender": "男",
+                    "name": "楊木火",
+                    "birth": "0500620",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第12選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000123.jpg",
+                    "gender": "女",
+                    "name": "李佳蒨",
+                    "birth": "0671130",
+                    "type": "L1",
+                    "party": "臺灣雙語無法黨",
+                    "candNo": 3,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第12選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000124.jpg",
+                    "gender": "男",
+                    "name": "陳長志",
+                    "birth": "0650118",
+                    "type": "L1",
+                    "party": "台灣維新",
+                    "candNo": 4,
+                    "home": "新北市"
+                },
+                {
+                    "area": "新北市第12選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000125.jpg",
+                    "gender": "女",
+                    "name": "賴品妤",
+                    "birth": "0810302",
+                    "type": "L1",
+                    "party": "民主進步黨",
+                    "candNo": 5,
+                    "home": "臺北市"
+                },
+                {
+                    "area": "新北市第12選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/65000\/65000000000126.jpg",
+                    "gender": "男",
+                    "name": "廖先翔",
+                    "birth": "0770612",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 6,
+                    "home": "基隆市"
+                }
+            ]
+        }
+    ]
+}

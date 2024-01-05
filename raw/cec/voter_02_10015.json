@@ -1,0 +1,3116 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民德里",
+                            "tboxNo": "0001",
+                            "tboxName": "天主教保祿牧靈中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民德里民權一街2號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "民德里",
+                            "tboxNo": "0002",
+                            "tboxName": "民勤民德里聯合活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民勤里府前路32號",
+                            "neighbor": "6-17"
+                        }
+                    ],
+                    "liName": "民德里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民勤里",
+                            "tboxNo": "0003",
+                            "tboxName": "東華大學附設小學A104教室(永安街入口)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民勤里永安街100號",
+                            "neighbor": "1-8,14,18-19,22-23,37-38,42"
+                        },
+                        {
+                            "ScopeLiName": "民勤里",
+                            "tboxNo": "0004",
+                            "tboxName": "花蓮市衛生所",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民勤里新興路200號",
+                            "neighbor": "9,11,20-21,27-29,32-36,39-41,43-46"
+                        },
+                        {
+                            "ScopeLiName": "民勤里",
+                            "tboxNo": "0005",
+                            "tboxName": "東華大學附設小學A102教室(永安街入口)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民勤里永安街100號",
+                            "neighbor": "10,12-13,15-17,24-26,30-31"
+                        }
+                    ],
+                    "liName": "民勤里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民意里",
+                            "tboxNo": "0006",
+                            "tboxName": "大陳二村活動中心",
+                            "geocode": "23.99798,121.61742",
+                            "addr": "花蓮縣花蓮市民意里民光483之1號",
+                            "neighbor": "36-43,45-47"
+                        },
+                        {
+                            "ScopeLiName": "民意里",
+                            "tboxNo": "0007",
+                            "tboxName": "花蓮高工資訊科資二乙教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民意里府前路27號",
+                            "neighbor": "1,32,44,48-49"
+                        },
+                        {
+                            "ScopeLiName": "民意里",
+                            "tboxNo": "0008",
+                            "tboxName": "民意里辦公處(原托兒所)",
+                            "geocode": "24.00438,121.61720",
+                            "addr": "花蓮縣花蓮市民意里民光71之1號",
+                            "neighbor": "2-31,33-35"
+                        }
+                    ],
+                    "liName": "民意里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民心里",
+                            "tboxNo": "0009",
+                            "tboxName": "復興國小五年甲班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民心里府前路682號",
+                            "neighbor": "民心里"
+                        }
+                    ],
+                    "liName": "民心里"
+                },
+                {
+                    "liCode": "033",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民享里",
+                            "tboxNo": "0010",
+                            "tboxName": "復興國小行動學習教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民心里府前路682號",
+                            "neighbor": "14-18,20"
+                        },
+                        {
+                            "ScopeLiName": "民享里",
+                            "tboxNo": "0011",
+                            "tboxName": "復興國小風雨教室(大禮堂東側)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民心里府前路682號",
+                            "neighbor": "1-7,21-22"
+                        },
+                        {
+                            "ScopeLiName": "民享里",
+                            "tboxNo": "0012",
+                            "tboxName": "復興國小風雨教室(大禮堂西側)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民心里府前路682號",
+                            "neighbor": "8-13,19"
+                        }
+                    ],
+                    "liName": "民享里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民孝里",
+                            "tboxNo": "0013",
+                            "tboxName": "美崙國中教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民孝里化道路40巷1號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "民孝里",
+                            "tboxNo": "0014",
+                            "tboxName": "民孝里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民孝里林園一街16號",
+                            "neighbor": "10-18"
+                        },
+                        {
+                            "ScopeLiName": "民孝里",
+                            "tboxNo": "0015",
+                            "tboxName": "民意甲社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民孝里東興二街147號",
+                            "neighbor": "19-32"
+                        }
+                    ],
+                    "liName": "民孝里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民運里",
+                            "tboxNo": "0016",
+                            "tboxName": "花蓮市老人會館桌球室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民樂里中興路31號",
+                            "neighbor": "1-4,31-43,46-49"
+                        },
+                        {
+                            "ScopeLiName": "民運里",
+                            "tboxNo": "0017",
+                            "tboxName": "家扶中心體育室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民立里中興路75號",
+                            "neighbor": "5-30,44-45"
+                        }
+                    ],
+                    "liName": "民運里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民政里",
+                            "tboxNo": "0018",
+                            "tboxName": "鑄強國小教室東大樓教室A",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民政里永興路20號",
+                            "neighbor": "1,32-36"
+                        },
+                        {
+                            "ScopeLiName": "民政里",
+                            "tboxNo": "0019",
+                            "tboxName": "鑄強國小教室東大樓教室B",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民政里永興路20號",
+                            "neighbor": "2-11,17-19,28-30,"
+                        },
+                        {
+                            "ScopeLiName": "民政里",
+                            "tboxNo": "0020",
+                            "tboxName": "鑄強國小教室東大樓教室C",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民政里永興路20號",
+                            "neighbor": "12-16,21-24"
+                        },
+                        {
+                            "ScopeLiName": "民政里",
+                            "tboxNo": "0021",
+                            "tboxName": "鑄強國小教室東大樓教室D",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民政里永興路20號",
+                            "neighbor": "20,25-27,31"
+                        }
+                    ],
+                    "liName": "民政里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民立里",
+                            "tboxNo": "0022",
+                            "tboxName": "花蓮高中信義樓1年2班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民立里民權路42號",
+                            "neighbor": "7-14"
+                        },
+                        {
+                            "ScopeLiName": "民立里",
+                            "tboxNo": "0023",
+                            "tboxName": "花蓮高中信義樓1年1班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民立里民權路42號",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "民立里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民樂里",
+                            "tboxNo": "0024",
+                            "tboxName": "明恥國小學生活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民立里中興路41號",
+                            "neighbor": "民樂里"
+                        }
+                    ],
+                    "liName": "民樂里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民有里",
+                            "tboxNo": "0025",
+                            "tboxName": "北濱社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民有里海濱街57號",
+                            "neighbor": "民有里"
+                        }
+                    ],
+                    "liName": "民有里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民主里",
+                            "tboxNo": "0026",
+                            "tboxName": "北濱天主堂(原德蕾幼兒園)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民主里北濱街4號",
+                            "neighbor": "民主里"
+                        }
+                    ],
+                    "liName": "民主里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民族里",
+                            "tboxNo": "0027",
+                            "tboxName": "花崗國中D棟1樓801隔壁教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民族里公園路40號",
+                            "neighbor": "民族里"
+                        }
+                    ],
+                    "liName": "民族里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民生里",
+                            "tboxNo": "0028",
+                            "tboxName": "花崗國中803教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民族里公園路40號",
+                            "neighbor": "民生里"
+                        }
+                    ],
+                    "liName": "民生里"
+                },
+                {
+                    "liCode": "035",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民權里",
+                            "tboxNo": "0029",
+                            "tboxName": "花蓮女中204教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市民權里菁華街2號",
+                            "neighbor": "民權里"
+                        }
+                    ],
+                    "liName": "民權里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主商里",
+                            "tboxNo": "0030",
+                            "tboxName": "明義國小禮堂(左)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國風里明義街107號",
+                            "neighbor": "主商里"
+                        }
+                    ],
+                    "liName": "主商里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主勤里",
+                            "tboxNo": "0031",
+                            "tboxName": "明義國小禮堂(右)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國風里明義街107號",
+                            "neighbor": "主勤里"
+                        }
+                    ],
+                    "liName": "主勤里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主工里",
+                            "tboxNo": "0032",
+                            "tboxName": "明義國小藝才樓教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國風里明義街107號",
+                            "neighbor": "主工里"
+                        }
+                    ],
+                    "liName": "主工里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主信里",
+                            "tboxNo": "0033",
+                            "tboxName": "慈天宮(媽祖廟)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主信里忠孝街81號",
+                            "neighbor": "主信里"
+                        }
+                    ],
+                    "liName": "主信里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主義里",
+                            "tboxNo": "0034",
+                            "tboxName": "第三聯合里辦公處",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主計里成功街212號",
+                            "neighbor": "主義里"
+                        }
+                    ],
+                    "liName": "主義里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主睦里",
+                            "tboxNo": "0035",
+                            "tboxName": "信義國小1年信班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主計里信義街1號",
+                            "neighbor": "主睦里"
+                        }
+                    ],
+                    "liName": "主睦里"
+                },
+                {
+                    "liCode": "036",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主計里",
+                            "tboxNo": "0036",
+                            "tboxName": "信義國小2年信班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主計里信義街1號",
+                            "neighbor": "主計里"
+                        }
+                    ],
+                    "liName": "主計里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主和里",
+                            "tboxNo": "0037",
+                            "tboxName": "主和社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主和里廣東街146號",
+                            "neighbor": "1-4,11-22"
+                        },
+                        {
+                            "ScopeLiName": "主和里",
+                            "tboxNo": "0038",
+                            "tboxName": "中正國小中和樓N103教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主學里中正路210號",
+                            "neighbor": "23-24,29-32,37-46"
+                        },
+                        {
+                            "ScopeLiName": "主和里",
+                            "tboxNo": "0039",
+                            "tboxName": "中正國小中和樓N104教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主學里中正路210號",
+                            "neighbor": "5-10,25-28,33-36"
+                        }
+                    ],
+                    "liName": "主和里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主學里",
+                            "tboxNo": "0040",
+                            "tboxName": "中正國小中和樓N109教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主學里中正路210號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "主學里",
+                            "tboxNo": "0041",
+                            "tboxName": "中正國小中和樓N110教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主學里中正路210號",
+                            "neighbor": "14-20"
+                        }
+                    ],
+                    "liName": "主學里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主農里",
+                            "tboxNo": "0042",
+                            "tboxName": "福建街福德宮",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主農里福建街84號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "主農里",
+                            "tboxNo": "0043",
+                            "tboxName": "主農里新社區活動中心(右)(長春街入口)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主農里中順街77號",
+                            "neighbor": "7-12"
+                        },
+                        {
+                            "ScopeLiName": "主農里",
+                            "tboxNo": "0044",
+                            "tboxName": "主農里新社區活動中心(左)(中順街公園入口)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主農里中順街77號",
+                            "neighbor": "13-14,16-18"
+                        },
+                        {
+                            "ScopeLiName": "主農里",
+                            "tboxNo": "0045",
+                            "tboxName": "中原國小1年2班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主權里中原路531號",
+                            "neighbor": "15,19-24"
+                        }
+                    ],
+                    "liName": "主農里"
+                },
+                {
+                    "liCode": "042",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主安里",
+                            "tboxNo": "0046",
+                            "tboxName": "中正國小中強樓S103教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主學里中正路210號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "主安里",
+                            "tboxNo": "0047",
+                            "tboxName": "中正國小中強樓S104教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主學里中正路210號",
+                            "neighbor": "10-19"
+                        }
+                    ],
+                    "liName": "主安里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主權里",
+                            "tboxNo": "0048",
+                            "tboxName": "中原國小2年2班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主權里中原路531號",
+                            "neighbor": "9,11,17,19,27-28"
+                        },
+                        {
+                            "ScopeLiName": "主權里",
+                            "tboxNo": "0049",
+                            "tboxName": "中原國小2年1班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主權里中原路531號",
+                            "neighbor": "12-14,18,21,25"
+                        },
+                        {
+                            "ScopeLiName": "主權里",
+                            "tboxNo": "0050",
+                            "tboxName": "中原國小英語教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主權里中原路531號",
+                            "neighbor": "15-16,20"
+                        },
+                        {
+                            "ScopeLiName": "主權里",
+                            "tboxNo": "0051",
+                            "tboxName": "農業部農糧署東區分署會議室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主權里中華路512號",
+                            "neighbor": "1-3,5,26"
+                        },
+                        {
+                            "ScopeLiName": "主權里",
+                            "tboxNo": "0052",
+                            "tboxName": "主權公園管理室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主權里中原路666號",
+                            "neighbor": "4,6-8,10,22-24"
+                        }
+                    ],
+                    "liName": "主權里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "主力里",
+                            "tboxNo": "0053",
+                            "tboxName": "忠孝國小思源樓1年孝班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主力里中華路298號",
+                            "neighbor": "22-32"
+                        },
+                        {
+                            "ScopeLiName": "主力里",
+                            "tboxNo": "0054",
+                            "tboxName": "忠孝國小思源樓1年忠班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主力里中華路298號",
+                            "neighbor": "1-15"
+                        },
+                        {
+                            "ScopeLiName": "主力里",
+                            "tboxNo": "0055",
+                            "tboxName": "忠孝國小思源樓1年仁班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市主力里中華路298號",
+                            "neighbor": "16-21"
+                        }
+                    ],
+                    "liName": "主力里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國風里",
+                            "tboxNo": "0056",
+                            "tboxName": "國風里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國風里林榮街45號",
+                            "neighbor": "8-13"
+                        },
+                        {
+                            "ScopeLiName": "國風里",
+                            "tboxNo": "0057",
+                            "tboxName": "明義國小仁愛樓教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國風里明義街107號",
+                            "neighbor": "1-5,19-24"
+                        },
+                        {
+                            "ScopeLiName": "國風里",
+                            "tboxNo": "0058",
+                            "tboxName": "國風國中(北側)特教班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國風里林政街7號",
+                            "neighbor": "6-7,14-18,25"
+                        }
+                    ],
+                    "liName": "國風里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國威里",
+                            "tboxNo": "0059",
+                            "tboxName": "明禮國小多功能教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國治里明禮路６號",
+                            "neighbor": "6-15,19-29"
+                        },
+                        {
+                            "ScopeLiName": "國威里",
+                            "tboxNo": "0060",
+                            "tboxName": "明義國小林森樓教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國風里明義街107號",
+                            "neighbor": "1-5,16-18,30-35"
+                        }
+                    ],
+                    "liName": "國威里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國治里",
+                            "tboxNo": "0061",
+                            "tboxName": "明禮國小會議室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國治里明禮路６號",
+                            "neighbor": "國治里"
+                        }
+                    ],
+                    "liName": "國治里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國安里",
+                            "tboxNo": "0062",
+                            "tboxName": "花蓮高商資三甲教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國安里中山路418號",
+                            "neighbor": "國安里"
+                        }
+                    ],
+                    "liName": "國安里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國光里",
+                            "tboxNo": "0063",
+                            "tboxName": "國光里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國光里林森路437號",
+                            "neighbor": "國光里"
+                        }
+                    ],
+                    "liName": "國光里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國防里",
+                            "tboxNo": "0064",
+                            "tboxName": "進豐園區大禮堂",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國防里進豐街115號",
+                            "neighbor": "國防里"
+                        }
+                    ],
+                    "liName": "國防里"
+                },
+                {
+                    "liCode": "038",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國華里",
+                            "tboxNo": "0065",
+                            "tboxName": "國華里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國華里博愛街220巷11號",
+                            "neighbor": "1-7,9-15,17"
+                        },
+                        {
+                            "ScopeLiName": "國華里",
+                            "tboxNo": "0066",
+                            "tboxName": "花蓮高農舊教室大樓1101教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國魂里建國路161號",
+                            "neighbor": "8,16,18-24"
+                        }
+                    ],
+                    "liName": "國華里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國魂里",
+                            "tboxNo": "0067",
+                            "tboxName": "花蓮高商資三乙教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國安里中山路418號",
+                            "neighbor": "2-12"
+                        },
+                        {
+                            "ScopeLiName": "國魂里",
+                            "tboxNo": "0068",
+                            "tboxName": "花蓮高農舊教室大樓1105教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國魂里建國路161號",
+                            "neighbor": "1,13-21"
+                        }
+                    ],
+                    "liName": "國魂里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國聯里",
+                            "tboxNo": "0069",
+                            "tboxName": "中華國小103教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國盛里國盛二街22號",
+                            "neighbor": "18,26-34"
+                        },
+                        {
+                            "ScopeLiName": "國聯里",
+                            "tboxNo": "0070",
+                            "tboxName": "國聯社區老人會館",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國聯里國興五街167號",
+                            "neighbor": "1-2,4-9,12,17"
+                        },
+                        {
+                            "ScopeLiName": "國聯里",
+                            "tboxNo": "0071",
+                            "tboxName": "花蓮高商會三乙教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國安里中山路418號",
+                            "neighbor": "3,10-11,13-16,19-25,35"
+                        }
+                    ],
+                    "liName": "國聯里"
+                },
+                {
+                    "liCode": "043",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國盛里",
+                            "tboxNo": "0072",
+                            "tboxName": "中華國小活動中心(左)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國盛里國盛二街22號",
+                            "neighbor": "11-13,22,32"
+                        },
+                        {
+                            "ScopeLiName": "國盛里",
+                            "tboxNo": "0073",
+                            "tboxName": "中華國小102教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國盛里國盛二街22號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "國盛里",
+                            "tboxNo": "0074",
+                            "tboxName": "中華國小活動中心(右)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國盛里國盛二街22號",
+                            "neighbor": "10,14-21,23"
+                        },
+                        {
+                            "ScopeLiName": "國盛里",
+                            "tboxNo": "0075",
+                            "tboxName": "中華國小101教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國盛里國盛二街22號",
+                            "neighbor": "24-31"
+                        }
+                    ],
+                    "liName": "國盛里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國強里",
+                            "tboxNo": "0076",
+                            "tboxName": "基督教芥菜種會附設花蓮少年之家",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國強里豐村23號",
+                            "neighbor": "1-3,5,12-13"
+                        },
+                        {
+                            "ScopeLiName": "國強里",
+                            "tboxNo": "0077",
+                            "tboxName": "國強里活動中心",
+                            "geocode": "24.00223,121.60009",
+                            "addr": "花蓮縣花蓮市國強里豐村78之2號",
+                            "neighbor": "4,6-11"
+                        }
+                    ],
+                    "liName": "國強里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國富里",
+                            "tboxNo": "0078",
+                            "tboxName": "明廉國小禮堂(前)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國富里中山路903號",
+                            "neighbor": "1,30-31,43-47"
+                        },
+                        {
+                            "ScopeLiName": "國富里",
+                            "tboxNo": "0079",
+                            "tboxName": "明廉國小新大樓B101教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國富里中山路903號",
+                            "neighbor": "2-10"
+                        },
+                        {
+                            "ScopeLiName": "國富里",
+                            "tboxNo": "0080",
+                            "tboxName": "國富里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國富里富祥街12號",
+                            "neighbor": "21-29"
+                        },
+                        {
+                            "ScopeLiName": "國富里",
+                            "tboxNo": "0081",
+                            "tboxName": "明廉國小禮堂(後)",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國富里中山路903號",
+                            "neighbor": "32-42"
+                        },
+                        {
+                            "ScopeLiName": "國富里",
+                            "tboxNo": "0082",
+                            "tboxName": "明廉國小新大樓B106教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國富里中山路903號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "國富里"
+                },
+                {
+                    "liCode": "041",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國裕里",
+                            "tboxNo": "0083",
+                            "tboxName": "自強國中A1教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國裕里裕祥路89號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "國裕里",
+                            "tboxNo": "0084",
+                            "tboxName": "自強國中A2教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國裕里裕祥路89號",
+                            "neighbor": "7-18"
+                        },
+                        {
+                            "ScopeLiName": "國裕里",
+                            "tboxNo": "0085",
+                            "tboxName": "自強國中A3教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國裕里裕祥路89號",
+                            "neighbor": "19-26"
+                        },
+                        {
+                            "ScopeLiName": "國裕里",
+                            "tboxNo": "0086",
+                            "tboxName": "自強國中A4教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國裕里裕祥路89號",
+                            "neighbor": "27-35"
+                        }
+                    ],
+                    "liName": "國裕里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國慶里",
+                            "tboxNo": "0087",
+                            "tboxName": "保民宮",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國慶里中山路一段25號",
+                            "neighbor": "國慶里"
+                        }
+                    ],
+                    "liName": "國慶里"
+                },
+                {
+                    "liCode": "044",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國興里",
+                            "tboxNo": "0088",
+                            "tboxName": "慈濟科技大學D107教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國興里建國路二段880號",
+                            "neighbor": "20-25"
+                        },
+                        {
+                            "ScopeLiName": "國興里",
+                            "tboxNo": "0089",
+                            "tboxName": "國興里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國興里介禮街46號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "國興里",
+                            "tboxNo": "0090",
+                            "tboxName": "慈濟科技大學E105教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國興里建國路二段880號",
+                            "neighbor": "7-11"
+                        },
+                        {
+                            "ScopeLiName": "國興里",
+                            "tboxNo": "0091",
+                            "tboxName": "慈濟科技大學E107教室",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國興里建國路二段880號",
+                            "neighbor": "12-19,26"
+                        }
+                    ],
+                    "liName": "國興里"
+                },
+                {
+                    "liCode": "040",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國福里",
+                            "tboxNo": "0092",
+                            "tboxName": "花蓮市農會供銷部農業體驗館",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國福里中山路二段1號",
+                            "neighbor": "1,9-13"
+                        },
+                        {
+                            "ScopeLiName": "國福里",
+                            "tboxNo": "0093",
+                            "tboxName": "國福里社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣花蓮市國福里沙基拉雅街111號",
+                            "neighbor": "2-8"
+                        }
+                    ],
+                    "liName": "國福里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新城村",
+                            "tboxNo": "0094",
+                            "tboxName": "興田社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉新城村新興一街62號",
+                            "neighbor": "18-24"
+                        },
+                        {
+                            "ScopeLiName": "新城村",
+                            "tboxNo": "0095",
+                            "tboxName": "新城活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉新城村博愛路66號",
+                            "neighbor": "1-17,25-30"
+                        }
+                    ],
+                    "liName": "新城村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "順安村",
+                            "tboxNo": "0096",
+                            "tboxName": "順安活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉順安村草林84之1號",
+                            "neighbor": "6-16"
+                        },
+                        {
+                            "ScopeLiName": "順安村",
+                            "tboxNo": "0097",
+                            "tboxName": "北三棧活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉順安村北三棧52之2號",
+                            "neighbor": "1-5"
+                        }
+                    ],
+                    "liName": "順安村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "康樂村",
+                            "tboxNo": "0098",
+                            "tboxName": "康樂國小風雨教室",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉康樂村康樂一街38號",
+                            "neighbor": "1,13-18,25-26,28-29,33,35"
+                        },
+                        {
+                            "ScopeLiName": "康樂村",
+                            "tboxNo": "0099",
+                            "tboxName": "康樂老人會館",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉康樂村廣安一街112號",
+                            "neighbor": "5-12,21-22,32,36"
+                        },
+                        {
+                            "ScopeLiName": "康樂村",
+                            "tboxNo": "0100",
+                            "tboxName": "康樂村活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉康樂村大漢街３９０號",
+                            "neighbor": "2-4,19-20,23-24,27,30-31,34"
+                        }
+                    ],
+                    "liName": "康樂村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大漢村",
+                            "tboxNo": "0101",
+                            "tboxName": "新城鄉原住民多功能活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉大漢村大安街1號",
+                            "neighbor": "20-34"
+                        },
+                        {
+                            "ScopeLiName": "大漢村",
+                            "tboxNo": "0102",
+                            "tboxName": "大漢活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉大漢村民有街101號",
+                            "neighbor": "7-19"
+                        },
+                        {
+                            "ScopeLiName": "大漢村",
+                            "tboxNo": "0103",
+                            "tboxName": "七星潭活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉大漢村明潭街27號",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "大漢村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新秀村",
+                            "tboxNo": "0104",
+                            "tboxName": "青年安心成家住宅交誼廳",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉新秀村光復路４８９號",
+                            "neighbor": "1-9"
+                        },
+                        {
+                            "ScopeLiName": "新秀村",
+                            "tboxNo": "0105",
+                            "tboxName": "樹林腳活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉新秀村樹林街57巷9號",
+                            "neighbor": "10-16"
+                        }
+                    ],
+                    "liName": "新秀村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北埔村",
+                            "tboxNo": "0106",
+                            "tboxName": "北埔活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉北埔村北埔路259號",
+                            "neighbor": "12,21-25,28-30"
+                        },
+                        {
+                            "ScopeLiName": "北埔村",
+                            "tboxNo": "0107",
+                            "tboxName": "新城國中體育館",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉北埔村北埔路143號",
+                            "neighbor": "1-11,19"
+                        },
+                        {
+                            "ScopeLiName": "北埔村",
+                            "tboxNo": "0108",
+                            "tboxName": "北埔國小體育館",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉北埔村北埔路170號",
+                            "neighbor": "13-18,20,26-27"
+                        }
+                    ],
+                    "liName": "北埔村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "佳林村",
+                            "tboxNo": "0109",
+                            "tboxName": "佳林活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉佳林村民有二街29號",
+                            "neighbor": "佳林村"
+                        }
+                    ],
+                    "liName": "佳林村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "嘉里村",
+                            "tboxNo": "0110",
+                            "tboxName": "嘉里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉嘉里村嘉里二街31巷20號",
+                            "neighbor": "19-26,39-42"
+                        },
+                        {
+                            "ScopeLiName": "嘉里村",
+                            "tboxNo": "0111",
+                            "tboxName": "嘉里國小共同教室",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉嘉里村嘉里三街28號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "嘉里村",
+                            "tboxNo": "0112",
+                            "tboxName": "嘉里國小專科教室3",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉嘉里村嘉里三街28號",
+                            "neighbor": "9-18,27-31"
+                        },
+                        {
+                            "ScopeLiName": "嘉里村",
+                            "tboxNo": "0113",
+                            "tboxName": "卡來萬教會",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉嘉里村嘉里二街74號",
+                            "neighbor": "32-38"
+                        }
+                    ],
+                    "liName": "嘉里村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "嘉新村",
+                            "tboxNo": "0114",
+                            "tboxName": "嘉新長青會",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉嘉新村嘉北二街6號",
+                            "neighbor": "8-22"
+                        },
+                        {
+                            "ScopeLiName": "嘉新村",
+                            "tboxNo": "0115",
+                            "tboxName": "嘉新活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣新城鄉嘉新村嘉南一街43巷5號",
+                            "neighbor": "1-7"
+                        }
+                    ],
+                    "liName": "嘉新村"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "和平村",
+                            "tboxNo": "0116",
+                            "tboxName": "和平村社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉和平村和平108號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "和平村",
+                            "tboxNo": "0117",
+                            "tboxName": "和中社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉和平村和中1之1號",
+                            "neighbor": "9-16"
+                        }
+                    ],
+                    "liName": "和平村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崇德村",
+                            "tboxNo": "0118",
+                            "tboxName": "崇德村社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉崇德村崇德85號",
+                            "neighbor": "8-13"
+                        },
+                        {
+                            "ScopeLiName": "崇德村",
+                            "tboxNo": "0119",
+                            "tboxName": "秀林鄉崇德老人館",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉崇德村海濱70號",
+                            "neighbor": "1-7"
+                        }
+                    ],
+                    "liName": "崇德村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富世村",
+                            "tboxNo": "0120",
+                            "tboxName": "富世國小薪傳館",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉富世村富世127號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "富世村",
+                            "tboxNo": "0121",
+                            "tboxName": "富世村社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉富世村富世97號",
+                            "neighbor": "7-12"
+                        },
+                        {
+                            "ScopeLiName": "富世村",
+                            "tboxNo": "0122",
+                            "tboxName": "天祥青年活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉富世村天祥30號",
+                            "neighbor": "13-19"
+                        }
+                    ],
+                    "liName": "富世村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "秀林村",
+                            "tboxNo": "0123",
+                            "tboxName": "民有社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉秀林村民有64號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "秀林村",
+                            "tboxNo": "0124",
+                            "tboxName": "秀林國小教室(自然教室)",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉秀林村秀林76號",
+                            "neighbor": "9-14"
+                        },
+                        {
+                            "ScopeLiName": "秀林村",
+                            "tboxNo": "0125",
+                            "tboxName": "秀林村社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉秀林村秀林75號",
+                            "neighbor": "4-8"
+                        }
+                    ],
+                    "liName": "秀林村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "景美村",
+                            "tboxNo": "0126",
+                            "tboxName": "景美多功能集會所",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉景美村加灣106號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "景美村",
+                            "tboxNo": "0127",
+                            "tboxName": "景美圖書室",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉景美村加灣117之2號",
+                            "neighbor": "6-9"
+                        },
+                        {
+                            "ScopeLiName": "景美村",
+                            "tboxNo": "0128",
+                            "tboxName": "三棧活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉景美村三棧98之2號",
+                            "neighbor": "10-15"
+                        }
+                    ],
+                    "liName": "景美村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "佳民村",
+                            "tboxNo": "0129",
+                            "tboxName": "佳民活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉佳民村佳民48之2號",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "佳民村",
+                            "tboxNo": "0130",
+                            "tboxName": "佳民國小風雨教室",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉佳民村119號",
+                            "neighbor": "5-8"
+                        }
+                    ],
+                    "liName": "佳民村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水源村",
+                            "tboxNo": "0131",
+                            "tboxName": "水源社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉水源村水源98號",
+                            "neighbor": "1-5"
+                        },
+                        {
+                            "ScopeLiName": "水源村",
+                            "tboxNo": "0132",
+                            "tboxName": "水源國小禮堂",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉水源村水源111號",
+                            "neighbor": "6-11"
+                        }
+                    ],
+                    "liName": "水源村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "銅門村",
+                            "tboxNo": "0133",
+                            "tboxName": "銅門社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉銅門村銅門56號",
+                            "neighbor": "7-12"
+                        },
+                        {
+                            "ScopeLiName": "銅門村",
+                            "tboxNo": "0134",
+                            "tboxName": "榕樹活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉銅門村榕樹56之2號",
+                            "neighbor": "1-6"
+                        }
+                    ],
+                    "liName": "銅門村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文蘭村",
+                            "tboxNo": "0135",
+                            "tboxName": "文蘭活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉文蘭村文蘭79之1號2樓",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "文蘭村",
+                            "tboxNo": "0136",
+                            "tboxName": "重光社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣秀林鄉文蘭村重光48號",
+                            "neighbor": "8-12"
+                        }
+                    ],
+                    "liName": "文蘭村"
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "溪口村",
+                            "tboxNo": "0208",
+                            "tboxName": "溪口社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉溪口村溪口路103巷3號",
+                            "neighbor": "溪口村"
+                        }
+                    ],
+                    "liName": "溪口村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樹湖村",
+                            "tboxNo": "0209",
+                            "tboxName": "樹湖社區活動中心(新)",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉樹湖村大樹脚93之3號",
+                            "neighbor": "樹湖村"
+                        }
+                    ],
+                    "liName": "樹湖村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐山村",
+                            "tboxNo": "0210",
+                            "tboxName": "豐山社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉豐山村中山路127巷15號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "豐山村",
+                            "tboxNo": "0211",
+                            "tboxName": "豐山國小學生活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉豐山村中山路41號",
+                            "neighbor": "14-29"
+                        }
+                    ],
+                    "liName": "豐山村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐裡村",
+                            "tboxNo": "0212",
+                            "tboxName": "壽豐國中(一年禮班教室)",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉豐裡村中山路132號",
+                            "neighbor": "5,8-9,12"
+                        }
+                    ],
+                    "liName": "豐裡村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐坪村",
+                            "tboxNo": "0214",
+                            "tboxName": "豐坪社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉豐坪村豐坪路二段73號",
+                            "neighbor": "豐坪村"
+                        }
+                    ],
+                    "liName": "豐坪村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "壽豐村",
+                            "tboxNo": "0216",
+                            "tboxName": "壽豐鄉立文化中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉壽豐村公園路30號",
+                            "neighbor": "11-22"
+                        }
+                    ],
+                    "liName": "壽豐村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "共和村",
+                            "tboxNo": "0217",
+                            "tboxName": "共和社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉共和村農墾二街38號",
+                            "neighbor": "共和村"
+                        }
+                    ],
+                    "liName": "共和村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光榮村",
+                            "tboxNo": "0218",
+                            "tboxName": "光榮社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉光榮村光榮一街26之1號",
+                            "neighbor": "光榮村"
+                        }
+                    ],
+                    "liName": "光榮村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "池南村",
+                            "tboxNo": "0219",
+                            "tboxName": "池南村民活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉池南村池南路二段17號",
+                            "neighbor": "池南村"
+                        }
+                    ],
+                    "liName": "池南村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平和村",
+                            "tboxNo": "0220",
+                            "tboxName": "平和社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉平和村平和路32號",
+                            "neighbor": "1-19"
+                        },
+                        {
+                            "ScopeLiName": "平和村",
+                            "tboxNo": "0221",
+                            "tboxName": "吳全社區舊活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉平和村吳全86號",
+                            "neighbor": "20-25"
+                        }
+                    ],
+                    "liName": "平和村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "志學村",
+                            "tboxNo": "0222",
+                            "tboxName": "志學社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉志學村中正路120巷13號",
+                            "neighbor": "4-6,16,24-32"
+                        },
+                        {
+                            "ScopeLiName": "志學村",
+                            "tboxNo": "0223",
+                            "tboxName": "志學老人文康中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉志學村中山路三段66巷7號",
+                            "neighbor": "1-3,7-12,15,21-23"
+                        },
+                        {
+                            "ScopeLiName": "志學村",
+                            "tboxNo": "0224",
+                            "tboxName": "忠孝新村托兒所",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉志學村忠孝1號",
+                            "neighbor": "13-14,17"
+                        }
+                    ],
+                    "liName": "志學村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "米棧村",
+                            "tboxNo": "0225",
+                            "tboxName": "米棧社區活動中心(新)",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉米棧村米棧一段52號",
+                            "neighbor": "米棧村"
+                        }
+                    ],
+                    "liName": "米棧村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "月眉村",
+                            "tboxNo": "0226",
+                            "tboxName": "月眉國小(多功能教室)",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉月眉村月眉三段24號",
+                            "neighbor": "月眉村"
+                        }
+                    ],
+                    "liName": "月眉村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鹽寮村",
+                            "tboxNo": "0227",
+                            "tboxName": "鹽寮村辦公處",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉鹽寮村塩寮165號",
+                            "neighbor": "鹽寮村"
+                        }
+                    ],
+                    "liName": "鹽寮村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水璉村",
+                            "tboxNo": "0228",
+                            "tboxName": "水璉社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣壽豐鄉水璉村水璉二街21號",
+                            "neighbor": "水璉村"
+                        }
+                    ],
+                    "liName": "水璉村"
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳仁里",
+                            "tboxNo": "0229",
+                            "tboxName": "鳳仁社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮鳳仁里公園路70號",
+                            "neighbor": "鳳仁里"
+                        }
+                    ],
+                    "liName": "鳳仁里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳義里",
+                            "tboxNo": "0230",
+                            "tboxName": "鳳義社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮鳳義里水源路３６號",
+                            "neighbor": "鳳義里"
+                        }
+                    ],
+                    "liName": "鳳義里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳禮里",
+                            "tboxNo": "0231",
+                            "tboxName": "鳳禮里鳳智里民眾活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮鳳智里大同街7號之1",
+                            "neighbor": "鳳禮里"
+                        }
+                    ],
+                    "liName": "鳳禮里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳智里",
+                            "tboxNo": "0232",
+                            "tboxName": "鳳林鎮立幼兒園",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮鳳智里公正街8號",
+                            "neighbor": "鳳智里"
+                        }
+                    ],
+                    "liName": "鳳智里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳳信里",
+                            "tboxNo": "0233",
+                            "tboxName": "鳳信社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮鳳信里中正路一段120巷24號",
+                            "neighbor": "1-3,8-21"
+                        },
+                        {
+                            "ScopeLiName": "鳳信里",
+                            "tboxNo": "0234",
+                            "tboxName": "鳳林國小活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮鳳智里中正路二段1號",
+                            "neighbor": "4-7,22-23"
+                        }
+                    ],
+                    "liName": "鳳信里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山興里",
+                            "tboxNo": "0235",
+                            "tboxName": "山興社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮山興里山文路5號",
+                            "neighbor": "1-10,16-17"
+                        },
+                        {
+                            "ScopeLiName": "山興里",
+                            "tboxNo": "0236",
+                            "tboxName": "中興社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮山興里中興路82號",
+                            "neighbor": "11-15"
+                        }
+                    ],
+                    "liName": "山興里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大榮里",
+                            "tboxNo": "0237",
+                            "tboxName": "大榮二村社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮大榮里復興路69號",
+                            "neighbor": "1-12"
+                        },
+                        {
+                            "ScopeLiName": "大榮里",
+                            "tboxNo": "0238",
+                            "tboxName": "大榮一村社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮大榮里大榮二路44號",
+                            "neighbor": "13-21"
+                        }
+                    ],
+                    "liName": "大榮里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北林里",
+                            "tboxNo": "0239",
+                            "tboxName": "北林里辦公室",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮北林里民和路1號",
+                            "neighbor": "北林里"
+                        }
+                    ],
+                    "liName": "北林里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南平里",
+                            "tboxNo": "0240",
+                            "tboxName": "南平社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮南平里自強路368之1號",
+                            "neighbor": "南平里"
+                        }
+                    ],
+                    "liName": "南平里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林榮里",
+                            "tboxNo": "0241",
+                            "tboxName": "林榮社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮林榮里永康路10號",
+                            "neighbor": "林榮里"
+                        }
+                    ],
+                    "liName": "林榮里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長橋里",
+                            "tboxNo": "0242",
+                            "tboxName": "長橋社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮長橋里長橋路6號",
+                            "neighbor": "長橋里"
+                        }
+                    ],
+                    "liName": "長橋里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "森榮里",
+                            "tboxNo": "0243",
+                            "tboxName": "林田山林業文化園區生活館",
+                            "geocode": null,
+                            "addr": "花蓮縣鳳林鎮森榮里林森路127號",
+                            "neighbor": "森榮里"
+                        }
+                    ],
+                    "liName": "森榮里"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大華村",
+                            "tboxNo": "0244",
+                            "tboxName": "大華村活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大華村光復路24號",
+                            "neighbor": "大華村"
+                        }
+                    ],
+                    "liName": "大華村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大安村",
+                            "tboxNo": "0245",
+                            "tboxName": "大安活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大安村忠孝路23巷11號",
+                            "neighbor": "大安村"
+                        }
+                    ],
+                    "liName": "大安村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大平村",
+                            "tboxNo": "0246",
+                            "tboxName": "大馬太鞍活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大同村中山路三段84號",
+                            "neighbor": "大平村"
+                        }
+                    ],
+                    "liName": "大平村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大馬村",
+                            "tboxNo": "0247",
+                            "tboxName": "光復國中普通教室3",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大馬村林森路200號",
+                            "neighbor": "大馬村"
+                        }
+                    ],
+                    "liName": "大馬村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大同村",
+                            "tboxNo": "0248",
+                            "tboxName": "大同社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大同村中正路一段370號",
+                            "neighbor": "大同村"
+                        }
+                    ],
+                    "liName": "大同村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東富村",
+                            "tboxNo": "0249",
+                            "tboxName": "太巴塱國小東邊教室(餐廳)",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉北富村中正路二段23號",
+                            "neighbor": "1-16"
+                        },
+                        {
+                            "ScopeLiName": "東富村",
+                            "tboxNo": "0250",
+                            "tboxName": "加里洞社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉東富村東富路９2巷2之1號",
+                            "neighbor": "17-21"
+                        }
+                    ],
+                    "liName": "東富村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西富村",
+                            "tboxNo": "0251",
+                            "tboxName": "西南社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉西富村中正路二段72巷5號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "西富村",
+                            "tboxNo": "0252",
+                            "tboxName": "西富國小桌球教室",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉西富村民有街51巷3號",
+                            "neighbor": "9-18"
+                        }
+                    ],
+                    "liName": "西富村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南富村",
+                            "tboxNo": "0253",
+                            "tboxName": "砂荖社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉南富村建國路二段39號",
+                            "neighbor": "南富村"
+                        }
+                    ],
+                    "liName": "南富村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北富村",
+                            "tboxNo": "0254",
+                            "tboxName": "太巴塱國小活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉北富村中正路二段23號",
+                            "neighbor": "北富村"
+                        }
+                    ],
+                    "liName": "北富村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大進村",
+                            "tboxNo": "0255",
+                            "tboxName": "大進國小一年甲班",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大進村糖廠街4號",
+                            "neighbor": "大進村"
+                        }
+                    ],
+                    "liName": "大進村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大全村",
+                            "tboxNo": "0256",
+                            "tboxName": "大全村活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大全村中山路一段216巷9號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "大全村",
+                            "tboxNo": "0257",
+                            "tboxName": "仁壽宮",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大全村建國路一段27號",
+                            "neighbor": "12-15"
+                        }
+                    ],
+                    "liName": "大全村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大興村",
+                            "tboxNo": "0258",
+                            "tboxName": "大興社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大興村民權街37號",
+                            "neighbor": "大興村"
+                        }
+                    ],
+                    "liName": "大興村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大富村",
+                            "tboxNo": "0259",
+                            "tboxName": "富安宮餐廳",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大富村明德路58巷1號",
+                            "neighbor": "大富村"
+                        }
+                    ],
+                    "liName": "大富村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大豐村",
+                            "tboxNo": "0260",
+                            "tboxName": "大豐社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣光復鄉大豐村尚德街31號",
+                            "neighbor": "大豐村"
+                        }
+                    ],
+                    "liName": "大豐村"
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "靜浦村",
+                            "tboxNo": "0261",
+                            "tboxName": "靜浦活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣豐濱鄉靜浦村靜浦247號",
+                            "neighbor": "靜浦村"
+                        }
+                    ],
+                    "liName": "靜浦村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港口村",
+                            "tboxNo": "0262",
+                            "tboxName": "港口活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣豐濱鄉港口村港口118號",
+                            "neighbor": "港口村"
+                        }
+                    ],
+                    "liName": "港口村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐濱村",
+                            "tboxNo": "0263",
+                            "tboxName": "豐濱國小活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣豐濱鄉豐濱村民族街５號",
+                            "neighbor": "3-12"
+                        },
+                        {
+                            "ScopeLiName": "豐濱村",
+                            "tboxNo": "0264",
+                            "tboxName": "豐濱國中體育館",
+                            "geocode": null,
+                            "addr": "花蓮縣豐濱鄉豐濱村光豐路２６號",
+                            "neighbor": "1,2,13-20,31"
+                        },
+                        {
+                            "ScopeLiName": "豐濱村",
+                            "tboxNo": "0265",
+                            "tboxName": "豐富文化健康站",
+                            "geocode": null,
+                            "addr": "花蓮縣豐濱鄉豐濱村豐富71號",
+                            "neighbor": "21-30"
+                        }
+                    ],
+                    "liName": "豐濱村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新社村",
+                            "tboxNo": "0266",
+                            "tboxName": "新社社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣豐濱鄉新社村新社145號",
+                            "neighbor": "新社村"
+                        }
+                    ],
+                    "liName": "新社村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "磯崎村",
+                            "tboxNo": "0267",
+                            "tboxName": "磯崎活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣豐濱鄉磯崎村磯崎71號",
+                            "neighbor": "磯崎村"
+                        }
+                    ],
+                    "liName": "磯崎村"
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西林村",
+                            "tboxNo": "0268",
+                            "tboxName": "西林國小舒揚館",
+                            "geocode": null,
+                            "addr": "花蓮縣萬榮鄉西林村１１４號",
+                            "neighbor": "西林村"
+                        }
+                    ],
+                    "liName": "西林村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "見晴村",
+                            "tboxNo": "0269",
+                            "tboxName": "見晴活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣萬榮鄉見晴村75號",
+                            "neighbor": "見晴村"
+                        }
+                    ],
+                    "liName": "見晴村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬榮村",
+                            "tboxNo": "0270",
+                            "tboxName": "萬榮國小學生活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣萬榮鄉萬榮村３１號",
+                            "neighbor": "萬榮村"
+                        }
+                    ],
+                    "liName": "萬榮村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明利村",
+                            "tboxNo": "0271",
+                            "tboxName": "明利活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣萬榮鄉明利村３４之８號",
+                            "neighbor": "明利村"
+                        }
+                    ],
+                    "liName": "明利村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "馬遠村",
+                            "tboxNo": "0272",
+                            "tboxName": "馬遠活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣萬榮鄉馬遠村５號",
+                            "neighbor": "1-4"
+                        },
+                        {
+                            "ScopeLiName": "馬遠村",
+                            "tboxNo": "0273",
+                            "tboxName": "東光活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣萬榮鄉馬遠村２０８之１號",
+                            "neighbor": "5-9"
+                        }
+                    ],
+                    "liName": "馬遠村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "紅葉村",
+                            "tboxNo": "0274",
+                            "tboxName": "紅葉活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣萬榮鄉紅葉村１１之２號",
+                            "neighbor": "紅葉村"
+                        }
+                    ],
+                    "liName": "紅葉村"
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞穗村",
+                            "tboxNo": "0275",
+                            "tboxName": "瑞穗鄉老人文康活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉瑞穗村民生街６３巷３８號",
+                            "neighbor": "1-13"
+                        },
+                        {
+                            "ScopeLiName": "瑞穗村",
+                            "tboxNo": "0276",
+                            "tboxName": "瑞穗社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉瑞穗村民生街４１號",
+                            "neighbor": "14-21"
+                        }
+                    ],
+                    "liName": "瑞穗村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞美村",
+                            "tboxNo": "0277",
+                            "tboxName": "瑞美社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉瑞美村中山路二段３８７號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "瑞美村",
+                            "tboxNo": "0278",
+                            "tboxName": "瑞美國小風雨教室",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉瑞美村中山路二段３８９號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "瑞美村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞良村",
+                            "tboxNo": "0279",
+                            "tboxName": "瑞良社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉瑞良村信義路３號",
+                            "neighbor": "瑞良村"
+                        }
+                    ],
+                    "liName": "瑞良村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞祥村",
+                            "tboxNo": "0280",
+                            "tboxName": "瑞祥社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉瑞祥村祥北路二段１２７號",
+                            "neighbor": "瑞祥村"
+                        }
+                    ],
+                    "liName": "瑞祥村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "瑞北村",
+                            "tboxNo": "0281",
+                            "tboxName": "瑞北社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉瑞北村祥北路一段５４之１號",
+                            "neighbor": "瑞北村"
+                        }
+                    ],
+                    "liName": "瑞北村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "舞鶴村",
+                            "tboxNo": "0282",
+                            "tboxName": "掃叭頂社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉舞鶴村中正南路二段２７８號",
+                            "neighbor": "舞鶴村"
+                        }
+                    ],
+                    "liName": "舞鶴村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鶴岡村",
+                            "tboxNo": "0283",
+                            "tboxName": "鶴岡社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉鶴岡村興鶴路一段８５之６號",
+                            "neighbor": "鶴岡村"
+                        }
+                    ],
+                    "liName": "鶴岡村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "奇美村",
+                            "tboxNo": "0284",
+                            "tboxName": "奇美社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉奇美村奇美１６號",
+                            "neighbor": "奇美村"
+                        }
+                    ],
+                    "liName": "奇美村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富源村",
+                            "tboxNo": "0285",
+                            "tboxName": "富源社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉富源村學士路３１號",
+                            "neighbor": "富源村"
+                        }
+                    ],
+                    "liName": "富源村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富民村",
+                            "tboxNo": "0286",
+                            "tboxName": "富民社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉富民村中正路一段２０８之１號",
+                            "neighbor": "富民村"
+                        }
+                    ],
+                    "liName": "富民村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富興村",
+                            "tboxNo": "0287",
+                            "tboxName": "富興社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣瑞穗鄉富興村東興路１２３之１號",
+                            "neighbor": "富興村"
+                        }
+                    ],
+                    "liName": "富興村"
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中城里",
+                            "tboxNo": "0288",
+                            "tboxName": "中城國小桌球練習室(二)",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮中城里中山路一段1號",
+                            "neighbor": "1-3"
+                        },
+                        {
+                            "ScopeLiName": "中城里",
+                            "tboxNo": "0289",
+                            "tboxName": "玉里鎮老人館",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮中城里忠智路72號",
+                            "neighbor": "4-6"
+                        },
+                        {
+                            "ScopeLiName": "中城里",
+                            "tboxNo": "0290",
+                            "tboxName": "玉里國小玩具圖書館",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮中城里忠智路43號",
+                            "neighbor": "7-10"
+                        },
+                        {
+                            "ScopeLiName": "中城里",
+                            "tboxNo": "0291",
+                            "tboxName": "中城國小桌球練習室(ㄧ)",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮中城里中山路一段1號",
+                            "neighbor": "11-13"
+                        },
+                        {
+                            "ScopeLiName": "中城里",
+                            "tboxNo": "0292",
+                            "tboxName": "中城國小幼兒園教室",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮中城里中山路一段１號",
+                            "neighbor": "14-18"
+                        },
+                        {
+                            "ScopeLiName": "中城里",
+                            "tboxNo": "0293",
+                            "tboxName": "舊中城里辦公處",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮中城里大同路2號",
+                            "neighbor": "19-35"
+                        }
+                    ],
+                    "liName": "中城里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "國武里",
+                            "tboxNo": "0294",
+                            "tboxName": "玉里鎮中正堂",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮泰昌里中正路144號",
+                            "neighbor": "國武里"
+                        }
+                    ],
+                    "liName": "國武里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "啟模里",
+                            "tboxNo": "0295",
+                            "tboxName": "啟模社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮啟模里五權街1號",
+                            "neighbor": "1-15"
+                        },
+                        {
+                            "ScopeLiName": "啟模里",
+                            "tboxNo": "0296",
+                            "tboxName": "玉里鎮民族樓(大教室)",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮啟模里民權街50號",
+                            "neighbor": "16-27"
+                        }
+                    ],
+                    "liName": "啟模里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "泰昌里",
+                            "tboxNo": "0297",
+                            "tboxName": "玉里國中801班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮泰昌里民族街30號",
+                            "neighbor": "1-10,14"
+                        },
+                        {
+                            "ScopeLiName": "泰昌里",
+                            "tboxNo": "0298",
+                            "tboxName": "玉里國中804班教室",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮泰昌里民族街30號",
+                            "neighbor": "11-20"
+                        }
+                    ],
+                    "liName": "泰昌里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永昌里",
+                            "tboxNo": "0299",
+                            "tboxName": "玉里地政事務所",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮永昌里莊敬路18號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "永昌里",
+                            "tboxNo": "0300",
+                            "tboxName": "國立玉里高中體育館",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮永昌里中華路424號",
+                            "neighbor": "9-15"
+                        }
+                    ],
+                    "liName": "永昌里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "源城里",
+                            "tboxNo": "0301",
+                            "tboxName": "源城社區發展協會長壽俱樂部",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮源城里客城69之1號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "源城里",
+                            "tboxNo": "0302",
+                            "tboxName": "源城里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮源城里水源57之2號",
+                            "neighbor": "9-23"
+                        }
+                    ],
+                    "liName": "源城里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長良里",
+                            "tboxNo": "0303",
+                            "tboxName": "長良社區活動中心暨原住民文化聚會所",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮長良里長良143之1號",
+                            "neighbor": "長良里"
+                        }
+                    ],
+                    "liName": "長良里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大禹里",
+                            "tboxNo": "0304",
+                            "tboxName": "純柑活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮大禹里酸柑88之1號",
+                            "neighbor": "1-8"
+                        },
+                        {
+                            "ScopeLiName": "大禹里",
+                            "tboxNo": "0305",
+                            "tboxName": "大禹社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮大禹里大禹226號",
+                            "neighbor": "9-22"
+                        }
+                    ],
+                    "liName": "大禹里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三民里",
+                            "tboxNo": "0306",
+                            "tboxName": "三民社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮三民里三民131之2號",
+                            "neighbor": "三民里"
+                        }
+                    ],
+                    "liName": "三民里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樂合里",
+                            "tboxNo": "0307",
+                            "tboxName": "樂合社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮樂合里樂合65之5號",
+                            "neighbor": "樂合里"
+                        }
+                    ],
+                    "liName": "樂合里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東豐里",
+                            "tboxNo": "0308",
+                            "tboxName": "東豐社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮東豐里石崗32之1號",
+                            "neighbor": "東豐里"
+                        }
+                    ],
+                    "liName": "東豐里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "觀音里",
+                            "tboxNo": "0309",
+                            "tboxName": "高寮國小學生活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮觀音里高寮92號",
+                            "neighbor": "1-14"
+                        },
+                        {
+                            "ScopeLiName": "觀音里",
+                            "tboxNo": "0310",
+                            "tboxName": "觀音社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮觀音里觀音9之1號",
+                            "neighbor": "15-27"
+                        }
+                    ],
+                    "liName": "觀音里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "松浦里",
+                            "tboxNo": "0311",
+                            "tboxName": "玉東國中會議室",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮松浦里松浦３９號",
+                            "neighbor": "1-7"
+                        },
+                        {
+                            "ScopeLiName": "松浦里",
+                            "tboxNo": "0312",
+                            "tboxName": "松浦社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮松浦里松浦214之3號",
+                            "neighbor": "8-25"
+                        }
+                    ],
+                    "liName": "松浦里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "春日里",
+                            "tboxNo": "0313",
+                            "tboxName": "春日里活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮春日里神農75之1號",
+                            "neighbor": "春日里"
+                        }
+                    ],
+                    "liName": "春日里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "德武里",
+                            "tboxNo": "0314",
+                            "tboxName": "德武里原住民活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣玉里鎮德武里能雅79號",
+                            "neighbor": "德武里"
+                        }
+                    ],
+                    "liName": "德武里"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "吳江村",
+                            "tboxNo": "0315",
+                            "tboxName": "吳江社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉吳江村吳江65之3號",
+                            "neighbor": "吳江村"
+                        }
+                    ],
+                    "liName": "吳江村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "萬寧村",
+                            "tboxNo": "0317",
+                            "tboxName": "萬寧社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉萬寧村鎮寧100號",
+                            "neighbor": "萬寧村"
+                        }
+                    ],
+                    "liName": "萬寧村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興村",
+                            "tboxNo": "0318",
+                            "tboxName": "新興竹田聯合村辦公處",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉竹田村東竹10號",
+                            "neighbor": "新興村"
+                        }
+                    ],
+                    "liName": "新興村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹田村",
+                            "tboxNo": "0319",
+                            "tboxName": "東竹國小樂齡學習中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉竹田村富田3號",
+                            "neighbor": "竹田村"
+                        }
+                    ],
+                    "liName": "竹田村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "羅山村",
+                            "tboxNo": "0320",
+                            "tboxName": "羅山村客家產業交流中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉羅山村東湖15之1號",
+                            "neighbor": "羅山村"
+                        }
+                    ],
+                    "liName": "羅山村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石牌村",
+                            "tboxNo": "0321",
+                            "tboxName": "石牌社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉石牌村富北51之2號",
+                            "neighbor": "石牌村"
+                        }
+                    ],
+                    "liName": "石牌村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明里村",
+                            "tboxNo": "0322",
+                            "tboxName": "明里社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉明里村明里37號",
+                            "neighbor": "明里村"
+                        }
+                    ],
+                    "liName": "明里村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富里村",
+                            "tboxNo": "0323",
+                            "tboxName": "富里鄉老人文康中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉富里村中山路205號",
+                            "neighbor": "富里村"
+                        }
+                    ],
+                    "liName": "富里村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "永豐村",
+                            "tboxNo": "0324",
+                            "tboxName": "永豐社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉永豐村永豐20之1號",
+                            "neighbor": "永豐村"
+                        }
+                    ],
+                    "liName": "永豐村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐南村",
+                            "tboxNo": "0325",
+                            "tboxName": "豐南社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉豐南村新富12之3號",
+                            "neighbor": "豐南村"
+                        }
+                    ],
+                    "liName": "豐南村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "富南村",
+                            "tboxNo": "0326",
+                            "tboxName": "舊富南社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉富南村富南80號",
+                            "neighbor": "富南村"
+                        }
+                    ],
+                    "liName": "富南村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "學田村",
+                            "tboxNo": "0327",
+                            "tboxName": "學田社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣富里鄉學田村復興路14之1號",
+                            "neighbor": "學田村"
+                        }
+                    ],
+                    "liName": "學田村"
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崙山村",
+                            "tboxNo": "0328",
+                            "tboxName": "崙山社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉崙山村崙山11之1號",
+                            "neighbor": "崙山村"
+                        }
+                    ],
+                    "liName": "崙山村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "立山村",
+                            "tboxNo": "0329",
+                            "tboxName": "立山國小6年甲班",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉立山村90號",
+                            "neighbor": "1-10"
+                        },
+                        {
+                            "ScopeLiName": "立山村",
+                            "tboxNo": "0330",
+                            "tboxName": "山里社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉立山村山里31之5號",
+                            "neighbor": "11-19"
+                        }
+                    ],
+                    "liName": "立山村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太平村",
+                            "tboxNo": "0331",
+                            "tboxName": "太平社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉太平村太平79之1號",
+                            "neighbor": "太平村"
+                        }
+                    ],
+                    "liName": "太平村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "卓溪村",
+                            "tboxNo": "0332",
+                            "tboxName": "卓溪多功能活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉卓溪村中正66之4號",
+                            "neighbor": "卓溪村"
+                        }
+                    ],
+                    "liName": "卓溪村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "卓清村",
+                            "tboxNo": "0333",
+                            "tboxName": "卓清社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉卓清村卓樂18號",
+                            "neighbor": "9-20"
+                        },
+                        {
+                            "ScopeLiName": "卓清村",
+                            "tboxNo": "0334",
+                            "tboxName": "清水社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉卓清村清水13號",
+                            "neighbor": "1-8"
+                        }
+                    ],
+                    "liName": "卓清村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古風村",
+                            "tboxNo": "0335",
+                            "tboxName": "古風社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉古風村古楓4號",
+                            "neighbor": "12-21"
+                        },
+                        {
+                            "ScopeLiName": "古風村",
+                            "tboxNo": "0336",
+                            "tboxName": "崙天社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉古風村崙天20號",
+                            "neighbor": "1-11"
+                        },
+                        {
+                            "ScopeLiName": "古風村",
+                            "tboxNo": "0337",
+                            "tboxName": "石平社區活動中心",
+                            "geocode": null,
+                            "addr": "花蓮縣卓溪鄉古風村石平16之1號",
+                            "neighbor": "22-26"
+                        }
+                    ],
+                    "liName": "古風村"
+                }
+            ],
+            "deptCode": "130"
+        }
+    ]
+}

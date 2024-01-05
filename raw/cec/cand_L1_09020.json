@@ -1,0 +1,46 @@
+{
+    "L1": [
+        {
+            "areaCode": "00",
+            "areaName": "金門縣選舉區",
+            "cands": [
+                {
+                    "area": "金門縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/09020\/09020000000001.jpg",
+                    "gender": "男",
+                    "name": "洪和成",
+                    "birth": "0500922",
+                    "type": "L1",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "金門縣"
+                },
+                {
+                    "area": "金門縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/09020\/09020000000002.jpg",
+                    "gender": "女",
+                    "name": "陳玉珍",
+                    "birth": "0621029",
+                    "type": "L1",
+                    "party": "中國國民黨",
+                    "candNo": 2,
+                    "home": "金門縣"
+                },
+                {
+                    "area": "金門縣選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/L1\/09020\/09020000000003.jpg",
+                    "gender": "女",
+                    "name": "尚文凱",
+                    "birth": "0660509",
+                    "type": "L1",
+                    "party": "台灣民眾黨",
+                    "candNo": 3,
+                    "home": "新竹市"
+                }
+            ]
+        }
+    ]
+}

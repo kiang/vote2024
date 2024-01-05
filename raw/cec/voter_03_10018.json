@@ -1,0 +1,1372 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "育賢里",
+                            "tboxNo": "0001",
+                            "tboxName": "東門國小A111教室",
+                            "geocode": null,
+                            "addr": "新竹市東區育賢里民族路33號",
+                            "neighbor": "育賢里"
+                        }
+                    ],
+                    "liName": "育賢里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "親仁里",
+                            "tboxNo": "0003",
+                            "tboxName": "東門國小B108教室",
+                            "geocode": null,
+                            "addr": "新竹市東區育賢里民族路33號",
+                            "neighbor": "親仁里"
+                        }
+                    ],
+                    "liName": "親仁里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "榮光里",
+                            "tboxNo": "0004",
+                            "tboxName": "東區戶政事務所車庫",
+                            "geocode": null,
+                            "addr": "新竹市東區育賢里民族路40之1號",
+                            "neighbor": "榮光里"
+                        }
+                    ],
+                    "liName": "榮光里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東門里",
+                            "tboxNo": "0005",
+                            "tboxName": "東寧宮",
+                            "geocode": null,
+                            "addr": "新竹市東區東門里東門街150號",
+                            "neighbor": "東門里"
+                        }
+                    ],
+                    "liName": "東門里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成功里",
+                            "tboxNo": "0006",
+                            "tboxName": "原中興百貨一樓中庭",
+                            "geocode": null,
+                            "addr": "新竹市東區成功里林森路32號",
+                            "neighbor": "成功里"
+                        }
+                    ],
+                    "liName": "成功里"
+                },
+                {
+                    "liCode": "051",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "錦華里",
+                            "tboxNo": "0008",
+                            "tboxName": "東大市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區親仁里東大路一段137之1號",
+                            "neighbor": "錦華里"
+                        }
+                    ],
+                    "liName": "錦華里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文華里",
+                            "tboxNo": "0011",
+                            "tboxName": "曙光小學二年仁班",
+                            "geocode": null,
+                            "addr": "新竹市東區文華里北大路70號",
+                            "neighbor": "文華里"
+                        }
+                    ],
+                    "liName": "文華里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復中里",
+                            "tboxNo": "0014",
+                            "tboxName": "曙光女中語言教室",
+                            "geocode": null,
+                            "addr": "新竹市東區錦華里北大路61號",
+                            "neighbor": "復中里"
+                        }
+                    ],
+                    "liName": "復中里"
+                },
+                {
+                    "liCode": "050",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0018",
+                            "tboxName": "三民國中723教室",
+                            "geocode": null,
+                            "addr": "新竹市東區復興里中央路345號",
+                            "neighbor": "復興里"
+                        }
+                    ],
+                    "liName": "復興里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "三民里",
+                            "tboxNo": "0024",
+                            "tboxName": "行政院農業委員會農糧署北區分署新竹辦事處中庭",
+                            "geocode": null,
+                            "addr": "新竹市東區三民里民族路111號",
+                            "neighbor": "三民里"
+                        }
+                    ],
+                    "liName": "三民里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東園里",
+                            "tboxNo": "0029",
+                            "tboxName": "東園社區活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區東園里忠孝路414號",
+                            "neighbor": "東園里"
+                        }
+                    ],
+                    "liName": "東園里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "公園里",
+                            "tboxNo": "0033",
+                            "tboxName": "公園市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區公園里體育街58號",
+                            "neighbor": "公園里"
+                        }
+                    ],
+                    "liName": "公園里"
+                },
+                {
+                    "liCode": "048",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建華里",
+                            "tboxNo": "0036",
+                            "tboxName": "建華國中感恩樓多功能視聽教室",
+                            "geocode": null,
+                            "addr": "新竹市東區建華里學府路2號",
+                            "neighbor": "建華里"
+                        }
+                    ],
+                    "liName": "建華里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東山里",
+                            "tboxNo": "0037",
+                            "tboxName": "培英國中D102教室",
+                            "geocode": null,
+                            "addr": "新竹市東區建華里學府路4號",
+                            "neighbor": "東山里"
+                        }
+                    ],
+                    "liName": "東山里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "綠水里",
+                            "tboxNo": "0041",
+                            "tboxName": "綠水市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區綠水里博愛街106號",
+                            "neighbor": "綠水里"
+                        }
+                    ],
+                    "liName": "綠水里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東勢里",
+                            "tboxNo": "0046",
+                            "tboxName": "光復里集會所2",
+                            "geocode": null,
+                            "addr": "新竹市東區東勢里東明街138巷1號一樓",
+                            "neighbor": "東勢里"
+                        }
+                    ],
+                    "liName": "東勢里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光復里",
+                            "tboxNo": "0049",
+                            "tboxName": "龍台宮(面對廟左側廂房)",
+                            "geocode": null,
+                            "addr": "新竹市東區光復里東明街133號",
+                            "neighbor": "光復里"
+                        }
+                    ],
+                    "liName": "光復里"
+                },
+                {
+                    "liCode": "038",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "前溪里",
+                            "tboxNo": "0052",
+                            "tboxName": "永豐宮(後方長壽俱樂部)",
+                            "geocode": null,
+                            "addr": "新竹市東區前溪里公道五路三段622號",
+                            "neighbor": "前溪里"
+                        }
+                    ],
+                    "liName": "前溪里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水源里",
+                            "tboxNo": "0057",
+                            "tboxName": "水源市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區水源里溪州路59巷15號",
+                            "neighbor": "水源里"
+                        }
+                    ],
+                    "liName": "水源里"
+                },
+                {
+                    "liCode": "040",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "千甲里",
+                            "tboxNo": "0058",
+                            "tboxName": "千甲市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區千甲里千甲路385之3號",
+                            "neighbor": "千甲里"
+                        }
+                    ],
+                    "liName": "千甲里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "豐功里",
+                            "tboxNo": "0061",
+                            "tboxName": "建功國小安親班教室",
+                            "geocode": null,
+                            "addr": "新竹市東區軍功里建功一路104巷22號",
+                            "neighbor": "豐功里"
+                        }
+                    ],
+                    "liName": "豐功里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "武功里",
+                            "tboxNo": "0064",
+                            "tboxName": "公學新城甲區活動中心1",
+                            "geocode": null,
+                            "addr": "新竹市東區武功里建中一路58號一樓",
+                            "neighbor": "武功里"
+                        }
+                    ],
+                    "liName": "武功里"
+                },
+                {
+                    "liCode": "036",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "軍功里",
+                            "tboxNo": "0067",
+                            "tboxName": "建功國小1年3班教室",
+                            "geocode": null,
+                            "addr": "新竹市東區軍功里建功一路104巷22號",
+                            "neighbor": "軍功里"
+                        }
+                    ],
+                    "liName": "軍功里"
+                },
+                {
+                    "liCode": "035",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "立功里",
+                            "tboxNo": "0070",
+                            "tboxName": "立功社區發展協會老人照顧關懷據點",
+                            "geocode": null,
+                            "addr": "新竹市東區立功里光復路二段42巷12弄30之1號",
+                            "neighbor": "立功里"
+                        }
+                    ],
+                    "liName": "立功里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "建功里",
+                            "tboxNo": "0072",
+                            "tboxName": "建功高中102教室",
+                            "geocode": null,
+                            "addr": "新竹市東區立功里建功二路17號",
+                            "neighbor": "建功里"
+                        }
+                    ],
+                    "liName": "建功里"
+                },
+                {
+                    "liCode": "033",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光明里",
+                            "tboxNo": "0075",
+                            "tboxName": "光復中學慈樓181教室",
+                            "geocode": null,
+                            "addr": "新竹市東區光明里光復路二段153號",
+                            "neighbor": "光明里"
+                        }
+                    ],
+                    "liName": "光明里"
+                },
+                {
+                    "liCode": "042",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍山里",
+                            "tboxNo": "0083",
+                            "tboxName": "光武國中3年13班教室",
+                            "geocode": null,
+                            "addr": "新竹市東區龍山里光復路一段512號",
+                            "neighbor": "龍山里"
+                        }
+                    ],
+                    "liName": "龍山里"
+                },
+                {
+                    "liCode": "047",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "科園里",
+                            "tboxNo": "0090",
+                            "tboxName": "科園國小302教室",
+                            "geocode": null,
+                            "addr": "新竹市東區科園里科學園路171號",
+                            "neighbor": "科園里"
+                        }
+                    ],
+                    "liName": "科園里"
+                },
+                {
+                    "liCode": "041",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "埔頂里",
+                            "tboxNo": "0094",
+                            "tboxName": "埔頂里市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區埔頂里埔頂路136號",
+                            "neighbor": "埔頂里"
+                        }
+                    ],
+                    "liName": "埔頂里"
+                },
+                {
+                    "liCode": "043",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新莊里",
+                            "tboxNo": "0099",
+                            "tboxName": "新莊市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區新莊里新莊街263號",
+                            "neighbor": "新莊里"
+                        }
+                    ],
+                    "liName": "新莊里"
+                },
+                {
+                    "liCode": "054",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "關新里",
+                            "tboxNo": "0107",
+                            "tboxName": "關東國小523教室",
+                            "geocode": null,
+                            "addr": "新竹市東區關東里關東路53號",
+                            "neighbor": "關新里"
+                        }
+                    ],
+                    "liName": "關新里"
+                },
+                {
+                    "liCode": "046",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "關東里",
+                            "tboxNo": "0110",
+                            "tboxName": "關東國小212教室",
+                            "geocode": null,
+                            "addr": "新竹市東區關東里關東路53號",
+                            "neighbor": "關東里"
+                        }
+                    ],
+                    "liName": "關東里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金山里",
+                            "tboxNo": "0115",
+                            "tboxName": "新科國中D102教室",
+                            "geocode": null,
+                            "addr": "新竹市東區金山里光復路一段89巷88號",
+                            "neighbor": "金山里"
+                        }
+                    ],
+                    "liName": "金山里"
+                },
+                {
+                    "liCode": "044",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仙水里",
+                            "tboxNo": "0119",
+                            "tboxName": "鎮安宮活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區仙水里光復路一段525巷27號",
+                            "neighbor": "仙水里"
+                        }
+                    ],
+                    "liName": "仙水里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仙宮里",
+                            "tboxNo": "0121",
+                            "tboxName": "仙宮里土地公活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區仙宮里寶山路452巷7弄對面土地公廟",
+                            "neighbor": "仙宮里"
+                        }
+                    ],
+                    "liName": "仙宮里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "關帝里",
+                            "tboxNo": "0122",
+                            "tboxName": "新竹關帝廟忠義圖書館",
+                            "geocode": null,
+                            "addr": "新竹市東區關帝里南門街105號",
+                            "neighbor": "關帝里"
+                        }
+                    ],
+                    "liName": "關帝里"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南門里",
+                            "tboxNo": "0123",
+                            "tboxName": "南門市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區南門里南門街15號",
+                            "neighbor": "南門里"
+                        }
+                    ],
+                    "liName": "南門里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南市里",
+                            "tboxNo": "0124",
+                            "tboxName": "南外市民活動中心二樓",
+                            "geocode": null,
+                            "addr": "新竹市東區南市里南外街2號",
+                            "neighbor": "南市里"
+                        }
+                    ],
+                    "liName": "南市里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福德里",
+                            "tboxNo": "0126",
+                            "tboxName": "南外市民活動中心一樓",
+                            "geocode": null,
+                            "addr": "新竹市東區南市里南外街2號",
+                            "neighbor": "福德里"
+                        }
+                    ],
+                    "liName": "福德里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "振興里",
+                            "tboxNo": "0131",
+                            "tboxName": "新竹國小楓香樓127教室",
+                            "geocode": null,
+                            "addr": "新竹市東區振興里南大路500號",
+                            "neighbor": "振興里"
+                        }
+                    ],
+                    "liName": "振興里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新興里",
+                            "tboxNo": "0132",
+                            "tboxName": "新竹國小楓香樓129教室",
+                            "geocode": null,
+                            "addr": "新竹市東區振興里南大路500號",
+                            "neighbor": "新興里"
+                        }
+                    ],
+                    "liName": "新興里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "寺前里",
+                            "tboxNo": "0135",
+                            "tboxName": "竹蓮寺前活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區寺前里竹蓮街101巷10號",
+                            "neighbor": "寺前里"
+                        }
+                    ],
+                    "liName": "寺前里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹蓮里",
+                            "tboxNo": "0136",
+                            "tboxName": "身心障礙福利服務中心一樓",
+                            "geocode": null,
+                            "addr": "新竹市東區頂竹里竹蓮街6號",
+                            "neighbor": "竹蓮里"
+                        }
+                    ],
+                    "liName": "竹蓮里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "下竹里",
+                            "tboxNo": "0137",
+                            "tboxName": "青山宮廣場",
+                            "geocode": null,
+                            "addr": "新竹市東區下竹里東南街49號",
+                            "neighbor": "下竹里"
+                        }
+                    ],
+                    "liName": "下竹里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "頂竹里",
+                            "tboxNo": "0139",
+                            "tboxName": "竹蓮國小一年忠班",
+                            "geocode": null,
+                            "addr": "新竹市東區頂竹里食品路226號",
+                            "neighbor": "頂竹里"
+                        }
+                    ],
+                    "liName": "頂竹里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南大里",
+                            "tboxNo": "0142",
+                            "tboxName": "竹蓮國小一年仁班",
+                            "geocode": null,
+                            "addr": "新竹市東區頂竹里食品路226號",
+                            "neighbor": "南大里"
+                        }
+                    ],
+                    "liName": "南大里"
+                },
+                {
+                    "liCode": "049",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新光里",
+                            "tboxNo": "0143",
+                            "tboxName": "開天宮(盤古廟)",
+                            "geocode": null,
+                            "addr": "新竹市東區新光里高峰路110巷7號",
+                            "neighbor": "新光里"
+                        }
+                    ],
+                    "liName": "新光里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光鎮里",
+                            "tboxNo": "0146",
+                            "tboxName": "育賢國中911教室",
+                            "geocode": null,
+                            "addr": "新竹市東區光鎮里南大路569號",
+                            "neighbor": "光鎮里"
+                        }
+                    ],
+                    "liName": "光鎮里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "高峰里",
+                            "tboxNo": "0151",
+                            "tboxName": "高峰國小多功能教室一",
+                            "geocode": null,
+                            "addr": "新竹市東區高峰里高翠路332巷2號",
+                            "neighbor": "高峰里"
+                        }
+                    ],
+                    "liName": "高峰里"
+                },
+                {
+                    "liCode": "052",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖濱里",
+                            "tboxNo": "0156",
+                            "tboxName": "湖濱特區會議室",
+                            "geocode": null,
+                            "addr": "新竹市東區湖濱里明湖路393巷5之1號",
+                            "neighbor": "湖濱里"
+                        }
+                    ],
+                    "liName": "湖濱里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "柴橋里",
+                            "tboxNo": "0160",
+                            "tboxName": "柴橋市民活動中心1(小教室)",
+                            "geocode": null,
+                            "addr": "新竹市東區明湖里明湖路775巷36號",
+                            "neighbor": "柴橋里"
+                        }
+                    ],
+                    "liName": "柴橋里"
+                },
+                {
+                    "liCode": "053",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "明湖里",
+                            "tboxNo": "0165",
+                            "tboxName": "春福江山活動中心",
+                            "geocode": null,
+                            "addr": "新竹市東區明湖里明湖路1050巷156號",
+                            "neighbor": "明湖里"
+                        }
+                    ],
+                    "liName": "明湖里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西門里",
+                            "tboxNo": "0167",
+                            "tboxName": "西門國小一年甲班教室",
+                            "geocode": null,
+                            "addr": "新竹市北區西雅里北大路450號",
+                            "neighbor": "西門里"
+                        }
+                    ],
+                    "liName": "西門里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中央里",
+                            "tboxNo": "0168",
+                            "tboxName": "西門國小一年丙班教室",
+                            "geocode": null,
+                            "addr": "新竹市北區西雅里北大路450號",
+                            "neighbor": "中央里"
+                        }
+                    ],
+                    "liName": "中央里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "潛園里",
+                            "tboxNo": "0169",
+                            "tboxName": "西門國小一年戊班教室",
+                            "geocode": null,
+                            "addr": "新竹市北區西雅里北大路450號",
+                            "neighbor": "潛園里"
+                        }
+                    ],
+                    "liName": "潛園里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "崇禮里",
+                            "tboxNo": "0170",
+                            "tboxName": "西門國小一年庚班教室",
+                            "geocode": null,
+                            "addr": "新竹市北區西雅里北大路450號",
+                            "neighbor": "崇禮里"
+                        }
+                    ],
+                    "liName": "崇禮里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石坊里",
+                            "tboxNo": "0171",
+                            "tboxName": "臺灣基督長老教會新竹教會101教室",
+                            "geocode": null,
+                            "addr": "新竹市北區興南里勝利路247號",
+                            "neighbor": "石坊里"
+                        }
+                    ],
+                    "liName": "石坊里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興南里",
+                            "tboxNo": "0172",
+                            "tboxName": "清華大學附設小學一年二班教室",
+                            "geocode": null,
+                            "addr": "新竹市北區育英里四維路47號",
+                            "neighbor": "興南里"
+                        }
+                    ],
+                    "liName": "興南里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁德里",
+                            "tboxNo": "0174",
+                            "tboxName": "民富國小客語教室",
+                            "geocode": null,
+                            "addr": "新竹市北區民富里西大路561號",
+                            "neighbor": "仁德里"
+                        }
+                    ],
+                    "liName": "仁德里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "育英里",
+                            "tboxNo": "0175",
+                            "tboxName": "育英市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市北區育英里育英路69號",
+                            "neighbor": "育英里"
+                        }
+                    ],
+                    "liName": "育英里"
+                },
+                {
+                    "liCode": "044",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "台溪里",
+                            "tboxNo": "0178",
+                            "tboxName": "台溪市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市北區台溪里警光路29號",
+                            "neighbor": "台溪里"
+                        }
+                    ],
+                    "liName": "台溪里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "曲溪里",
+                            "tboxNo": "0182",
+                            "tboxName": "成德樓1樓A區",
+                            "geocode": null,
+                            "addr": "新竹市北區曲溪里成德路138號",
+                            "neighbor": "曲溪里"
+                        }
+                    ],
+                    "liName": "曲溪里"
+                },
+                {
+                    "liCode": "033",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西雅里",
+                            "tboxNo": "0186",
+                            "tboxName": "西雅市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市北區西雅里經國路二段663巷38號",
+                            "neighbor": "西雅里"
+                        }
+                    ],
+                    "liName": "西雅里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "客雅里",
+                            "tboxNo": "0189",
+                            "tboxName": "西門國小健康中心",
+                            "geocode": null,
+                            "addr": "新竹市北區西雅里北大路450號",
+                            "neighbor": "客雅里"
+                        }
+                    ],
+                    "liName": "客雅里"
+                },
+                {
+                    "liCode": "045",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中雅里",
+                            "tboxNo": "0192",
+                            "tboxName": "布達佩斯社區B區大廳",
+                            "geocode": null,
+                            "addr": "新竹市北區中雅里經國路二段539號",
+                            "neighbor": "中雅里"
+                        }
+                    ],
+                    "liName": "中雅里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南勢里",
+                            "tboxNo": "0196",
+                            "tboxName": "新竹米粉體驗館",
+                            "geocode": null,
+                            "addr": "新竹市北區南勢里成功路565號",
+                            "neighbor": "南勢里"
+                        }
+                    ],
+                    "liName": "南勢里"
+                },
+                {
+                    "liCode": "035",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大鵬里",
+                            "tboxNo": "0197",
+                            "tboxName": "大鵬里里民文康中心",
+                            "geocode": null,
+                            "addr": "新竹市北區大鵬里延平路一段452巷底 慈恩八村007號 ",
+                            "neighbor": "大鵬里"
+                        }
+                    ],
+                    "liName": "大鵬里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大同里",
+                            "tboxNo": "0198",
+                            "tboxName": "新竹市議會一樓大廳",
+                            "geocode": null,
+                            "addr": "新竹市北區大同里中正路122號",
+                            "neighbor": "大同里"
+                        }
+                    ],
+                    "liName": "大同里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中山里",
+                            "tboxNo": "0199",
+                            "tboxName": "新竹市第一信用合作社",
+                            "geocode": null,
+                            "addr": "新竹市北區大同里大同路130號",
+                            "neighbor": "中山里"
+                        }
+                    ],
+                    "liName": "中山里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中興里",
+                            "tboxNo": "0200",
+                            "tboxName": "新竹都城隍廟北門謙成會館",
+                            "geocode": null,
+                            "addr": "新竹市北區中興里北門街106號",
+                            "neighbor": "中興里"
+                        }
+                    ],
+                    "liName": "中興里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新民里",
+                            "tboxNo": "0202",
+                            "tboxName": "民富國小412教室",
+                            "geocode": null,
+                            "addr": "新竹市北區民富里西大路561號",
+                            "neighbor": "新民里"
+                        }
+                    ],
+                    "liName": "新民里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長和里",
+                            "tboxNo": "0204",
+                            "tboxName": "長和宮大廳",
+                            "geocode": null,
+                            "addr": "新竹市北區長和里北門街135號",
+                            "neighbor": "長和里"
+                        }
+                    ],
+                    "liName": "長和里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北門里",
+                            "tboxNo": "0205",
+                            "tboxName": "北門市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市北區北門里經國路二段159巷28號",
+                            "neighbor": "北門里"
+                        }
+                    ],
+                    "liName": "北門里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "民富里",
+                            "tboxNo": "0210",
+                            "tboxName": "民富國小105教室",
+                            "geocode": null,
+                            "addr": "新竹市北區民富里西大路561號",
+                            "neighbor": "民富里"
+                        }
+                    ],
+                    "liName": "民富里"
+                },
+                {
+                    "liCode": "037",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "磐石里",
+                            "tboxNo": "0212",
+                            "tboxName": "磐石市民活動中心二樓",
+                            "geocode": null,
+                            "addr": "新竹市北區磐石里西大路800號",
+                            "neighbor": "磐石里"
+                        }
+                    ],
+                    "liName": "磐石里"
+                },
+                {
+                    "liCode": "038",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "新雅里",
+                            "tboxNo": "0217",
+                            "tboxName": "竹光國中802教室",
+                            "geocode": null,
+                            "addr": "新竹市北區新雅里和平路1號",
+                            "neighbor": "新雅里"
+                        }
+                    ],
+                    "liName": "新雅里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "文雅里",
+                            "tboxNo": "0223",
+                            "tboxName": "普利斯堡幼兒園視聽室",
+                            "geocode": null,
+                            "addr": "新竹市北區文雅里國光街141號",
+                            "neighbor": "文雅里"
+                        }
+                    ],
+                    "liName": "文雅里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水田里",
+                            "tboxNo": "0226",
+                            "tboxName": "北門國小信義樓二年四班",
+                            "geocode": null,
+                            "addr": "新竹市北區水田里水田街33號",
+                            "neighbor": "水田里"
+                        }
+                    ],
+                    "liName": "水田里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光田里",
+                            "tboxNo": "0227",
+                            "tboxName": "光田市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市北區光田里水田街150巷6號1樓",
+                            "neighbor": "光田里"
+                        }
+                    ],
+                    "liName": "光田里"
+                },
+                {
+                    "liCode": "039",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光華里",
+                            "tboxNo": "0230",
+                            "tboxName": "光華國中志學樓美術教室(三)",
+                            "geocode": null,
+                            "addr": "新竹市北區光華里光華北街10號",
+                            "neighbor": "光華里"
+                        }
+                    ],
+                    "liName": "光華里"
+                },
+                {
+                    "liCode": "040",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金華里",
+                            "tboxNo": "0235",
+                            "tboxName": "光華國中志學樓表藝教室(一)",
+                            "geocode": null,
+                            "addr": "新竹市北區光華里光華北街10號",
+                            "neighbor": "金華里"
+                        }
+                    ],
+                    "liName": "金華里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湳雅里",
+                            "tboxNo": "0237",
+                            "tboxName": "湳雅市民活動中心1樓",
+                            "geocode": null,
+                            "addr": "新竹市北區湳雅里湳雅街147巷32號",
+                            "neighbor": "湳雅里"
+                        }
+                    ],
+                    "liName": "湳雅里"
+                },
+                {
+                    "liCode": "043",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金雅里",
+                            "tboxNo": "0240",
+                            "tboxName": "童欣幼兒園",
+                            "geocode": null,
+                            "addr": "新竹市北區金雅里金農路42巷19號",
+                            "neighbor": "金雅里"
+                        }
+                    ],
+                    "liName": "金雅里"
+                },
+                {
+                    "liCode": "042",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湳中里",
+                            "tboxNo": "0244",
+                            "tboxName": "湳中市民活動中心",
+                            "geocode": null,
+                            "addr": "新竹市北區湳中里武陵路111之1號",
+                            "neighbor": "湳中里"
+                        }
+                    ],
+                    "liName": "湳中里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "舊社里",
+                            "tboxNo": "0250",
+                            "tboxName": "舊社國小炫風館2樓",
+                            "geocode": null,
+                            "addr": "新竹市北區金竹里金竹路99號",
+                            "neighbor": "舊社里"
+                        }
+                    ],
+                    "liName": "舊社里"
+                },
+                {
+                    "liCode": "041",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "金竹里",
+                            "tboxNo": "0259",
+                            "tboxName": "舊社國小610教室",
+                            "geocode": null,
+                            "addr": "新竹市北區金竹里金竹路99號",
+                            "neighbor": "金竹里"
+                        }
+                    ],
+                    "liName": "金竹里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "武陵里",
+                            "tboxNo": "0260",
+                            "tboxName": "載熙國小信義樓601教室",
+                            "geocode": null,
+                            "addr": "新竹市北區武陵里東大路二段386號",
+                            "neighbor": "武陵里"
+                        }
+                    ],
+                    "liName": "武陵里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福林里",
+                            "tboxNo": "0267",
+                            "tboxName": "諾貝兒幼兒園",
+                            "geocode": null,
+                            "addr": "新竹市北區光田里東大路二段165號",
+                            "neighbor": "福林里"
+                        }
+                    ],
+                    "liName": "福林里"
+                },
+                {
+                    "liCode": "036",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "境福里",
+                            "tboxNo": "0268",
+                            "tboxName": "正群花園廣場大廳",
+                            "geocode": null,
+                            "addr": "新竹市北區境福里中正路493號",
+                            "neighbor": "境福里"
+                        }
+                    ],
+                    "liName": "境福里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "士林里",
+                            "tboxNo": "0273",
+                            "tboxName": "聖保祿堂",
+                            "geocode": null,
+                            "addr": "新竹市北區福林里東大路二段511號",
+                            "neighbor": "士林里"
+                        }
+                    ],
+                    "liName": "士林里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "古賢里",
+                            "tboxNo": "0274",
+                            "tboxName": "古賢里集會所",
+                            "geocode": null,
+                            "addr": "新竹市北區古賢里東大路三段110巷15號",
+                            "neighbor": "古賢里"
+                        }
+                    ],
+                    "liName": "古賢里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南寮里",
+                            "tboxNo": "0275",
+                            "tboxName": "南寮國小禮堂",
+                            "geocode": null,
+                            "addr": "新竹市北區南寮里東大路三段465號",
+                            "neighbor": "南寮里"
+                        }
+                    ],
+                    "liName": "南寮里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "康樂里",
+                            "tboxNo": "0280",
+                            "tboxName": "康福宮一樓",
+                            "geocode": null,
+                            "addr": "新竹市北區康樂里東大路三段357巷16號",
+                            "neighbor": "康樂里"
+                        }
+                    ],
+                    "liName": "康樂里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中寮里",
+                            "tboxNo": "0285",
+                            "tboxName": "煙波行館大廳",
+                            "geocode": null,
+                            "addr": "新竹市北區中寮里天府路一段469之1號",
+                            "neighbor": "中寮里"
+                        }
+                    ],
+                    "liName": "中寮里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "海濱里",
+                            "tboxNo": "0289",
+                            "tboxName": "南華國中C105教室",
+                            "geocode": null,
+                            "addr": "新竹市北區海濱里海濱路55號",
+                            "neighbor": "海濱里"
+                        }
+                    ],
+                    "liName": "海濱里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "港北里",
+                            "tboxNo": "0291",
+                            "tboxName": "港清宮旁辦公處",
+                            "geocode": null,
+                            "addr": "新竹市北區港北里延平路三段145號",
+                            "neighbor": "港北里"
+                        }
+                    ],
+                    "liName": "港北里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "舊港里",
+                            "tboxNo": "0292",
+                            "tboxName": "舊港里集會所",
+                            "geocode": null,
+                            "addr": "新竹市北區舊港里舊港54號",
+                            "neighbor": "舊港里"
+                        }
+                    ],
+                    "liName": "舊港里"
+                }
+            ],
+            "deptCode": "020"
+        }
+    ]
+}

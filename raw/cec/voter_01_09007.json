@@ -1,0 +1,317 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "介壽村",
+                            "tboxNo": "0001",
+                            "tboxName": "第一投(開)票所",
+                            "addr": "連江縣南竿鄉介壽村374-2號",
+                            "neighbor": "1-6"
+                        },
+                        {
+                            "ScopeLiName": "介壽村",
+                            "tboxNo": "0002",
+                            "tboxName": "第二投(開)票所",
+                            "addr": "連江縣南竿鄉介壽村374號",
+                            "neighbor": "7-16"
+                        }
+                    ],
+                    "liName": "介壽村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興村",
+                            "tboxNo": "0003",
+                            "tboxName": "第三投(開)票所",
+                            "addr": "連江縣南竿鄉介壽村13號",
+                            "neighbor": "復興村"
+                        }
+                    ],
+                    "liName": "復興村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福沃村",
+                            "tboxNo": "0003",
+                            "tboxName": "第三投(開)票所",
+                            "addr": "連江縣南竿鄉介壽村13號",
+                            "neighbor": "福沃村"
+                        }
+                    ],
+                    "liName": "福沃村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "珠螺村",
+                            "tboxNo": "0004",
+                            "tboxName": "第四投(開)票所",
+                            "addr": "連江縣南竿鄉清水村127-3號",
+                            "neighbor": "珠螺村"
+                        }
+                    ],
+                    "liName": "珠螺村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "清水村",
+                            "tboxNo": "0004",
+                            "tboxName": "第四投(開)票所",
+                            "addr": "連江縣南竿鄉清水村127-3號",
+                            "neighbor": "清水村"
+                        }
+                    ],
+                    "liName": "清水村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "馬祖村",
+                            "tboxNo": "0005",
+                            "tboxName": "第五投(開)票所",
+                            "addr": "連江縣南竿鄉馬祖村4號",
+                            "neighbor": "馬祖村"
+                        }
+                    ],
+                    "liName": "馬祖村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "津沙村",
+                            "tboxNo": "0005",
+                            "tboxName": "第五投(開)票所",
+                            "addr": "連江縣南竿鄉馬祖村4號",
+                            "neighbor": "津沙村"
+                        }
+                    ],
+                    "liName": "津沙村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "仁愛村",
+                            "tboxNo": "0005",
+                            "tboxName": "第五投(開)票所",
+                            "addr": "連江縣南竿鄉馬祖村4號",
+                            "neighbor": "仁愛村"
+                        }
+                    ],
+                    "liName": "仁愛村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "四維村",
+                            "tboxNo": "0005",
+                            "tboxName": "第五投(開)票所",
+                            "addr": "連江縣南竿鄉馬祖村4號",
+                            "neighbor": "四維村"
+                        }
+                    ],
+                    "liName": "四維村"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "塘岐村",
+                            "tboxNo": "0006",
+                            "tboxName": "第六投(開)票所",
+                            "addr": "連江縣北竿鄉塘岐村166號",
+                            "neighbor": "塘岐村"
+                        }
+                    ],
+                    "liName": "塘岐村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "后沃村",
+                            "tboxNo": "0006",
+                            "tboxName": "第六投(開)票所",
+                            "addr": "連江縣北竿鄉塘岐村166號",
+                            "neighbor": "后沃村"
+                        }
+                    ],
+                    "liName": "后沃村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "橋仔村",
+                            "tboxNo": "0007",
+                            "tboxName": "第七投(開)票所",
+                            "addr": "連江縣北竿鄉坂里村39號",
+                            "neighbor": "橋仔村"
+                        }
+                    ],
+                    "liName": "橋仔村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "白沙村",
+                            "tboxNo": "0007",
+                            "tboxName": "第七投(開)票所",
+                            "addr": "連江縣北竿鄉坂里村39號",
+                            "neighbor": "白沙村"
+                        }
+                    ],
+                    "liName": "白沙村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "坂里村",
+                            "tboxNo": "0007",
+                            "tboxName": "第七投(開)票所",
+                            "addr": "連江縣北竿鄉坂里村39號",
+                            "neighbor": "坂里村"
+                        }
+                    ],
+                    "liName": "坂里村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "芹壁村",
+                            "tboxNo": "0007",
+                            "tboxName": "第七投(開)票所",
+                            "addr": "連江縣北竿鄉坂里村39號",
+                            "neighbor": "芹壁村"
+                        }
+                    ],
+                    "liName": "芹壁村"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西坵村",
+                            "tboxNo": "0008",
+                            "tboxName": "第八投(開)票所",
+                            "addr": "連江縣莒光鄉青帆村18號",
+                            "neighbor": "西坵村"
+                        }
+                    ],
+                    "liName": "西坵村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "田沃村",
+                            "tboxNo": "0008",
+                            "tboxName": "第八投(開)票所",
+                            "addr": "連江縣莒光鄉青帆村18號",
+                            "neighbor": "田沃村"
+                        }
+                    ],
+                    "liName": "田沃村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "青帆村",
+                            "tboxNo": "0008",
+                            "tboxName": "第八投(開)票所",
+                            "addr": "連江縣莒光鄉青帆村18號",
+                            "neighbor": "青帆村"
+                        }
+                    ],
+                    "liName": "青帆村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大坪村",
+                            "tboxNo": "0009",
+                            "tboxName": "第九投(開)票所",
+                            "addr": "連江縣莒光鄉大坪村4號",
+                            "neighbor": "大坪村"
+                        }
+                    ],
+                    "liName": "大坪村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "福正村",
+                            "tboxNo": "0009",
+                            "tboxName": "第九投(開)票所",
+                            "addr": "連江縣莒光鄉大坪村4號",
+                            "neighbor": "福正村"
+                        }
+                    ],
+                    "liName": "福正村"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "樂華村",
+                            "tboxNo": "0010",
+                            "tboxName": "第十投(開)票所",
+                            "addr": "連江縣東引鄉中柳村94號",
+                            "neighbor": "樂華村"
+                        }
+                    ],
+                    "liName": "樂華村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中柳村",
+                            "tboxNo": "0010",
+                            "tboxName": "第十投(開)票所",
+                            "addr": "連江縣東引鄉中柳村94號",
+                            "neighbor": "中柳村"
+                        }
+                    ],
+                    "liName": "中柳村"
+                }
+            ],
+            "deptCode": "040"
+        }
+    ]
+}

@@ -1,0 +1,1074 @@
+{
+    "depts": [
+        {
+            "lis": [
+                {
+                    "liCode": "033",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "虎井里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "虎井里"
+                        }
+                    ],
+                    "liName": "虎井里"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "復興里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "復興里"
+                        }
+                    ],
+                    "liName": "復興里"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "長安里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "長安里"
+                        }
+                    ],
+                    "liName": "長安里"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中央里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "中央里"
+                        }
+                    ],
+                    "liName": "中央里"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "啟明里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "啟明里"
+                        }
+                    ],
+                    "liName": "啟明里"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "重慶里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "重慶里"
+                        }
+                    ],
+                    "liName": "重慶里"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中興里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "中興里"
+                        }
+                    ],
+                    "liName": "中興里"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光復里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "光復里"
+                        }
+                    ],
+                    "liName": "光復里"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光榮里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "光榮里"
+                        }
+                    ],
+                    "liName": "光榮里"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光明里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "光明里"
+                        }
+                    ],
+                    "liName": "光明里"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "朝陽里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "朝陽里"
+                        }
+                    ],
+                    "liName": "朝陽里"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "陽明里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "陽明里"
+                        }
+                    ],
+                    "liName": "陽明里"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "重光里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "重光里"
+                        }
+                    ],
+                    "liName": "重光里"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西衛里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "西衛里"
+                        }
+                    ],
+                    "liName": "西衛里"
+                },
+                {
+                    "liCode": "034",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "桶盤里",
+                            "tboxNo": "0009",
+                            "tboxName": "文光國中9年1班教室",
+                            "addr": "澎湖縣馬公市光明里文光路17號",
+                            "neighbor": "桶盤里"
+                        }
+                    ],
+                    "liName": "桶盤里"
+                },
+                {
+                    "liCode": "024",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "烏崁里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "烏崁里"
+                        }
+                    ],
+                    "liName": "烏崁里"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "前寮里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "前寮里"
+                        }
+                    ],
+                    "liName": "前寮里"
+                },
+                {
+                    "liCode": "025",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "興仁里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "興仁里"
+                        }
+                    ],
+                    "liName": "興仁里"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西文里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "西文里"
+                        }
+                    ],
+                    "liName": "西文里"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "案山里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "案山里"
+                        }
+                    ],
+                    "liName": "案山里"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東文里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "東文里"
+                        }
+                    ],
+                    "liName": "東文里"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "菜園里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "菜園里"
+                        }
+                    ],
+                    "liName": "菜園里"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東衛里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "東衛里"
+                        }
+                    ],
+                    "liName": "東衛里"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "光華里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "光華里"
+                        }
+                    ],
+                    "liName": "光華里"
+                },
+                {
+                    "liCode": "023",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "安宅里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "安宅里"
+                        }
+                    ],
+                    "liName": "安宅里"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "石泉里",
+                            "tboxNo": "0032",
+                            "tboxName": "光華社區活動中心",
+                            "addr": "澎湖縣馬公市光華里21號",
+                            "neighbor": "石泉里"
+                        }
+                    ],
+                    "liName": "石泉里"
+                },
+                {
+                    "liCode": "029",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "五德里",
+                            "tboxNo": "0043",
+                            "tboxName": "鐵線社區暨農漁民活動中心",
+                            "addr": "澎湖縣馬公市鐵線里4之5號",
+                            "neighbor": "五德里"
+                        }
+                    ],
+                    "liName": "五德里"
+                },
+                {
+                    "liCode": "031",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "嵵裡里",
+                            "tboxNo": "0043",
+                            "tboxName": "鐵線社區暨農漁民活動中心",
+                            "addr": "澎湖縣馬公市鐵線里4之5號",
+                            "neighbor": "嵵裡里"
+                        }
+                    ],
+                    "liName": "嵵裡里"
+                },
+                {
+                    "liCode": "030",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "井垵里",
+                            "tboxNo": "0043",
+                            "tboxName": "鐵線社區暨農漁民活動中心",
+                            "addr": "澎湖縣馬公市鐵線里4之5號",
+                            "neighbor": "井垵里"
+                        }
+                    ],
+                    "liName": "井垵里"
+                },
+                {
+                    "liCode": "026",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鐵線里",
+                            "tboxNo": "0043",
+                            "tboxName": "鐵線社區暨農漁民活動中心",
+                            "addr": "澎湖縣馬公市鐵線里4之5號",
+                            "neighbor": "鐵線里"
+                        }
+                    ],
+                    "liName": "鐵線里"
+                },
+                {
+                    "liCode": "032",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "風櫃里",
+                            "tboxNo": "0043",
+                            "tboxName": "鐵線社區暨農漁民活動中心",
+                            "addr": "澎湖縣馬公市鐵線里4之5號",
+                            "neighbor": "風櫃里"
+                        }
+                    ],
+                    "liName": "風櫃里"
+                },
+                {
+                    "liCode": "028",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎖港里",
+                            "tboxNo": "0043",
+                            "tboxName": "鐵線社區暨農漁民活動中心",
+                            "addr": "澎湖縣馬公市鐵線里4之5號",
+                            "neighbor": "鎖港里"
+                        }
+                    ],
+                    "liName": "鎖港里"
+                },
+                {
+                    "liCode": "027",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "山水里",
+                            "tboxNo": "0043",
+                            "tboxName": "鐵線社區暨農漁民活動中心",
+                            "addr": "澎湖縣馬公市鐵線里4之5號",
+                            "neighbor": "山水里"
+                        }
+                    ],
+                    "liName": "山水里"
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖東村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "湖東村"
+                        }
+                    ],
+                    "liName": "湖東村"
+                },
+                {
+                    "liCode": "019",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "林投村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "林投村"
+                        }
+                    ],
+                    "liName": "林投村"
+                },
+                {
+                    "liCode": "020",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "尖山村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "尖山村"
+                        }
+                    ],
+                    "liName": "尖山村"
+                },
+                {
+                    "liCode": "021",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "龍門村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "龍門村"
+                        }
+                    ],
+                    "liName": "龍門村"
+                },
+                {
+                    "liCode": "022",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "菓葉村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "菓葉村"
+                        }
+                    ],
+                    "liName": "菓葉村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西溪村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "西溪村"
+                        }
+                    ],
+                    "liName": "西溪村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "紅羅村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "紅羅村"
+                        }
+                    ],
+                    "liName": "紅羅村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "北寮村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "北寮村"
+                        }
+                    ],
+                    "liName": "北寮村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南寮村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "南寮村"
+                        }
+                    ],
+                    "liName": "南寮村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "白坑村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "白坑村"
+                        }
+                    ],
+                    "liName": "白坑村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "青螺村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "青螺村"
+                        }
+                    ],
+                    "liName": "青螺村"
+                },
+                {
+                    "liCode": "018",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "隘門村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "隘門村"
+                        }
+                    ],
+                    "liName": "隘門村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "湖西村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "湖西村"
+                        }
+                    ],
+                    "liName": "湖西村"
+                },
+                {
+                    "liCode": "017",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "太武村",
+                            "tboxNo": "0054",
+                            "tboxName": "湖西社區活動中心(新)",
+                            "addr": "澎湖縣湖西鄉湖西村１１－６號",
+                            "neighbor": "太武村"
+                        }
+                    ],
+                    "liName": "太武村"
+                },
+                {
+                    "liCode": "014",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "許家村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "許家村"
+                        }
+                    ],
+                    "liName": "許家村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鼎灣村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "鼎灣村"
+                        }
+                    ],
+                    "liName": "鼎灣村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "沙港村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "沙港村"
+                        }
+                    ],
+                    "liName": "沙港村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "成功村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "成功村"
+                        }
+                    ],
+                    "liName": "成功村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東石村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "東石村"
+                        }
+                    ],
+                    "liName": "東石村"
+                },
+                {
+                    "liCode": "016",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "城北村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "城北村"
+                        }
+                    ],
+                    "liName": "城北村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "潭邊村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "潭邊村"
+                        }
+                    ],
+                    "liName": "潭邊村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中西村",
+                            "tboxNo": "0066",
+                            "tboxName": "鼎灣社區活動中心",
+                            "addr": "澎湖縣湖西鄉鼎灣村３７號",
+                            "neighbor": "中西村"
+                        }
+                    ],
+                    "liName": "中西村"
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "通梁村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "5"
+                        }
+                    ],
+                    "liName": "通梁村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "赤崁村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "1-2-9-16-22"
+                        }
+                    ],
+                    "liName": "赤崁村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "小赤村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "2"
+                        }
+                    ],
+                    "liName": "小赤村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鎮海村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "7"
+                        }
+                    ],
+                    "liName": "鎮海村"
+                },
+                {
+                    "liCode": "013",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "鳥嶼村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "鳥嶼村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中屯村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "6"
+                        }
+                    ],
+                    "liName": "中屯村"
+                },
+                {
+                    "liCode": "015",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大倉村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "3"
+                        }
+                    ],
+                    "liName": "大倉村"
+                },
+                {
+                    "liCode": "012",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "吉貝村",
+                            "tboxNo": "0084",
+                            "tboxName": "赤崁社區活動中心",
+                            "addr": "澎湖縣白沙鄉赤崁村35號",
+                            "neighbor": "10"
+                        }
+                    ],
+                    "liName": "吉貝村"
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "橫礁村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "橫礁村"
+                        }
+                    ],
+                    "liName": "橫礁村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "池西村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "池西村"
+                        }
+                    ],
+                    "liName": "池西村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "合界村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "合界村"
+                        }
+                    ],
+                    "liName": "合界村"
+                },
+                {
+                    "liCode": "007",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "池東村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "池東村"
+                        }
+                    ],
+                    "liName": "池東村"
+                },
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "竹灣村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "竹灣村"
+                        }
+                    ],
+                    "liName": "竹灣村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "大池村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "大池村"
+                        }
+                    ],
+                    "liName": "大池村"
+                },
+                {
+                    "liCode": "011",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "外垵村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "外垵村"
+                        }
+                    ],
+                    "liName": "外垵村"
+                },
+                {
+                    "liCode": "010",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "內垵村",
+                            "tboxNo": "0099",
+                            "tboxName": "西嶼國中體育館",
+                            "addr": "澎湖縣西嶼鄉池東村213號",
+                            "neighbor": "內垵村"
+                        }
+                    ],
+                    "liName": "內垵村"
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "水垵村",
+                            "tboxNo": "0105",
+                            "tboxName": "東安社區活動中心",
+                            "addr": "澎湖縣望安鄉東安村17之1號",
+                            "neighbor": "水垵村"
+                        }
+                    ],
+                    "liName": "水垵村"
+                },
+                {
+                    "liCode": "005",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "將軍村",
+                            "tboxNo": "0110",
+                            "tboxName": "將軍村集會所活動中心",
+                            "addr": "澎湖縣望安鄉將軍村161-1號",
+                            "neighbor": "將軍村"
+                        }
+                    ],
+                    "liName": "將軍村"
+                },
+                {
+                    "liCode": "008",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東吉村",
+                            "tboxNo": "0111",
+                            "tboxName": "東吉候船室",
+                            "addr": "澎湖縣望安鄉東吉村30之3號",
+                            "neighbor": "東吉村"
+                        }
+                    ],
+                    "liName": "東吉村"
+                },
+                {
+                    "liCode": "009",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "花嶼村",
+                            "tboxNo": "0114",
+                            "tboxName": "花嶼社區暨農漁民活動中心",
+                            "addr": "澎湖縣望安鄉花嶼村76之3號",
+                            "neighbor": "花嶼村"
+                        }
+                    ],
+                    "liName": "花嶼村"
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "lis": [
+                {
+                    "liCode": "004",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "平和村",
+                            "tboxNo": "0116",
+                            "tboxName": "西湖社區活動中心",
+                            "addr": "澎湖縣七美鄉西湖村38號",
+                            "neighbor": "平和村"
+                        }
+                    ],
+                    "liName": "平和村"
+                },
+                {
+                    "liCode": "002",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "西湖村",
+                            "tboxNo": "0116",
+                            "tboxName": "西湖社區活動中心",
+                            "addr": "澎湖縣七美鄉西湖村38號",
+                            "neighbor": "西湖村"
+                        }
+                    ],
+                    "liName": "西湖村"
+                },
+                {
+                    "liCode": "006",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "南港村",
+                            "tboxNo": "0116",
+                            "tboxName": "西湖社區活動中心",
+                            "addr": "澎湖縣七美鄉西湖村38號",
+                            "neighbor": "南港村"
+                        }
+                    ],
+                    "liName": "南港村"
+                },
+                {
+                    "liCode": "003",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "中和村",
+                            "tboxNo": "0116",
+                            "tboxName": "西湖社區活動中心",
+                            "addr": "澎湖縣七美鄉西湖村38號",
+                            "neighbor": "中和村"
+                        }
+                    ],
+                    "liName": "中和村"
+                },
+                {
+                    "liCode": "001",
+                    "tboxs": [
+                        {
+                            "ScopeLiName": "東湖村",
+                            "tboxNo": "0116",
+                            "tboxName": "西湖社區活動中心",
+                            "addr": "澎湖縣七美鄉西湖村38號",
+                            "neighbor": "東湖村"
+                        }
+                    ],
+                    "liName": "東湖村"
+                }
+            ],
+            "deptCode": "060"
+        }
+    ]
+}

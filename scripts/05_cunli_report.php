@@ -3,6 +3,12 @@
 $basePath = dirname(__DIR__);
 $vote = json_decode(file_get_contents($basePath . '/data/tbox-vote.json'), true);
 $pool = [];
+$liMap = [
+    '臺中市大安區龜@2F85A@里' => '臺中市大安區龜壳里',
+    '臺南市西港區@2F8EB@林里' => '臺南市西港區檨林里',
+    '臺南市安南區@FB56F@南里' => '臺南市安南區南里',
+    '臺南市安南區公@FB56F@里' => '臺南市安南區公里',
+];
 
 foreach ($vote as $k => $tbox) {
     $parts = explode('-', $k);
@@ -14,15 +20,15 @@ foreach ($vote as $k => $tbox) {
             $json = json_decode(file_get_contents($jsonFile), true);
             foreach ($json['data'] as $cunli) {
                 $cunliName = $city . $cunli['area'] . $cunli['cunli'];
-                print_r($json);
-                print_r($cunli); exit();
                 $pool[$city][$cunliName] = [
-                    '2022' => 0,
-                    '2024' => 0,
+                    '2022' => [],
                 ];
-                foreach ($cunli['candidates'] as $vote) {
-                    if ($vote > $pool[$city][$cunliName]['2022']) {
-                        $pool[$city][$cunliName]['2022'] = $vote;
+                foreach ($cunli['candidates'] as $number => $vote) {
+                    if (!isset($pool[$city][$cunliName]['2022']['vote']) || $vote > $pool[$city][$cunliName]['2022']['vote']) {
+                        $pool[$city][$cunliName]['2022'] = $cunli;
+                        unset($pool[$city][$cunliName]['2022']['candidates']);
+                        $pool[$city][$cunliName]['2022']['candidate'] = $json['candidates'][$number];
+                        $pool[$city][$cunliName]['2022']['vote'] = $vote;
                     }
                 }
             }
@@ -31,21 +37,42 @@ foreach ($vote as $k => $tbox) {
     $liCount = count($tbox['li']);
     $theVote = round($tbox['vote']['(12)台灣民眾黨'] / $liCount);
     foreach ($tbox['li'] as $li) {
+        if (isset($liMap[$li])) {
+            $li = $liMap[$li];
+        }
         if (isset($pool[$city][$li])) {
-            $pool[$city][$li]['2024'] += intval($theVote);
+            if (!isset($pool[$city][$li]['2024'])) {
+                $pool[$city][$li]['2024'] = [
+                    'vote' => 0,
+                    'total' => $tbox['vote']['投票數C=A+B'],
+                    'base' => $tbox['vote']['選舉人數G=E+F'],
+                    'rate' => $tbox['vote']['投票率H=C÷G'],
+                ];
+            }
+            $pool[$city][$li]['2024']['vote'] += intval($theVote);
         }
     }
 }
 
-$count = [];
-$total = 0;
+$reportPath = $basePath . '/data/reports/compare_2022';
+if (!file_exists($reportPath)) {
+    mkdir($reportPath, 0777, true);
+}
+
 foreach ($pool as $city => $v1) {
-    $count[$city] = 0;
+    $fh = fopen($reportPath . '/' . $city . '.csv', 'w');
+    fputcsv($fh, ['村里', '2024-2022', '2024民眾黨', '2022村里長得票', '2024投票數', '2024選舉人數', '2024投票率', '里長姓名', '里長政黨']);
     foreach ($v1 as $cunli => $vote) {
-        $total += 1;
-        if ($vote['2024'] > $vote['2022']) {
-            $count[$city]++;
-        }
+        fputcsv($fh, [
+            $cunli,
+            $vote['2024']['vote'] - $vote['2022']['vote'],
+            $vote['2024']['vote'],
+            $vote['2022']['vote'],
+            $vote['2024']['total'],
+            $vote['2024']['base'],
+            $vote['2024']['rate'],
+            $vote['2022']['candidate']['name'],
+            $vote['2022']['candidate']['party'],
+        ]);
     }
 }
-print_r($count);

@@ -36,6 +36,8 @@ foreach ($vote as $k => $tbox) {
     }
     $liCount = count($tbox['li']);
     $theVote = round($tbox['vote']['(12)台灣民眾黨'] / $liCount);
+    $theVote2 = round($tbox['vote']['投票數C=A+B'] / $liCount);
+    $theVote3 = round($tbox['vote']['選舉人數G=E+F'] / $liCount);
     foreach ($tbox['li'] as $li) {
         if (isset($liMap[$li])) {
             $li = $liMap[$li];
@@ -50,8 +52,8 @@ foreach ($vote as $k => $tbox) {
                 ];
             }
             $pool[$city][$li]['2024']['vote'] += intval($theVote);
-            $pool[$city][$li]['2024']['total'] += $tbox['vote']['投票數C=A+B'];
-            $pool[$city][$li]['2024']['base'] += $tbox['vote']['選舉人數G=E+F'];
+            $pool[$city][$li]['2024']['total'] += $theVote2;
+            $pool[$city][$li]['2024']['base'] += $theVote3;
             $pool[$city][$li]['2024']['rate'] = round($pool[$city][$li]['2024']['total'] / $pool[$city][$li]['2024']['base'], 1);
         }
     }

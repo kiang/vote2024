@@ -44,12 +44,15 @@ foreach ($vote as $k => $tbox) {
             if (!isset($pool[$city][$li]['2024'])) {
                 $pool[$city][$li]['2024'] = [
                     'vote' => 0,
-                    'total' => $tbox['vote']['投票數C=A+B'],
-                    'base' => $tbox['vote']['選舉人數G=E+F'],
-                    'rate' => $tbox['vote']['投票率H=C÷G'],
+                    'total' => 0,
+                    'base' => 0,
+                    'rate' => 0.0,
                 ];
             }
             $pool[$city][$li]['2024']['vote'] += intval($theVote);
+            $pool[$city][$li]['2024']['total'] += $tbox['vote']['投票數C=A+B'];
+            $pool[$city][$li]['2024']['base'] += $tbox['vote']['選舉人數G=E+F'];
+            $pool[$city][$li]['2024']['rate'] = round($pool[$city][$li]['2024']['total'] / $pool[$city][$li]['2024']['base'], 1);
         }
     }
 }

@@ -21,14 +21,19 @@ foreach ($vote as $k => $tbox) {
             foreach ($json['data'] as $cunli) {
                 $cunliName = $city . $cunli['area'] . $cunli['cunli'];
                 $pool[$city][$cunliName] = [
-                    '2022' => [],
+                    '2022' => [
+                        'vote' => 0
+                    ],
                 ];
                 foreach ($cunli['candidates'] as $number => $vote) {
                     if (!isset($pool[$city][$cunliName]['2022']['vote']) || $vote > $pool[$city][$cunliName]['2022']['vote']) {
+                        if (isset($pool[$city][$cunliName]['2022']['vote'])) {
+                            $oVote = $pool[$city][$cunliName]['2022']['vote'];
+                        }
                         $pool[$city][$cunliName]['2022'] = $cunli;
                         unset($pool[$city][$cunliName]['2022']['candidates']);
                         $pool[$city][$cunliName]['2022']['candidate'] = $json['candidates'][$number];
-                        $pool[$city][$cunliName]['2022']['vote'] = $vote;
+                        $pool[$city][$cunliName]['2022']['vote'] = $vote + $oVote;
                     }
                 }
             }

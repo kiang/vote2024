@@ -18,25 +18,31 @@ foreach ($vote as $k => $tbox) {
         $path = "/home/kiang/public_html/vote2022/reports/result/{$parts[0]}{$city}/村(里)長";
         foreach (glob($path . '/*.json') as $jsonFile) {
             $json = json_decode(file_get_contents($jsonFile), true);
+            $theVote = 0;
             foreach ($json['data'] as $cunli) {
                 $cunliName = $city . $cunli['area'] . $cunli['cunli'];
-                $pool[$city][$cunliName] = [
-                    '2022' => [
-                        'vote' => 0
-                    ],
-                ];
+                if (!isset($pool[$city][$cunliName])) {
+                    $pool[$city][$cunliName] = [
+                        '2022' => $cunli,
+                    ];
+                } else {
+                    $pool[$city][$cunliName]['2022']['count_wrong'] += $cunli['count_wrong'];
+                    $pool[$city][$cunliName]['2022']['count_unused'] += $cunli['count_unused'];
+                    $pool[$city][$cunliName]['2022']['count_total'] += $cunli['count_total'];
+                }
+
                 foreach ($cunli['candidates'] as $number => $vote) {
-                    if (!isset($pool[$city][$cunliName]['2022']['vote']) || $vote > $pool[$city][$cunliName]['2022']['vote']) {
-                        if (isset($pool[$city][$cunliName]['2022']['vote'])) {
-                            $oVote = $pool[$city][$cunliName]['2022']['vote'];
-                        }
-                        $pool[$city][$cunliName]['2022'] = $cunli;
-                        unset($pool[$city][$cunliName]['2022']['candidates']);
+                    if (!isset($json['candidates'][$number]['vote'])) {
+                        $json['candidates'][$number]['vote'] = 0;
+                    }
+                    $json['candidates'][$number]['vote'] += $vote;
+                    if($theVote < $json['candidates'][$number]['vote']) {
+                        $theVote = $json['candidates'][$number]['vote'];
                         $pool[$city][$cunliName]['2022']['candidate'] = $json['candidates'][$number];
-                        $pool[$city][$cunliName]['2022']['vote'] = $vote + $oVote;
                     }
                 }
             }
+            $pool[$city][$cunliName]['2022']['vote'] = $theVote;
         }
     }
     $liCount = count($tbox['li']);

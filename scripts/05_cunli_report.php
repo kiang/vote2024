@@ -36,7 +36,7 @@ foreach ($vote as $k => $tbox) {
                         $json['candidates'][$number]['vote'] = 0;
                     }
                     $json['candidates'][$number]['vote'] += $vote;
-                    if($theVote < $json['candidates'][$number]['vote']) {
+                    if ($theVote < $json['candidates'][$number]['vote']) {
                         $theVote = $json['candidates'][$number]['vote'];
                         $pool[$city][$cunliName]['2022']['candidate'] = $json['candidates'][$number];
                     }
@@ -75,10 +75,15 @@ if (!file_exists($reportPath)) {
     mkdir($reportPath, 0777, true);
 }
 
+$count = [];
 foreach ($pool as $city => $v1) {
+    $count[$city] = 0;
     $fh = fopen($reportPath . '/' . $city . '.csv', 'w');
     fputcsv($fh, ['村里', '2024-2022', '2024民眾黨', '2022村里長得票', '2024投票數', '2024選舉人數', '2024投票率', '里長姓名', '里長政黨']);
     foreach ($v1 as $cunli => $vote) {
+        if ($vote['2024']['vote'] - $vote['2022']['vote'] > 0) {
+            ++$count[$city];
+        }
         fputcsv($fh, [
             $cunli,
             $vote['2024']['vote'] - $vote['2022']['vote'],
@@ -92,3 +97,4 @@ foreach ($pool as $city => $v1) {
         ]);
     }
 }
+print_r($count);

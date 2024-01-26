@@ -80,7 +80,7 @@ $head = [
     25 => '選舉人數G=E+F',
     26 => '投票率H=C÷G',
 ];
-foreach (glob($basePath . '/raw/result/全國投開票所一覽表/不分區立委/*.xlsx') as $xlsFile) {
+foreach (glob($basePath . '/raw/result/全國投開票所一覽表/xls/不分區立委/*.xlsx') as $xlsFile) {
     $p = pathinfo($xlsFile);
     $parts = preg_split('/[\\(\\)]/', $p['filename'], -1, PREG_SPLIT_NO_EMPTY);
     $cityCode = $cityCodes[$parts[1]];

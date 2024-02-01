@@ -1,0 +1,44 @@
+[
+    {
+        "id": 212,
+        "place_id": 167,
+        "team_id": 23,
+        "name": "掃街拜票",
+        "time_gather": "2023-10-28 07:30:00",
+        "time_end": "2023-10-28 09:00:00",
+        "note": null,
+        "created_at": "2023-10-27T09:56:05.000000Z",
+        "updated_at": "2023-10-27T09:56:05.000000Z",
+        "place": {
+            "id": 167,
+            "name": "澎湖北辰市場",
+            "address": null,
+            "longitude": 119.570829,
+            "latitude": 23.570751,
+            "note": null,
+            "created_at": "2023-10-27T09:55:00.000000Z",
+            "updated_at": "2023-10-27T09:59:41.000000Z"
+        }
+    },
+    {
+        "id": 213,
+        "place_id": 167,
+        "team_id": 23,
+        "name": "掃街拜票",
+        "time_gather": "2023-10-29 07:30:00",
+        "time_end": "2023-10-29 09:00:00",
+        "note": null,
+        "created_at": "2023-10-27T09:58:13.000000Z",
+        "updated_at": "2023-10-27T09:58:26.000000Z",
+        "place": {
+            "id": 167,
+            "name": "澎湖北辰市場",
+            "address": null,
+            "longitude": 119.570829,
+            "latitude": 23.570751,
+            "note": null,
+            "created_at": "2023-10-27T09:55:00.000000Z",
+            "updated_at": "2023-10-27T09:59:41.000000Z"
+        }
+    }
+]

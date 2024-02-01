@@ -1,0 +1,128 @@
+[
+    {
+        "id": 27,
+        "place_id": 19,
+        "team_id": 10,
+        "name": "柯P戶外開講",
+        "time_gather": "2023-10-14 18:30:00",
+        "time_end": "2023-10-14 21:00:00",
+        "note": null,
+        "created_at": "2023-10-11T15:16:36.000000Z",
+        "updated_at": "2023-10-11T15:16:36.000000Z",
+        "place": {
+            "id": 19,
+            "name": "彰化溪湖奉天宮",
+            "address": null,
+            "longitude": 120.478402,
+            "latitude": 23.965141,
+            "note": null,
+            "created_at": "2023-10-11T15:12:10.000000Z",
+            "updated_at": "2023-10-11T15:12:10.000000Z"
+        }
+    },
+    {
+        "id": 28,
+        "place_id": 20,
+        "team_id": 10,
+        "name": "柯P戶外開講",
+        "time_gather": "2023-10-15 18:30:00",
+        "time_end": "2023-10-15 21:00:00",
+        "note": null,
+        "created_at": "2023-10-11T15:16:59.000000Z",
+        "updated_at": "2023-10-11T15:17:23.000000Z",
+        "place": {
+            "id": 20,
+            "name": "台北市木柵忠順廟",
+            "address": null,
+            "longitude": 121.564399,
+            "latitude": 24.983693,
+            "note": null,
+            "created_at": "2023-10-11T15:13:29.000000Z",
+            "updated_at": "2023-10-11T15:13:29.000000Z"
+        }
+    },
+    {
+        "id": 29,
+        "place_id": 21,
+        "team_id": 10,
+        "name": "柯P戶外開講",
+        "time_gather": "2023-10-29 18:30:00",
+        "time_end": "2023-10-29 21:00:00",
+        "note": "<p>志工報到時間<br>1.排放椅子、擺放文宣 16:30<br>2.工作人員放用餐 17:00<br>3.不用餐者 17:30<\/p><p>全體志工集合時間：17:40<\/p>",
+        "created_at": "2023-10-11T15:17:59.000000Z",
+        "updated_at": "2023-10-18T15:45:53.000000Z",
+        "place": {
+            "id": 21,
+            "name": "桃園市平鎮區福星宮",
+            "address": null,
+            "longitude": 121.206491,
+            "latitude": 24.91174,
+            "note": null,
+            "created_at": "2023-10-11T15:15:10.000000Z",
+            "updated_at": "2023-10-11T15:15:10.000000Z"
+        }
+    },
+    {
+        "id": 78,
+        "place_id": 63,
+        "team_id": 10,
+        "name": "柯P戶外開講",
+        "time_gather": "2023-10-08 18:30:00",
+        "time_end": "2023-10-08 21:00:00",
+        "note": null,
+        "created_at": "2023-10-13T00:38:41.000000Z",
+        "updated_at": "2023-10-13T00:38:54.000000Z",
+        "place": {
+            "id": 63,
+            "name": "台北萬華艋舺服飾商圈",
+            "address": null,
+            "longitude": 121.499314,
+            "latitude": 25.03449,
+            "note": null,
+            "created_at": "2023-10-13T00:38:10.000000Z",
+            "updated_at": "2023-10-13T00:38:10.000000Z"
+        }
+    },
+    {
+        "id": 126,
+        "place_id": 101,
+        "team_id": 10,
+        "name": "柯P戶外開講",
+        "time_gather": "2023-09-24 18:30:00",
+        "time_end": "2023-09-24 21:00:00",
+        "note": null,
+        "created_at": "2023-10-16T10:16:00.000000Z",
+        "updated_at": "2023-10-16T10:16:24.000000Z",
+        "place": {
+            "id": 101,
+            "name": "高雄三鳳宮",
+            "address": null,
+            "longitude": 120.29391,
+            "latitude": 22.636028,
+            "note": null,
+            "created_at": "2023-10-16T10:15:43.000000Z",
+            "updated_at": "2023-10-16T10:15:43.000000Z"
+        }
+    },
+    {
+        "id": 127,
+        "place_id": 102,
+        "team_id": 10,
+        "name": "柯P戶外開講",
+        "time_gather": "2023-09-09 18:30:00",
+        "time_end": "2023-09-09 21:00:00",
+        "note": null,
+        "created_at": "2023-10-16T10:21:20.000000Z",
+        "updated_at": "2023-10-16T10:21:38.000000Z",
+        "place": {
+            "id": 102,
+            "name": "台中大甲鎮瀾宮",
+            "address": null,
+            "longitude": 120.623703,
+            "latitude": 24.344983,
+            "note": null,
+            "created_at": "2023-10-16T10:21:15.000000Z",
+            "updated_at": "2023-10-16T10:21:15.000000Z"
+        }
+    }
+]

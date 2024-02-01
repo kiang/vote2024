@@ -1,0 +1,65 @@
+[
+    {
+        "id": 128,
+        "place_id": 103,
+        "team_id": 17,
+        "name": "夜市擺攤宣傳",
+        "time_gather": "2023-10-16 19:00:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-10-16T13:08:44.000000Z",
+        "updated_at": "2023-10-16T13:08:44.000000Z",
+        "place": {
+            "id": 103,
+            "name": "永靖夜市",
+            "address": null,
+            "longitude": 120.551053,
+            "latitude": 23.92301,
+            "note": null,
+            "created_at": "2023-10-16T13:07:52.000000Z",
+            "updated_at": "2023-10-16T13:07:52.000000Z"
+        }
+    },
+    {
+        "id": 246,
+        "place_id": 188,
+        "team_id": 17,
+        "name": "發放宣傳物資",
+        "time_gather": "2023-11-04 08:30:00",
+        "time_end": "2023-11-04 10:30:00",
+        "note": "<p>有興趣可以 LINE 加帳號 1uck1401<\/p>",
+        "created_at": "2023-10-29T05:15:49.000000Z",
+        "updated_at": "2023-10-29T05:17:25.000000Z",
+        "place": {
+            "id": 188,
+            "name": "彰化民生市場",
+            "address": null,
+            "longitude": 120.545209,
+            "latitude": 24.083617,
+            "note": null,
+            "created_at": "2023-10-29T05:16:39.000000Z",
+            "updated_at": "2023-10-29T05:26:01.000000Z"
+        }
+    },
+    {
+        "id": 247,
+        "place_id": 189,
+        "team_id": 17,
+        "name": "發放宣傳物資",
+        "time_gather": "2023-11-05 08:30:00",
+        "time_end": "2023-11-05 10:30:00",
+        "note": "<p>有興趣可以 LINE 加帳號 1uck1401<\/p>",
+        "created_at": "2023-10-29T05:17:26.000000Z",
+        "updated_at": "2023-10-29T05:17:50.000000Z",
+        "place": {
+            "id": 189,
+            "name": "彰化民權市場",
+            "address": null,
+            "longitude": 120.538819,
+            "latitude": 24.076297,
+            "note": null,
+            "created_at": "2023-10-29T05:17:46.000000Z",
+            "updated_at": "2023-10-29T05:25:37.000000Z"
+        }
+    }
+]

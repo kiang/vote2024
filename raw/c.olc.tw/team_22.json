@@ -1,0 +1,191 @@
+[
+    {
+        "id": 209,
+        "place_id": 163,
+        "team_id": 22,
+        "name": "掃街活動",
+        "time_gather": "2023-10-25 19:00:00",
+        "time_end": null,
+        "note": "<p>掃街範圍：清溝夜市<\/p>",
+        "created_at": "2023-10-25T11:23:10.000000Z",
+        "updated_at": "2023-10-25T11:23:10.000000Z",
+        "place": {
+            "id": 163,
+            "name": "喜互惠冬山順安店",
+            "address": "冬山鄉永興路二段54號",
+            "longitude": 121.761751,
+            "latitude": 24.655248,
+            "note": null,
+            "created_at": "2023-10-25T11:22:41.000000Z",
+            "updated_at": "2023-10-25T11:36:06.000000Z"
+        }
+    },
+    {
+        "id": 252,
+        "place_id": 191,
+        "team_id": 22,
+        "name": "掃街活動",
+        "time_gather": "2023-10-30 19:00:00",
+        "time_end": null,
+        "note": "<p>掃街範圍：冬山義成路三段<\/p>",
+        "created_at": "2023-10-29T05:27:44.000000Z",
+        "updated_at": "2023-10-29T05:28:22.000000Z",
+        "place": {
+            "id": 191,
+            "name": "全家冬山義成店",
+            "address": null,
+            "longitude": 121.766685,
+            "latitude": 24.662958,
+            "note": null,
+            "created_at": "2023-10-29T05:28:05.000000Z",
+            "updated_at": "2023-10-29T05:29:03.000000Z"
+        }
+    },
+    {
+        "id": 382,
+        "place_id": 270,
+        "team_id": 22,
+        "name": "羅東純精路、維揚路口定點舉牌氣球",
+        "time_gather": "2023-11-29 07:30:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T12:03:27.000000Z",
+        "updated_at": "2023-11-28T12:04:12.000000Z",
+        "place": {
+            "id": 270,
+            "name": "美力斯家具旁廣場",
+            "address": "純精路一段201號",
+            "longitude": 121.763541,
+            "latitude": 24.673077,
+            "note": null,
+            "created_at": "2023-11-28T12:03:51.000000Z",
+            "updated_at": "2023-11-28T12:04:58.000000Z"
+        }
+    },
+    {
+        "id": 383,
+        "place_id": 271,
+        "team_id": 22,
+        "name": "清溝夜市定點舉牌氣球",
+        "time_gather": "2023-11-29 19:00:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T12:05:11.000000Z",
+        "updated_at": "2023-11-28T12:05:43.000000Z",
+        "place": {
+            "id": 271,
+            "name": "清溝夜市福安宮",
+            "address": "清溝路15號",
+            "longitude": 121.761134,
+            "latitude": 24.665728,
+            "note": null,
+            "created_at": "2023-11-28T12:05:27.000000Z",
+            "updated_at": "2023-11-28T12:06:22.000000Z"
+        }
+    },
+    {
+        "id": 384,
+        "place_id": 272,
+        "team_id": 22,
+        "name": "羅東純精路、五結中正路路口定點舉牌氣球",
+        "time_gather": "2023-11-30 07:30:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T12:06:37.000000Z",
+        "updated_at": "2023-11-28T12:07:14.000000Z",
+        "place": {
+            "id": 272,
+            "name": "喜互惠羅東店",
+            "address": "純精路三段445號",
+            "longitude": 121.770449,
+            "latitude": 24.688036,
+            "note": null,
+            "created_at": "2023-11-28T12:07:02.000000Z",
+            "updated_at": "2023-11-28T12:07:49.000000Z"
+        }
+    },
+    {
+        "id": 385,
+        "place_id": 273,
+        "team_id": 22,
+        "name": "員山夜市掃街",
+        "time_gather": "2023-11-30 18:30:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T12:08:02.000000Z",
+        "updated_at": "2023-11-28T12:08:34.000000Z",
+        "place": {
+            "id": 273,
+            "name": "員山公園",
+            "address": null,
+            "longitude": 121.72186,
+            "latitude": 24.745544,
+            "note": null,
+            "created_at": "2023-11-28T12:08:20.000000Z",
+            "updated_at": "2023-11-28T12:09:40.000000Z"
+        }
+    },
+    {
+        "id": 386,
+        "place_id": 274,
+        "team_id": 22,
+        "name": "三星夜市掃街",
+        "time_gather": "2023-12-01 19:00:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T12:09:55.000000Z",
+        "updated_at": "2023-11-28T12:10:28.000000Z",
+        "place": {
+            "id": 274,
+            "name": "三星國中",
+            "address": "三星鄉星義路72號",
+            "longitude": 121.6539,
+            "latitude": 24.668526,
+            "note": null,
+            "created_at": "2023-11-28T12:10:16.000000Z",
+            "updated_at": "2023-11-28T12:11:11.000000Z"
+        }
+    },
+    {
+        "id": 387,
+        "place_id": 275,
+        "team_id": 22,
+        "name": "冬山夜市定點舉牌氣球",
+        "time_gather": "2023-12-02 19:00:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T12:11:24.000000Z",
+        "updated_at": "2023-11-28T12:12:02.000000Z",
+        "place": {
+            "id": 275,
+            "name": "冬山火車站",
+            "address": "冬山鄉中正路1號",
+            "longitude": 121.792101,
+            "latitude": 24.636197,
+            "note": null,
+            "created_at": "2023-11-28T12:11:48.000000Z",
+            "updated_at": "2023-11-28T12:13:01.000000Z"
+        }
+    },
+    {
+        "id": 388,
+        "place_id": 276,
+        "team_id": 22,
+        "name": "張美阿嬤農場停車場旁(廣洲仔橋)掃街",
+        "time_gather": "2023-12-03 10:00:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T12:13:25.000000Z",
+        "updated_at": "2023-11-28T12:14:03.000000Z",
+        "place": {
+            "id": 276,
+            "name": "張美阿嬤農場停車場",
+            "address": "三星鄉行健溪一路二段161號",
+            "longitude": 121.675291,
+            "latitude": 24.674753,
+            "note": null,
+            "created_at": "2023-11-28T12:13:42.000000Z",
+            "updated_at": "2023-11-28T12:14:27.000000Z"
+        }
+    }
+]

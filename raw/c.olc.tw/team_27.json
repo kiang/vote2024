@@ -1,0 +1,107 @@
+[
+    {
+        "id": 311,
+        "place_id": 227,
+        "team_id": 27,
+        "name": "發放宣傳物資",
+        "time_gather": "2023-11-09 18:30:00",
+        "time_end": "2023-11-09 20:00:00",
+        "note": null,
+        "created_at": "2023-11-07T15:00:26.000000Z",
+        "updated_at": "2023-11-07T15:00:26.000000Z",
+        "place": {
+            "id": 227,
+            "name": "麥寮夜市夜市對面小公園",
+            "address": null,
+            "longitude": 120.252022,
+            "latitude": 23.746641,
+            "note": null,
+            "created_at": "2023-11-07T14:59:42.000000Z",
+            "updated_at": "2023-11-07T15:35:57.000000Z"
+        }
+    },
+    {
+        "id": 312,
+        "place_id": 228,
+        "team_id": 27,
+        "name": "發放宣傳物資",
+        "time_gather": "2023-11-10 18:30:00",
+        "time_end": "2023-11-10 20:00:00",
+        "note": null,
+        "created_at": "2023-11-07T15:00:44.000000Z",
+        "updated_at": "2023-11-07T15:01:01.000000Z",
+        "place": {
+            "id": 228,
+            "name": "莿桐夜市",
+            "address": null,
+            "longitude": 120.497713,
+            "latitude": 23.754945,
+            "note": null,
+            "created_at": "2023-11-07T15:00:58.000000Z",
+            "updated_at": "2023-11-07T15:33:36.000000Z"
+        }
+    },
+    {
+        "id": 343,
+        "place_id": 244,
+        "team_id": 27,
+        "name": "發放宣傳物資",
+        "time_gather": "2023-11-21 18:30:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-20T08:43:17.000000Z",
+        "updated_at": "2023-11-20T08:44:01.000000Z",
+        "place": {
+            "id": 244,
+            "name": "大埤夜市",
+            "address": null,
+            "longitude": 120.434271,
+            "latitude": 23.642557,
+            "note": null,
+            "created_at": "2023-11-20T08:43:55.000000Z",
+            "updated_at": "2023-11-20T15:44:50.000000Z"
+        }
+    },
+    {
+        "id": 344,
+        "place_id": 245,
+        "team_id": 27,
+        "name": "發放宣傳物資",
+        "time_gather": "2023-11-22 18:30:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-20T08:44:16.000000Z",
+        "updated_at": "2023-11-20T08:44:31.000000Z",
+        "place": {
+            "id": 245,
+            "name": "古坑夜市",
+            "address": null,
+            "longitude": 120.557155,
+            "latitude": 23.64753,
+            "note": null,
+            "created_at": "2023-11-20T08:44:28.000000Z",
+            "updated_at": "2023-11-20T15:45:49.000000Z"
+        }
+    },
+    {
+        "id": 345,
+        "place_id": 246,
+        "team_id": 27,
+        "name": "發放宣傳物資",
+        "time_gather": "2023-11-26 14:00:00",
+        "time_end": "2023-11-26 16:00:00",
+        "note": null,
+        "created_at": "2023-11-20T08:44:44.000000Z",
+        "updated_at": "2023-11-20T08:45:32.000000Z",
+        "place": {
+            "id": 246,
+            "name": "虎尾 美人樹大道",
+            "address": null,
+            "longitude": 120.429469,
+            "latitude": 23.729148,
+            "note": null,
+            "created_at": "2023-11-20T08:45:29.000000Z",
+            "updated_at": "2023-11-20T15:48:02.000000Z"
+        }
+    }
+]

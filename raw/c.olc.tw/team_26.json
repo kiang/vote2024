@@ -1,0 +1,44 @@
+[
+    {
+        "id": 289,
+        "place_id": 208,
+        "team_id": 26,
+        "name": "市場周邊，發放物資",
+        "time_gather": "2023-11-03 14:30:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-02T16:35:35.000000Z",
+        "updated_at": "2023-11-02T16:35:35.000000Z",
+        "place": {
+            "id": 208,
+            "name": "中福黃昏市場",
+            "address": null,
+            "longitude": 121.232619,
+            "latitude": 24.967796,
+            "note": null,
+            "created_at": "2023-11-02T16:34:25.000000Z",
+            "updated_at": "2023-11-02T16:50:19.000000Z"
+        }
+    },
+    {
+        "id": 378,
+        "place_id": 267,
+        "team_id": 26,
+        "name": "中壢區環中東路及中山東路口宣傳",
+        "time_gather": "2023-11-28 17:45:00",
+        "time_end": null,
+        "note": null,
+        "created_at": "2023-11-28T03:56:23.000000Z",
+        "updated_at": "2023-11-28T03:56:23.000000Z",
+        "place": {
+            "id": 267,
+            "name": "ALL IN 複合式桌遊",
+            "address": null,
+            "longitude": 121.240461,
+            "latitude": 24.951683,
+            "note": null,
+            "created_at": "2023-11-28T03:55:17.000000Z",
+            "updated_at": "2023-11-28T08:56:58.000000Z"
+        }
+    }
+]
